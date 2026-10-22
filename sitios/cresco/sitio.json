@@ -1,0 +1,38 @@
+{
+  "nombre": "CRESCO",
+  "url": "https://cresco.es",
+  "gsc_sitio": "sc-domain:cresco.es",
+  "idioma": "es",
+  "publicador": {
+    "tipo": "pendiente",
+    "nota": "Alojado en Cloudflare (Pages). En pausa por decisión del dueño (2026-10-22); falta conector."
+  },
+  "articulos_semana": 4,
+  "presupuesto_usd_mes": 5,
+  "negocio": "Consultoría de análisis de gestión para clínicas dentales y laboratorios de prótesis en España (A Coruña, trabajo remoto).",
+  "publico": "Propietarios y gerentes de clínicas dentales pequeñas y medianas (menos de 10 sillones) y laboratorios de prótesis en España.",
+  "objetivo": "Que gerentes de clínicas soliciten la auditoría gratuita de 60 minutos.",
+  "autor": "Henrique Nascimento, analista de gestión y fundador de CRESCO",
+  "cta": "Solicitar la auditoría gratuita (60 min, informe en 48 h)",
+  "contacto_url": "https://cresco.es/#contacto",
+  "semillas": [
+    "gestión clínica dental",
+    "kpi clínica dental",
+    "rentabilidad clínica dental",
+    "aceptación de presupuestos dentales",
+    "reactivar pacientes dentales",
+    "pacientes inactivos clínica",
+    "agenda clínica dental",
+    "facturación por sillón",
+    "coste por tratamiento dental",
+    "márgenes clínica dental",
+    "cuadro de mando clínica dental",
+    "software gestión clínica dental",
+    "precio tratamientos dentales cálculo",
+    "rentabilidad laboratorio dental",
+    "captación pacientes clínica dental",
+    "tasa de conversión primera visita",
+    "ocupación de agenda",
+    "gerente clínica dental"
+  ]
+}

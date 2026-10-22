@@ -1,0 +1,48 @@
+name: Piloto SEO
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # cada día 07:00/08:00 (España): cada sitio publica según su sitio.json; domingo, aprendizaje
+  workflow_dispatch:
+    inputs:
+      comando:
+        description: "diario | configurar | investigar | publicar | semanal | estado"
+        default: diario
+      sitio:
+        description: "id del sitio (innovadental, cresco…) para comandos manuales"
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency: piloto
+
+jobs:
+  piloto:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GSC_CREDENCIALES: ${{ secrets.GSC_CREDENCIALES }}
+      HUBSPOT_TOKEN_INNOVADENTAL: ${{ secrets.HUBSPOT_TOKEN_INNOVADENTAL }}
+      HUBSPOT_TOKEN_CRESCO: ${{ secrets.HUBSPOT_TOKEN_CRESCO }}
+      PAUSADO: ${{ vars.PAUSADO }}
+      PRESUPUESTO_USD_MES: ${{ vars.PRESUPUESTO_USD_MES || '9' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Ejecutar
+        run: |
+          CMD="${{ inputs.comando || 'diario' }}"
+          if [ -n "${{ inputs.sitio }}" ]; then python -m piloto "$CMD" --sitio "${{ inputs.sitio }}"; else python -m piloto "$CMD"; fi
+      - name: Guardar estado
+        if: always()
+        run: |
+          git config user.name "piloto-seo"
+          git config user.email "piloto-seo@users.noreply.github.com"
+          git add sitios/*/estado estado_global
+          git diff --cached --quiet || git commit -m "estado: $(date +%F)"
+          git push
