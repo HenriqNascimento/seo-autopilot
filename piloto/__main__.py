@@ -52,6 +52,21 @@ def borrador():
                   editar=f"https://app-eu1.hubspot.com/blog/146519427/editor/{r['post_id']}/content")
 
 
+def exportar():
+    """Guarda en el repositorio el contenido actual (borrador incluido) del último artículo del piloto."""
+    from . import hubspot
+    p = leer("publicados.json", [])[-1]
+    post = hubspot.obtener(p["post_id"])
+    try:
+        borr = hubspot._get(f"/cms/v3/blogs/posts/{p['post_id']}/draft")
+    except Exception:
+        borr = post
+    from .base import guardar
+    guardar(f"articulos/{p['slug']}.hubspot.json", {k: borr.get(k) for k in
+            ("name", "htmlTitle", "metaDescription", "postSummary", "postBody", "featuredImage", "state", "url")})
+    registrar("exportado", slug=p["slug"])
+
+
 def semanal():
     aprendizaje.ciclo()
     if _cola() < 2 * MIN_COLA:
@@ -159,8 +174,8 @@ def main():
         if f:
             print(f"\nExperimento de formato (todos los sitios): {f['nombre']} · {len(f['asignados'])} artículos")
         print(f"\nGasto total del mes: {ia.gasto_mes():.2f} / {ia.PRESUPUESTO} USD (crédito Google AI Pro: 10 USD)")
-    elif cmd in ("verificar", "configurar", "investigar", "publicar", "borrador", "semanal") and sid:
-        fn = {"borrador": borrador, "verificar": verificar, "configurar": publicacion.configurar, "investigar": investigacion.investigar,
+    elif cmd in ("verificar", "configurar", "investigar", "publicar", "borrador", "exportar", "semanal") and sid:
+        fn = {"exportar": exportar, "borrador": borrador, "verificar": verificar, "configurar": publicacion.configurar, "investigar": investigacion.investigar,
               "publicar": publicar, "semanal": semanal}[cmd]
         if not _en_sitio(sid, fn):
             sys.exit(1)

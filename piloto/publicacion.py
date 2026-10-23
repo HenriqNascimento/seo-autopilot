@@ -111,6 +111,7 @@ def publicar_uno(intentos=2, borrador=False):
         "tablas": sum(b["tipo"] == "tabla" for b in a["bloques"]), "faq": len(a["faq"]),
         "variante": variante, "nota_editor": nota, "publicado": hoy, "simulado": SIMULAR, "borrador": borrador,
     }
+    guardar(f"articulos/{tema['slug']}.json", {"articulo": a, "brief": brief, "html": cuerpo})  # copia para auditoría
     pub = leer("publicados.json", [])
     pub.append(registro)
     guardar("publicados.json", pub)
