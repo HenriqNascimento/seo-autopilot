@@ -61,7 +61,7 @@ def siguiente_tema():
     return tema, temas
 
 
-def publicar_uno(intentos=2):
+def publicar_uno(intentos=2, borrador=False):
     """Escribe y publica un artículo. Si el control de calidad rechaza un tema, prueba con el siguiente."""
     ex = existentes()
     for i in range(intentos):
@@ -102,14 +102,14 @@ def publicar_uno(intentos=2):
         post = {"id": f"sim-{tema['slug']}", "url": f"{cfg.get('blog_url', s['url'] + '/blog')}/{tema['slug']}"}
     else:
         datos["tagIds"] = hubspot.tag_ids(a["tags"])
-        post = hubspot.crear_y_publicar(datos)
+        post = hubspot.crear_borrador(datos) if borrador else hubspot.crear_y_publicar(datos)
     registro = {
         "slug": tema["slug"], "post_id": post["id"], "url": post["url"], "titulo": a["titulo"],
         "titulo_seo": a["titulo_seo"], "meta_description": a["meta_description"], "keyword": tema["keyword"],
         "cluster": tema.get("cluster"), "intencion": tema.get("intencion"), "etapa": tema.get("etapa"),
         "prioridad": tema.get("prioridad"), "palabras": redaccion.palabras(a), "h2": sum(b["tipo"] == "h2" for b in a["bloques"]),
         "tablas": sum(b["tipo"] == "tabla" for b in a["bloques"]), "faq": len(a["faq"]),
-        "variante": variante, "nota_editor": nota, "publicado": hoy, "simulado": SIMULAR,
+        "variante": variante, "nota_editor": nota, "publicado": hoy, "simulado": SIMULAR, "borrador": borrador,
     }
     pub = leer("publicados.json", [])
     pub.append(registro)

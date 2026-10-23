@@ -49,6 +49,11 @@ def tag_ids(nombres):
     return ids
 
 
+def crear_borrador(datos):
+    """Crea el post como borrador (no se publica)."""
+    return http("POST", API + "/cms/v3/blogs/posts", datos, _h())
+
+
 def crear_y_publicar(datos):
     """datos: campos de BlogPost (name, slug, htmlTitle, metaDescription, postBody, …). Devuelve el post publicado."""
     post = http("POST", API + "/cms/v3/blogs/posts", datos, _h())

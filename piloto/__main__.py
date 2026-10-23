@@ -5,6 +5,7 @@
       verificar    prueba cada conexión (HubSpot, Search Console, Gemini) y dice qué arreglar
       configurar   detecta blog/autor en el CMS y sube las fotos (una vez)
       investigar   añade temas nuevos a la cola
+      borrador     escribe el próximo artículo y lo deja como borrador en el CMS (para revisarlo)
       publicar     escribe y publica el próximo artículo
       semanal      mide, evalúa/lanza experimentos, refresca y actualiza aprendizajes
       estado       resumen
@@ -40,6 +41,15 @@ def publicar():
     if _cola() < MIN_COLA:
         investigacion.investigar()
     return publicacion.publicar_uno()
+
+
+def borrador():
+    if _cola() < MIN_COLA:
+        investigacion.investigar()
+    r = publicacion.publicar_uno(borrador=True)
+    if r:
+        registrar("borrador_listo", slug=r["slug"], post_id=r["post_id"],
+                  editar=f"https://app-eu1.hubspot.com/blog/146519427/editor/{r['post_id']}/content")
 
 
 def semanal():
@@ -149,8 +159,8 @@ def main():
         if f:
             print(f"\nExperimento de formato (todos los sitios): {f['nombre']} · {len(f['asignados'])} artículos")
         print(f"\nGasto total del mes: {ia.gasto_mes():.2f} / {ia.PRESUPUESTO} USD (crédito Google AI Pro: 10 USD)")
-    elif cmd in ("verificar", "configurar", "investigar", "publicar", "semanal") and sid:
-        fn = {"verificar": verificar, "configurar": publicacion.configurar, "investigar": investigacion.investigar,
+    elif cmd in ("verificar", "configurar", "investigar", "publicar", "borrador", "semanal") and sid:
+        fn = {"borrador": borrador, "verificar": verificar, "configurar": publicacion.configurar, "investigar": investigacion.investigar,
               "publicar": publicar, "semanal": semanal}[cmd]
         if not _en_sitio(sid, fn):
             sys.exit(1)

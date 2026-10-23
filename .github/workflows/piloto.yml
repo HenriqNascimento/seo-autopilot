@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       comando:
-        description: "verificar | diario | configurar | investigar | publicar | semanal | estado"
+        description: "verificar | borrador | diario | configurar | investigar | publicar | semanal | estado"
         default: diario
       sitio:
         description: "id del sitio (innovadental, cresco…) para comandos manuales"
