@@ -88,7 +88,11 @@ def _system():
 
 def borrador(tema, brief, existentes, variante):
     lista = "\n".join(f"- {e['url']} — {e['titulo']}" for e in existentes)
-    fotos = "\n".join(f"- {k}: {v['descripcion']}" for k, v in _fotos().items())
+    usos = {}
+    for p in leer("publicados.json", []):
+        usos[p.get("foto")] = usos.get(p.get("foto"), 0) + 1
+    fotos = "\n".join(f"- {k}: {v['descripcion']} (usada {usos.get(k, 0)} veces)"
+                      for k, v in sorted(_fotos().items(), key=lambda kv: usos.get(kv[0], 0)))
     prompt = f"""Escribe el artículo para la búsqueda «{tema['keyword']}».
 
 Briefing (análisis de la competencia y datos verificados):
@@ -103,7 +107,7 @@ Enlaces internos posibles (2-4 donde aporten de verdad, con anchor descriptivo):
 {lista or '(ninguno aún)'}
 Llamada a la acción del cierre: {sitio()['cta']} → {sitio()['contacto_url']}
 
-Fotos reales disponibles (elige una):
+Fotos reales del laboratorio (elige la que mejor ilustre el tema; a igualdad, la menos usada):
 {fotos}
 
 Supera a los resultados actuales: cubre los huecos, responde las preguntas reales y aporta el criterio propio de la empresa. Datos y cifras solo los del briefing con fuente o los de los hechos de la empresa."""

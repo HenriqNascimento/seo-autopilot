@@ -34,14 +34,28 @@ def configurar():
         elegido = next((a for a in au if nombre in (a.get("fullName") or a.get("displayName") or "").lower()), au[0])
         cfg["autor_id"] = elegido["id"]
     guardar("config.json", cfg)
+    imgs = sincronizar_imagenes()
+    registrar("configurar", blog=cfg["blog_id"], autor=cfg.get("autor_id"), imagenes=len(imgs))
+
+
+def sincronizar_imagenes():
+    """Sube al CMS las fotos nuevas de sitios/<id>/imagenes y actualiza descripciones."""
     imgs = leer("imagenes.json", {})
+    nuevas = 0
     for nombre, desc in _imagenes_locales().items():
         ruta = dir_sitio() / "imagenes" / nombre
         if nombre not in imgs and ruta.exists():
-            imgs[nombre] = {"url": hubspot.subir_archivo(str(ruta), f"/blog-{sitio()['id']}"), "descripcion": desc}
-            print(f"Subida: {nombre}")
+            if SIMULAR:
+                imgs[nombre] = {"url": f"https://sim/{nombre}", "descripcion": desc}
+            else:
+                imgs[nombre] = {"url": hubspot.subir_archivo(str(ruta), f"/blog-{sitio()['id']}"), "descripcion": desc}
+            nuevas += 1
+        elif nombre in imgs:
+            imgs[nombre]["descripcion"] = desc
+    if nuevas:
+        registrar("imagenes_subidas", nuevas=nuevas, total=len(imgs))
     guardar("imagenes.json", imgs)
-    registrar("configurar", blog=cfg["blog_id"], autor=cfg.get("autor_id"), imagenes=len(imgs))
+    return imgs
 
 
 def existentes():
@@ -64,6 +78,8 @@ def siguiente_tema():
 def publicar_uno(intentos=2, borrador=False):
     """Escribe y publica un artículo. Si el control de calidad rechaza un tema, prueba con el siguiente."""
     ex = existentes()
+    if sitio()["publicador"]["tipo"] == "hubspot":
+        sincronizar_imagenes()
     i = saltados = 0
     while i < intentos:
         tema, temas = siguiente_tema()
@@ -120,7 +136,7 @@ def publicar_uno(intentos=2, borrador=False):
         "cluster": tema.get("cluster"), "intencion": tema.get("intencion"), "etapa": tema.get("etapa"),
         "prioridad": tema.get("prioridad"), "palabras": redaccion.palabras(a), "h2": sum(b["tipo"] == "h2" for b in a["bloques"]),
         "tablas": sum(b["tipo"] == "tabla" for b in a["bloques"]), "faq": len(a["faq"]),
-        "variante": variante, "nota_editor": nota, "publicado": hoy, "simulado": SIMULAR, "borrador": borrador,
+        "variante": variante, "foto": a.get("foto"), "nota_editor": nota, "publicado": hoy, "simulado": SIMULAR, "borrador": borrador,
     }
     guardar(f"articulos/{tema['slug']}.json", {"articulo": a, "brief": brief, "html": cuerpo})  # copia para auditoría
     pub = leer("publicados.json", [])
