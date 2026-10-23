@@ -131,11 +131,11 @@ def diario():
 
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
-    if os.environ.get("PAUSADO") == "1":
-        print("Piloto en pausa.")
-        return
     args = sys.argv[1:]
     cmd = args[0] if args else "estado"
+    if cmd == "diario" and os.environ.get("PAUSADO") == "1":
+        print("Piloto en pausa (PAUSADO=1): la ejecución automática no hace nada; los comandos manuales sí funcionan.")
+        return
     sid = args[args.index("--sitio") + 1] if "--sitio" in args else None
     if cmd == "diario":
         diario()
