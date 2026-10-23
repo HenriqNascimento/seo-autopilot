@@ -1,4 +1,4 @@
-"""Llamadas a Gemini (API de Google AI Studio). Cada tarea devuelve un JSON que cumple el esquema dado.
+"""Llamadas a Gemini (Vertex AI por defecto, o API de AI Studio). Cada tarea devuelve un JSON que cumple el esquema dado.
 
 Con web=True el modelo puede buscar en Google (grounding) y leer URLs (url_context).
 """
@@ -9,6 +9,28 @@ import re
 from .base import MODELO, guardar, http, leer, registrar, requerido, sitio
 
 URL = "https://generativelanguage.googleapis.com/v1beta/models/{}:generateContent"
+# Vertex AI: se factura en la cuenta de Google Cloud normal, donde se aplican los créditos de Google AI Pro
+# (AI Studio usa saldo de prepago, que esos créditos no pueden recargar).
+URL_VERTEX = "https://aiplatform.googleapis.com/v1/projects/{p}/locations/global/publishers/google/models/{m}:generateContent"
+PROVEEDOR = os.environ.get("PILOTO_PROVEEDOR", "vertex")  # vertex | aistudio
+_cred_vertex = None
+
+
+def _auth_vertex():
+    """Token OAuth de la cuenta de servicio (la misma de Search Console, con el rol «Vertex AI User»)."""
+    global _cred_vertex
+    from google.auth.transport.requests import Request
+    if _cred_vertex is None:
+        from google.oauth2 import service_account
+        _cred_vertex = service_account.Credentials.from_service_account_info(
+            json.loads(requerido("GSC_CREDENCIALES")), scopes=["https://www.googleapis.com/auth/cloud-platform"])
+    if not _cred_vertex.valid:
+        _cred_vertex.refresh(Request())
+    return {"authorization": f"Bearer {_cred_vertex.token}"}
+
+
+def _proyecto():
+    return os.environ.get("VERTEX_PROYECTO") or json.loads(requerido("GSC_CREDENCIALES"))["project_id"]
 # Precios por 1M tokens (hasta 31/12/2026; Flash duplica en 2027) y por búsqueda tras las 5.000 gratis/mes
 PRECIOS = {"gemini-3.8-flash": (0.75, 3.75), "gemini-3.6-flash": (0.75, 3.75), "gemini-3.5-flash-lite": (0.30, 2.50),
            "gemini-3.1-pro-preview": (2.00, 12.00)}
@@ -65,7 +87,10 @@ def _llamar(cuerpo, modelo):
         raise PresupuestoAgotado(f"Presupuesto total de {PRESUPUESTO} USD/mes alcanzado.")
     if gasto_mes(s["id"]) + coste_usd() >= s.get("presupuesto_usd_mes", PRESUPUESTO):
         raise PresupuestoAgotado(f"Presupuesto de {s['nombre']} ({s['presupuesto_usd_mes']} USD/mes) alcanzado.")
-    r = http("POST", URL.format(modelo), cuerpo, {"x-goog-api-key": requerido("GEMINI_API_KEY")}, timeout=900)
+    if PROVEEDOR == "vertex":
+        r = http("POST", URL_VERTEX.format(p=_proyecto(), m=modelo), cuerpo, _auth_vertex(), timeout=900)
+    else:
+        r = http("POST", URL.format(modelo), cuerpo, {"x-goog-api-key": requerido("GEMINI_API_KEY")}, timeout=900)
     u = r.get("usageMetadata", {})
     _coste["entrada"] += u.get("promptTokenCount", 0) + u.get("toolUsePromptTokenCount", 0)
     _coste["salida"] += u.get("candidatesTokenCount", 0) + u.get("thoughtsTokenCount", 0)
