@@ -1,0 +1,32 @@
+{
+  "activo": {
+    "nombre": "longitud",
+    "A": "Extensión 1000-1300 palabras, directo al grano.",
+    "B": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
+    "inicio": "2026-10-23",
+    "asignados": [
+      {
+        "slug": "laboratorio-protesis-dental-coruna-galicia",
+        "brazo": "A",
+        "estrato": "innovadental:servicios-laboratorio",
+        "prioridad": 96,
+        "publicado": "2026-10-23",
+        "url": "https://innovadental.net/es/blog/laboratorio-protesis-dental-coruna-galicia",
+        "sitio": "innovadental"
+      }
+    ]
+  },
+  "cola": [
+    {
+      "nombre": "tabla",
+      "A": "Sin tablas.",
+      "B": "Incluye una tabla comparativa o de especificaciones."
+    },
+    {
+      "nombre": "titulo",
+      "A": "Título SEO en forma de afirmación con beneficio concreto.",
+      "B": "Título SEO en forma de pregunta tal como la buscaría el lector."
+    }
+  ],
+  "historial": []
+}

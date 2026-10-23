@@ -8,3 +8,9 @@
 {"t": "2026-10-23T04:16:41", "sitio": "innovadental", "evento": "verificar", "prueba": "Gemini", "ok": true, "detalle": "ok"}
 {"t": "2026-10-23T04:16:44", "sitio": "innovadental", "evento": "verificar", "prueba": "Gemini con búsqueda Google", "ok": true, "detalle": "23 de octubre de 2026"}
 {"t": "2026-10-23T04:16:44", "sitio": "innovadental", "evento": "coste", "usd": 0.0002, "modelo": "gemini-3.8-flash", "entrada": 219, "salida": 20, "busquedas": 1}
+{"t": "2026-10-23T04:19:06", "sitio": "innovadental", "evento": "investigacion", "nuevos": 15, "en_cola": 15}
+{"t": "2026-10-23T04:19:07", "sitio": "innovadental", "evento": "experimento_formato_inicio", "nombre": "longitud"}
+{"t": "2026-10-23T04:21:52", "sitio": "innovadental", "evento": "edicion", "slug": "laboratorio-protesis-dental-coruna-galicia", "intento": 1, "nota_min": 9, "problemas": 2}
+{"t": "2026-10-23T04:21:55", "sitio": "innovadental", "evento": "publicado", "slug": "laboratorio-protesis-dental-coruna-galicia", "url": "https://innovadental.net/es/blog/laboratorio-protesis-dental-coruna-galicia", "palabras": 1091}
+{"t": "2026-10-23T04:21:55", "sitio": "innovadental", "evento": "borrador_listo", "slug": "laboratorio-protesis-dental-coruna-galicia", "post_id": "497693839609", "editar": "https://app-eu1.hubspot.com/blog/146519427/editor/497693839609/content"}
+{"t": "2026-10-23T04:21:55", "sitio": "innovadental", "evento": "coste", "usd": 0.1469, "modelo": "gemini-3.8-flash", "entrada": 36617, "salida": 31842, "busquedas": 11}

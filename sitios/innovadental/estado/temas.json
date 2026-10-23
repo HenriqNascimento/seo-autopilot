@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "laboratorio-protesis-dental-coruna-galicia",
+    "keyword": "laboratorio protésico dental a coruña",
+    "secundarias": [
+      "laboratorio dental galicia clinicas",
+      "laboratorio cad cam coruña cullerero",
+      "envío trabajos protesicos galicia"
+    ],
+    "intencion": "local",
+    "etapa": "decision",
+    "cluster": "servicios-laboratorio",
+    "prioridad": 96,
+    "por_que": "En GSC se registran consultas directas de intención transaccional como 'protésico dental coruña' (pos 7-8), 'protesis dentales coruña' y búsquedas zonales de laboratorios. Es la puerta de entrada definitiva para odontólogos gallegos que buscan un proveedor cercano y con soporte telefónico directo.",
+    "enfoque": "Página/artículo enfocado a odontólogos titulares de A Coruña y de toda Galicia: por qué la cercanía física en O Burgo (Culleredo), la resolución conjunta de casos complejos por teléfono y la logística diaria ágil marcan la diferencia frente a centros de fresado anónimos y lejanos.",
+    "estado": "publicado"
+  },
+  {
+    "slug": "planificacion-guias-quirurgicas-cbct-stl",
+    "keyword": "guías quirúrgicas 3d cbct stl",
+    "secundarias": [
+      "guía quirúrgica implantes flujo digital",
+      "planificación cirugía guiada laboratorio",
+      "guía quirúrgica dentosoportada y óseosoportada"
+    ],
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "cluster": "cirugia-guiada-cadcam",
+    "prioridad": 94,
+    "por_que": "Las búsquedas de implantólogos sobre cómo fusionar CBCT y escaneo intraoral para guías 3D muestran dudas frecuentes sobre discrepancias de espesor mucoso y casquillos. Actualmente rankean portales de software o depósitos genéricos, dejando desatendida la coordinación técnica directa con el laboratorio protésico.",
+    "enfoque": "Guía práctica paso a paso explicada desde la perspectiva del laboratorio: cómo evitar artefactos metálicos en el CBCT, requisitos del escaneo de arcada completa con fondo de vestíbulo y cómo Innovadental asiste telefónicamente al implantólogo durante la planificación.",
+    "estado": "pendiente"
+  },
+  {
+    "slug": "puente-maryland-zirconio-protocolo-adhesion",
+    "keyword": "puente maryland zirconio",
+    "secundarias": [
+      "puente maryland un solo retenedor cantilever",
+      "protocolo cementado maryland zirconio mdp",
+      "indicaciones puente adhesivo zirconio"
+    ],
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "cluster": "protesis-fija-adhesiva",
+    "prioridad": 91,
+    "por_que": "Los odontólogos debaten intensamente en foros clínicos si usar 1 o 2 aletas y cómo garantizar la adhesión química sin desalojo en agenesias de laterales. La mayoría de artículos en Google España son de clínicas para pacientes o textos desactualizados sobre metal-resina.",
+    "enfoque": "Enfoque técnico de prótesis mínimamente invasiva: por qué el diseño cantilever monoaleta reduce descementados frente al bialeta, cómo preparamos y arenamos el zirconio en laboratorio y el protocolo crítico de cementado adhesivo con silano/MDP en clínica.",
+    "estado": "pendiente"
+  },
+  {
+    "slug": "sobredentadura-locator-vs-barra-fresada",
+    "keyword": "sobredentadura locator vs barra",
+    "secundarias": [
+      "barra fresada sobre implantes sobredentadura",
+      "cuándo elegir locator o barra titanio",
+      "espacio interoclusal sobredentaduras implantes"
+    ],
+    "intencion": "comparativa",
+    "etapa": "consideracion",
+    "cluster": "implantologia-removible",
+    "prioridad": 89,
+    "por_que": "Existe una disputa constante en rehabilitación sobre retención, espacio vertical disponible (mínimo 9-12 mm para barra vs 8 mm para locator) y biomecánica en maxilar vs mandíbula. Los contenidos actuales se centran en precios para pacientes y no en criterios protésicos de selección clínica.",
+    "enfoque": "Criterio riguroso de laboratorio: análisis del espacio protésico interoclusal, divergencia de implantes y biomecánica parafuncional. Muestra cómo en Innovadental partimos del encerado funcional y diseñamos barras Toronto/Blender o ataches para maximizar la durabilidad.",
+    "estado": "pendiente"
+  },
+  {
+    "slug": "carillas-feldespaticas-vs-disilicato-de-litio",
+    "keyword": "carillas feldespáticas vs disilicato",
+    "secundarias": [
+      "carilla feldespatica sobre muñon refractario",
+      "resistencia carillas feldespáticas espesor",
+      "carillas non prep ceramica estratificada"
+    ],
+    "intencion": "comparativa",
+    "etapa": "consideracion",
+    "cluster": "estetica-adhesiva",
+    "prioridad": 88,
+    "por_que": "La consulta de GSC sobre 'disilicato de litio' tiene volumen creciente pero el odontólogo estético duda entre la biomimética ultrafina de la feldespática pura (0.2-0.3 mm) y la resistencia mecánica del E-Max en casos sin tallado (Non-Prep).",
+    "enfoque": "Comparativa desde la mesa de trabajo del técnico: grosor mínimo, transmisión lumínica, comportamiento adhesivo tras grabado fluorhídrico y cómo seleccionar una carilla Excellense según el sustrato del muñón subyacente.",
+    "estado": "pendiente"
+  },
+  {
+    "slug": "esqueletico-cromo-cobalto-cad-cam-vs-colado",
+    "keyword": "esquelético cromo cobalto cad cam",
+    "secundarias": [
+      "esqueléticos dentales sinterizados por láser",
+      "impresión digital protesis removible esqueletico",
+      "ajuste pasivo ppr cromo cobalto digital"
+    ],
+    "intencion": "comparativa",
+    "etapa": "consideracion",
+    "cluster": "removible-metalica",
+    "prioridad": 86,
+    "por_que": "En GSC la query 'protesis dentales removibles modernas' y 'lo último en dentaduras postizas' suma cientos de impresiones en Top 8-10. Los clínicos quieren saber si los esqueléticos fresados o sinterizados por láser ajustan mejor que los colados convencionales sin distorsión de ganchos.",
+    "enfoque": "Análisis comparativo de ajuste pasivo entre sinterizado láser y colado tradicional a la cera perdida, explicando cómo el diseño en software CAD elimina tensiones y holguras en la inserción en clínica dental.",
+    "estado": "pendiente"
+  },
+  {
+    "slug": "protesis-peek-removible-indicaciones-clinicas",
+    "keyword": "prótesis peek removible",
+    "secundarias": [
+      "polimero peek protesis dental indicaciones",
+      "esqueletico peek ventajas desventajas",
+      "peek dental biocompatibilidad modulo elasticidad"
+    ],
+    "intencion": "informativa",
+    "etapa": "consideracion",
+    "cluster": "materiales-innovadores",
+    "prioridad": 85,
+    "por_que": "GSC muestra múltiples impresiones para 'protesis peek' y 'protesis peek removible' en posiciones 8-9. Las clínicas y pacientes buscan alternativas ligeras y sin metal a los esqueléticos clásicos, pero hay dudas clínicas sobre rigidez y unión de dientes de acrílico.",
+    "enfoque": "Revisión técnica de las propiedades del PEEK (módulo de elasticidad similar al hueso esponjoso, ligereza, biocompatibilidad en alérgicos a metales) y contraste honesto sobre sus limitaciones de adhesión mecánica frente a las resinas convencionales.",
+    "estado": "pendiente"
+  },
+  {
+    "slug": "encerado-diagnostico-digital-mockup-clinico",
+    "keyword": "encerado diagnóstico digital mockup",
+    "secundarias": [
+      "diseño de sonrisa dsd laboratorio dental",
+      "férula mockup silicona laboratorio",
+      "comunicacion clinica laboratorio encerado funcional"
+    ],
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "cluster": "planificacion-estetica",
+    "prioridad": 84,
+    "por_que": "Muchos odontólogos estéticos buscan cómo transferir con precisión el diseño digital 3D a la boca del paciente sin perder información interproximal ni oclusal durante la prueba estética preliminar.",
+    "enfoque": "Flujo de trabajo paso a paso: recepción de STL y registros fotográficos, confección del prototipo impreso, férulas de 1 a 8 piezas con silicona rosa y validación clínica con el paciente antes de tocar tejido sano.",
+    "estado": "pendiente"
+  },
+  {
+    "slug": "base-titanio-vs-aditamento-mecanizado-implantes",
+    "keyword": "bases de titanio prótesis sobre implantes",
+    "secundarias": [
+      "ti base zirconio chimenea angulada",
+      "cementado pasivo corona sobre ti-base",
+      "conexión implante base titanio precisión"
+    ],
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "cluster": "protesis-sobre-implantes",
+    "prioridad": 83,
+    "por_que": "En implantoprótesis existe debate sobre las interfaces de titanio (Ti-Base) frente a pilares directos de zirconio por riesgo de aflojamiento o fractura del hexágono. Enfoque técnico altamente buscado por implantólogos y rehabilitadores.",
+    "enfoque": "Explicación biomecánica de por qué en Innovadental recomendamos siempre base de titanio con zirconio PRIME (Ivoclar): ajuste metal-metal con la plataforma del implante, preservación del sellado biológico y cementado extraoral libre de restos de composite en el surco.",
+    "estado": "pendiente"
+  },
+  {
+    "slug": "escaner-tactil-industrial-grandes-estructuras-implantes",
+    "keyword": "escáner táctil industrial prótesis implantes",
+    "secundarias": [
+      "ajuste pasivo estructuras implantes tolerancia",
+      "escaner optico vs escaner tactil laboratorio dental",
+      "deformacion arco completo implantes fresado"
+    ],
+    "intencion": "informativa",
+    "etapa": "consideracion",
+    "cluster": "tecnologia-precision",
+    "prioridad": 82,
+    "por_que": "El ajuste pasivo en rehabilitaciones de arcada completa (más de 4 implantes) es el mayor quebradero de cabeza para evitar fracturas de tornillos o pérdida ósea marginal. Prácticamente ningún laboratorio de Galicia comunica su control metrológico con escáner táctil.",
+    "enfoque": "Artículo técnico diferencial: cómo el escaneo táctil industrial por contacto microniza los errores angulares del escaneo óptico en arcadas completas sobre titanio y CrCo, garantizando un ajuste pasivo micrométrico verificado.",
+    "estado": "pendiente"
+  },
+  {
+    "slug": "provisionales-pmma-fresado-carga-inmediata-emergencia",
+    "keyword": "provisionales pmma carga inmediata",
+    "secundarias": [
+      "perfil de emergencia provisional implante",
+      "resina pmma fresada multicapa carga inmediata",
+      "acabado pulido provisional tejidos blandos"
+    ],
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "cluster": "carga-inmediata",
+    "prioridad": 80,
+    "por_que": "La query 'implante dental inmediato coruña' y 'provisional carga inmediata' revelan interés en tiempos de respuesta quirúrgicos y manejo de tejidos. Los dentistas necesitan soluciones de provisionalización rígidas que modelen la encía sin romperse.",
+    "enfoque": "Protocolo de confección de provisionales en PMMA multicapa caracterizado (Anaxdent / TelioCAD): rigidez en espesores delgados, baja permeabilidad bacteriana y diseño cóncavo/convexo del perfil de emergencia para guiar el tejido conectivo.",
+    "estado": "pendiente"
+  },
+  {
+    "slug": "dureza-resistencia-cromo-cobalto-fresado-sinterizado",
+    "keyword": "cromo cobalto dental sinterizado",
+    "secundarias": [
+      "cromo cobalto fresado vs colado propiedades",
+      "ceramica sobre cromo cobalto ceramizacion",
+      "espacio interoclusal reducido cromo cobalto"
+    ],
+    "intencion": "informativa",
+    "etapa": "consideracion",
+    "cluster": "metal-ceramica",
+    "prioridad": 78,
+    "por_que": "Aunque el zirconio es popular, en sectores posteriores con mínimo espacio interoclusal o pacientes con fuerte bruxismo el CrCo con recubrimiento cerámico Stile sigue siendo la alternativa de mayor resistencia a la flexión y coste controlado.",
+    "enfoque": "Guía para clínicos sobre cuándo descartar cerámicas libres de metal en favor del cromo-cobalto sinterizado o fresado de precisión (BTI, Createch, Avinent), detallando espesores mínimos y compatibilidad térmica de la cerámica.",
+    "estado": "pendiente"
+  },
+  {
+    "slug": "ferulas-descarga-digitales-michigan-diseño-cad",
+    "keyword": "férula michigan cad cam digital",
+    "secundarias": [
+      "férula oclusal descarga fresada 3d",
+      "ajuste oclusal férula michigan laboratorio",
+      "ferula digital articulador virtual exocad"
+    ],
+    "intencion": "comercial",
+    "etapa": "decision",
+    "cluster": "oclusion-ferulas",
+    "prioridad": 77,
+    "por_que": "Las férulas de descarga tradicionales requieren mucho tiempo de ajuste en clínica por sobremordidas o porosidades en la polimerización. Las férulas mecanizadas o impresas en resina biocompatible digital resuelven ese cuello de botella con articuladores virtuales.",
+    "enfoque": "Cómo el flujo 100% digital con resinas de alta densidad reduce el tiempo de sillón a menos de 5 minutos de equilibrado, destacando la precisión del guiado canino y desoclusión posterior programada digitalmente.",
+    "estado": "pendiente"
+  },
+  {
+    "slug": "protesis-hibrida-titanio-composite-ventajas-mantenimiento",
+    "keyword": "prótesis híbrida implantes titanio composite",
+    "secundarias": [
+      "hibrida fresada titanio composite microrelleno",
+      "diferencia hibrida acrilico y composite implantes",
+      "amortiguacion oclusal composite protesis hibrida"
+    ],
+    "intencion": "comparativa",
+    "etapa": "consideracion",
+    "cluster": "rehabilitacion-completa",
+    "prioridad": 76,
+    "por_que": "Frente a las prótesis híbridas clásicas de acrílico que sufren desgaste rápido o fractura de dientes, los clínicos preguntan por estructuras mecanizadas con composites híbridos de última generación que amortiguan impactos masticatorios.",
+    "enfoque": "Análisis de longevidad y amortiguación elástica de las híbridas fresadas en titanio o CrCo terminadas con composites biofuncionales (Enamic, Cera Smart) frente a las tradicionales sobredentaduras de resina y zirconio monolítico.",
+    "estado": "pendiente"
+  },
+  {
+    "slug": "dispositivo-anti-ronquidos-dam-silensor-clinicas",
+    "keyword": "dispositivo de avance mandibular silensor",
+    "secundarias": [
+      "aparato dam apnea sueno laboratorio dental",
+      "silensor sl erkodent laboratorio galicia",
+      "como mandar caso dam laboratorio dental"
+    ],
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "cluster": "medicina-dental-sueno",
+    "prioridad": 74,
+    "por_que": "El tratamiento del ronquido y apnea obstructiva del sueño (AOS) leve-moderada es un servicio en rápida expansión en clínicas dentales de Galicia, con poca oferta de laboratorios técnicos locales capacitados en la confección homologada de DAM Silensor.",
+    "enfoque": "Guía práctica para odontólogos sobre toma de mordida constructiva con galga de protrusión, indicación biomecánica del sistema Silensor y fabricación precisa para maximizar la apertura de vías aéreas sin distorsión ATM.",
+    "estado": "pendiente"
+  }
+]
