@@ -3,3 +3,8 @@
 {"t": "2026-10-23T03:26:12", "sitio": "innovadental", "evento": "error", "tipo": "RuntimeError", "motivo": "POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent -> 402: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://a"}
 {"t": "2026-10-23T03:36:03", "sitio": "innovadental", "evento": "error", "tipo": "RuntimeError", "motivo": "POST https://aiplatform.googleapis.com/v1/projects/seo-optmizer/locations/global/publishers/google/models/gemini-3.8-flash:generateContent -> 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Agent Platform API has not been used in project seo-optmizer before or it is disabled. Enable it by visit"}
 {"t": "2026-10-23T03:48:46", "sitio": "innovadental", "evento": "error", "tipo": "configuracion", "motivo": "1"}
+{"t": "2026-10-23T04:16:40", "sitio": "innovadental", "evento": "verificar", "prueba": "HubSpot (token y blog)", "ok": true, "detalle": "2 blog(s)"}
+{"t": "2026-10-23T04:16:40", "sitio": "innovadental", "evento": "verificar", "prueba": "Search Console", "ok": true, "detalle": "5 consultas en 7 días"}
+{"t": "2026-10-23T04:16:41", "sitio": "innovadental", "evento": "verificar", "prueba": "Gemini", "ok": true, "detalle": "ok"}
+{"t": "2026-10-23T04:16:44", "sitio": "innovadental", "evento": "verificar", "prueba": "Gemini con búsqueda Google", "ok": true, "detalle": "23 de octubre de 2026"}
+{"t": "2026-10-23T04:16:44", "sitio": "innovadental", "evento": "coste", "usd": 0.0002, "modelo": "gemini-3.8-flash", "entrada": 219, "salida": 20, "busquedas": 1}
