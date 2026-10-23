@@ -147,7 +147,9 @@ def diario():
         if s["publicador"]["tipo"] == "pendiente" and not SIMULAR:
             registrar("omitido", motivo="publicador pendiente de configurar")
             continue
-        for _ in range(cuantos_hoy(s.get("articulos_semana", 3), hoy)):
+        dias = s.get("dias_publicacion")  # p. ej. [1, 3, 5] = martes, jueves, sábado
+        n = (1 if hoy in dias else 0) if dias else cuantos_hoy(s.get("articulos_semana", 3), hoy)
+        for _ in range(n):
             ok &= _en_sitio(sid, publicar)
         if hoy == 6:
             ok &= _en_sitio(sid, semanal)

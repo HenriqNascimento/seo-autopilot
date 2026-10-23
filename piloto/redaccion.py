@@ -113,7 +113,7 @@ Supera a los resultados actuales: cubre los huecos, responde las preguntas reale
 def editar(tema, brief, articulo, problemas_previos=()):
     prompt = f"""Eres el editor jefe. Revisa y MEJORA este artículo para «{tema['keyword']}» antes de publicarlo sin revisión humana. Tu responsabilidad es que no salga nada falso ni nada que suene a IA.
 
-1. Rigor: comprueba con búsqueda web cada afirmación técnica que no esté respaldada por el briefing o por los hechos de la empresa. Corrige o elimina lo que no se sostenga. Nada de estudios, porcentajes o casos inventados.
+1. Rigor: elimina cualquier plazo, tiempo de entrega, garantía o condición comercial sobre la empresa que no esté literalmente en sus hechos (revisa también título y meta description). Comprueba con búsqueda web cada afirmación técnica que no esté respaldada por el briefing o por los hechos de la empresa. Corrige o elimina lo que no se sostenga. Nada de estudios, porcentajes o casos inventados.
 2. Naturalidad: elimina todo patrón de la lista de prohibidos, rompe estructuras repetitivas, varía ritmo, quita relleno. Debe sonar a un experto con oficio hablando a un colega.
 3. SEO: keyword en título SEO, H1, primer párrafo y algún H2 de forma natural; meta 140-155; respuesta directa al principio. FAQ solo si aporta preguntas reales no respondidas en el cuerpo (si no, déjala vacía).
 4. Experiencia: que se note el criterio propio de la empresa (decisiones, errores típicos que ve, cómo lo hace).
@@ -150,10 +150,48 @@ def control_calidad(a, tema, palabras_min=700):
         fallos.append("la keyword no aparece en el primer párrafo")
     if sum(b["tipo"] == "h2" for b in a["bloques"]) < 3:
         fallos.append("menos de 3 H2")
+    # promesas de plazo que no están en los hechos de la empresa
+    hechos = conocimiento("empresa.md").lower()
+    todo = " ".join([bajo, a["titulo"].lower(), a["titulo_seo"].lower(), a["meta_description"].lower()])
+    comercial = re.compile(r"entreg|plazo|env[ií]|log[ií]stic|recib|respond|respuesta|devolv|urgen|express|exprés|garant")
+    tiempo = re.compile(r"\b\d+\s*(?:[-–a]\s*\d+\s*)?(?:h\b|horas|días|dias|semanas)")
+    for frase in re.split(r"[.;:!?\n]", todo):
+        if comercial.search(frase):
+            for m in tiempo.finditer(frase):
+                if m.group(0) not in hechos:
+                    fallos.append(f"promesa de plazo no respaldada: «{frase.strip()[:80]}»")
     parrafos = [b["texto"] for b in a["bloques"] if b["tipo"] == "p"]
     if parrafos and sum(1 for p in parrafos if p.strip().startswith("Además")) > 1:
         fallos.append("muletilla «Además» repetida")
     return fallos
+
+
+CANIBAL = {"type": "object", "required": ["conflicto", "url", "razon"],
+           "properties": {"conflicto": {"type": "boolean"}, "url": {"type": "string"}, "razon": {"type": "string"}}}
+
+
+def canibaliza(tema, existentes):
+    """¿Ya existe un artículo que responde a la misma intención de búsqueda? Devuelve (bool, motivo)."""
+    from . import gsc
+    # 1) Datos: si una página existente ya recibe impresiones por esta keyword, es su terreno
+    if gsc.disponible():
+        palabras = [w for w in tema["keyword"].lower().split() if len(w) > 3]
+        filas = gsc.consulta(["query", "page"], dias=90)
+        for f in filas:
+            q = f["query"].lower()
+            if f["impresiones"] >= 20 and sum(w in q for w in palabras) >= max(2, len(palabras) - 1):
+                if any(f["page"].rstrip("/") == e["url"].rstrip("/") for e in existentes):
+                    return True, f"«{f['query']}» ya da {f['impresiones']} impresiones a {f['page']}"
+    # 2) Juicio semántico contra todos los títulos publicados
+    if not existentes:
+        return False, ""
+    lista = "\n".join(f"- {e['url']} — {e['titulo']}" for e in existentes)
+    r = ia.tarea("Eres un editor SEO estricto. Español.",
+                 f"""¿El artículo propuesto responde a la MISMA intención de búsqueda que alguno ya publicado (aunque cambie el título o el ángulo local)? Si un lector que buscara la keyword quedaría bien servido por un artículo existente, es conflicto.
+Propuesto: keyword «{tema['keyword']}», enfoque: {tema.get('enfoque', '')}
+Publicados:
+{lista}""", CANIBAL)
+    return bool(r["conflicto"]), f"{r['url']}: {r['razon']}"
 
 
 def escribir(tema, existentes, variante=None):

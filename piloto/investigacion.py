@@ -62,7 +62,7 @@ Propón {n_temas} temas NUEVOS de artículo con la mayor probabilidad de traer t
 {leer('aprendizajes.md', '(aún sin datos)')}
 4. Lo que hace la empresa (los temas deben conectar con ello):
 {conocimiento('empresa.md')[:3500]}
-5. Keywords ya cubiertas o en cola (no repetir ni canibalizar, tampoco con sinónimos):
+5. Artículos ya publicados y temas en cola: NO propongas nada que responda a la misma intención de búsqueda que alguno de ellos (ni con sinónimos, ni con un ángulo local o un título distinto):
 {json.dumps(ya, ensure_ascii=False)}
 
 Prioriza long-tail con intención clara. Mezcla etapas del embudo, con peso en las cercanas al objetivo."""

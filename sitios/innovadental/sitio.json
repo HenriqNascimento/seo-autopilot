@@ -42,5 +42,11 @@
     "dam apnea",
     "prótesis completa digital"
   ],
-  "blog_ruta": "/es/blog"
+  "blog_ruta": "/es/blog",
+  "dias_publicacion": [
+    1,
+    3,
+    5
+  ],
+  "dias_publicacion_nota": "0=lunes … 6=domingo: martes, jueves y sábado"
 }

@@ -13,7 +13,8 @@
     "prioridad": 96,
     "por_que": "En GSC se registran consultas directas de intención transaccional como 'protésico dental coruña' (pos 7-8), 'protesis dentales coruña' y búsquedas zonales de laboratorios. Es la puerta de entrada definitiva para odontólogos gallegos que buscan un proveedor cercano y con soporte telefónico directo.",
     "enfoque": "Página/artículo enfocado a odontólogos titulares de A Coruña y de toda Galicia: por qué la cercanía física en O Burgo (Culleredo), la resolución conjunta de casos complejos por teléfono y la logística diaria ágil marcan la diferencia frente a centros de fresado anónimos y lejanos.",
-    "estado": "publicado"
+    "estado": "repetido",
+    "motivo": "Solapa con 'Cómo elegir laboratorio de prótesis dental' y prometía plazos no reales. Borrador descartado por el dueño."
   },
   {
     "slug": "planificacion-guias-quirurgicas-cbct-stl",

@@ -64,11 +64,22 @@ def siguiente_tema():
 def publicar_uno(intentos=2, borrador=False):
     """Escribe y publica un artículo. Si el control de calidad rechaza un tema, prueba con el siguiente."""
     ex = existentes()
-    for i in range(intentos):
+    i = saltados = 0
+    while i < intentos:
         tema, temas = siguiente_tema()
         if not tema:
             registrar("sin_temas")
             return None
+        conflicto, motivo = redaccion.canibaliza(tema, ex)
+        if conflicto:  # no se escribe sobre lo que ya existe; no cuenta como fallo
+            tema["estado"], tema["motivo"] = "repetido", motivo[:300]
+            guardar("temas.json", temas)
+            registrar("tema_repetido", slug=tema["slug"], motivo=motivo[:200])
+            saltados += 1
+            if saltados >= 8:
+                raise RuntimeError("8 temas seguidos ya cubiertos: hay que investigar temas nuevos")
+            continue
+        i += 1
         variante = experimentos.asignar_variante(tema)
         try:
             a, nota, brief = redaccion.escribir(tema, ex, variante and variante["descripcion"])
@@ -78,7 +89,7 @@ def publicar_uno(intentos=2, borrador=False):
             tema["motivo"] = str(e)[:300]
             guardar("temas.json", temas)
             registrar("descartado", slug=tema["slug"], motivo=str(e)[:200])
-            if i == intentos - 1:
+            if i == intentos:
                 raise  # el workflow falla y GitHub avisa por email
     s = sitio()
     imgs = leer("imagenes.json", {})

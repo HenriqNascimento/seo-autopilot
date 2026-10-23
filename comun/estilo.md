@@ -28,5 +28,6 @@ El lector es un profesional ocupado que busca resolver una duda concreta. Quiere
 5. Cierre sobrio con la llamada a la acción del sitio. Una frase o dos.
 
 ## Rigor
+- NUNCA prometas plazos de entrega, tiempos de respuesta, garantías, descuentos ni condiciones comerciales que no estén escritos literalmente en empresa.md. Ni en el texto, ni en el título, ni en la meta description.
 - Cifras técnicas solo si son estándar y verificables (fabricante, guías clínicas). Nada de estudios inventados, porcentajes de éxito sin fuente, casos de pacientes ni precios.
 - Si se cita una fuente externa, que sea de autoridad (organismos oficiales, fabricantes, revistas científicas, asociaciones profesionales) y la URL debe haber sido comprobada.
