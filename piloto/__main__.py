@@ -82,10 +82,13 @@ def verificar():
     fallos = 0
     for nombre, prueba, arreglo in pruebas:
         try:
-            print(f"✅ {nombre}: {prueba()}")
+            res = prueba()
+            print(f"✅ {nombre}: {res}")
+            registrar("verificar", prueba=nombre, ok=True, detalle=str(res)[:200])
         except BaseException as e:
             fallos += 1
             print(f"❌ {nombre}: {str(e)[:400]}\n   → Cómo arreglarlo: {arreglo}")
+            registrar("verificar", prueba=nombre, ok=False, detalle=str(e)[:600])
     print("\nTodo listo para publicar." if not fallos else f"\n{fallos} problema(s): corrígelos y vuelve a ejecutar «verificar».")
     if fallos:
         raise SystemExit(1)
