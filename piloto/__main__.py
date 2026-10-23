@@ -2,6 +2,7 @@
 
   python -m piloto diario                      lo que toque hoy en cada sitio (lo lanza GitHub Actions)
   python -m piloto <comando> --sitio <id>      comando manual en un sitio:
+      verificar    prueba cada conexión (HubSpot, Search Console, Gemini) y dice qué arreglar
       configurar   detecta blog/autor en el CMS y sube las fotos (una vez)
       investigar   añade temas nuevos a la cola
       publicar     escribe y publica el próximo artículo
@@ -59,6 +60,37 @@ def estado(sid):
         print(f"Test de títulos activo desde {exp['snippet']['cambio']}")
 
 
+def verificar():
+    """Comprueba cada conexión con una llamada mínima y explica cómo arreglar lo que falle."""
+    from . import gsc, hubspot
+    from .base import sitio
+    s = sitio()
+    pruebas = [
+        ("HubSpot (token y blog)", lambda: f"{len(hubspot.blogs())} blog(s)",
+         "Revisa el secret HUBSPOT_TOKEN_* y los permisos content + files de la app privada."),
+        ("Search Console", lambda: f"{len(gsc.consulta(['query'], dias=7, limite=5))} consultas en 7 días",
+         f"Añade el email de la cuenta de servicio como usuario de la propiedad {s['gsc_sitio']} en Search Console."),
+        ("Gemini", lambda: ia.tarea("Responde en JSON.", "Di ok.", {"type": "object", "required": ["ok"],
+                                    "properties": {"ok": {"type": "string"}}}, max_tokens=50)["ok"],
+         "Vertex AI: activa la «Vertex AI API» en el proyecto de la cuenta de servicio, dale el rol «Vertex AI User» "
+         "y vincula el proyecto a la cuenta de facturación con los créditos de Google AI Pro."),
+        ("Gemini con búsqueda Google", lambda: ia.tarea("Responde en JSON.", "¿Qué día es hoy? Búscalo.",
+                                                         {"type": "object", "required": ["fecha"],
+                                                          "properties": {"fecha": {"type": "string"}}}, web=True, max_tokens=300)["fecha"],
+         "El modelo responde pero no puede buscar: revisa que el modelo admita grounding en Vertex."),
+    ]
+    fallos = 0
+    for nombre, prueba, arreglo in pruebas:
+        try:
+            print(f"✅ {nombre}: {prueba()}")
+        except BaseException as e:
+            fallos += 1
+            print(f"❌ {nombre}: {str(e)[:400]}\n   → Cómo arreglarlo: {arreglo}")
+    print("\nTodo listo para publicar." if not fallos else f"\n{fallos} problema(s): corrígelos y vuelve a ejecutar «verificar».")
+    if fallos:
+        raise SystemExit(1)
+
+
 def _en_sitio(sid, fn):
     """Ejecuta fn en un sitio aislando errores: un sitio que falla no para a los demás."""
     s = activar(sid)
@@ -114,8 +146,8 @@ def main():
         if f:
             print(f"\nExperimento de formato (todos los sitios): {f['nombre']} · {len(f['asignados'])} artículos")
         print(f"\nGasto total del mes: {ia.gasto_mes():.2f} / {ia.PRESUPUESTO} USD (crédito Google AI Pro: 10 USD)")
-    elif cmd in ("configurar", "investigar", "publicar", "semanal") and sid:
-        fn = {"configurar": publicacion.configurar, "investigar": investigacion.investigar,
+    elif cmd in ("verificar", "configurar", "investigar", "publicar", "semanal") and sid:
+        fn = {"verificar": verificar, "configurar": publicacion.configurar, "investigar": investigacion.investigar,
               "publicar": publicar, "semanal": semanal}[cmd]
         if not _en_sitio(sid, fn):
             sys.exit(1)
