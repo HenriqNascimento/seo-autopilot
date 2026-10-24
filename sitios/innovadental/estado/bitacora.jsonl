@@ -15,3 +15,6 @@
 {"t": "2026-10-23T04:21:55", "sitio": "innovadental", "evento": "borrador_listo", "slug": "laboratorio-protesis-dental-coruna-galicia", "post_id": "497693839609", "editar": "https://app-eu1.hubspot.com/blog/146519427/editor/497693839609/content"}
 {"t": "2026-10-23T04:21:55", "sitio": "innovadental", "evento": "coste", "usd": 0.1469, "modelo": "gemini-3.8-flash", "entrada": 36617, "salida": 31842, "busquedas": 11}
 {"t": "2026-10-24T00:25:58", "sitio": "innovadental", "evento": "imagenes_subidas", "nuevas": 40, "total": 60}
+{"t": "2026-10-24T10:30:46", "sitio": "innovadental", "evento": "imagenes_subidas", "nuevas": 40, "total": 60}
+{"t": "2026-10-24T10:36:46", "sitio": "innovadental", "evento": "error", "tipo": "RemoteDisconnected", "motivo": "Remote end closed connection without response"}
+{"t": "2026-10-24T10:36:46", "sitio": "innovadental", "evento": "coste", "usd": 0.0484, "modelo": "gemini-3.8-flash", "entrada": 9979, "salida": 10922, "busquedas": 4}
