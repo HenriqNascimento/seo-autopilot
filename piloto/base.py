@@ -86,7 +86,7 @@ def registrar(evento, **datos):
     print(f"[{_activo.get('id', '-')}:{evento}] " + ", ".join(f"{k}={v}" for k, v in datos.items() if not isinstance(v, (dict, list))))
 
 
-def http(metodo, url, cuerpo=None, cabeceras=None, timeout=120, crudo=False):
+def http(metodo, url, cuerpo=None, cabeceras=None, timeout=120, crudo=False, idempotente=True):
     data = None
     cab = dict(cabeceras or {})
     if cuerpo is not None and not isinstance(cuerpo, bytes):
@@ -94,13 +94,27 @@ def http(metodo, url, cuerpo=None, cabeceras=None, timeout=120, crudo=False):
         cab.setdefault("content-type", "application/json")
     elif isinstance(cuerpo, bytes):
         data = cuerpo
-    req = urllib.request.Request(url, data=data, headers=cab, method=metodo)
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as r:
-            txt = r.read()
-            return txt if crudo else (json.loads(txt) if txt else {})
-    except urllib.error.HTTPError as e:
-        raise RuntimeError(f"{metodo} {url} -> {e.code}: {e.read().decode(errors='replace')[:800]}") from None
+    import http.client
+    import time
+    esperas = (15, 45, 120)  # reintentos ante cortes de red y errores temporales del servidor
+    for intento in range(len(esperas) + 1):
+        req = urllib.request.Request(url, data=data, headers=cab, method=metodo)
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                txt = r.read()
+                return txt if crudo else (json.loads(txt) if txt else {})
+        except urllib.error.HTTPError as e:
+            temporal = e.code in (429, 500, 502, 503, 504)
+            if not temporal or intento == len(esperas):
+                raise RuntimeError(f"{metodo} {url} -> {e.code}: {e.read().decode(errors='replace')[:800]}") from None
+            motivo = f"HTTP {e.code}"
+        except (urllib.error.URLError, http.client.HTTPException, ConnectionError, TimeoutError) as e:
+            # Un corte tras enviar un POST no idempotente (crear post) podría duplicarlo: no se reintenta
+            if not idempotente or intento == len(esperas):
+                raise
+            motivo = type(e).__name__
+        print(f"[red] {motivo} en {metodo} {url.split('?')[0][:80]} — reintento {intento + 1} en {esperas[intento]} s")
+        time.sleep(esperas[intento])
 
 
 def requerido(var):

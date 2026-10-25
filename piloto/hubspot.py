@@ -51,12 +51,12 @@ def tag_ids(nombres):
 
 def crear_borrador(datos):
     """Crea el post como borrador (no se publica)."""
-    return http("POST", API + "/cms/v3/blogs/posts", datos, _h())
+    return http("POST", API + "/cms/v3/blogs/posts", datos, _h(), idempotente=False)
 
 
 def crear_y_publicar(datos):
     """datos: campos de BlogPost (name, slug, htmlTitle, metaDescription, postBody, …). Devuelve el post publicado."""
-    post = http("POST", API + "/cms/v3/blogs/posts", datos, _h())
+    post = http("POST", API + "/cms/v3/blogs/posts", datos, _h(), idempotente=False)
     return http("PATCH", f"{API}/cms/v3/blogs/posts/{post['id']}", {"state": "PUBLISHED"}, _h())
 
 

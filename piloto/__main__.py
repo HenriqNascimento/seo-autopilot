@@ -139,6 +139,17 @@ def _en_sitio(sid, fn):
         ia.guardar_gasto()
 
 
+def _publicacion_perdida(dias):
+    """True si el último día programado (en los 3 días anteriores) no tiene artículo publicado."""
+    hoy = dt.date.today()
+    for atras in range(1, 4):
+        d = hoy - dt.timedelta(days=atras)
+        if d.weekday() in dias:
+            publicados = {p["publicado"] for p in leer("publicados.json", []) if not p.get("borrador")}
+            return not any(dt.date.fromisoformat(x) >= d for x in publicados)
+    return False
+
+
 def diario():
     hoy = dt.date.today().weekday()
     ok = True
@@ -149,6 +160,9 @@ def diario():
             continue
         dias = s.get("dias_publicacion")  # p. ej. [1, 3, 5] = martes, jueves, sábado
         n = (1 if hoy in dias else 0) if dias else cuantos_hoy(s.get("articulos_semana", 3), hoy)
+        if dias and not n and _publicacion_perdida(dias):
+            registrar("recuperacion", motivo="el último día de publicación falló; se publica hoy")
+            n = 1
         for _ in range(n):
             ok &= _en_sitio(sid, publicar)
         if hoy == 6:
