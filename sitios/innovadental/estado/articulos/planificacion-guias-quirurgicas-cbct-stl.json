@@ -1,0 +1,193 @@
+{
+  "articulo": {
+    "titulo": "Guías quirúrgicas 3D con CBCT y STL: protocolo y ajuste clínico",
+    "titulo_seo": "Guías quirúrgicas 3D CBCT STL: protocolo clínico",
+    "meta_description": "Flujo de guías quirúrgicas 3D con CBCT y STL: cómo evitar scatter metálico, exigencias del escaneado intraoral, ajuste de offset y casos edéntulos.",
+    "resumen": "Protocolo técnico para confeccionar guías quirúrgicas 3D combinando CBCT y escaneado intraoral STL: control de scatter, soportes y calibración del offset.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>Las guías quirúrgicas 3D a partir de CBCT y STL trasladan la planificación virtual de implantes a la boca del paciente con desviaciones medias de 1,2 mm en coronal, 1,4 mm en ápice y menos de 4° a nivel angular.</strong> Para alcanzar esa reproducibilidad, en el laboratorio fusionamos los cortes óseos en formato DICOM con la resolución superficial del escaneado intraoral. La precisión final no depende únicamente del software de diseño, sino de eliminar el artefacto metálico en la tomografía y obtener un registro nítido de la mucosa y las caras oclusales."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Control del scatter en CBCT: cómo evitar errores de fusión con el STL"
+      },
+      {
+        "tipo": "p",
+        "texto": "El principal obstáculo al alinear la tomografía y la malla óptica en programas como Exoplan, RealGUIDE o coDiagnostiX es el scatter o artefacto por dispersión metálica. Si el paciente lleva coronas de metal-porcelana, amalgamas o prótesis sobre implantes contiguas, el haz de rayos X sufre absorción fotoeléctrica y dispersión Compton. En la imagen resultante aparecen destellos hiperdensos y sombras oscuras que desdibujan el contorno del esmalte y la cortical ósea."
+      },
+      {
+        "tipo": "p",
+        "texto": "Corregir este problema en clínica no requiere cambiar de tomógrafo, sino modificar el protocolo de disparo. Cuando el paciente ocluye en máxima intercuspidación, las restauraciones metálicas antagonistas multiplican el ruido y arruinan la anatomía de ambas arcadas. La solución consiste en colocar dos rollos de algodón en la zona de premolares o interponer una lámina fina de cera o silicona de mordida. Separar las arcadas entre 3 y 4 milímetros despeja las caras oclusales, lo que permite al software emparejar las superficies del STL con los cortes DICOM sin generar falsos contactos."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Requisitos del archivo STL para diseñar guías quirúrgicas 3D"
+      },
+      {
+        "tipo": "p",
+        "texto": "En brechas cortas, un error habitual es escanear únicamente el tramo edéntulo y las dos piezas vecinas. Una férula con tan poca superficie bascula en cuanto la fresa entra en carga y transmite vibraciones al lecho óseo."
+      },
+      {
+        "tipo": "p",
+        "texto": "En Innovadental pedimos siempre el escaneado de la arcada completa con un margen generoso de mucosa vestibular y palatina o lingual. Existen tres zonas anatómicas donde no admitimos defectos de registro:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Paladar duro y tuberosidades en el maxilar superior, o trígonos retromolares en la mandíbula: aportan el tope distal rígido para estabilizar la férula.\nFondo de vestíbulo registrado sin tensión: si se tracciona en exceso del labio o el carrillo con la boquilla del escáner, la mucosa móvil se deprime y la guía generará isquemia o no asentará en profundidad.\nVentanas de inspección oclusales: abrimos orificios de control visual en cúspides y bordes incisales para que compruebes que la resina contacta plenamente sobre el diente antes de pasar la primera fresa."
+      },
+      {
+        "tipo": "p",
+        "texto": "El control de fluidos es igual de determinante. Como explicamos en nuestro análisis sobre el <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital entre clínica y laboratorio</a>, la saliva acumulada y los reflejos lumínicos sobre el esmalte generan aberraciones que el software del escáner interpreta como volumen de material inexistente. Esa microgeometría parásita impide el calzado pasivo de la férula. Ante la duda, conviene repasar cualquier posible <a href=\"https://innovadental.net/es/blog/error-comun-en-la-toma-de-impresiones-para-un-implante\">error común en la toma de impresiones</a> antes de exportar el archivo definitivo."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Soporte dentosoportado u óseosoportado según el remanente del paciente"
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Tipo de guía | Soporte anatómico | Indicación clínica principal | Método de fijación\nDentosoportada | Dientes remanentes estables | Desdentados parciales con 3 o más piezas firmes | Fricción sobre coronas y topes oclusales\nÓseosoportada | Cortical ósea expuesta | Edéntulos completos o atrofias severas con cirugía abierta | Fijación rígida con tornillos de osteosíntesis o pines"
+      },
+      {
+        "tipo": "p",
+        "texto": "En pacientes parcialmente desdentados con piezas firmes y bien repartidas, la guía dentosoportada ofrece la máxima estabilidad sin necesidad de invasión adicional. El soporte dental elimina la resiliencia de los tejidos blandos y asegura que la inclinación proyectada en el software se traslade con exactitud al lecho quirúrgico."
+      },
+      {
+        "tipo": "p",
+        "texto": "En desdentados completos o situaciones de reabsorción acusada donde no existen apoyos dentales fiables, la guía óseosoportada aporta una base rígida sobre el esqueleto óseo. Ahora bien, exige un despegamiento mucoperióstico amplio de espesor total: cualquier resto de periostio o colgajo interpuesto entre la resina y la cortical genera una báscula que altera el eje del fresado. Cuando la anatomía o el planteamiento clínico desaconsejan una exposición ósea extensa, el camino técnico pasa por planificar sobre prótesis con pines de fijación mediante técnica de doble escaneado."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Protocolo de doble escaneado (Dual Scan) en arcadas edéntulas"
+      },
+      {
+        "tipo": "p",
+        "texto": "Sin dientes de referencia, emparejar el STL y la tomografía resulta inviable mediante alineación convencional por superficies. Para resolverlo aplicamos el protocolo Dual Scan, apoyándonos en una férula radiológica o en la propia prótesis completa del paciente, siempre que descienda y ajuste sin holgura sobre la encía. Se colocan entre 6 y 8 marcadores radiopacos esféricos (bolitas de gutapercha o puntos de resina cargada con sulfato de bario) distribuidos a diferentes alturas por vestibular y lingual o palatino."
+      },
+      {
+        "tipo": "ol",
+        "texto": "Primer CBCT: se toma al paciente con la férula o prótesis posicionada en boca, haciendo morder un registro rígido para asegurar el asiento íntimo sobre la mucosa.\nSegundo CBCT: se adquiere escaneando únicamente la férula o prótesis apoyada en la bandeja del tomógrafo, utilizando idénticos parámetros de campo y resolución."
+      },
+      {
+        "tipo": "p",
+        "texto": "El software hace coincidir las dos series DICOM calculando el centro de gravedad de cada marcador radiopaco. De este modo obtenemos en un único entorno de trabajo el volumen del hueso, el grosor del tejido blando y el contorno exterior de los dientes proyectados. Con esa base diseñamos los implantes con un criterio estrictamente prostodóntico y podemos confeccionar de forma coordinada la guía con su férula de CrCo o una <a href=\"https://innovadental.net/es/blog/provisional-carga-inmediata-implantes\">prótesis provisional para carga inmediata</a> en PMMA lista para el día de la intervención."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Casquillos, calibración del offset y resinas para impresión 3D"
+      },
+      {
+        "tipo": "p",
+        "texto": "La exactitud del fresado descansa en los casquillos metálicos integrados en la guía. Cada sistema de implantes utiliza cilindros con tolerancias y diámetros exteriores definidos. La cota crítica en esta fase es el offset: la distancia vertical entre la plataforma del implante y el borde coronal del casquillo donde hace tope la fresa calibrada. Si se programa un offset de 9 milímetros y en boca se emplea una fresa calibrada para offset de 10, el implante quedará un milímetro más coronal de lo planificado. Una desviación milimétrica vertical puede comprometer la emergencia protésica o aproximar el ápice a una estructura anatómica de riesgo."
+      },
+      {
+        "tipo": "p",
+        "texto": "Una vez revisado que los cilindros no colisionan entre sí ni con raíces contiguas, imprimimos la guía en resinas biocompatibles certificadas de Clase I o Clase IIa (como Formlabs Surgical Guide). Estos materiales soportan la tracción del fresado sin deformarse y admiten ciclos de esterilización en autoclave a 134 °C según las especificaciones del fabricante. Para clínicas que utilicen esterilización química o gas plasma, deben emplearse exclusivamente desinfectantes compatibles para evitar microfisuras o fragilidad en la estructura plástica."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Planificación técnica directa con Innovadental"
+      },
+      {
+        "tipo": "p",
+        "texto": "En el laboratorio no nos limitamos a colocar cilindros virtuales en los huecos libres de hueso. Con tu STL y el CBCT elaboramos primero el encerado diagnóstico para asegurar que la chimenea de fijación emerja por el centro de la cara oclusal o el cíngulo de la futura prótesis. Verificamos con rigor las distancias biológicas de seguridad: 1,5 mm respecto a las raíces contiguas, 3 mm de separación entre plataformas de implantes y un margen libre de al menos 2 mm respecto al nervio dentario inferior o el suelo del seno maxilar."
+      },
+      {
+        "tipo": "p",
+        "texto": "Fabricamos guías dentosoportadas y óseosoportadas, tanto para restauraciones unitarias o de 1 a 3 implantes como para rehabilitaciones complejas de 4 a 6 implantes. Si dudas con algún software o con la exportación de archivos, llámanos. Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible. Revisamos el caso juntos por teléfono antes de mandar la férula a impresión."
+      },
+      {
+        "tipo": "p",
+        "texto": "<a href=\"https://innovadental.net/es/contacte-innovadental\">Escríbenos a través del formulario de contacto</a> o llámanos al 981 65 20 66 para coordinar la planificación de tu próximo caso quirúrgico."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Se puede realizar una cirugía totalmente guiada con el kit quirúrgico convencional de la clínica?",
+        "a": "No. El kit convencional solo permite un fresado piloto guiado con casquillo de 2 mm de diámetro interno; el ensanchamiento del lecho y la colocación del implante se realizan después a mano alzada. Para un protocolo completamente guiado (fully guided) donde el implante se inserta a través de la propia guía, se requiere el kit de cirugía guiada específico de la marca del implante, equipado con cucharillas reductoras o fresas con tope escalonado."
+      },
+      {
+        "q": "¿En qué formato se deben exportar los archivos del CBCT para enviarlos al laboratorio?",
+        "a": "Es indispensable exportar la tomografía como serie de archivos DICOM sin compresión (.dcm), habitualmente contenidos en una carpeta con cientos de cortes axiales continuos. No son válidas las capturas de pantalla en formato JPEG ni los visores preinstalados (.exe) empaquetados que bloquean la extracción del volumen tomográfico nativo."
+      }
+    ],
+    "tags": [
+      "Cirugía guiada",
+      "Planificación 3D",
+      "CBCT y STL"
+    ],
+    "foto": "cat-ferula-guiada-3d-1.jpg",
+    "alt_foto": "Guía quirúrgica 3D sobre modelo dental para colocación de implantes"
+  },
+  "brief": {
+    "intencion": "Informativa y transaccional B2B (odontólogos, cirujanos e implantólogos que buscan comprender el protocolo técnico de fusión DICOM + STL y encargar el diseño/impresión 3D de guías quirúrgicas a un laboratorio protésico de confianza).",
+    "respuesta_directa": "Una guía quirúrgica 3D es una férula biocompatible impresa que traslada la planificación virtual de implantes a la boca del paciente con precisión milimétrica. Se genera fusionando la anatomía ósea del CBCT (archivos DICOM) con la resolución superficial de los tejidos y dientes del escáner intraoral (archivos STL/PLY). Según el soporte clínico del caso, se diseñan dentosoportadas, mucosoportadas o sobre hueso (óseosoportadas), requiriendo un escaneado nítido con fondo de vestíbulo y un CBCT libre de artefactos metálicos.",
+    "que_cubren_los_top": [
+      "Definición general de guía quirúrgica e introducción al concepto de cirugía guiada por ordenador.",
+      "Formatos de archivo básicos: DICOM procedente de la tomografía CBCT y STL del escáner intraoral o de laboratorio.",
+      "Clasificación básica según el tipo de soporte anatómico: dentosoportada, mucosoportada y óseosoportada.",
+      "Ventajas genéricas para el clínico: menor tiempo de sillón, cirugía mínimamente invasiva (flapless) y reducción del dolor posoperatorio para el paciente.",
+      "Mención superficial a softwares de planificación estándar como Exoplan, RealGUIDE, coDiagnostiX o BlueSkyPlan."
+    ],
+    "huecos": [
+      "Protocolo clínico específico para evitar el 'scatter' o artefacto por dispersión metálica en el CBCT (uso de rollos de algodón interoclusales o galletas de registro para separar arcadas y no solapar coronas metálicas con dientes antagonistas).",
+      "Criterios técnicos exigidos por el laboratorio para el archivo STL: captura obligatoria de paladar duro completo, tuberosidades o trígonos retromolares y profundidad de fondo de vestíbulo sin estiramiento de mucosa para asentar ventanas de inspección fiables.",
+      "Protocolo de doble escaneado (Dual Scan) con marcadores radiopacos para desdentados completos (mucosoportadas/óseosoportadas) explicado paso a paso sin tecnicismos oscuros.",
+      "Configuración técnica del 'offset' y compatibilidad de casquillos/anillos (sleeves) según el kit quirúrgico del fabricante (cirugía completamente guiada vs. fresado piloto).",
+      "Servicio de valor del laboratorio de proximidad: sesión telemática o telefónica de calibración conjunta protésico-implantólogo antes de mandar a imprimir, verificando distancias biológicas mínimas (1,5 mm a diente vecino, 3 mm entre implantes y margen de 2 mm al canal del nervio dentario inferior)."
+    ],
+    "preguntas_reales": [
+      "¿Qué margen de tolerancia y desviación angular tiene una guía quirúrgica impresa en 3D?",
+      "¿Cómo evitar la distorsión del CBCT si el paciente tiene coronas de metal-cerámica o amalgamas?",
+      "¿Por qué el escáner intraoral debe capturar el fondo de vestíbulo si la guía solo se apoya en los dientes?",
+      "¿Cuándo está indicada una guía óseosoportada frente a una mucosoportada con pines de fijación en edéntulos?",
+      "¿Qué resinas 3D se pueden meter en autoclave y cuáles requieren esterilización en frío?",
+      "¿Cómo se planifica el offset de la guía según el kit quirúrgico que utilizo en mi clínica?"
+    ],
+    "estructura": [
+      "Qué es una guía quirúrgica 3D y por qué el binomio CBCT (DICOM) + STL marca la diferencia en implantología",
+      "Preparación del CBCT en clínica: cómo eliminar artefactos de dispersión metálica (scatter)",
+      "Requisitos del escaneo STL intraoral: la importancia crítica del fondo de vestíbulo y las ventanas de inspección",
+      "Tipos de guías quirúrgicas según soporte anatómico: dentosoportadas, mucosoportadas y óseosoportadas",
+      "El protocolo para pacientes edéntulos: cuándo y cómo recurrir al doble escaneado (Dual Scan)",
+      "Del software a la resina biocompatible: selección de casquillos, offset y esterilización",
+      "Planificación colaborativa con Innovadental: soporte técnico directo para implantólogos en Galicia"
+    ],
+    "palabras_objetivo": 1850,
+    "entidades": [
+      "CBCT (Cone Beam Computed Tomography)",
+      "Archivos DICOM (.dcm)",
+      "Archivos STL / PLY",
+      "Exoplan (exocad)",
+      "RealGUIDE",
+      "coDiagnostiX",
+      "Artefacto de dispersión metálica (scatter / beam hardening)",
+      "Offset de fresado quirúrgico",
+      "Casquillos o anillos quirúrgicos (sleeves)",
+      "Pines de fijación ósea (fixation pins)",
+      "Cirugía guiada completa (fully guided) vs fresado piloto",
+      "Protocolo Dual Scan (doble escaneo con gutapercha/sulfato de bario)",
+      "Resina biocompatible Clase I / Clase IIa (Formlabs Surgical Guide, ProArt Print Splint)",
+      "Esterilización en autoclave vs plasma de gas",
+      "Nervio dentario inferior",
+      "Seno maxilar",
+      "Distancia biológica interproximal"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29451336/",
+        "dato": "Metanálisis sobre precisión de guías estáticas por ordenador: desviación coronal media de 1,2 mm, apical de 1,4 mm y desviación angular media de 3,5° a 4° en comparación con la cirugía a mano alzada."
+      },
+      {
+        "url": "https://formlabs.com/es/materiales/dental/surgical-guide-resin/",
+        "dato": "Las resinas biocompatibles para guías quirúrgicas de clase I cumplen con la biocompatibilidad estricta de contacto mucoso temporal y soportan ciclos de autoclave a 134 °C según protocolo del fabricante."
+      },
+      {
+        "url": "https://dmdentaldesign.com",
+        "dato": "El alineamiento riguroso punto por punto entre cortes volumétricos DICOM y mallas poligonales STL es la fase crítica donde un desajuste de 0,2 mm se traduce en desviaciones angulares inaceptables en el ápice."
+      }
+    ]
+  },
+  "html": "<p><strong>Las guías quirúrgicas 3D a partir de CBCT y STL trasladan la planificación virtual de implantes a la boca del paciente con desviaciones medias de 1,2 mm en coronal, 1,4 mm en ápice y menos de 4° a nivel angular.</strong> Para alcanzar esa reproducibilidad, en el laboratorio fusionamos los cortes óseos en formato DICOM con la resolución superficial del escaneado intraoral. La precisión final no depende únicamente del software de diseño, sino de eliminar el artefacto metálico en la tomografía y obtener un registro nítido de la mucosa y las caras oclusales.</p>\n<h2>Control del scatter en CBCT: cómo evitar errores de fusión con el STL</h2>\n<p>El principal obstáculo al alinear la tomografía y la malla óptica en programas como Exoplan, RealGUIDE o coDiagnostiX es el scatter o artefacto por dispersión metálica. Si el paciente lleva coronas de metal-porcelana, amalgamas o prótesis sobre implantes contiguas, el haz de rayos X sufre absorción fotoeléctrica y dispersión Compton. En la imagen resultante aparecen destellos hiperdensos y sombras oscuras que desdibujan el contorno del esmalte y la cortical ósea.</p>\n<p>Corregir este problema en clínica no requiere cambiar de tomógrafo, sino modificar el protocolo de disparo. Cuando el paciente ocluye en máxima intercuspidación, las restauraciones metálicas antagonistas multiplican el ruido y arruinan la anatomía de ambas arcadas. La solución consiste en colocar dos rollos de algodón en la zona de premolares o interponer una lámina fina de cera o silicona de mordida. Separar las arcadas entre 3 y 4 milímetros despeja las caras oclusales, lo que permite al software emparejar las superficies del STL con los cortes DICOM sin generar falsos contactos.</p>\n<h2>Requisitos del archivo STL para diseñar guías quirúrgicas 3D</h2>\n<p>En brechas cortas, un error habitual es escanear únicamente el tramo edéntulo y las dos piezas vecinas. Una férula con tan poca superficie bascula en cuanto la fresa entra en carga y transmite vibraciones al lecho óseo.</p>\n<p>En Innovadental pedimos siempre el escaneado de la arcada completa con un margen generoso de mucosa vestibular y palatina o lingual. Existen tres zonas anatómicas donde no admitimos defectos de registro:</p>\n<ul><li>Paladar duro y tuberosidades en el maxilar superior, o trígonos retromolares en la mandíbula: aportan el tope distal rígido para estabilizar la férula.</li><li>Fondo de vestíbulo registrado sin tensión: si se tracciona en exceso del labio o el carrillo con la boquilla del escáner, la mucosa móvil se deprime y la guía generará isquemia o no asentará en profundidad.</li><li>Ventanas de inspección oclusales: abrimos orificios de control visual en cúspides y bordes incisales para que compruebes que la resina contacta plenamente sobre el diente antes de pasar la primera fresa.</li></ul>\n<p>El control de fluidos es igual de determinante. Como explicamos en nuestro análisis sobre el <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital entre clínica y laboratorio</a>, la saliva acumulada y los reflejos lumínicos sobre el esmalte generan aberraciones que el software del escáner interpreta como volumen de material inexistente. Esa microgeometría parásita impide el calzado pasivo de la férula. Ante la duda, conviene repasar cualquier posible <a href=\"https://innovadental.net/es/blog/error-comun-en-la-toma-de-impresiones-para-un-implante\">error común en la toma de impresiones</a> antes de exportar el archivo definitivo.</p>\n<h2>Soporte dentosoportado u óseosoportado según el remanente del paciente</h2>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Tipo de guía</th><th>Soporte anatómico</th><th>Indicación clínica principal</th><th>Método de fijación</th></tr></thead><tbody><tr><td>Dentosoportada</td><td>Dientes remanentes estables</td><td>Desdentados parciales con 3 o más piezas firmes</td><td>Fricción sobre coronas y topes oclusales</td></tr><tr><td>Óseosoportada</td><td>Cortical ósea expuesta</td><td>Edéntulos completos o atrofias severas con cirugía abierta</td><td>Fijación rígida con tornillos de osteosíntesis o pines</td></tr></tbody></table></div>\n<p>En pacientes parcialmente desdentados con piezas firmes y bien repartidas, la guía dentosoportada ofrece la máxima estabilidad sin necesidad de invasión adicional. El soporte dental elimina la resiliencia de los tejidos blandos y asegura que la inclinación proyectada en el software se traslade con exactitud al lecho quirúrgico.</p>\n<p>En desdentados completos o situaciones de reabsorción acusada donde no existen apoyos dentales fiables, la guía óseosoportada aporta una base rígida sobre el esqueleto óseo. Ahora bien, exige un despegamiento mucoperióstico amplio de espesor total: cualquier resto de periostio o colgajo interpuesto entre la resina y la cortical genera una báscula que altera el eje del fresado. Cuando la anatomía o el planteamiento clínico desaconsejan una exposición ósea extensa, el camino técnico pasa por planificar sobre prótesis con pines de fijación mediante técnica de doble escaneado.</p>\n<h2>Protocolo de doble escaneado (Dual Scan) en arcadas edéntulas</h2>\n<p>Sin dientes de referencia, emparejar el STL y la tomografía resulta inviable mediante alineación convencional por superficies. Para resolverlo aplicamos el protocolo Dual Scan, apoyándonos en una férula radiológica o en la propia prótesis completa del paciente, siempre que descienda y ajuste sin holgura sobre la encía. Se colocan entre 6 y 8 marcadores radiopacos esféricos (bolitas de gutapercha o puntos de resina cargada con sulfato de bario) distribuidos a diferentes alturas por vestibular y lingual o palatino.</p>\n<ol><li>Primer CBCT: se toma al paciente con la férula o prótesis posicionada en boca, haciendo morder un registro rígido para asegurar el asiento íntimo sobre la mucosa.</li><li>Segundo CBCT: se adquiere escaneando únicamente la férula o prótesis apoyada en la bandeja del tomógrafo, utilizando idénticos parámetros de campo y resolución.</li></ol>\n<p>El software hace coincidir las dos series DICOM calculando el centro de gravedad de cada marcador radiopaco. De este modo obtenemos en un único entorno de trabajo el volumen del hueso, el grosor del tejido blando y el contorno exterior de los dientes proyectados. Con esa base diseñamos los implantes con un criterio estrictamente prostodóntico y podemos confeccionar de forma coordinada la guía con su férula de CrCo o una <a href=\"https://innovadental.net/es/blog/provisional-carga-inmediata-implantes\">prótesis provisional para carga inmediata</a> en PMMA lista para el día de la intervención.</p>\n<h2>Casquillos, calibración del offset y resinas para impresión 3D</h2>\n<p>La exactitud del fresado descansa en los casquillos metálicos integrados en la guía. Cada sistema de implantes utiliza cilindros con tolerancias y diámetros exteriores definidos. La cota crítica en esta fase es el offset: la distancia vertical entre la plataforma del implante y el borde coronal del casquillo donde hace tope la fresa calibrada. Si se programa un offset de 9 milímetros y en boca se emplea una fresa calibrada para offset de 10, el implante quedará un milímetro más coronal de lo planificado. Una desviación milimétrica vertical puede comprometer la emergencia protésica o aproximar el ápice a una estructura anatómica de riesgo.</p>\n<p>Una vez revisado que los cilindros no colisionan entre sí ni con raíces contiguas, imprimimos la guía en resinas biocompatibles certificadas de Clase I o Clase IIa (como Formlabs Surgical Guide). Estos materiales soportan la tracción del fresado sin deformarse y admiten ciclos de esterilización en autoclave a 134 °C según las especificaciones del fabricante. Para clínicas que utilicen esterilización química o gas plasma, deben emplearse exclusivamente desinfectantes compatibles para evitar microfisuras o fragilidad en la estructura plástica.</p>\n<h2>Planificación técnica directa con Innovadental</h2>\n<p>En el laboratorio no nos limitamos a colocar cilindros virtuales en los huecos libres de hueso. Con tu STL y el CBCT elaboramos primero el encerado diagnóstico para asegurar que la chimenea de fijación emerja por el centro de la cara oclusal o el cíngulo de la futura prótesis. Verificamos con rigor las distancias biológicas de seguridad: 1,5 mm respecto a las raíces contiguas, 3 mm de separación entre plataformas de implantes y un margen libre de al menos 2 mm respecto al nervio dentario inferior o el suelo del seno maxilar.</p>\n<p>Fabricamos guías dentosoportadas y óseosoportadas, tanto para restauraciones unitarias o de 1 a 3 implantes como para rehabilitaciones complejas de 4 a 6 implantes. Si dudas con algún software o con la exportación de archivos, llámanos. Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible. Revisamos el caso juntos por teléfono antes de mandar la férula a impresión.</p>\n<p><a href=\"https://innovadental.net/es/contacte-innovadental\">Escríbenos a través del formulario de contacto</a> o llámanos al 981 65 20 66 para coordinar la planificación de tu próximo caso quirúrgico.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Se puede realizar una cirugía totalmente guiada con el kit quirúrgico convencional de la clínica?</h3><p>No. El kit convencional solo permite un fresado piloto guiado con casquillo de 2 mm de diámetro interno; el ensanchamiento del lecho y la colocación del implante se realizan después a mano alzada. Para un protocolo completamente guiado (fully guided) donde el implante se inserta a través de la propia guía, se requiere el kit de cirugía guiada específico de la marca del implante, equipado con cucharillas reductoras o fresas con tope escalonado.</p>\n<h3>¿En qué formato se deben exportar los archivos del CBCT para enviarlos al laboratorio?</h3><p>Es indispensable exportar la tomografía como serie de archivos DICOM sin compresión (.dcm), habitualmente contenidos en una carpeta con cientos de cortes axiales continuos. No son válidas las capturas de pantalla en formato JPEG ni los visores preinstalados (.exe) empaquetados que bloquean la extracción del volumen tomográfico nativo.</p>"
+}

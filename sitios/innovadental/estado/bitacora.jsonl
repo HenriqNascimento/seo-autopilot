@@ -18,3 +18,8 @@
 {"t": "2026-10-24T10:30:46", "sitio": "innovadental", "evento": "imagenes_subidas", "nuevas": 40, "total": 60}
 {"t": "2026-10-24T10:36:46", "sitio": "innovadental", "evento": "error", "tipo": "RemoteDisconnected", "motivo": "Remote end closed connection without response"}
 {"t": "2026-10-24T10:36:46", "sitio": "innovadental", "evento": "coste", "usd": 0.0484, "modelo": "gemini-3.8-flash", "entrada": 9979, "salida": 10922, "busquedas": 4}
+{"t": "2026-10-26T12:27:27", "sitio": "innovadental", "evento": "recuperacion", "motivo": "el último día de publicación falló; se publica hoy"}
+{"t": "2026-10-26T12:33:42", "sitio": "innovadental", "evento": "edicion", "slug": "planificacion-guias-quirurgicas-cbct-stl", "intento": 1, "nota_min": 9, "problemas": 3}
+{"t": "2026-10-26T12:35:16", "sitio": "innovadental", "evento": "edicion", "slug": "planificacion-guias-quirurgicas-cbct-stl", "intento": 2, "nota_min": 10, "problemas": 0}
+{"t": "2026-10-26T12:35:20", "sitio": "innovadental", "evento": "publicado", "slug": "planificacion-guias-quirurgicas-cbct-stl", "url": "https://innovadental.net/es/blog/planificacion-guias-quirurgicas-cbct-stl", "palabras": 1304}
+{"t": "2026-10-26T12:35:20", "sitio": "innovadental", "evento": "coste", "usd": 0.1765, "modelo": "gemini-3.8-flash", "entrada": 32317, "salida": 40601, "busquedas": 8}

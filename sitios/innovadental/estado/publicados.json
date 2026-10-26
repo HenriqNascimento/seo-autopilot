@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "slug": "planificacion-guias-quirurgicas-cbct-stl",
+    "post_id": "499730599113",
+    "url": "https://innovadental.net/es/blog/planificacion-guias-quirurgicas-cbct-stl",
+    "titulo": "Guías quirúrgicas 3D con CBCT y STL: protocolo y ajuste clínico",
+    "titulo_seo": "Guías quirúrgicas 3D CBCT STL: protocolo clínico",
+    "meta_description": "Flujo de guías quirúrgicas 3D con CBCT y STL: cómo evitar scatter metálico, exigencias del escaneado intraoral, ajuste de offset y casos edéntulos.",
+    "keyword": "guías quirúrgicas 3d cbct stl",
+    "cluster": "cirugia-guiada-cadcam",
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "prioridad": 94,
+    "palabras": 1304,
+    "h2": 6,
+    "tablas": 1,
+    "faq": 2,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "A",
+      "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
+      "estrato": "innovadental:cirugia-guiada-cadcam"
+    },
+    "foto": "cat-ferula-guiada-3d-1.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 10,
+      "seo": 10,
+      "experiencia": 10
+    },
+    "publicado": "2026-10-26",
+    "simulado": false,
+    "borrador": false
+  }
+]

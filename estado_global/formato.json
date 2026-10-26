@@ -4,7 +4,17 @@
     "A": "Extensión 1000-1300 palabras, directo al grano.",
     "B": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
     "inicio": "2026-10-23",
-    "asignados": []
+    "asignados": [
+      {
+        "slug": "planificacion-guias-quirurgicas-cbct-stl",
+        "brazo": "A",
+        "estrato": "innovadental:cirugia-guiada-cadcam",
+        "prioridad": 94,
+        "publicado": "2026-10-26",
+        "url": "https://innovadental.net/es/blog/planificacion-guias-quirurgicas-cbct-stl",
+        "sitio": "innovadental"
+      }
+    ]
   },
   "cola": [
     {
