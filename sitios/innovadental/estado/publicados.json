@@ -32,5 +32,39 @@
     "publicado": "2026-10-26",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "puente-maryland-zirconio-protocolo-adhesion",
+    "post_id": "500659628223",
+    "url": "https://innovadental.net/es/blog/puente-maryland-zirconio-protocolo-adhesion",
+    "titulo": "Puente Maryland de zirconio: diseño cantilever y adhesión",
+    "titulo_seo": "Puente Maryland de zirconio: cantilever y adhesión",
+    "meta_description": "Criterios clínicos para el puente Maryland de zirconio en cantilever: biomecánica monoaleta, diseño CAD/CAM, protocolo con 10-MDP y cementado adhesivo.",
+    "keyword": "puente maryland zirconio",
+    "cluster": "protesis-fija-adhesiva",
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "prioridad": 91,
+    "palabras": 1909,
+    "h2": 8,
+    "tablas": 1,
+    "faq": 0,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "B",
+      "descripcion": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
+      "estrato": "innovadental:protesis-fija-adhesiva"
+    },
+    "foto": "cat-maryland-1.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 10,
+      "seo": 10,
+      "experiencia": 10
+    },
+    "publicado": "2026-10-27",
+    "simulado": false,
+    "borrador": false
   }
 ]

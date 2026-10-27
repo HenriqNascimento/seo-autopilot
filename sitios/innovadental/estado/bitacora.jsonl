@@ -23,3 +23,7 @@
 {"t": "2026-10-26T12:35:16", "sitio": "innovadental", "evento": "edicion", "slug": "planificacion-guias-quirurgicas-cbct-stl", "intento": 2, "nota_min": 10, "problemas": 0}
 {"t": "2026-10-26T12:35:20", "sitio": "innovadental", "evento": "publicado", "slug": "planificacion-guias-quirurgicas-cbct-stl", "url": "https://innovadental.net/es/blog/planificacion-guias-quirurgicas-cbct-stl", "palabras": 1304}
 {"t": "2026-10-26T12:35:20", "sitio": "innovadental", "evento": "coste", "usd": 0.1765, "modelo": "gemini-3.8-flash", "entrada": 32317, "salida": 40601, "busquedas": 8}
+{"t": "2026-10-27T11:55:20", "sitio": "innovadental", "evento": "edicion", "slug": "puente-maryland-zirconio-protocolo-adhesion", "intento": 1, "nota_min": 10, "problemas": 1}
+{"t": "2026-10-27T11:56:50", "sitio": "innovadental", "evento": "edicion", "slug": "puente-maryland-zirconio-protocolo-adhesion", "intento": 2, "nota_min": 10, "problemas": 0}
+{"t": "2026-10-27T11:56:55", "sitio": "innovadental", "evento": "publicado", "slug": "puente-maryland-zirconio-protocolo-adhesion", "url": "https://innovadental.net/es/blog/puente-maryland-zirconio-protocolo-adhesion", "palabras": 1909}
+{"t": "2026-10-27T11:56:55", "sitio": "innovadental", "evento": "coste", "usd": 0.1507, "modelo": "gemini-3.8-flash", "entrada": 28256, "salida": 34531, "busquedas": 2}

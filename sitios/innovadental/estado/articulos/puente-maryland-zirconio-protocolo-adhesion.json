@@ -1,0 +1,234 @@
+{
+  "articulo": {
+    "titulo": "Puente Maryland de zirconio: diseño cantilever y adhesión",
+    "titulo_seo": "Puente Maryland de zirconio: cantilever y adhesión",
+    "meta_description": "Criterios clínicos para el puente Maryland de zirconio en cantilever: biomecánica monoaleta, diseño CAD/CAM, protocolo con 10-MDP y cementado adhesivo.",
+    "resumen": "Criterios biomecánicos del puente Maryland de zirconio en cantilever, requisitos de fresado CAD/CAM y el protocolo químico con 10-MDP para evitar descementados.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>El puente Maryland de zirconio moderno se diseña en cantilever (un solo retenedor), un concepto biomecánico que elimina la torsión interdental causante del descementado prematuro y las caries silentes de las estructuras tradicionales bialeta.</strong> Al ser una cerámica policristalina no grabable con ácido fluorhídrico, su fijación a largo plazo depende de microarenar con alúmina a baja presión, aplicar un primer con monómero 10-MDP y cementar con resina bajo aislamiento absoluto. En el sector anterior, este enfoque acumula tasas de supervivencia superiores al 90-95% a diez años en la literatura clínica de referencia."
+      },
+      {
+        "tipo": "p",
+        "texto": "Durante años, la prótesis fija adhesiva arrastró mala fama en odontología. La estampa del puente Maryland metálico de dos aletas desprendiéndose a los pocos meses llevó a muchos compañeros a catalogarlo como una solución provisional de compromiso. La llegada de las cerámicas de alta tenacidad y un mejor entendimiento de la cinemática mandibular han transformado este escenario: hoy el puente adhesivo de zirconio es una opción definitiva, conservadora y muy predecible frente al implante unitario o al tallado de muñones completos."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Por qué una sola aleta supera biomecánicamente a dos"
+      },
+      {
+        "tipo": "p",
+        "texto": "El cambio de planteamiento más radical en este tipo de prótesis no ha sido el zirconio, sino reducir los retenedores a uno solo. Durante mucho tiempo se creyó que dos aletas multiplicaban la retención mecánica. Los análisis por elementos finitos y el seguimiento clínico demostraron justo lo opuesto."
+      },
+      {
+        "tipo": "p",
+        "texto": "Cada diente en la boca se mueve de forma independiente. Su ligamento periodontal responde a las fuerzas oclusales con una elasticidad y una dirección de desplazamiento propias. Cuando el paciente mastica o realiza movimientos de lateralidad y protrusiva, los dos dientes que flanquean un espacio edéntulo no se desplazan en la misma trayectoria. En la reposición de un incisivo lateral superior, el central y el canino reciben vectores antagonistas directos."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si los unimos mediante una estructura rígida de zirconio con dos aletas, esa movilidad fisiológica diferencial somete a la interfase adhesiva a un cizallamiento continuo. Con el tiempo, la aleta con menor superficie o sometida a más palanca se despega. El verdadero problema es que la otra aleta suele continuar pegada: la prótesis no se cae, pero se abre una vía de microfiltración bacteriana debajo del ala suelta. El resultado habitual es una caries dentinaria extensa e indolora que el paciente solo detecta cuando el daño biológico ya es profundo."
+      },
+      {
+        "tipo": "p",
+        "texto": "En un diseño cantilever (monoaleta), el póntico acompaña los movimientos funcionales del pilar sin apoyarse en un segundo diente. Desaparece la torsión diferencial. Y si en algún momento falla la adhesión, la restauración se desprende de forma limpia y completa, lo que permite recementar de inmediato sin haber destruido tejido dental."
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Parámetro clínico | Cantilever (una aleta) | Diseño clásico (dos aletas)\nCinemática dental | Respeta la movilidad periodontal independiente del pilar | Bloquea dos piezas con ejes de rotación distintos\nMecanismo de fallo primario | Desprendimiento limpio y perceptible de inmediato | Descementado unilateral oculto con riesgo de caries dentinaria\nSupervivencia longitudinal a 10 años | 90-95% en sector anterior (evidencia Prof. Matthias Kern) | Significativamente inferior por pérdida precoz de un retenedor\nEspacio interoclusal necesario | Requiere espacio protésico en un solo diente pilar | Exige espacio libre palatino en ambos dientes adyacentes\nInvasión de tejido sano | Preparación confinada a una cara lingual o palatina | Desgaste superficial de esmalte en dos piezas sanas"
+      },
+      {
+        "tipo": "h2",
+        "texto": "Criterios para seleccionar el caso en el sector anterior"
+      },
+      {
+        "tipo": "p",
+        "texto": "El puente Maryland de zirconio en cantilever no sirve para cualquier situación clínica. Su terreno natural es el sector anterior, donde las fuerzas de oclusión se mantienen dentro de límites tolerables para una unión adhesiva al esmalte."
+      },
+      {
+        "tipo": "p",
+        "texto": "En clínica funciona con especial seguridad ante agenesias de incisivos laterales superiores en pacientes jóvenes, donde no conviene colocar implantes hasta consolidar el crecimiento cráneo-facial y la maduración de los tejidos. También responde con solvencia en pérdidas traumáticas de incisivos con pilares adyacentes intactos, o en pacientes con poco volumen óseo que descartan someterse a injertos regenerativos."
+      },
+      {
+        "tipo": "p",
+        "texto": "En cambio, desaconsejamos esta opción en sectores posteriores, donde las cargas masticatorias verticales y de compresión comprometen el conector. Tampoco es una indicación viable en bruxistas severos con facetas de desgaste avanzadas ni en dientes pilares con restauraciones extensas que dejen menos de un 80% de esmalte disponible en la cara lingual o palatina."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Preparación intraamelar y retención mecánica"
+      },
+      {
+        "tipo": "p",
+        "texto": "Aunque se habla a veces de puentes Maryland sin preparación previa, en la práctica clínica se necesita un tallado guiado mínimo en esmalte. Este desgaste cumple dos objetivos: hacer sitio al espesor del zirconio para no interferir en céntrica y dotar a la estructura de un freno contra fuerzas de cizallamiento."
+      },
+      {
+        "tipo": "p",
+        "texto": "El esmalte es el sustrato que garantiza una unión química duradera (> 25-30 MPa con sistemas basados en 10-MDP). Si la fresa expone dentina de forma amplia, la adhesión perderá estabilidad con los años debido a la degradación de la capa híbrida por humedad. La preparación debe ser estrictamente intraamelar."
+      },
+      {
+        "tipo": "p",
+        "texto": "El tallado palatino o lingual consta de tres elementos concretos: un alivio uniforme de 0,5 a 0,7 mm en la fosa respetando el cíngulo y manteniendo el margen al menos 1 mm supragingival; una terminación perimetral en micro-cháflan nítido para que el fresador CAD/CAM ajuste con precisión sin dejar bordes finos que se astillen; y una cajuela o surco proximal vertical junto a la brecha edéntula. Esta pequeña muesca proximal marca un eje de inserción unívoco y frena los momentos de rotación horizontal."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Parámetros CAD/CAM para el puente Maryland de zirconio"
+      },
+      {
+        "tipo": "p",
+        "texto": "En Innovadental diseñamos las estructuras de Maryland mediante un <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital clínica-laboratorio</a> para controlar las dimensiones décima a décima en software exocad. En una prótesis fija adhesiva no hay margen para la imprecisión."
+      },
+      {
+        "tipo": "p",
+        "texto": "El tipo de zirconio marca la diferencia. No empleamos zirconios 5Y-PSZ de alta translucidez para este fin: su resistencia a la flexión ronda los 600-700 MPa y presentan una tenacidad baja frente a cargas cíclicas. Si la aleta flecta una micra durante la función masticatoria, desgarra la película de cemento resinoso. Empleamos zirconio 3Y-TZP de alta tenacidad (> 1100 MPa) o zirconios multicapa como PRIME de Ivoclar, asegurando que la zona estructural del conector y el retenedor quede sustentada por la capa de máxima resistencia mecánica."
+      },
+      {
+        "tipo": "p",
+        "texto": "En el diseño digital aplicamos un grosor mínimo de 0,7 mm en la aleta retentiva. Bajar de 0,6 mm dispara el riesgo de descementado por flexión elástica. En el conector interproximal exigimos una sección mínima de 12 mm² en el grupo anterior, subiendo a 14-16 mm² siempre que la altura anatómica lo permita, concentrando esa masa en sentido inciso-gingival. El póntico se modela con perfil oval pulido a espejo mecánico, evitando glaseados en la superficie que apoya en la mucosa."
+      },
+      {
+        "tipo": "h2",
+        "texto": "El error del grabado ácido y la química del 10-MDP"
+      },
+      {
+        "tipo": "p",
+        "texto": "El óxido de zirconio es una cerámica policristalina densa sin fase vítrea. Este detalle químico elemental sigue provocando confusiones: <strong>el zirconio no se puede grabar con ácido fluorhídrico</strong>. Aplicar ácido fluorhídrico en la aleta no genera microrretenciones y solo sirve para ensuciar la superficie."
+      },
+      {
+        "tipo": "p",
+        "texto": "Tampoco sirve el silano clásico que usamos en el <a href=\"https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales\">disilicato de litio</a>, ya que carece de reactividad frente a los óxidos metálicos. La adhesión en zirconio exige una rugosidad mecánica microscópica y una reacción química específica mediante monómeros fosfatados."
+      },
+      {
+        "tipo": "p",
+        "texto": "El anclaje físico se logra mediante microarenado con partículas de alúmina (Al2O3) de 50 µm a una presión moderada de 1 a 2 bar, situando la boquilla a unos 10 mm y en ángulo de 45 grados. El enlace químico posterior lo aporta el monómero 10-MDP (10-metacriloiloxidecil dihidrógeno fosfato), cuyo grupo dihidrógeno fosfato reacciona directamente con los átomos de zirconio formando enlaces iónicos y covalentes Zr-O-P muy estables, mientras que su extremo metacrilato polimeriza con la matriz de la resina."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Protocolo de prueba, descontaminación y cementado paso a paso"
+      },
+      {
+        "tipo": "p",
+        "texto": "El paso crítico en el sillón dental llega durante la prueba de la estructura. Al colocar la pieza en boca para revisar ajuste, contactos y tono, la saliva entra en contacto con el intradós de la aleta. Los fosfolípidos y las proteínas salivales se fijan de inmediato a los iones de zirconio."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si esa superficie contaminada se limpia con agua o alcohol, los fosfatos de la saliva permanecen bloqueando el zirconio. Y aquí aparece otro error frecuente: lavar el zirconio con ácido fosfórico al 37%. El ácido fosfórico inunda los sitios activos del zirconio con iones fosfato libres; cuando el clínico aplica después el primer con 10-MDP, el monómero no encuentra enlaces disponibles a los que unirse y la adhesión fracasa."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para descontaminar el puente tras la prueba clínica solo hay dos métodos válidos: aplicar una solución alcalina de óxidos metálicos (como Ivoclean o ZirClean) durante 20 segundos y aclarar con abundante agua, o realizar un re-arenado suave con alúmina a 1 bar en el arenador de clínica."
+      },
+      {
+        "tipo": "p",
+        "texto": "El cementado se realiza bajo aislamiento absoluto con dique de goma, sin excepciones. Se graba el esmalte palatino con ácido ortofosfórico al 37% durante 30 segundos, se lava y se seca. En el zirconio limpio se aplica el primer con 10-MDP (por ejemplo, Clearfil Ceramic Primer Plus). Para asentar la pieza se utiliza un cemento de resina dual o autopolimerizable (como Panavia V5 o RelyX Ultimate), manteniendo presión axial continua durante el fraguado. Tras retirar los excesos en consistencia gomosa, conviene cubrir los márgenes con gel de glicerina para evitar la inhibición por oxígeno antes de la polimerización final."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Errores habituales que nos llegan al laboratorio"
+      },
+      {
+        "tipo": "p",
+        "texto": "En las prescripciones de puentes Maryland identificamos a veces patrones que comprometen la duración del tratamiento antes de encender la fresadora. Corregirlos a tiempo evita repeticiones innecesarias:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Falta de comprobación oclusal en movimientos dinámicos: se valida el espacio palatino en céntrica, pero se olvida revisar la trayectoria en protrusiva o lateralidad, donde los bordes incisales inferiores golpean el conector.\nSobrepreparación con exposición amplia de dentina: desgastar en exceso buscando retención friccional destruye el esmalte, dejando la interfase a merced de una capa híbrida más permeable.\nConectores adelgazados por estética extrema: rebajar el conector a menos de 10 mm² para abrir la tronera proximal provoca la fractura de la estructura por fatiga mecánica.\nLimpieza de la aleta con ácido ortofosfórico: aplicar gel fosfórico al zirconio tras mancharlo con saliva neutraliza los sitios reactivos necesarios para el 10-MDP."
+      },
+      {
+        "tipo": "cita",
+        "texto": "Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Registros que necesitamos en Innovadental"
+      },
+      {
+        "tipo": "p",
+        "texto": "Para modelar y fresar un puente Maryland de zirconio con ajuste micrométrico, la precisión del archivo digital es determinante. Aunque trabajamos con impresiones tradicionales en silicona de adición, la toma de registros intraoral agiliza enormemente el análisis oclusal tridimensional."
+      },
+      {
+        "tipo": "p",
+        "texto": "Al enviarnos el caso desde tu escáner, ten en cuenta estas tres comprobaciones:"
+      },
+      {
+        "tipo": "ol",
+        "texto": "Escaneado completo de ambas arcadas con margen amplio de mucosa: evita escanear únicamente el frente anterior; necesitamos la arcada entera para articular correctamente las guías y los contactos posteriores.\nSuperficies secas sin reflejos: seca con aire las caras palatinas y los bordes incisales antes de registrar la mordida, ya que la saliva acumulada genera reflejos especulares que la cámara interpreta como volumen de material inexistente.\nAvisar si el paciente llevará férula de descarga o tiene piezas adyacentes con movilidad fisiológica aumentada."
+      },
+      {
+        "tipo": "p",
+        "texto": "Desde nuestro laboratorio en O Burgo, Culleredo, trabajamos a diario con clínicas de toda Galicia coordinando el diseño de prótesis fijas adhesivas. Si dudas sobre el espacio disponible o la conveniencia de una monoaleta en un caso concreto, llámanos al laboratorio antes de preparar el diente y revisamos el STL juntos en pantalla."
+      }
+    ],
+    "faq": [],
+    "tags": [
+      "Prótesis fija",
+      "Zirconio",
+      "Flujo digital",
+      "Estética dental"
+    ],
+    "foto": "cat-maryland-1.jpg",
+    "alt_foto": "Puente Maryland adhesivo de zirconio en cantilever sobre modelo de trabajo"
+  },
+  "brief": {
+    "intencion": "Informativa técnica y de decisión clínica: odontólogos y prostodoncistas buscan criterios biomecánicos, pautas de diseño CAD/CAM (cantilever monoaleta vs. bialeta), preparación dental mínimamente invasiva y el protocolo químico exacto de cementado adhesivo (arenado de óxido de aluminio + MDP) para garantizar la retención a largo plazo de prótesis fijas adhesivas de zirconio.",
+    "respuesta_directa": "El puente Maryland de zirconio moderno se diseña preferentemente en cantilever (un solo retenedor o monoaleta), eliminando la torsión interdental que provocaba el descementado precoz y caries silente de las prótesis tradicionales bialeta. Al ser una estructura de óxido de zirconio no grabable con ácido fluorhídrico, su éxito a largo plazo (supervivencia superior al 90-95% a 10 años según la evidencia del Prof. Matthias Kern) radica en el acondicionamiento mecánico mediante microarenado con Al2O3 a baja presión (1-2 bar) y un enlace químico con primer que contenga monómero 10-MDP acoplado a un cemento de resina dual o autopolimerizable bajo aislamiento absoluto.",
+    "que_cubren_los_top": [
+      "Definición básica del puente Maryland y comparación con el Maryland clásico metálico.",
+      "Principales ventajas estéticas frente a las aletas metálicas (ausencia de translucidez grisácea o efecto halo oscuro en esmalte).",
+      "Indicaciones clásicas: agenesias de incisivos laterales en pacientes jóvenes en crecimiento y pérdida traumática de dientes anteriores.",
+      "Mención generalizada de que suele descementarse si no se aplica una buena técnica de cementado.",
+      "Clasificación genérica de materiales (zirconio vs. disilicato de litio vs. metal-cerámica)."
+    ],
+    "huecos": [
+      "Justificación biomecánica profunda de por qué 1 retenedor (cantilever) supera al diseño clásico de 2 aletas: la movilidad fisiológica diferencial de los dientes pilares bajo carga genera fuerzas de cizallamiento que fracturan la unión adhesiva de una aleta en los bialeta.",
+      "Protocolo de laboratorio paso a paso: selección del zirconio (3Y-TZP de alta tenacidad en conectores vs. zirconio multicapa para estética en póntico), dimensiones mínimas del conector (área recomendada > 12-16 mm² según localización) y grosor de la aleta palatina/lingual (0,7 mm).",
+      "El error recurrente en clínica al acondicionar el zirconio: la creencia errónea de que se puede grabar con ácido fluorhídrico o que un silano convencional sin MDP aportará adhesión química.",
+      "Protocolo clínico de prueba y descontaminación: descontaminación de la aleta tras la prueba en boca con saliva (mediante arenado suave o limpiadores específicos como Ivoclean/ZirClean, nunca con ácido fosfórico que satura los enlaces del zirconio) antes de aplicar el MDP.",
+      "Criterios de preparación conservadora en clínica: preparación mínima en esmalte (caja lingual o surco de asentamiento/resistencia para evitar el cizallamiento) y aislamiento estricto con dique de goma."
+    ],
+    "preguntas_reales": [
+      "¿Por qué es mejor un puente Maryland de una sola aleta (cantilever) que de dos aletas?",
+      "¿Se puede grabar el zirconio con ácido ortofosfórico o fluorhídrico?",
+      "¿Qué cemento y qué adhesivo se deben usar para cementar un Maryland de zirconio?",
+      "¿Qué pasa si pruebo el puente Maryland en boca y se contamina con saliva antes del cementado?",
+      "¿Cuánto dura un puente Maryland de zirconio y cuándo es una solución definitiva o provisional?",
+      "¿Cuál es el grosor mínimo de la aleta y el área del conector en el diseño CAD/CAM?"
+    ],
+    "estructura": [
+      "Puente Maryland de zirconio: de la provisionalidad a la restauración definitiva de mínima invasión",
+      "Biomecánica del retenedor único: por qué el diseño cantilever supera radicalmente al bialeta",
+      "Indicaciones clínicas y contraindicaciones: selección del caso para garantizar el éxito",
+      "Preparación clínica conservadora y requisitos de diseño CAD/CAM en laboratorio (grosores y conectores)",
+      "Protocolo de tratamiento de superficie en laboratorio y descontaminación en clínica",
+      "Protocolo crítico de cementado adhesivo paso a paso: la tríada Arenado + MDP + Cemento Resinoso",
+      "Comunicación clínica-laboratorio: qué registros necesitamos en Innovadental para el fresado de máxima precisión"
+    ],
+    "palabras_objetivo": 1850,
+    "entidades": [
+      "Óxido de zirconio (3Y-TZP / 4Y-PSZ)",
+      "Cantilever (monoaleta / un solo retenedor)",
+      "10-MDP (10-Metacriloiloxidecil dihidrógeno fosfato)",
+      "Microarenado con alúmina (Al2O3 50 µm)",
+      "Matthias Kern (evidencia científica de RBFPDs)",
+      "Panavia V5 / Panavia 21 / RelyX Ultimate",
+      "Ivoclean / ZirClean (descontaminantes de zirconio)",
+      "Esmalte dental (sustrato adhesivo prioritario)",
+      "Aislamiento absoluto con dique de goma",
+      "Conector interproximal (área de sección estructural)"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://laboratoriobiosmile.com",
+        "dato": "En series clínicas publicadas, el puente cantilever cerámico de un solo retenedor en frente anterior ofrece tasas de supervivencia superiores al 90-95% a 5-10 años con grosores de aleta de 0,7 mm."
+      },
+      {
+        "url": "https://unach.edu.ec",
+        "dato": "Revisiones sistemáticas de prótesis parciales fijas adhesivas evidencian tasas de éxito del 82,4% al 100% y menores fallos anuales (1,16%-2,32%) en diseños de un retenedor frente a dos retenedores por compensación de micromovimientos."
+      },
+      {
+        "url": "https://zahnarzt-oberfoehring.com",
+        "dato": "La evidencia longitudinal en cantilever cerámico reporta supervivencias acumuladas a largo plazo del 95-98% a 5 años y 90-95% a 10 años cuando se combina aislamiento con dique y cementación adhesiva de resina."
+      }
+    ]
+  },
+  "html": "<p><strong>El puente Maryland de zirconio moderno se diseña en cantilever (un solo retenedor), un concepto biomecánico que elimina la torsión interdental causante del descementado prematuro y las caries silentes de las estructuras tradicionales bialeta.</strong> Al ser una cerámica policristalina no grabable con ácido fluorhídrico, su fijación a largo plazo depende de microarenar con alúmina a baja presión, aplicar un primer con monómero 10-MDP y cementar con resina bajo aislamiento absoluto. En el sector anterior, este enfoque acumula tasas de supervivencia superiores al 90-95% a diez años en la literatura clínica de referencia.</p>\n<p>Durante años, la prótesis fija adhesiva arrastró mala fama en odontología. La estampa del puente Maryland metálico de dos aletas desprendiéndose a los pocos meses llevó a muchos compañeros a catalogarlo como una solución provisional de compromiso. La llegada de las cerámicas de alta tenacidad y un mejor entendimiento de la cinemática mandibular han transformado este escenario: hoy el puente adhesivo de zirconio es una opción definitiva, conservadora y muy predecible frente al implante unitario o al tallado de muñones completos.</p>\n<h2>Por qué una sola aleta supera biomecánicamente a dos</h2>\n<p>El cambio de planteamiento más radical en este tipo de prótesis no ha sido el zirconio, sino reducir los retenedores a uno solo. Durante mucho tiempo se creyó que dos aletas multiplicaban la retención mecánica. Los análisis por elementos finitos y el seguimiento clínico demostraron justo lo opuesto.</p>\n<p>Cada diente en la boca se mueve de forma independiente. Su ligamento periodontal responde a las fuerzas oclusales con una elasticidad y una dirección de desplazamiento propias. Cuando el paciente mastica o realiza movimientos de lateralidad y protrusiva, los dos dientes que flanquean un espacio edéntulo no se desplazan en la misma trayectoria. En la reposición de un incisivo lateral superior, el central y el canino reciben vectores antagonistas directos.</p>\n<p>Si los unimos mediante una estructura rígida de zirconio con dos aletas, esa movilidad fisiológica diferencial somete a la interfase adhesiva a un cizallamiento continuo. Con el tiempo, la aleta con menor superficie o sometida a más palanca se despega. El verdadero problema es que la otra aleta suele continuar pegada: la prótesis no se cae, pero se abre una vía de microfiltración bacteriana debajo del ala suelta. El resultado habitual es una caries dentinaria extensa e indolora que el paciente solo detecta cuando el daño biológico ya es profundo.</p>\n<p>En un diseño cantilever (monoaleta), el póntico acompaña los movimientos funcionales del pilar sin apoyarse en un segundo diente. Desaparece la torsión diferencial. Y si en algún momento falla la adhesión, la restauración se desprende de forma limpia y completa, lo que permite recementar de inmediato sin haber destruido tejido dental.</p>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Parámetro clínico</th><th>Cantilever (una aleta)</th><th>Diseño clásico (dos aletas)</th></tr></thead><tbody><tr><td>Cinemática dental</td><td>Respeta la movilidad periodontal independiente del pilar</td><td>Bloquea dos piezas con ejes de rotación distintos</td></tr><tr><td>Mecanismo de fallo primario</td><td>Desprendimiento limpio y perceptible de inmediato</td><td>Descementado unilateral oculto con riesgo de caries dentinaria</td></tr><tr><td>Supervivencia longitudinal a 10 años</td><td>90-95% en sector anterior (evidencia Prof. Matthias Kern)</td><td>Significativamente inferior por pérdida precoz de un retenedor</td></tr><tr><td>Espacio interoclusal necesario</td><td>Requiere espacio protésico en un solo diente pilar</td><td>Exige espacio libre palatino en ambos dientes adyacentes</td></tr><tr><td>Invasión de tejido sano</td><td>Preparación confinada a una cara lingual o palatina</td><td>Desgaste superficial de esmalte en dos piezas sanas</td></tr></tbody></table></div>\n<h2>Criterios para seleccionar el caso en el sector anterior</h2>\n<p>El puente Maryland de zirconio en cantilever no sirve para cualquier situación clínica. Su terreno natural es el sector anterior, donde las fuerzas de oclusión se mantienen dentro de límites tolerables para una unión adhesiva al esmalte.</p>\n<p>En clínica funciona con especial seguridad ante agenesias de incisivos laterales superiores en pacientes jóvenes, donde no conviene colocar implantes hasta consolidar el crecimiento cráneo-facial y la maduración de los tejidos. También responde con solvencia en pérdidas traumáticas de incisivos con pilares adyacentes intactos, o en pacientes con poco volumen óseo que descartan someterse a injertos regenerativos.</p>\n<p>En cambio, desaconsejamos esta opción en sectores posteriores, donde las cargas masticatorias verticales y de compresión comprometen el conector. Tampoco es una indicación viable en bruxistas severos con facetas de desgaste avanzadas ni en dientes pilares con restauraciones extensas que dejen menos de un 80% de esmalte disponible en la cara lingual o palatina.</p>\n<h2>Preparación intraamelar y retención mecánica</h2>\n<p>Aunque se habla a veces de puentes Maryland sin preparación previa, en la práctica clínica se necesita un tallado guiado mínimo en esmalte. Este desgaste cumple dos objetivos: hacer sitio al espesor del zirconio para no interferir en céntrica y dotar a la estructura de un freno contra fuerzas de cizallamiento.</p>\n<p>El esmalte es el sustrato que garantiza una unión química duradera (> 25-30 MPa con sistemas basados en 10-MDP). Si la fresa expone dentina de forma amplia, la adhesión perderá estabilidad con los años debido a la degradación de la capa híbrida por humedad. La preparación debe ser estrictamente intraamelar.</p>\n<p>El tallado palatino o lingual consta de tres elementos concretos: un alivio uniforme de 0,5 a 0,7 mm en la fosa respetando el cíngulo y manteniendo el margen al menos 1 mm supragingival; una terminación perimetral en micro-cháflan nítido para que el fresador CAD/CAM ajuste con precisión sin dejar bordes finos que se astillen; y una cajuela o surco proximal vertical junto a la brecha edéntula. Esta pequeña muesca proximal marca un eje de inserción unívoco y frena los momentos de rotación horizontal.</p>\n<h2>Parámetros CAD/CAM para el puente Maryland de zirconio</h2>\n<p>En Innovadental diseñamos las estructuras de Maryland mediante un <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital clínica-laboratorio</a> para controlar las dimensiones décima a décima en software exocad. En una prótesis fija adhesiva no hay margen para la imprecisión.</p>\n<p>El tipo de zirconio marca la diferencia. No empleamos zirconios 5Y-PSZ de alta translucidez para este fin: su resistencia a la flexión ronda los 600-700 MPa y presentan una tenacidad baja frente a cargas cíclicas. Si la aleta flecta una micra durante la función masticatoria, desgarra la película de cemento resinoso. Empleamos zirconio 3Y-TZP de alta tenacidad (> 1100 MPa) o zirconios multicapa como PRIME de Ivoclar, asegurando que la zona estructural del conector y el retenedor quede sustentada por la capa de máxima resistencia mecánica.</p>\n<p>En el diseño digital aplicamos un grosor mínimo de 0,7 mm en la aleta retentiva. Bajar de 0,6 mm dispara el riesgo de descementado por flexión elástica. En el conector interproximal exigimos una sección mínima de 12 mm² en el grupo anterior, subiendo a 14-16 mm² siempre que la altura anatómica lo permita, concentrando esa masa en sentido inciso-gingival. El póntico se modela con perfil oval pulido a espejo mecánico, evitando glaseados en la superficie que apoya en la mucosa.</p>\n<h2>El error del grabado ácido y la química del 10-MDP</h2>\n<p>El óxido de zirconio es una cerámica policristalina densa sin fase vítrea. Este detalle químico elemental sigue provocando confusiones: <strong>el zirconio no se puede grabar con ácido fluorhídrico</strong>. Aplicar ácido fluorhídrico en la aleta no genera microrretenciones y solo sirve para ensuciar la superficie.</p>\n<p>Tampoco sirve el silano clásico que usamos en el <a href=\"https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales\">disilicato de litio</a>, ya que carece de reactividad frente a los óxidos metálicos. La adhesión en zirconio exige una rugosidad mecánica microscópica y una reacción química específica mediante monómeros fosfatados.</p>\n<p>El anclaje físico se logra mediante microarenado con partículas de alúmina (Al2O3) de 50 µm a una presión moderada de 1 a 2 bar, situando la boquilla a unos 10 mm y en ángulo de 45 grados. El enlace químico posterior lo aporta el monómero 10-MDP (10-metacriloiloxidecil dihidrógeno fosfato), cuyo grupo dihidrógeno fosfato reacciona directamente con los átomos de zirconio formando enlaces iónicos y covalentes Zr-O-P muy estables, mientras que su extremo metacrilato polimeriza con la matriz de la resina.</p>\n<h2>Protocolo de prueba, descontaminación y cementado paso a paso</h2>\n<p>El paso crítico en el sillón dental llega durante la prueba de la estructura. Al colocar la pieza en boca para revisar ajuste, contactos y tono, la saliva entra en contacto con el intradós de la aleta. Los fosfolípidos y las proteínas salivales se fijan de inmediato a los iones de zirconio.</p>\n<p>Si esa superficie contaminada se limpia con agua o alcohol, los fosfatos de la saliva permanecen bloqueando el zirconio. Y aquí aparece otro error frecuente: lavar el zirconio con ácido fosfórico al 37%. El ácido fosfórico inunda los sitios activos del zirconio con iones fosfato libres; cuando el clínico aplica después el primer con 10-MDP, el monómero no encuentra enlaces disponibles a los que unirse y la adhesión fracasa.</p>\n<p>Para descontaminar el puente tras la prueba clínica solo hay dos métodos válidos: aplicar una solución alcalina de óxidos metálicos (como Ivoclean o ZirClean) durante 20 segundos y aclarar con abundante agua, o realizar un re-arenado suave con alúmina a 1 bar en el arenador de clínica.</p>\n<p>El cementado se realiza bajo aislamiento absoluto con dique de goma, sin excepciones. Se graba el esmalte palatino con ácido ortofosfórico al 37% durante 30 segundos, se lava y se seca. En el zirconio limpio se aplica el primer con 10-MDP (por ejemplo, Clearfil Ceramic Primer Plus). Para asentar la pieza se utiliza un cemento de resina dual o autopolimerizable (como Panavia V5 o RelyX Ultimate), manteniendo presión axial continua durante el fraguado. Tras retirar los excesos en consistencia gomosa, conviene cubrir los márgenes con gel de glicerina para evitar la inhibición por oxígeno antes de la polimerización final.</p>\n<h2>Errores habituales que nos llegan al laboratorio</h2>\n<p>En las prescripciones de puentes Maryland identificamos a veces patrones que comprometen la duración del tratamiento antes de encender la fresadora. Corregirlos a tiempo evita repeticiones innecesarias:</p>\n<ul><li>Falta de comprobación oclusal en movimientos dinámicos: se valida el espacio palatino en céntrica, pero se olvida revisar la trayectoria en protrusiva o lateralidad, donde los bordes incisales inferiores golpean el conector.</li><li>Sobrepreparación con exposición amplia de dentina: desgastar en exceso buscando retención friccional destruye el esmalte, dejando la interfase a merced de una capa híbrida más permeable.</li><li>Conectores adelgazados por estética extrema: rebajar el conector a menos de 10 mm² para abrir la tronera proximal provoca la fractura de la estructura por fatiga mecánica.</li><li>Limpieza de la aleta con ácido ortofosfórico: aplicar gel fosfórico al zirconio tras mancharlo con saliva neutraliza los sitios reactivos necesarios para el 10-MDP.</li></ul>\n<blockquote>Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible.</blockquote>\n<h2>Registros que necesitamos en Innovadental</h2>\n<p>Para modelar y fresar un puente Maryland de zirconio con ajuste micrométrico, la precisión del archivo digital es determinante. Aunque trabajamos con impresiones tradicionales en silicona de adición, la toma de registros intraoral agiliza enormemente el análisis oclusal tridimensional.</p>\n<p>Al enviarnos el caso desde tu escáner, ten en cuenta estas tres comprobaciones:</p>\n<ol><li>Escaneado completo de ambas arcadas con margen amplio de mucosa: evita escanear únicamente el frente anterior; necesitamos la arcada entera para articular correctamente las guías y los contactos posteriores.</li><li>Superficies secas sin reflejos: seca con aire las caras palatinas y los bordes incisales antes de registrar la mordida, ya que la saliva acumulada genera reflejos especulares que la cámara interpreta como volumen de material inexistente.</li><li>Avisar si el paciente llevará férula de descarga o tiene piezas adyacentes con movilidad fisiológica aumentada.</li></ol>\n<p>Desde nuestro laboratorio en O Burgo, Culleredo, trabajamos a diario con clínicas de toda Galicia coordinando el diseño de prótesis fijas adhesivas. Si dudas sobre el espacio disponible o la conveniencia de una monoaleta en un caso concreto, llámanos al laboratorio antes de preparar el diente y revisamos el STL juntos en pantalla.</p>"
+}
