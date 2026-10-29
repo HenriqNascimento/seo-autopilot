@@ -56,9 +56,11 @@ def exportar():
     """Guarda en el repositorio el contenido actual (borrador incluido) del último artículo del piloto."""
     from . import hubspot
     p = leer("publicados.json", [])[-1]
-    post = hubspot.obtener(p["post_id"])
+    from .cms import cms
+    from . import leads
+    post = cms().obtener(p["post_id"])
     try:
-        borr = hubspot._get(f"/cms/v3/blogs/posts/{p['post_id']}/draft")
+        borr = hubspot._get(f"/cms/v3/blogs/posts/{p['post_id']}/draft") if cms() is hubspot else post
     except Exception:
         borr = post
     from .base import guardar
@@ -89,10 +91,12 @@ def verificar():
     """Comprueba cada conexión con una llamada mínima y explica cómo arreglar lo que falle."""
     from . import gsc, hubspot
     from .base import sitio
+    from .cms import cms
+    from . import leads
     s = sitio()
     pruebas = [
-        ("HubSpot (token y blog)", lambda: f"{len(hubspot.blogs())} blog(s)",
-         "Revisa el secret HUBSPOT_TOKEN_* y los permisos content + files de la app privada."),
+        ("CMS (publicador)", lambda: f"{s['publicador']['tipo']}: {len(cms().posts_publicados(leer('config.json', {}).get('blog_id')))} artículo(s)",
+         "HubSpot: revisa el secret HUBSPOT_TOKEN_* y los permisos. Web estática: revisa el checkout del repo de la web y su variable *_DIR."),
         ("Search Console", lambda: f"{len(gsc.consulta(['query'], dias=7, limite=5))} consultas en 7 días",
          f"Añade el email de la cuenta de servicio como usuario de la propiedad {s['gsc_sitio']} en Search Console."),
         ("Gemini", lambda: ia.tarea("Responde en JSON.", "Di ok.", {"type": "object", "required": ["ok"],
@@ -103,6 +107,10 @@ def verificar():
                                                          {"type": "object", "required": ["fecha"],
                                                           "properties": {"fecha": {"type": "string"}}}, web=True, max_tokens=300)["fecha"],
          "El modelo responde pero no puede buscar: revisa que el modelo admita grounding en Vertex."),
+        ("Contactos (leads)", lambda: (f"{len(leads.actualizar())} contacto(s) registrados" if leads.disponible()
+                                       else "fuente no configurada todavía"),
+         "HubSpot: añade el permiso crm.objects.contacts.read a la app privada. Cloudflare: revisa CLOUDFLARE_API_TOKEN, "
+         "CF_ACCOUNT_ID y CF_KV_LEADS_ID (permiso Workers KV Storage: Read)."),
     ]
     fallos = 0
     for nombre, prueba, arreglo in pruebas:
@@ -158,8 +166,11 @@ def diario():
         if s["publicador"]["tipo"] == "pendiente" and not SIMULAR:
             registrar("omitido", motivo="publicador pendiente de configurar")
             continue
+        if s["publicador"]["tipo"] == "estatico" and not os.environ.get(s["publicador"]["dir_env"]):
+            registrar("omitido", motivo=f"falta el repositorio de la web ({s['publicador']['dir_env']})")
+            continue
         dias = s.get("dias_publicacion")  # p. ej. [1, 3, 5] = martes, jueves, sábado
-        n = (1 if hoy in dias else 0) if dias else cuantos_hoy(s.get("articulos_semana", 3), hoy)
+        n = (1 if hoy in dias else 0) if dias else cuantos_hoy(aprendizaje.frecuencia_actual(), hoy)
         if dias and not n and _publicacion_perdida(dias):
             registrar("recuperacion", motivo="el último día de publicación falló; se publica hoy")
             n = 1

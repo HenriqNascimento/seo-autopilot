@@ -25,11 +25,26 @@ jobs:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       GSC_CREDENCIALES: ${{ secrets.GSC_CREDENCIALES }}
       HUBSPOT_TOKEN_INNOVADENTAL: ${{ secrets.HUBSPOT_TOKEN_INNOVADENTAL }}
-      HUBSPOT_TOKEN_CRESCO: ${{ secrets.HUBSPOT_TOKEN_CRESCO }}
       PAUSADO: ${{ vars.PAUSADO }}
       PRESUPUESTO_USD_MES: ${{ vars.PRESUPUESTO_USD_MES || '9' }}
+      # Cresco (web estática en Cloudflare): repo de la web + registro de contactos en Workers KV
+      TIENE_WEB_CRESCO: ${{ secrets.CRESCO_WEB_TOKEN != '' }}
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CF_ACCOUNT_ID: ${{ vars.CF_ACCOUNT_ID }}
+      CF_KV_LEADS_ID: ${{ vars.CF_KV_LEADS_ID }}
+      PILOTO_GIT_PUSH: "1"
     steps:
       - uses: actions/checkout@v4
+      - name: Repo de la web de Cresco
+        if: env.TIENE_WEB_CRESCO == 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: HenriqNascimento/cresco-web
+          token: ${{ secrets.CRESCO_WEB_TOKEN }}
+          path: _webs/cresco-web
+      - name: Rutas de las webs
+        if: env.TIENE_WEB_CRESCO == 'true'
+        run: echo "CRESCO_WEB_DIR=$GITHUB_WORKSPACE/_webs/cresco-web" >> "$GITHUB_ENV"
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"

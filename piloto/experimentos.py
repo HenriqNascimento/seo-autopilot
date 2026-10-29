@@ -30,6 +30,7 @@ import random
 import statistics
 
 from . import gsc, hubspot, ia
+from .cms import cms
 from .base import SIMULAR, activar, guardar, leer, registrar, sitio
 
 HIPOTESIS_INICIALES = [
@@ -247,7 +248,7 @@ Consultas reales por las que aparece (query, impresiones, posición): {[(q['quer
 Lo aprendido en este sitio: {leer('aprendizajes.md', '')[:2000]}
 Reglas: ≤ 60 caracteres y coherente con el H1 (si no, Google lo reescribe), incluye la consulta principal, promete algo concreto que el artículo cumple, nada de clickbait.""", SNIPPET)
         if not SIMULAR:
-            hubspot.actualizar_en_vivo(p["post_id"], {"htmlTitle": r["titulo_seo"], "metaDescription": r["meta_description"]})
+            cms().actualizar_en_vivo(p["post_id"], {"htmlTitle": r["titulo_seo"], "metaDescription": r["meta_description"]})
         pares.append({"test": {"slug": p["slug"], "post_id": p["post_id"], "url": p["url"], "rastreo": None,
                                "original": {"htmlTitle": p["titulo_seo"], "metaDescription": p["meta_description"]},
                                "nuevo": {"htmlTitle": r["titulo_seo"], "metaDescription": r["meta_description"]},
@@ -261,7 +262,7 @@ Reglas: ≤ 60 caracteres y coherente con el H1 (si no, Google lo reescribe), in
 
 def _revertir(t):
     if not SIMULAR:
-        hubspot.actualizar_en_vivo(t["post_id"], t["original"])
+        cms().actualizar_en_vivo(t["post_id"], t["original"])
 
 
 def evaluar_snippet():

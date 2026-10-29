@@ -39,6 +39,16 @@ ESQUEMA = {
 }
 
 
+def _con_contactos():
+    from .leads import por_articulo
+    pub = {p["slug"]: p for p in leer("publicados.json", [])}
+    out = []
+    for slug, n in por_articulo(leer("leads.json", [])).items():
+        if n["cualificados"] and slug in pub:
+            out.append({"keyword": pub[slug]["keyword"], "cluster": pub[slug].get("cluster"), "contactos_cualificados": n["cualificados"]})
+    return sorted(out, key=lambda x: -x["contactos_cualificados"])[:20] or "(aún ninguno)"
+
+
 def investigar(n_temas=15):
     s = sitio()
     temas = leer("temas.json", [])
@@ -58,7 +68,9 @@ Propón {n_temas} temas NUEVOS de artículo con la mayor probabilidad de traer t
    - Para las candidatas más prometedoras, qué rankea hoy en Google España: resultados débiles, genéricos o antiguos = oportunidad; dominan portales enormes = baja la prioridad.
 2. Consultas de Search Console donde el sitio ya aparece pero mal posicionado (query, página, impresiones, posición):
 {json.dumps(oportunidades_gsc()[:60], ensure_ascii=False)}
-3. Lo aprendido hasta ahora en este sitio:
+3. Artículos que ya han traído contactos cualificados (el objetivo supremo; prioriza temas cercanos a estos):
+{json.dumps(_con_contactos(), ensure_ascii=False)}
+Lo aprendido hasta ahora en este sitio:
 {leer('aprendizajes.md', '(aún sin datos)')}
 4. Lo que hace la empresa (los temas deben conectar con ello):
 {conocimiento('empresa.md')[:3500]}

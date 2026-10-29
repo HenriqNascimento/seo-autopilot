@@ -5,6 +5,7 @@ import json
 import random
 
 from . import experimentos, hubspot, redaccion
+from .cms import cms
 from .base import SIMULAR, dir_sitio, guardar, leer, registrar, salida, sitio
 
 
@@ -16,7 +17,7 @@ def _imagenes_locales():
 def configurar():
     """Detecta blog y autor en el CMS y sube las fotos del sitio. Se ejecuta una vez por sitio."""
     cfg = leer("config.json", {})
-    bl = hubspot.blogs()
+    bl = cms().blogs()
     for b in bl:
         print(f"Blog: {b.get('name')} id={b['id']} url={b.get('absoluteUrl') or b.get('slug')}")
     if not cfg.get("blog_id"):
@@ -26,7 +27,7 @@ def configurar():
         cfg["blog_id"] = elegido["id"]
         cfg["blog_url"] = elegido.get("absoluteUrl", "")
         print(f"Blog elegido: {elegido.get('name')} ({cfg['blog_url']})")
-    au = hubspot.autores()
+    au = cms().autores()
     for a in au:
         print(f"Autor: {a.get('fullName') or a.get('displayName')} id={a['id']}")
     if not cfg.get("autor_id") and au:
@@ -48,7 +49,7 @@ def sincronizar_imagenes():
             if SIMULAR:
                 imgs[nombre] = {"url": f"https://sim/{nombre}", "descripcion": desc}
             else:
-                imgs[nombre] = {"url": hubspot.subir_archivo(str(ruta), f"/blog-{sitio()['id']}"), "descripcion": desc}
+                imgs[nombre] = {"url": cms().subir_archivo(str(ruta), f"/blog-{sitio()['id']}"), "descripcion": desc}
             nuevas += 1
         elif nombre in imgs:
             imgs[nombre]["descripcion"] = desc
@@ -62,7 +63,7 @@ def existentes():
     """Posts publicados (incluye los que no hizo el piloto) para el enlazado interno."""
     if SIMULAR:
         return [{"titulo": p["titulo"], "url": p["url"]} for p in leer("publicados.json", [])]
-    return [{"titulo": p["name"], "url": p["url"]} for p in hubspot.posts_publicados(leer("config.json", {})["blog_id"])]
+    return [{"titulo": p["name"], "url": p["url"]} for p in cms().posts_publicados(leer("config.json", {}).get("blog_id"))]
 
 
 def siguiente_tema():
@@ -128,8 +129,8 @@ def publicar_uno(intentos=2, borrador=False):
             f"<h1>{html.escape(a['titulo'])}</h1>{cuerpo}", encoding="utf-8")
         post = {"id": f"sim-{tema['slug']}", "url": f"{cfg.get('blog_url', s['url'] + '/blog')}/{tema['slug']}"}
     else:
-        datos["tagIds"] = hubspot.tag_ids(a["tags"])
-        post = hubspot.crear_borrador(datos) if borrador else hubspot.crear_y_publicar(datos)
+        datos["tagIds"] = cms().tag_ids(a["tags"])
+        post = cms().crear_borrador(datos) if borrador else cms().crear_y_publicar(datos)
     registro = {
         "slug": tema["slug"], "post_id": post["id"], "url": post["url"], "titulo": a["titulo"],
         "titulo_seo": a["titulo_seo"], "meta_description": a["meta_description"], "keyword": tema["keyword"],

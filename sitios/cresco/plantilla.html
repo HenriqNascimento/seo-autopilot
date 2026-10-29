@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>{{TITULO_SEO}}</title>
+<meta name="description" content="{{META}}">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="canonical" href="{{URL}}">
+<meta name="theme-color" content="#080808">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="article"><meta property="og:locale" content="es_ES"><meta property="og:site_name" content="Cresco">
+<meta property="og:url" content="{{URL}}">
+<meta property="og:title" content="{{TITULO_SEO}}">
+<meta property="og:description" content="{{META}}">
+<meta property="og:image" content="https://cresco.es/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{{JSONLD}}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: centro de ayuda editorial — buscador arriba, guía destacada, lista filtrable de guías paso a paso */
+:root{
+  --bg:#080808; --surface:#111111; --surface-2:#181818;
+  --fg:#f0eee8; --muted:#a3a39a; --dim:#74746c;
+  --accent:#4b8dff; --accent-soft:rgba(75,141,255,.12); --accent-line:rgba(75,141,255,.26); --on-accent:#050d1f;
+  --line:rgba(255,255,255,.07); --line-2:rgba(255,255,255,.13);
+  --display:"Space Grotesk",system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Consolas,monospace;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--display);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+a{color:inherit}
+.wrap{max-width:1120px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.fine{font-family:var(--mono);font-size:11.5px;color:var(--dim);letter-spacing:.04em}
+h1,h2,h3{margin:0;text-wrap:balance}
+h1{font-size:clamp(36px,5.2vw,62px);line-height:1.04;letter-spacing:-.035em;font-weight:700}
+h2{font-size:clamp(24px,3vw,34px);letter-spacing:-.025em;line-height:1.12}
+h3{font-size:19px;letter-spacing:-.015em;font-weight:600}
+p{margin:0;color:var(--muted);max-width:64ch}
+.g{color:var(--accent)}
+.btn{display:inline-flex;align-items:center;gap:10px;background:var(--accent);color:var(--on-accent);font-weight:600;font-size:15px;padding:13px 22px;border-radius:4px;text-decoration:none}
+.ghost{font-family:var(--mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);border:1px solid var(--accent-line);padding:10px 16px;border-radius:3px;text-decoration:none}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+
+nav{position:sticky;top:env(safe-area-inset-top,0px);z-index:9;background:rgba(8,8,8,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+nav .wrap{display:flex;align-items:center;justify-content:space-between;gap:20px;padding-block:16px}
+.logo{font-weight:700;letter-spacing:.22em;font-size:17px;text-decoration:none;border-top:1px solid var(--accent);padding-top:4px}
+.links{display:flex;gap:28px;font-size:13.5px;color:var(--muted)}
+.links a{text-decoration:none}.links a:hover,.links a[aria-current]{color:var(--fg)}
+@media (max-width:820px){.links{display:none}}
+
+
+.art{padding-block:clamp(40px,7vw,80px) 40px}
+.art .wrap{max-width:760px}
+.art header{display:grid;gap:16px;margin-bottom:36px;padding-bottom:28px;border-bottom:1px solid var(--line)}
+.art .crumbs{font-family:var(--mono);font-size:11.5px;color:var(--dim);letter-spacing:.06em}
+.art .crumbs a{text-decoration:none;color:var(--dim)}.art .crumbs a:hover{color:var(--fg)}
+.art h1{font-size:clamp(32px,4.6vw,52px)}
+.cuerpo{display:grid;gap:18px;font-size:17px}
+.cuerpo p,.cuerpo li{color:#cfcdc6;max-width:68ch;line-height:1.72}
+.cuerpo h2{margin-top:22px}
+.cuerpo h3{margin-top:10px}
+.cuerpo a{color:var(--accent);text-underline-offset:3px}
+.cuerpo ul,.cuerpo ol{margin:0;padding-left:22px;display:grid;gap:8px}
+.cuerpo blockquote{margin:6px 0;padding:6px 0 6px 18px;border-left:2px solid var(--accent);color:var(--fg);font-size:19px}
+.cuerpo table{width:100%;border-collapse:collapse;font-size:15px}
+.cuerpo th,.cuerpo td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line-2);color:#cfcdc6;vertical-align:top}
+.cuerpo th{color:var(--fg);font-weight:600}
+.cta-box{margin-top:44px;padding:28px;border:1px solid var(--accent-line);background:var(--accent-soft);border-radius:8px;display:grid;gap:14px}
+.cta-box .acciones{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+.autor{margin-top:32px;font-family:var(--mono);font-size:12px;color:var(--dim)}
+footer{border-top:1px solid var(--line);padding-block:28px}
+footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px}
+footer a{color:var(--dim);font-size:13px;margin-right:16px;text-decoration:none}
+</style>
+</head>
+<body>
+<nav>
+  <div class="wrap">
+    <a class="logo" href="/">CRESCO</a>
+    <div class="links"><a href="/#historia">Por qué</a><a href="/#agentes">Agentes SEO·GEO</a><a href="/#contacto">Precio</a><a href="/blog" aria-current="page">Blog</a></div>
+    <a class="btn sm" href="/?origen={{SLUG}}#contacto" data-cta>Ver mi web gratis</a>
+  </div>
+</nav>
+
+<main class="art">
+  <div class="wrap">
+    <header>
+      <span class="crumbs"><a href="/">Inicio</a> / <a href="/blog">Blog</a></span>
+      <h1>{{TITULO}}</h1>
+      <p>{{RESUMEN}}</p>
+      <span class="fine">{{FECHA_HUMANA}}</span>
+    </header>
+    <article class="cuerpo"><!--CUERPO-->{{CUERPO}}<!--/CUERPO--></article>
+
+    <aside class="cta-box">
+      <span class="eyebrow">Tu web, antes de pagar</span>
+      <h2>¿Quieres ver cómo quedaría la web de tu negocio?</h2>
+      <p>Te preparamos la portada gratis en 72 h. Sin compromiso y sin permanencia: 69,90 €/mes + IVA solo si te gusta.</p>
+      <div class="acciones">
+        <a class="btn" href="/?origen={{SLUG}}#contacto" data-cta>Ver mi web gratis →</a>
+        <a class="ghost" href="/diagnostico.html?origen={{SLUG}}" data-cta>Diagnóstico gratis de tu web</a>
+      </div>
+    </aside>
+    <p class="autor">Escrito por {{AUTOR}} · Publicado el {{FECHA_HUMANA}}</p>
+  </div>
+</main>
+
+<footer><div class="wrap"><div><a href="/aviso-legal.html">Aviso legal</a><a href="/privacidad.html">Privacidad</a><a href="/cookies.html">Cookies</a></div><span class="fine">Webs profesionales con agentes de IA · A Coruña, España</span></div></footer>
+
+<script>
+/* Cuenta clics en las llamadas a la acción (anónimo: sin cookies ni identificadores) */
+document.querySelectorAll('[data-cta]').forEach(function(a){
+  a.addEventListener('click',function(){
+    try{navigator.sendBeacon('/api/evento',new Blob([JSON.stringify({tipo:'cta',origen:'{{SLUG}}'})],{type:'application/json'}))}catch(e){}
+  });
+});
+</script>
+</body>
+</html>

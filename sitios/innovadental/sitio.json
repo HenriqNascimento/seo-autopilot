@@ -48,5 +48,8 @@
     3,
     5
   ],
-  "dias_publicacion_nota": "0=lunes … 6=domingo: martes, jueves y sábado"
+  "dias_publicacion_nota": "0=lunes … 6=domingo: martes, jueves y sábado",
+  "leads": {
+    "tipo": "hubspot"
+  }
 }

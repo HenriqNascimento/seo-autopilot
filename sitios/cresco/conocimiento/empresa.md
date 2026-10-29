@@ -1,29 +1,26 @@
-# CRESCO — hechos (fuente de verdad)
+# Cresco — hechos (fuente de verdad, sacados de cresco.es)
 
-Usar SOLO estos datos como experiencia propia. Lo demás, como conocimiento general de gestión.
+Usar SOLO estos datos como experiencia propia o condiciones comerciales. Lo demás, como conocimiento general.
 
 ## Qué es
-- Consultoría de análisis de gestión para clínicas dentales, laboratorios de prótesis y pymes de servicios en España. A Coruña, trabajo remoto con toda España.
-- Muestra indicadores que el software de gestión no calcula por defecto, a partir de los datos que la clínica ya tiene. Sin cambiar de software ni formar al equipo.
-- Fundador: Henrique Nascimento, analista de gestión. BI Lead en una EdTech de 1,5 M€ de ARR; consultor independiente desde 2023; Análisis de Datos y Ciencias Empresariales en la UDC (en curso).
-- Sin equipo comercial: responde el fundador, en menos de 24 h. Precios publicados. Si no hay encaje, se dice en la primera reunión.
-- Contacto: contacto@cresco.es · WhatsApp +34 617 74 50 44 · https://cresco.es/#contacto
+- Webs profesionales para pequeños negocios locales. Sede en A Coruña (Galicia); clientes en toda España.
+- Fundador: Henrique Nascimento.
+- Agentes de IA, supervisados por el equipo, que mejoran la web cada semana: agente SEO (búsquedas locales, títulos, textos, estructura, velocidad), agente GEO (datos estructurados, respuestas claras y señales de autoridad para ChatGPT, Gemini y Perplexity) y agente CRO (llamadas a la acción, formularios y orden de contenidos).
 
-## Métricas con las que trabaja (fórmulas)
-- Tasa de reactivación de pacientes inactivos (>12 meses sin cita) = reactivados / inactivos a 12 meses × 100.
-- Coste real por tratamiento completado = (coste fijo + coste variable) / tratamientos al mes. Distinto del precio de tarifa.
-- Lead time de agenda = Σ(fecha de cita − fecha de solicitud) / nº de citas del mes.
-- Ratio de aceptación de presupuestos = aceptados / emitidos.
-- Ingresos por hora de sillón disponible = facturación mensual / horas de sillón disponibles.
+## Oferta (literal)
+- Plan Cresco Web: 69,90 €/mes + IVA. Sin permanencia: se cancela al final del mes en curso. El dominio es del cliente y se le transfiere.
+- Incluye: diseño a medida adaptado a móvil, textos profesionales, dominio, hosting y SSL, ficha de Google Business optimizada, cambios de contenido cada mes, informe mensual de visitas y contactos, soporte por WhatsApp y email.
+- Portada gratis en 72 h antes de pagar: si no convence, no se paga nada.
+- Proceso: día 1, llamada de 30 min; en 72 h, portada gratis; días 4–12, diseño y textos; día 14 en adelante, online y mejorando.
+- Respuesta a solicitudes en 24 h laborables.
+- Se limitan las altas a 10 webs nuevas al mes.
+- Comparativa de la propia web (orientativa): agencia tradicional + mantenimiento ≈ 3.000 € el primer año; Cresco 838,80 € el primer año.
+- Diagnóstico gratuito en cresco.es/diagnostico.html: puntuación de la presencia online y comparación con la competencia en Google Maps.
 
-Las cifras de impacto de la web (≈2.400 €/mes por reactivación, −8 % de conversión por día de espera, benchmark 85–120 €/h) son estimaciones comerciales de CRESCO: NO presentarlas como datos del sector; si se usan, como "en nuestra experiencia" y sin precisión falsa.
+## Trabajos reales (se pueden citar)
+- Innovadental: web, blog y SEO local para un laboratorio de prótesis dental de O Burgo (A Coruña) que trabaja con clínicas de toda Galicia.
+- Lapacar Gran Turismo: web en tres idiomas con presupuesto online (vehículos con conductor, A Coruña).
 
-## Servicios
-- Auditoría inicial gratuita: 60 min, 3–5 métricas de mayor impacto, estimación en euros, informe escrito en 48 h.
-- Implementación: 1.200 € pago único, 30 días: dashboard sobre los datos existentes, integración con el software actual, protocolo de lectura mensual, sesión de traspaso de 90 min, 3 revisiones el primer mes.
-- Retainer: desde 600 €/mes: informe mensual, reunión de 45 min, alertas por email, ajustes del dashboard.
-
-## Caso real (autorizado): Innovadental, laboratorio de prótesis, A Coruña, 22 personas, 12 meses
-- Tres líneas absorbían el 60 % del tiempo y daban el 28 % del beneficio.
-- Margen bruto +31 % en 12 meses; −2.100 €/mes en materiales al detectar sobrestock en 3 categorías; ingreso por hora de técnico de 38 a 53 €/h en 9 meses; ROI ×3,8.
-- Margen por línea (€/hora de técnico): implantes 61, fija 52, removible 31, estética 24.
+## Prohibido inventar
+- Resultados de clientes (visitas, posiciones, ventas), número de clientes, reseñas o testimonios.
+- Los ejemplos de la web (Fisiocentro Sur, Clínica Movimiento, la gráfica de visitas) son ILUSTRATIVOS, no clientes: no presentarlos como casos reales.
