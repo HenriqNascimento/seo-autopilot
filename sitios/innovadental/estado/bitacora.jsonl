@@ -27,3 +27,6 @@
 {"t": "2026-10-27T11:56:50", "sitio": "innovadental", "evento": "edicion", "slug": "puente-maryland-zirconio-protocolo-adhesion", "intento": 2, "nota_min": 10, "problemas": 0}
 {"t": "2026-10-27T11:56:55", "sitio": "innovadental", "evento": "publicado", "slug": "puente-maryland-zirconio-protocolo-adhesion", "url": "https://innovadental.net/es/blog/puente-maryland-zirconio-protocolo-adhesion", "palabras": 1909}
 {"t": "2026-10-27T11:56:55", "sitio": "innovadental", "evento": "coste", "usd": 0.1507, "modelo": "gemini-3.8-flash", "entrada": 28256, "salida": 34531, "busquedas": 2}
+{"t": "2026-10-29T12:31:59", "sitio": "innovadental", "evento": "edicion", "slug": "sobredentadura-locator-vs-barra-fresada", "intento": 1, "nota_min": 9, "problemas": 1}
+{"t": "2026-10-29T12:32:03", "sitio": "innovadental", "evento": "publicado", "slug": "sobredentadura-locator-vs-barra-fresada", "url": "https://innovadental.net/es/blog/sobredentadura-locator-vs-barra-fresada", "palabras": 1703}
+{"t": "2026-10-29T12:32:03", "sitio": "innovadental", "evento": "coste", "usd": 0.106, "modelo": "gemini-3.8-flash", "entrada": 28948, "salida": 22470, "busquedas": 5}

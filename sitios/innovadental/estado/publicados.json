@@ -66,5 +66,39 @@
     "publicado": "2026-10-27",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "sobredentadura-locator-vs-barra-fresada",
+    "post_id": "502540399853",
+    "url": "https://innovadental.net/es/blog/sobredentadura-locator-vs-barra-fresada",
+    "titulo": "Sobredentadura Locator vs. barra: criterios biomecánicos y espacio",
+    "titulo_seo": "Sobredentadura Locator vs barra: criterios clínicos",
+    "meta_description": "Sobredentadura Locator vs barra: analizamos espacio interoclusal, divergencia, biomecánica y diferencias por arcada para decidir en cada caso clínico.",
+    "keyword": "sobredentadura locator vs barra",
+    "cluster": "implantologia-removible",
+    "intencion": "comparativa",
+    "etapa": "consideracion",
+    "prioridad": 89,
+    "palabras": 1703,
+    "h2": 7,
+    "tablas": 1,
+    "faq": 2,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "B",
+      "descripcion": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
+      "estrato": "innovadental:implantologia-removible"
+    },
+    "foto": "cat-sobredentadura-barra-1.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 9,
+      "seo": 10,
+      "experiencia": 10
+    },
+    "publicado": "2026-10-29",
+    "simulado": false,
+    "borrador": false
   }
 ]
