@@ -166,9 +166,9 @@ def _anadir_a_lista(slug, d):
         if '<main class="list">' not in t:
             return
         t = t.replace('<main class="list">', seccion + '<main class="list">', 1)
-    if f'href="blog/{slug}"' in t:
+    if f'href="/blog/{slug}"' in t:
         return
-    item = (f'<a href="blog/{slug}" style="display:grid;gap:4px;padding:18px 0;border-bottom:1px solid var(--line);text-decoration:none">'
+    item = (f'<a href="/blog/{slug}" style="display:grid;gap:4px;padding:18px 0;border-bottom:1px solid var(--line);text-decoration:none">'
             f'<h3>{html.escape(d["name"])}</h3><span style="color:var(--muted);font-size:15px">{html.escape(d.get("postSummary", ""))}</span></a>')
     pag.write_text(t.replace(MARCA_LISTA, MARCA_LISTA + "\n" + item, 1), encoding="utf-8")
 
