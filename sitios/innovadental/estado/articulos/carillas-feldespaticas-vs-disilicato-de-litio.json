@@ -1,0 +1,169 @@
+{
+  "articulo": {
+    "titulo": "Carillas feldespáticas vs disilicato: criterio protésico y adhesivo",
+    "titulo_seo": "Carillas feldespáticas vs disilicato: comparativa técnica",
+    "meta_description": "Carillas feldespáticas vs disilicato: resistencia en MPa, espesores mínimos de tallado, protocolo de grabado con fluorhídrico y enmascaramiento de muñones.",
+    "resumen": "Analizamos la cerámica feldespática sobre refractario frente al disilicato de litio: resistencia real en MPa, espesores mínimos, protocolo de grabado con ácido fluorhídrico y límites ante muñones oscuros.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>La elección entre carillas feldespáticas y de disilicato de litio depende directamente del sustrato dental remanente, el espesor disponible y el compromiso biomecánico de la restauración.</strong> La feldespática estratificada ofrece la máxima mimetización óptica y permite espesores ultrafinos de 0,2 a 0,4 mm en técnicas sin tallado, pero su baja resistencia intrínseca (70 a 90 MPa) supedita todo el éxito a una adhesión estricta sobre esmalte. Por su parte, el disilicato de litio alcanza entre 360 y 530 MPa, tolera preparaciones desde 0,4 a 0,6 mm y ofrece una gama amplia de opacidades para neutralizar fondos comprometidos o soportar sobrecargas oclusales moderadas."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Mecánica y espesores: del muñón refractario al prensado"
+      },
+      {
+        "tipo": "p",
+        "texto": "En la mesa de trabajo protésica, manipular una carilla feldespática sobre modelo de muñón refractario exige una precisión milimétrica. Estratificamos masa a masa con pincel sobre un revestimiento de fosfato (técnica Geller). Al cocer la porcelana y desvestir la pieza mediante microarenado con perlas de vidrio a baja presión, la lámina resultante es extremadamente vulnerable. Su resistencia a la flexión oscila únicamente entre 70 y 90 MPa. Hasta que no está químicamente adherida a la superficie dental, manipularla en clínica durante las pruebas en seco conlleva un riesgo real de fractura."
+      },
+      {
+        "tipo": "p",
+        "texto": "A cambio de esa fragilidad inicial, la feldespática permite espesores que ningún fresado mecanizado puede igualar. Márgenes que mueren a cero y cuerpos de 0,2 a 0,3 mm. Es el material idóneo para técnicas no invasivas, microdoncias o pequeños aumentos de volumen vestibular."
+      },
+      {
+        "tipo": "p",
+        "texto": "El disilicato de litio responde a una biomecánica muy distinta. Ya sea mediante inyección (prensado) o fresado CAD/CAM en fase precristalizada, este material ofrece una resistencia biaxial de 470 a 530 MPa. En Innovadental le tenemos gran predilección para restauraciones del sector anterior cuando el paciente presenta facetas de desgaste, contacto incisal activo o cuando la preparación exige algo más de espesor (0,4 a 0,6 mm). Una vez cementado, su comportamiento mecánico y su módulo de elasticidad se aproximan de forma notable al esmalte natural. Para profundizar en sus propiedades en corona completa, puedes revisar nuestra guía sobre el <a href=\"https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales\">disilicato de litio en prótesis fija</a>."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Óptica y enmascaramiento ante sustratos oscuros"
+      },
+      {
+        "tipo": "p",
+        "texto": "El comportamiento de la luz varía por completo según la estructura microscópica de cada cerámica. La porcelana feldespática es predominantemente vítrea. Esa matriz le confiere una transmisión lumínica natural y un mimetismo insuperable si el diente subyacente presenta un color favorable (A1, A2 o esmalte joven)."
+      },
+      {
+        "tipo": "p",
+        "texto": "Sin embargo, esa translucidez se vuelve en contra ante muñones discrómicos, tinciones por tetraciclinas o muñones metálicos. En el laboratorio vemos a menudo el error de planificar una carilla feldespática ultrafina sobre un muñón ND4 a ND9 según la guía Natural Die de Ivoclar. Es imposible bloquear un fondo oscuro con 0,3 mm de feldespato sin saturar la pieza de opacificadores: el resultado es un diente lechoso, sin vida y con un halo grisáceo bajo luz natural."
+      },
+      {
+        "tipo": "cita",
+        "texto": "El color no se acierta en el laboratorio: se comunica desde la clínica."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para tapar un sustrato oscuro, el disilicato de litio es la opción predecible. Permite seleccionar pastillas de media opacidad (MO) o alta opacidad (HO) que frenan el paso de la luz en 0,4 mm de grosor. Sobre ese núcleo realizamos un microtallado vestibular (cut-back) y estratificamos cerámica en el tercio medio e incisal para devolver la translucidez, los mamelones y los efectos opalescentes perdidos. Combinando la toma de color del muñón con un correcto <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo digital entre clínica y laboratorio</a>, el diente no delata la tinción previa."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Protocolo químico de grabado y acondicionamiento adhesivo"
+      },
+      {
+        "tipo": "p",
+        "texto": "No todas las cerámicas vítreas se tratan igual en el gabinete. Tratar un disilicato como feldespato destruye su estructura cristalina, y tratar una feldespática como disilicato genera una adhesión insuficiente. Los tiempos y concentraciones de ácido fluorhídrico (HF) son innegociables:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Cerámica feldespática: ácido fluorhídrico al 9-10 % durante 90 a 120 segundos para disolver la matriz vítrea y generar microrretención profunda.\nDisilicato de litio: ácido fluorhídrico al 4,5-5 % durante 20 segundos estrictos; superar este tiempo precipita sales insolubles y debilita la matriz cristalina."
+      },
+      {
+        "tipo": "p",
+        "texto": "Tras el grabado, el protocolo exige lavado abundante con spray de agua, neutralización o baño en alcohol isopropílico para retirar residuos vítreos, y silanización activa. Recomendamos secar el silano con aire caliente templado durante un minuto para facilitar la evaporación del solvente y consolidar los enlaces siloxánicos."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Criterios clínicos de selección y porcentaje de esmalte"
+      },
+      {
+        "tipo": "p",
+        "texto": "El factor determinante para indicar una carilla feldespática es el sustrato dentario remanente. Las restauraciones feldespáticas mantienen tasas de supervivencia clínica superiores al 95 % a diez años siempre que al menos el 50-70 % de la preparación conserve esmalte intacto. La adhesión a esmalte tolera la deflexión masticatoria; en cambio, tallar sobre dentina expuesta en más de un 50 % incrementa drásticamente la tasa de descementado y filtración marginal en cerámicas de baja resistencia."
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Parámetro clínico | Cerámica feldespática (Excellense) | Disilicato de litio (E-Max)\nResistencia a la flexión | 70 – 90 MPa | 360 – 530 MPa\nEspesor mínimo viable | 0,2 – 0,4 mm | 0,4 – 0,6 mm\nGrabado ácido fluorhídrico | HF 9–10 % (90 a 120 s) | HF 4,5–5 % (20 s)\nTécnica de confección | Muñón refractario / estratificación | Prensado o CAD/CAM + cut-back\nSustrato recomendado | Esmalte intacto (>50–70 %) / Color A1-A3 | Dentina parcial / Sustratos oscuros (ND4–ND9)\nIndicación habitual | Non-prep, microdoncias, cierre diastemas | Gran cambio de color, atrición, guía anterior activa"
+      },
+      {
+        "tipo": "h2",
+        "texto": "La confección en Innovadental: técnica refractaria vs. E-Max"
+      },
+      {
+        "tipo": "p",
+        "texto": "En nuestro laboratorio confeccionamos ambas soluciones con un enfoque biomecánico individualizado. Nuestra línea feldespática Excellense se reserva para casos de odontología mínimamente invasiva donde el clínico respeta la superficie adamantina. Es cerámica pura montada a mano, sin núcleo opaco intermedio, que ofrece una integración biomimética con el diente vecino."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para rehabilitaciones anteriores complejas, pacientes con guías caninas marcadas o coronas combinadas con carillas, optamos por E-Max. Ya sea mediante inyección tradicional para un ajuste marginal microscópico o mediante fresado con escaneado intraoral, el disilicato nos aporta la tranquilidad de un material versátil y mecánicamente robusto."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si tienes dudas sobre el material idóneo para un caso específico o quieres contrastar las fotos de un muñón complejo antes de tallar, llámanos al laboratorio. Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible."
+      },
+      {
+        "tipo": "p",
+        "texto": "Puedes enviar los archivos de tu caso o contactar con Luis en el teléfono +34 981 65 20 66 a través de nuestra página de <a href=\"https://innovadental.net/es/contacte-innovadental\">contacto de Innovadental</a>."
+      }
+    ],
+    "faq": [],
+    "tags": [
+      "Prótesis fija",
+      "Estética dental",
+      "Carillas dentales"
+    ],
+    "foto": "cat-carillas-3.jpg",
+    "alt_foto": "Carillas feldespáticas anteriores elaboradas en el laboratorio dental Innovadental"
+  },
+  "brief": {
+    "intencion": "Informativa y comparativa técnica (B2B principal para odontólogos/prostodoncistas; B2C secundario para pacientes exigentes)",
+    "respuesta_directa": "La elección entre carillas feldespáticas y de disilicato de litio depende del sustrato dental, el espesor disponible y el requerimiento biomecánico. Las feldespáticas estratificadas sobre muñón refractario ofrecen la máxima mimetización óptica y permiten espesores ultrafinos (0,2 a 0,4 mm en técnicas non-prep), pero su resistencia intrínseca es baja (70-90 MPa), dependiendo críticamente de la adhesión a esmalte. El disilicato de litio (prensado o mecanizado) alcanza entre 360 y 530 MPa, tolerando espesores desde 0,4-0,6 mm con mayor versatilidad de opacidades para enmascarar sustratos oscuros o soportar cargas oclusales más complejas.",
+    "que_cubren_los_top": [
+      "Definición básica de carillas de porcelana feldespática frente a disilicato de litio.",
+      "Comparativa genérica de estética vs resistencia mecánica (MPa).",
+      "Durabilidad y tasas de supervivencia clínica general a 10 años (94-97%).",
+      "Mención superficial al tallado mínimo o preparaciones no invasivas (non-prep).",
+      "Precios orientativos o indicaciones para pacientes con bruxismo leve."
+    ],
+    "huecos": [
+      "Perspectiva de laboratorio: paso a paso de la confección sobre muñón refractario (Geller) y las dificultades del desvestido/recuperación frente al prensado o fresado CAD/CAM del disilicato.",
+      "Protocolo químico de grabado y acondicionamiento adhesivo diferenciado: ácido fluorhídrico (HF) al 9-10% durante 90-120 segundos para feldespato frente a HF al 4,5-5% durante 20 segundos para disilicato de litio, seguido de silanización en caliente/activa.",
+      "Comportamiento de la luz y enmascaramiento: por qué una carilla feldespática ultrafina (0,3 mm) no puede bloquear un muñón discrómico (ND4-ND9) sin quedar lechosa o grisácea, y cuándo recurrir a pastillas de disilicato de media/alta opacidad (MO/HO) con estratificación incisal (cut-back).",
+      "Límite biomecánico del espesor y sustrato: tasa de fracaso de la feldespática cuando el tallado expone más del 30-50% de dentina frente al comportamiento del disilicato con adhesión mixta.",
+      "Selección clínica sistemática con la línea Excellense de Innovadental según el mapa de color de muñón (guía ND de Ivoclar) y el espacio interoclusal."
+    ],
+    "preguntas_reales": [
+      "¿Cuánto tiempo y a qué concentración se graba con ácido fluorhídrico una carilla feldespática frente a una de disilicato?",
+      "¿Cuál es el grosor mínimo real de una carilla feldespática sobre muñón refractario sin que se fracture al manipularla?",
+      "¿Se pueden enmascarar muñones oscuros o tetraciclinas con carillas feldespáticas non-prep?",
+      "¿Por qué la cerámica feldespática estratificada ofrece más profundidad óptica que el disilicato maquillado?",
+      "¿Qué porcentaje de esmalte remanente es imprescindible para indicar una feldespática sin riesgo de descementado o fractura?"
+    ],
+    "estructura": [
+      "Carillas feldespáticas vs. disilicato: qué ocurre realmente en la mesa de trabajo protésica",
+      "Propiedades mecánicas y espesores mínimos: de los 0,2 mm refractarios a la tenacidad del disilicato",
+      "Comportamiento óptico y transmisión lumínica: naturalidad mimética frente a capacidad de enmascaramiento",
+      "Protocolo de acondicionamiento adhesivo: diferencias críticas en el grabado con ácido fluorhídrico y silano",
+      "Criterios de selección según el sustrato del muñón (Guía ND) y la guía anterior",
+      "Confección en Innovadental: técnica refractaria artesanal vs. fresado/prensado con cut-back"
+    ],
+    "palabras_objetivo": 1850,
+    "entidades": [
+      "Cerámica feldespática",
+      "Disilicato de litio",
+      "Muñón refractario",
+      "Modelo Geller",
+      "Ácido fluorhídrico (HF)",
+      "Silano / Silanización",
+      "Resistencia a la flexión (MPa)",
+      "Estratificación manual",
+      "Cut-back",
+      "Técnica non-prep",
+      "Sustrato dentario / Guía ND (Natural Die)",
+      "Excellense (Innovadental)"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.ivoclar.com",
+        "dato": "Protocolo de grabado para disilicato de litio (IPS e.max): ácido fluorhídrico al 4,5-5% durante 20 segundos; resistencia a la flexión biaxial de 470 a 530 MPa."
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22497316/",
+        "dato": "Resistencia a la flexión de cerámicas feldespáticas tradicionales: rango entre 70 y 90 MPa; grabado protocolario con ácido fluorhídrico al 9-10% entre 90 y 120 segundos para generar microrretención vítrea."
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24564887/",
+        "dato": "Tasa de éxito a largo plazo (>95% a 10 años) de restauraciones cerámicas adheridas condicionada a mantener al menos un 50-70% de adhesión sobre esmalte dental en carillas ultrafinas."
+      }
+    ]
+  },
+  "html": "<p><strong>La elección entre carillas feldespáticas y de disilicato de litio depende directamente del sustrato dental remanente, el espesor disponible y el compromiso biomecánico de la restauración.</strong> La feldespática estratificada ofrece la máxima mimetización óptica y permite espesores ultrafinos de 0,2 a 0,4 mm en técnicas sin tallado, pero su baja resistencia intrínseca (70 a 90 MPa) supedita todo el éxito a una adhesión estricta sobre esmalte. Por su parte, el disilicato de litio alcanza entre 360 y 530 MPa, tolera preparaciones desde 0,4 a 0,6 mm y ofrece una gama amplia de opacidades para neutralizar fondos comprometidos o soportar sobrecargas oclusales moderadas.</p>\n<h2>Mecánica y espesores: del muñón refractario al prensado</h2>\n<p>En la mesa de trabajo protésica, manipular una carilla feldespática sobre modelo de muñón refractario exige una precisión milimétrica. Estratificamos masa a masa con pincel sobre un revestimiento de fosfato (técnica Geller). Al cocer la porcelana y desvestir la pieza mediante microarenado con perlas de vidrio a baja presión, la lámina resultante es extremadamente vulnerable. Su resistencia a la flexión oscila únicamente entre 70 y 90 MPa. Hasta que no está químicamente adherida a la superficie dental, manipularla en clínica durante las pruebas en seco conlleva un riesgo real de fractura.</p>\n<p>A cambio de esa fragilidad inicial, la feldespática permite espesores que ningún fresado mecanizado puede igualar. Márgenes que mueren a cero y cuerpos de 0,2 a 0,3 mm. Es el material idóneo para técnicas no invasivas, microdoncias o pequeños aumentos de volumen vestibular.</p>\n<p>El disilicato de litio responde a una biomecánica muy distinta. Ya sea mediante inyección (prensado) o fresado CAD/CAM en fase precristalizada, este material ofrece una resistencia biaxial de 470 a 530 MPa. En Innovadental le tenemos gran predilección para restauraciones del sector anterior cuando el paciente presenta facetas de desgaste, contacto incisal activo o cuando la preparación exige algo más de espesor (0,4 a 0,6 mm). Una vez cementado, su comportamiento mecánico y su módulo de elasticidad se aproximan de forma notable al esmalte natural. Para profundizar en sus propiedades en corona completa, puedes revisar nuestra guía sobre el <a href=\"https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales\">disilicato de litio en prótesis fija</a>.</p>\n<h2>Óptica y enmascaramiento ante sustratos oscuros</h2>\n<p>El comportamiento de la luz varía por completo según la estructura microscópica de cada cerámica. La porcelana feldespática es predominantemente vítrea. Esa matriz le confiere una transmisión lumínica natural y un mimetismo insuperable si el diente subyacente presenta un color favorable (A1, A2 o esmalte joven).</p>\n<p>Sin embargo, esa translucidez se vuelve en contra ante muñones discrómicos, tinciones por tetraciclinas o muñones metálicos. En el laboratorio vemos a menudo el error de planificar una carilla feldespática ultrafina sobre un muñón ND4 a ND9 según la guía Natural Die de Ivoclar. Es imposible bloquear un fondo oscuro con 0,3 mm de feldespato sin saturar la pieza de opacificadores: el resultado es un diente lechoso, sin vida y con un halo grisáceo bajo luz natural.</p>\n<blockquote>El color no se acierta en el laboratorio: se comunica desde la clínica.</blockquote>\n<p>Para tapar un sustrato oscuro, el disilicato de litio es la opción predecible. Permite seleccionar pastillas de media opacidad (MO) o alta opacidad (HO) que frenan el paso de la luz en 0,4 mm de grosor. Sobre ese núcleo realizamos un microtallado vestibular (cut-back) y estratificamos cerámica en el tercio medio e incisal para devolver la translucidez, los mamelones y los efectos opalescentes perdidos. Combinando la toma de color del muñón con un correcto <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo digital entre clínica y laboratorio</a>, el diente no delata la tinción previa.</p>\n<h2>Protocolo químico de grabado y acondicionamiento adhesivo</h2>\n<p>No todas las cerámicas vítreas se tratan igual en el gabinete. Tratar un disilicato como feldespato destruye su estructura cristalina, y tratar una feldespática como disilicato genera una adhesión insuficiente. Los tiempos y concentraciones de ácido fluorhídrico (HF) son innegociables:</p>\n<ul><li>Cerámica feldespática: ácido fluorhídrico al 9-10 % durante 90 a 120 segundos para disolver la matriz vítrea y generar microrretención profunda.</li><li>Disilicato de litio: ácido fluorhídrico al 4,5-5 % durante 20 segundos estrictos; superar este tiempo precipita sales insolubles y debilita la matriz cristalina.</li></ul>\n<p>Tras el grabado, el protocolo exige lavado abundante con spray de agua, neutralización o baño en alcohol isopropílico para retirar residuos vítreos, y silanización activa. Recomendamos secar el silano con aire caliente templado durante un minuto para facilitar la evaporación del solvente y consolidar los enlaces siloxánicos.</p>\n<h2>Criterios clínicos de selección y porcentaje de esmalte</h2>\n<p>El factor determinante para indicar una carilla feldespática es el sustrato dentario remanente. Las restauraciones feldespáticas mantienen tasas de supervivencia clínica superiores al 95 % a diez años siempre que al menos el 50-70 % de la preparación conserve esmalte intacto. La adhesión a esmalte tolera la deflexión masticatoria; en cambio, tallar sobre dentina expuesta en más de un 50 % incrementa drásticamente la tasa de descementado y filtración marginal en cerámicas de baja resistencia.</p>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Parámetro clínico</th><th>Cerámica feldespática (Excellense)</th><th>Disilicato de litio (E-Max)</th></tr></thead><tbody><tr><td>Resistencia a la flexión</td><td>70 – 90 MPa</td><td>360 – 530 MPa</td></tr><tr><td>Espesor mínimo viable</td><td>0,2 – 0,4 mm</td><td>0,4 – 0,6 mm</td></tr><tr><td>Grabado ácido fluorhídrico</td><td>HF 9–10 % (90 a 120 s)</td><td>HF 4,5–5 % (20 s)</td></tr><tr><td>Técnica de confección</td><td>Muñón refractario / estratificación</td><td>Prensado o CAD/CAM + cut-back</td></tr><tr><td>Sustrato recomendado</td><td>Esmalte intacto (&gt;50–70 %) / Color A1-A3</td><td>Dentina parcial / Sustratos oscuros (ND4–ND9)</td></tr><tr><td>Indicación habitual</td><td>Non-prep, microdoncias, cierre diastemas</td><td>Gran cambio de color, atrición, guía anterior activa</td></tr></tbody></table></div>\n<h2>La confección en Innovadental: técnica refractaria vs. E-Max</h2>\n<p>En nuestro laboratorio confeccionamos ambas soluciones con un enfoque biomecánico individualizado. Nuestra línea feldespática Excellense se reserva para casos de odontología mínimamente invasiva donde el clínico respeta la superficie adamantina. Es cerámica pura montada a mano, sin núcleo opaco intermedio, que ofrece una integración biomimética con el diente vecino.</p>\n<p>Para rehabilitaciones anteriores complejas, pacientes con guías caninas marcadas o coronas combinadas con carillas, optamos por E-Max. Ya sea mediante inyección tradicional para un ajuste marginal microscópico o mediante fresado con escaneado intraoral, el disilicato nos aporta la tranquilidad de un material versátil y mecánicamente robusto.</p>\n<p>Si tienes dudas sobre el material idóneo para un caso específico o quieres contrastar las fotos de un muñón complejo antes de tallar, llámanos al laboratorio. Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible.</p>\n<p>Puedes enviar los archivos de tu caso o contactar con Luis en el teléfono +34 981 65 20 66 a través de nuestra página de <a href=\"https://innovadental.net/es/contacte-innovadental\">contacto de Innovadental</a>.</p>"
+}

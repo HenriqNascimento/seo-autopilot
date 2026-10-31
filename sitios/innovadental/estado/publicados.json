@@ -100,5 +100,39 @@
     "publicado": "2026-10-29",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "carillas-feldespaticas-vs-disilicato-de-litio",
+    "post_id": "504215710951",
+    "url": "https://innovadental.net/es/blog/carillas-feldespaticas-vs-disilicato-de-litio",
+    "titulo": "Carillas feldespáticas vs disilicato: criterio protésico y adhesivo",
+    "titulo_seo": "Carillas feldespáticas vs disilicato: comparativa técnica",
+    "meta_description": "Carillas feldespáticas vs disilicato: resistencia en MPa, espesores mínimos de tallado, protocolo de grabado con fluorhídrico y enmascaramiento de muñones.",
+    "keyword": "carillas feldespáticas vs disilicato",
+    "cluster": "estetica-adhesiva",
+    "intencion": "comparativa",
+    "etapa": "consideracion",
+    "prioridad": 88,
+    "palabras": 1073,
+    "h2": 5,
+    "tablas": 1,
+    "faq": 0,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "A",
+      "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
+      "estrato": "innovadental:estetica-adhesiva"
+    },
+    "foto": "cat-carillas-3.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 9,
+      "seo": 10,
+      "experiencia": 10
+    },
+    "publicado": "2026-10-31",
+    "simulado": false,
+    "borrador": false
   }
 ]

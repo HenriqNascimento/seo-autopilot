@@ -30,3 +30,6 @@
 {"t": "2026-10-29T12:31:59", "sitio": "innovadental", "evento": "edicion", "slug": "sobredentadura-locator-vs-barra-fresada", "intento": 1, "nota_min": 9, "problemas": 1}
 {"t": "2026-10-29T12:32:03", "sitio": "innovadental", "evento": "publicado", "slug": "sobredentadura-locator-vs-barra-fresada", "url": "https://innovadental.net/es/blog/sobredentadura-locator-vs-barra-fresada", "palabras": 1703}
 {"t": "2026-10-29T12:32:03", "sitio": "innovadental", "evento": "coste", "usd": 0.106, "modelo": "gemini-3.8-flash", "entrada": 28948, "salida": 22470, "busquedas": 5}
+{"t": "2026-10-31T11:53:09", "sitio": "innovadental", "evento": "edicion", "slug": "carillas-feldespaticas-vs-disilicato-de-litio", "intento": 1, "nota_min": 9, "problemas": 1}
+{"t": "2026-10-31T11:53:11", "sitio": "innovadental", "evento": "publicado", "slug": "carillas-feldespaticas-vs-disilicato-de-litio", "url": "https://innovadental.net/es/blog/carillas-feldespaticas-vs-disilicato-de-litio", "palabras": 1073}
+{"t": "2026-10-31T11:53:11", "sitio": "innovadental", "evento": "coste", "usd": 0.0737, "modelo": "gemini-3.8-flash", "entrada": 17549, "salida": 16142, "busquedas": 3}
