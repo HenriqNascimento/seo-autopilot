@@ -1,0 +1,4 @@
+### Fase Inicial: Datos Insuficientes para Conclusiones Causales
+- **Indexación temprana visible**: Dos artículos con menos de 7 días ya registran impresiones orgánicas en primeras páginas (`planificacion-guias-quirurgicas-cbct-stl` con pos. 4.4 e impresiones=5; `puente-maryland-zirconio-protocolo-adhesion` con pos. 5.6 e impresiones=16). Evidencia: Search Console 6 días. Confianza: Baja (muestra < 30 días).
+- **Sin tracción en conversión ni clics aún**: 0 clics y 0 leads atribuidos al blog. Al tener todos los artículos entre 1 y 6 días de vida, es prematuro evaluar impacto en captación de clínicas gallegas o rendimiento del experimento de longitud. Confianza: Alta en la falta de significancia estadística actual.
+- **Regla preliminar**: Mantener monitoreo sin modificar estructuras hasta cumplir al menos 30-45 días de maduración por URL.

@@ -12,3 +12,5 @@
 {"t": "2026-10-30T15:36:01", "sitio": "cresco", "evento": "leads_nuevos", "total": 1, "cualificados": 0}
 {"t": "2026-10-30T15:36:01", "sitio": "cresco", "evento": "verificar", "prueba": "Contactos (leads)", "ok": true, "detalle": "1 contacto(s) registrados"}
 {"t": "2026-10-30T15:36:01", "sitio": "cresco", "evento": "coste", "usd": 0.0006, "modelo": "gemini-3.8-flash", "entrada": 531, "salida": 52, "busquedas": 1}
+{"t": "2026-11-01T12:52:04", "sitio": "cresco", "evento": "investigacion", "nuevos": 15, "en_cola": 15}
+{"t": "2026-11-01T12:52:04", "sitio": "cresco", "evento": "coste", "usd": 0.0156, "modelo": "gemini-3.8-flash", "entrada": 3190, "salida": 3518, "busquedas": 4}

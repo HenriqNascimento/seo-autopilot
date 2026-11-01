@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hs:837774721264",
+    "fecha": "2026-08-04",
+    "origen": "",
+    "fuente": "social_media",
+    "cualificado": false,
+    "motivo": "No aporta datos suficientes de empresa, cargo o ubicación para determinar si encaja con el perfil de cliente ideal."
+  },
+  {
+    "id": "hs:838745632959",
+    "fecha": "2026-08-05",
+    "origen": "",
+    "fuente": "social_media",
+    "cualificado": false,
+    "motivo": "No se dispone de datos suficientes para identificar al contacto como clínica dental u odontólogo potencial."
+  },
+  {
+    "id": "hs:893163392249",
+    "fecha": "2026-10-16",
+    "origen": "",
+    "fuente": "organic_search",
+    "cualificado": false,
+    "motivo": "No se dispone de información profesional ni geográfica para verificar que sea una clínica dental o paciente potencial."
+  }
+]

@@ -33,3 +33,7 @@
 {"t": "2026-10-31T11:53:09", "sitio": "innovadental", "evento": "edicion", "slug": "carillas-feldespaticas-vs-disilicato-de-litio", "intento": 1, "nota_min": 9, "problemas": 1}
 {"t": "2026-10-31T11:53:11", "sitio": "innovadental", "evento": "publicado", "slug": "carillas-feldespaticas-vs-disilicato-de-litio", "url": "https://innovadental.net/es/blog/carillas-feldespaticas-vs-disilicato-de-litio", "palabras": 1073}
 {"t": "2026-10-31T11:53:11", "sitio": "innovadental", "evento": "coste", "usd": 0.0737, "modelo": "gemini-3.8-flash", "entrada": 17549, "salida": 16142, "busquedas": 3}
+{"t": "2026-11-01T12:52:27", "sitio": "innovadental", "evento": "leads_nuevos", "total": 3, "cualificados": 0}
+{"t": "2026-11-01T12:52:35", "sitio": "innovadental", "evento": "aprendizaje", "clusters": 4, "hipotesis": 0, "frecuencia_recomendada": 3}
+{"t": "2026-11-01T12:53:10", "sitio": "innovadental", "evento": "investigacion", "nuevos": 15, "en_cola": 25}
+{"t": "2026-11-01T12:53:10", "sitio": "innovadental", "evento": "coste", "usd": 0.032, "modelo": "gemini-3.8-flash", "entrada": 18580, "salida": 4827, "busquedas": 4}

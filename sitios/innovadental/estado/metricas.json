@@ -6,5 +6,128 @@
       "clics": 0,
       "impresiones": 0
     }
+  },
+  {
+    "fecha": "2026-10-29",
+    "paginas": [
+      {
+        "slug": "planificacion-guias-quirurgicas-cbct-stl",
+        "keyword": "guías quirúrgicas 3d cbct stl",
+        "cluster": "cirugia-guiada-cadcam",
+        "intencion": "procedimiento",
+        "etapa": "consideracion",
+        "palabras": 1304,
+        "h2": 6,
+        "tablas": 1,
+        "faq": 2,
+        "variante": {
+          "experimento": "longitud",
+          "brazo": "A",
+          "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
+          "estrato": "innovadental:cirugia-guiada-cadcam"
+        },
+        "titulo_seo": "Guías quirúrgicas 3D CBCT STL: protocolo clínico",
+        "edad_dias": 6,
+        "page": "https://innovadental.net/es/blog/planificacion-guias-quirurgicas-cbct-stl",
+        "clics": 0,
+        "impresiones": 5,
+        "ctr": 0,
+        "posicion": 4.4,
+        "leads_cualificados_total": 0,
+        "leads_total": 0,
+        "leads_cualificados_28d": 0,
+        "clics_cta_28d": 0
+      },
+      {
+        "slug": "puente-maryland-zirconio-protocolo-adhesion",
+        "keyword": "puente maryland zirconio",
+        "cluster": "protesis-fija-adhesiva",
+        "intencion": "procedimiento",
+        "etapa": "consideracion",
+        "palabras": 1909,
+        "h2": 8,
+        "tablas": 1,
+        "faq": 0,
+        "variante": {
+          "experimento": "longitud",
+          "brazo": "B",
+          "descripcion": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
+          "estrato": "innovadental:protesis-fija-adhesiva"
+        },
+        "titulo_seo": "Puente Maryland de zirconio: cantilever y adhesión",
+        "edad_dias": 5,
+        "page": "https://innovadental.net/es/blog/puente-maryland-zirconio-protocolo-adhesion",
+        "clics": 0,
+        "impresiones": 16,
+        "ctr": 0,
+        "posicion": 5.625,
+        "leads_cualificados_total": 0,
+        "leads_total": 0,
+        "leads_cualificados_28d": 0,
+        "clics_cta_28d": 0
+      },
+      {
+        "slug": "sobredentadura-locator-vs-barra-fresada",
+        "keyword": "sobredentadura locator vs barra",
+        "cluster": "implantologia-removible",
+        "intencion": "comparativa",
+        "etapa": "consideracion",
+        "palabras": 1703,
+        "h2": 7,
+        "tablas": 1,
+        "faq": 2,
+        "variante": {
+          "experimento": "longitud",
+          "brazo": "B",
+          "descripcion": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
+          "estrato": "innovadental:implantologia-removible"
+        },
+        "titulo_seo": "Sobredentadura Locator vs barra: criterios clínicos",
+        "edad_dias": 3,
+        "clics": 0,
+        "impresiones": 0,
+        "ctr": 0,
+        "posicion": null,
+        "leads_cualificados_total": 0,
+        "leads_total": 0,
+        "leads_cualificados_28d": 0,
+        "clics_cta_28d": 0
+      },
+      {
+        "slug": "carillas-feldespaticas-vs-disilicato-de-litio",
+        "keyword": "carillas feldespáticas vs disilicato",
+        "cluster": "estetica-adhesiva",
+        "intencion": "comparativa",
+        "etapa": "consideracion",
+        "palabras": 1073,
+        "h2": 5,
+        "tablas": 1,
+        "faq": 0,
+        "variante": {
+          "experimento": "longitud",
+          "brazo": "A",
+          "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
+          "estrato": "innovadental:estetica-adhesiva"
+        },
+        "titulo_seo": "Carillas feldespáticas vs disilicato: comparativa técnica",
+        "edad_dias": 1,
+        "clics": 0,
+        "impresiones": 0,
+        "ctr": 0,
+        "posicion": null,
+        "leads_cualificados_total": 0,
+        "leads_total": 0,
+        "leads_cualificados_28d": 0,
+        "clics_cta_28d": 0
+      }
+    ],
+    "total": {
+      "clics": 0,
+      "impresiones": 21,
+      "leads_28d_sitio": 1,
+      "leads_cualificados_28d_sitio": 0,
+      "leads_cualificados_28d_desde_blog": 0,
+      "articulos_semana": 3
+    }
   }
 ]

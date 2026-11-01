@@ -1,0 +1,7 @@
+{
+  "recomendacion": {
+    "fecha": "2026-11-01",
+    "valor": 3,
+    "motivo": "Solo hay 2 semanas de histórico registrado y los artículos tienen entre 1 y 6 días de publicación. No existen 8 semanas de datos para atribuir causalidad ni validar saturación, por lo que se mantiene la frecuencia base de 3 artículos/semana mientras el contenido reciente empieza a indexar."
+  }
+}
