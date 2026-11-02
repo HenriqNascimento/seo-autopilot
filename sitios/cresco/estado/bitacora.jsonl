@@ -14,3 +14,12 @@
 {"t": "2026-10-30T15:36:01", "sitio": "cresco", "evento": "coste", "usd": 0.0006, "modelo": "gemini-3.8-flash", "entrada": 531, "salida": 52, "busquedas": 1}
 {"t": "2026-11-01T12:52:04", "sitio": "cresco", "evento": "investigacion", "nuevos": 15, "en_cola": 15}
 {"t": "2026-11-01T12:52:04", "sitio": "cresco", "evento": "coste", "usd": 0.0156, "modelo": "gemini-3.8-flash", "entrada": 3190, "salida": 3518, "busquedas": 4}
+{"t": "2026-11-02T15:04:32", "sitio": "cresco", "evento": "edicion", "slug": "cuanto-cuesta-pagina-web-negocio-local", "intento": 1, "nota_min": 9, "problemas": 2}
+{"t": "2026-11-02T15:07:22", "sitio": "cresco", "evento": "edicion", "slug": "cuanto-cuesta-pagina-web-negocio-local", "intento": 2, "nota_min": 10, "problemas": 1}
+{"t": "2026-11-02T15:10:13", "sitio": "cresco", "evento": "edicion", "slug": "cuanto-cuesta-pagina-web-negocio-local", "intento": 3, "nota_min": 10, "problemas": 1}
+{"t": "2026-11-02T15:10:13", "sitio": "cresco", "evento": "descartado", "slug": "cuanto-cuesta-pagina-web-negocio-local", "motivo": "Calidad insuficiente tras 3 ediciones: ['la keyword no aparece en el primer párrafo']"}
+{"t": "2026-11-02T15:13:23", "sitio": "cresco", "evento": "edicion", "slug": "necesito-pagina-web-si-tengo-instagram", "intento": 1, "nota_min": 9, "problemas": 1}
+{"t": "2026-11-02T15:14:50", "sitio": "cresco", "evento": "edicion", "slug": "necesito-pagina-web-si-tengo-instagram", "intento": 2, "nota_min": 10, "problemas": 0}
+{"t": "2026-11-02T15:14:53", "sitio": "cresco", "evento": "estatico_publicado", "slug": "necesito-pagina-web-si-tengo-instagram", "archivo": "public/blog/necesito-pagina-web-si-tengo-instagram.html"}
+{"t": "2026-11-02T15:14:53", "sitio": "cresco", "evento": "publicado", "slug": "necesito-pagina-web-si-tengo-instagram", "url": "https://cresco.es/blog/necesito-pagina-web-si-tengo-instagram", "palabras": 1180}
+{"t": "2026-11-02T15:14:53", "sitio": "cresco", "evento": "coste", "usd": 0.3729, "modelo": "gemini-3.8-flash", "entrada": 64307, "salida": 86590, "busquedas": 10}
