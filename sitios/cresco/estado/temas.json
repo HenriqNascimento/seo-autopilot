@@ -1,243 +1,242 @@
 [
-  {
-    "slug": "cuanto-cuesta-pagina-web-negocio-local",
-    "keyword": "cuanto cuesta una pagina web para un negocio local",
-    "secundarias": [
-      "precio web autonomos espana",
-      "cuanto cuesta hacer una pagina web pyme",
-      "mantenimiento web precio mensual"
-    ],
-    "intencion": "comparativa",
-    "etapa": "consideracion",
-    "cluster": "precios-y-modelos",
-    "prioridad": 96,
-    "por_que": "Búsqueda mensual constante con altísima intención transaccional. Los resultados actuales ofrecen rangos disparatados (de 500 € a 4.000 €) o costes ocultos de hosting, soporte y plugins.",
-    "enfoque": "Desglose transparente: presupuesto tradicional (desarrollo + mantenimiento anual ≈ 3.000 €) frente al modelo de suscripción todo incluido (69,90 €/mes sin permanencia con dominio, hosting, SEO continuo e IA). CTA directo al comparador y diagnóstico gratuito.",
-    "estado": "descartado",
-    "motivo": "Calidad insuficiente tras 3 ediciones: ['la keyword no aparece en el primer párrafo']"
-  },
-  {
-    "slug": "pagina-web-sin-permanencia",
-    "keyword": "diseno web sin permanencia",
-    "secundarias": [
-      "pagina web cuota mensual sin permanencia",
-      "alquiler de paginas web opiniones",
-      "crear web suscripcion mensual espana"
-    ],
-    "intencion": "comercial",
-    "etapa": "decision",
-    "cluster": "precios-y-modelos",
-    "prioridad": 95,
-    "por_que": "Muchos autónomos han tenido malas experiencias con contratos de permanencia de 24 meses o 'webs gratis' de bancos y telefónicas que luego resultan inservibles o no les permiten quedarse con su dominio.",
-    "enfoque": "Destapar las trampas de los contratos de permanencia en el desarrollo web. Explicar el modelo ético: pago mensual transparente de 69,90 €/mes, cancelación en cualquier momento y dominio 100% en propiedad del cliente.",
-    "estado": "pendiente"
-  },
-  {
-    "slug": "necesito-pagina-web-si-tengo-instagram",
-    "keyword": "necesito pagina web si tengo instagram",
-    "secundarias": [
-      "web o instagram para negocio local",
-      "tener solo instagram para vender",
-      "por que una empresa necesita pagina web y redes sociales"
-    ],
-    "intencion": "informativa",
-    "etapa": "descubrimiento",
-    "cluster": "estrategia-digital-local",
-    "prioridad": 94,
-    "por_que": "Duda recurrente de dueños de peluquerías, clínicas y comercios que creen que las redes bastan. En Google rankean posts teóricos de agencias sin aterrizar el problema del SEO local ni cómo Instagram no posiciona en Google Maps ni resuelve consultas transaccionales.",
-    "enfoque": "Explicar con números la diferencia entre alcance efímero de redes y tráfico con intención de compra en Google. Introducir el concepto de 'web propia como centro de operaciones' conectada a WhatsApp y ofrecer la portada gratis en 72 h para comprobarlo sin riesgo.",
-    "estado": "publicado"
-  },
-  {
-    "slug": "por-que-mi-negocio-no-aparece-en-google-maps",
-    "keyword": "por que mi negocio no aparece en google maps",
-    "secundarias": [
-      "aparecer en los primeros puestos de google maps",
-      "como optimizar la ficha de google business profile",
-      "factores de posicionamiento seo local"
-    ],
-    "intencion": "procedimiento",
-    "etapa": "consideracion",
-    "cluster": "seo-local",
-    "prioridad": 93,
-    "por_que": "Es la búsqueda de socorro más común de comercios y clínicas que crean su perfil de Google pero quedan enterrados en la página 3 o fuera del mapa de los 3 primeros resultados.",
-    "enfoque": "Diagnóstico claro de las 5 causas principales: falta de web conectada, discordancia en datos NAP, ausencia de categorías clave y falta de reseñas. Invitar directamente al test gratuito en cresco.es/diagnostico.html.",
-    "estado": "pendiente"
-  },
-  {
-    "slug": "pagina-web-para-fisioterapeutas",
-    "keyword": "pagina web para fisioterapeutas",
-    "secundarias": [
-      "diseno web clinica fisioterapia",
-      "como captar pacientes fisioterapia",
-      "seo local para clinicas de fisioterapia"
-    ],
-    "intencion": "local",
-    "etapa": "decision",
-    "cluster": "verticales",
-    "prioridad": 92,
-    "por_que": "Sector con alta densidad de profesionales independientes con webs desactualizadas o dependientes de plataformas de reservas con comisiones elevadas.",
-    "enfoque": "Qué elementos necesita la web de una clínica de fisioterapia para llenar agenda: páginas por patología/tratamiento, reserva por WhatsApp, sincronización con Google Maps y sin ataduras técnicas. CTA directo a solicitar la portada gratis en 72 h.",
-    "estado": "pendiente"
-  },
-  {
-    "slug": "mantenimiento-web-que-incluye-cuanto-cuesta",
-    "keyword": "cuanto cuesta el mantenimiento de una web",
-    "secundarias": [
-      "que incluye el mantenimiento web",
-      "precio mantenimiento web pyme espana",
-      "mantenimiento web autonomos"
-    ],
-    "intencion": "comparativa",
-    "etapa": "consideracion",
-    "cluster": "precios-y-modelos",
-    "prioridad": 92,
-    "por_que": "Negocios que ya pagaron 1.500 € por una web en WordPress descubren con sorpresa que se les rompen plugins, sufren hackeos o les cobran 60 € por cambiar un número de teléfono.",
-    "enfoque": "Comparativa entre pagar por horas de soporte técnico imprevisto versus una cuota fija que incluya diseño continuo, cambios de textos mensuales, optimización SEO supervisada por agentes IA y soporte por WhatsApp.",
-    "estado": "pendiente"
-  },
-  {
-    "slug": "pagina-web-para-restaurantes-sin-comisiones",
-    "keyword": "pagina web para restaurante",
-    "secundarias": [
-      "crear web restaurante con carta digital",
-      "diseno web restaurantes",
-      "carta digital y reservas web restaurante"
-    ],
-    "intencion": "local",
-    "etapa": "decision",
-    "cluster": "verticales",
-    "prioridad": 91,
-    "por_que": "Los hosteleros están cansados de pagar comisiones mensuales a plataformas de reservas o de usar PDFs pesados que no cargan en el móvil ni posicionan en Google.",
-    "enfoque": "Cómo estructurar una carta web legible y optimizada para SEO local (sin PDF), botón de reserva o consulta rápida por WhatsApp, vinculada a Google Maps y sin comisiones por comensal por 69,90 €/mes.",
-    "estado": "pendiente"
-  },
-  {
-    "slug": "boton-whatsapp-pagina-web-negocio-local",
-    "keyword": "boton whatsapp en la web",
-    "secundarias": [
-      "whatsapp business en pagina web",
-      "como poner whatsapp flotante en mi web",
-      "pedir cita por whatsapp en la web"
-    ],
-    "intencion": "comercial",
-    "etapa": "consideracion",
-    "cluster": "conversion-cro",
-    "prioridad": 90,
-    "por_que": "Autónomos y pymes en España pierden clientes con formularios eternos. Los usuarios buscan cómo implementar WhatsApp directo en su web para cerrar citas de inmediato.",
-    "enfoque": "Análisis de conversión: por qué el botón directo de WhatsApp multiplica x3 los contactos frente al formulario clásico en negocios de proximidad. Mostrar cómo lo optimiza el agente CRO de Cresco y enlazar a pedir la prueba de portada gratis.",
-    "estado": "pendiente"
-  },
-  {
-    "slug": "pagina-web-para-clinica-dental",
-    "keyword": "pagina web para clinica dental",
-    "secundarias": [
-      "diseno web clinicas dentales",
-      "seo local para dentistas",
-      "como conseguir primeras visitas clinica dental"
-    ],
-    "intencion": "local",
-    "etapa": "decision",
-    "cluster": "verticales",
-    "prioridad": 90,
-    "por_que": "Sector con un ticket medio muy alto donde una sola primera visita rentabiliza la inversión web del año entero. Mercado saturado donde las clínicas pequeñas necesitan diferenciarse de las franquicias.",
-    "enfoque": "Cómo estructurar una web odontológica que genere tranquilidad (implantes, ortodoncia invisible, urgencias dentales) con optimización local y experiencia real en el sector (citando el trabajo en el sector dental con Innovadental).",
-    "estado": "pendiente"
-  },
-  {
-    "slug": "como-conseguir-resenas-en-google-negocio-local",
-    "keyword": "como conseguir resenas en google",
-    "secundarias": [
-      "pedir opiniones google clientes",
-      "conseguir comentarios positivos google maps",
-      "enlace directo opiniones google business"
-    ],
-    "intencion": "procedimiento",
-    "etapa": "consideracion",
-    "cluster": "reputacion-local",
-    "prioridad": 89,
-    "por_que": "Los pequeños negocios saben que las reseñas definen el clic de compra en Google Maps, pero les da vergüenza pedir opiniones o no saben crear el enlace directo.",
-    "enfoque": "Guía táctica con plantillas de WhatsApp listas para copiar y pegar tras prestar un servicio, cómo generar el link corto y cómo integrarlas dinámicamente en la web profesional para generar confianza inmediata.",
-    "estado": "pendiente"
-  },
-  {
-    "slug": "pagina-web-para-peluquerias-y-centros-estetica",
-    "keyword": "pagina web para peluqueria",
-    "secundarias": [
-      "diseno web centro de estetica",
-      "como captar clientes peluqueria",
-      "reserva de citas web estetica y peluqueria"
-    ],
-    "intencion": "local",
-    "etapa": "decision",
-    "cluster": "verticales",
-    "prioridad": 89,
-    "por_que": "Las peluquerías suelen tener un Instagram muy activo pero cero posicionamiento en Google cuando alguien busca un tratamiento específico (alisados, mechas balayage, barbería) en su barrio.",
-    "enfoque": "La fórmula para combinar la galería de trabajos con landing pages de servicios específicos que atraigan citas recurrentes a través de WhatsApp y Google Maps. CTA: Ver la portada gratis en 72 h.",
-    "estado": "pendiente"
-  },
-  {
-    "slug": "como-salir-en-chatgpt-negocio-local",
-    "keyword": "como salir en chatgpt negocio local",
-    "secundarias": [
-      "posicionamiento geo inteligencia artificial",
-      "aparecer en perplexity y gemini",
-      "optimizacion de motores generativos negocios"
-    ],
-    "intencion": "procedimiento",
-    "etapa": "descubrimiento",
-    "cluster": "geo-ia",
-    "prioridad": 88,
-    "por_que": "Interés en alza vertical en 2026. Los negocios locales ven que sus clientes ya preguntan a ChatGPT o Gemini por fontaneros o clínicas cercanas, pero los artículos existentes son excesivamente técnicos sobre llm.txt y LLMs genéricos.",
-    "enfoque": "Guía práctica de GEO (Generative Engine Optimization) para autónomos: consistencia NAP, Schema LocalBusiness y lenguaje claro. Explicar cómo el agente GEO de Cresco automatiza estas señales para que las IAs citen la web.",
-    "estado": "pendiente"
-  },
-  {
-    "slug": "cuanto-tarda-una-web-en-salir-en-google",
-    "keyword": "cuanto tarda una web en salir en google",
-    "secundarias": [
-      "tiempo indexacion web nueva google",
-      "cuanto tarda en posicionar una web local",
-      "por que mi pagina web no aparece en google maps"
-    ],
-    "intencion": "informativa",
-    "etapa": "descubrimiento",
-    "cluster": "seo-local",
-    "prioridad": 87,
-    "por_que": "Una de las frustraciones más buscadas por autónomos que acaban de lanzar una web o que llevan meses sin recibir ni una llamada. Resultados actuales hablan de 6-12 meses de forma genérica.",
-    "enfoque": "Diferenciar con claridad entre indexación técnica (días) y posicionamiento en el Local Pack de Google Maps (semanas/meses). Enseñar qué factores aceleran el proceso (ficha GBP vinculada, arquitectura por servicios y supervisión continua) e invitar a hacer el diagnóstico gratuito.",
-    "estado": "pendiente"
-  },
-  {
-    "slug": "pagina-web-para-academias-y-centros-formacion",
-    "keyword": "pagina web para academias",
-    "secundarias": [
-      "diseno web academias de idiomas",
-      "como captar alumnos academia local",
-      "marketing local para centros de formacion"
-    ],
-    "intencion": "local",
-    "etapa": "decision",
-    "cluster": "verticales",
-    "prioridad": 86,
-    "por_que": "Las academias (idiomas, refuerzo escolar, oposiciones, música) viven de campañas estacionales (septiembre y enero). La mayoría pierde matrículas por no tener fichas de cursos claras ni llamadas a la acción directas.",
-    "enfoque": "Estructura web de captación para centros de formación: presentación de cursos, resolución de dudas frecuentes, horarios y botón directo para solicitar prueba de nivel por WhatsApp, con SEO activo para liderar la zona escolar.",
-    "estado": "pendiente"
-  },
-  {
-    "slug": "pagina-web-para-talleres-mecanicos",
-    "keyword": "pagina web para taller mecanico",
-    "secundarias": [
-      "diseno web talleres mecanicos",
-      "como conseguir clientes para un taller mecanico",
-      "seo local para talleres de coches"
-    ],
-    "intencion": "local",
-    "etapa": "decision",
-    "cluster": "verticales",
-    "prioridad": 85,
-    "por_que": "Sector muy tradicional donde el 80% de talleres compite solo con la fachada física o una ficha de Maps abandonada. Cuando un conductor sufre una avería urgente o busca revisión, busca en Google desde el móvil.",
-    "enfoque": "Cómo un taller mecánico local puede captar revisiones pre-ITV y averías rápidas con una web adaptada a móvil, botón de llamada y WhatsApp de urgencia, gestionada al 100% sin quitarle tiempo de taller.",
-    "estado": "pendiente"
-  }
+ {
+  "slug": "cuanto-cuesta-pagina-web-negocio-local",
+  "keyword": "cuanto cuesta una pagina web para un negocio local",
+  "secundarias": [
+   "precio web autonomos espana",
+   "cuanto cuesta hacer una pagina web pyme",
+   "mantenimiento web precio mensual"
+  ],
+  "intencion": "comparativa",
+  "etapa": "consideracion",
+  "cluster": "precios-y-modelos",
+  "prioridad": 96,
+  "por_que": "Búsqueda mensual constante con altísima intención transaccional. Los resultados actuales ofrecen rangos disparatados (de 500 € a 4.000 €) o costes ocultos de hosting, soporte y plugins.",
+  "enfoque": "Desglose transparente: presupuesto tradicional (desarrollo + mantenimiento anual ≈ 3.000 €) frente al modelo de suscripción todo incluido (69,90 €/mes sin permanencia con dominio, hosting, SEO continuo e IA). CTA directo al comparador y diagnóstico gratuito.",
+  "estado": "pendiente"
+ },
+ {
+  "slug": "pagina-web-sin-permanencia",
+  "keyword": "diseno web sin permanencia",
+  "secundarias": [
+   "pagina web cuota mensual sin permanencia",
+   "alquiler de paginas web opiniones",
+   "crear web suscripcion mensual espana"
+  ],
+  "intencion": "comercial",
+  "etapa": "decision",
+  "cluster": "precios-y-modelos",
+  "prioridad": 95,
+  "por_que": "Muchos autónomos han tenido malas experiencias con contratos de permanencia de 24 meses o 'webs gratis' de bancos y telefónicas que luego resultan inservibles o no les permiten quedarse con su dominio.",
+  "enfoque": "Destapar las trampas de los contratos de permanencia en el desarrollo web. Explicar el modelo ético: pago mensual transparente de 69,90 €/mes, cancelación en cualquier momento y dominio 100% en propiedad del cliente.",
+  "estado": "pendiente"
+ },
+ {
+  "slug": "necesito-pagina-web-si-tengo-instagram",
+  "keyword": "necesito pagina web si tengo instagram",
+  "secundarias": [
+   "web o instagram para negocio local",
+   "tener solo instagram para vender",
+   "por que una empresa necesita pagina web y redes sociales"
+  ],
+  "intencion": "informativa",
+  "etapa": "descubrimiento",
+  "cluster": "estrategia-digital-local",
+  "prioridad": 94,
+  "por_que": "Duda recurrente de dueños de peluquerías, clínicas y comercios que creen que las redes bastan. En Google rankean posts teóricos de agencias sin aterrizar el problema del SEO local ni cómo Instagram no posiciona en Google Maps ni resuelve consultas transaccionales.",
+  "enfoque": "Explicar con números la diferencia entre alcance efímero de redes y tráfico con intención de compra en Google. Introducir el concepto de 'web propia como centro de operaciones' conectada a WhatsApp y ofrecer la portada gratis en 72 h para comprobarlo sin riesgo.",
+  "estado": "publicado"
+ },
+ {
+  "slug": "por-que-mi-negocio-no-aparece-en-google-maps",
+  "keyword": "por que mi negocio no aparece en google maps",
+  "secundarias": [
+   "aparecer en los primeros puestos de google maps",
+   "como optimizar la ficha de google business profile",
+   "factores de posicionamiento seo local"
+  ],
+  "intencion": "procedimiento",
+  "etapa": "consideracion",
+  "cluster": "seo-local",
+  "prioridad": 93,
+  "por_que": "Es la búsqueda de socorro más común de comercios y clínicas que crean su perfil de Google pero quedan enterrados en la página 3 o fuera del mapa de los 3 primeros resultados.",
+  "enfoque": "Diagnóstico claro de las 5 causas principales: falta de web conectada, discordancia en datos NAP, ausencia de categorías clave y falta de reseñas. Invitar directamente al test gratuito en cresco.es/diagnostico.html.",
+  "estado": "pendiente"
+ },
+ {
+  "slug": "pagina-web-para-fisioterapeutas",
+  "keyword": "pagina web para fisioterapeutas",
+  "secundarias": [
+   "diseno web clinica fisioterapia",
+   "como captar pacientes fisioterapia",
+   "seo local para clinicas de fisioterapia"
+  ],
+  "intencion": "local",
+  "etapa": "decision",
+  "cluster": "verticales",
+  "prioridad": 92,
+  "por_que": "Sector con alta densidad de profesionales independientes con webs desactualizadas o dependientes de plataformas de reservas con comisiones elevadas.",
+  "enfoque": "Qué elementos necesita la web de una clínica de fisioterapia para llenar agenda: páginas por patología/tratamiento, reserva por WhatsApp, sincronización con Google Maps y sin ataduras técnicas. CTA directo a solicitar la portada gratis en 72 h.",
+  "estado": "pendiente"
+ },
+ {
+  "slug": "mantenimiento-web-que-incluye-cuanto-cuesta",
+  "keyword": "cuanto cuesta el mantenimiento de una web",
+  "secundarias": [
+   "que incluye el mantenimiento web",
+   "precio mantenimiento web pyme espana",
+   "mantenimiento web autonomos"
+  ],
+  "intencion": "comparativa",
+  "etapa": "consideracion",
+  "cluster": "precios-y-modelos",
+  "prioridad": 92,
+  "por_que": "Negocios que ya pagaron 1.500 € por una web en WordPress descubren con sorpresa que se les rompen plugins, sufren hackeos o les cobran 60 € por cambiar un número de teléfono.",
+  "enfoque": "Comparativa entre pagar por horas de soporte técnico imprevisto versus una cuota fija que incluya diseño continuo, cambios de textos mensuales, optimización SEO supervisada por agentes IA y soporte por WhatsApp.",
+  "estado": "pendiente"
+ },
+ {
+  "slug": "pagina-web-para-restaurantes-sin-comisiones",
+  "keyword": "pagina web para restaurante",
+  "secundarias": [
+   "crear web restaurante con carta digital",
+   "diseno web restaurantes",
+   "carta digital y reservas web restaurante"
+  ],
+  "intencion": "local",
+  "etapa": "decision",
+  "cluster": "verticales",
+  "prioridad": 91,
+  "por_que": "Los hosteleros están cansados de pagar comisiones mensuales a plataformas de reservas o de usar PDFs pesados que no cargan en el móvil ni posicionan en Google.",
+  "enfoque": "Cómo estructurar una carta web legible y optimizada para SEO local (sin PDF), botón de reserva o consulta rápida por WhatsApp, vinculada a Google Maps y sin comisiones por comensal por 69,90 €/mes.",
+  "estado": "pendiente"
+ },
+ {
+  "slug": "boton-whatsapp-pagina-web-negocio-local",
+  "keyword": "boton whatsapp en la web",
+  "secundarias": [
+   "whatsapp business en pagina web",
+   "como poner whatsapp flotante en mi web",
+   "pedir cita por whatsapp en la web"
+  ],
+  "intencion": "comercial",
+  "etapa": "consideracion",
+  "cluster": "conversion-cro",
+  "prioridad": 90,
+  "por_que": "Autónomos y pymes en España pierden clientes con formularios eternos. Los usuarios buscan cómo implementar WhatsApp directo en su web para cerrar citas de inmediato.",
+  "enfoque": "Análisis de conversión: por qué el botón directo de WhatsApp multiplica x3 los contactos frente al formulario clásico en negocios de proximidad. Mostrar cómo lo optimiza el agente CRO de Cresco y enlazar a pedir la prueba de portada gratis.",
+  "estado": "pendiente"
+ },
+ {
+  "slug": "pagina-web-para-clinica-dental",
+  "keyword": "pagina web para clinica dental",
+  "secundarias": [
+   "diseno web clinicas dentales",
+   "seo local para dentistas",
+   "como conseguir primeras visitas clinica dental"
+  ],
+  "intencion": "local",
+  "etapa": "decision",
+  "cluster": "verticales",
+  "prioridad": 90,
+  "por_que": "Sector con un ticket medio muy alto donde una sola primera visita rentabiliza la inversión web del año entero. Mercado saturado donde las clínicas pequeñas necesitan diferenciarse de las franquicias.",
+  "enfoque": "Cómo estructurar una web odontológica que genere tranquilidad (implantes, ortodoncia invisible, urgencias dentales) con optimización local y experiencia real en el sector (citando el trabajo en el sector dental con Innovadental).",
+  "estado": "pendiente"
+ },
+ {
+  "slug": "como-conseguir-resenas-en-google-negocio-local",
+  "keyword": "como conseguir resenas en google",
+  "secundarias": [
+   "pedir opiniones google clientes",
+   "conseguir comentarios positivos google maps",
+   "enlace directo opiniones google business"
+  ],
+  "intencion": "procedimiento",
+  "etapa": "consideracion",
+  "cluster": "reputacion-local",
+  "prioridad": 89,
+  "por_que": "Los pequeños negocios saben que las reseñas definen el clic de compra en Google Maps, pero les da vergüenza pedir opiniones o no saben crear el enlace directo.",
+  "enfoque": "Guía táctica con plantillas de WhatsApp listas para copiar y pegar tras prestar un servicio, cómo generar el link corto y cómo integrarlas dinámicamente en la web profesional para generar confianza inmediata.",
+  "estado": "pendiente"
+ },
+ {
+  "slug": "pagina-web-para-peluquerias-y-centros-estetica",
+  "keyword": "pagina web para peluqueria",
+  "secundarias": [
+   "diseno web centro de estetica",
+   "como captar clientes peluqueria",
+   "reserva de citas web estetica y peluqueria"
+  ],
+  "intencion": "local",
+  "etapa": "decision",
+  "cluster": "verticales",
+  "prioridad": 89,
+  "por_que": "Las peluquerías suelen tener un Instagram muy activo pero cero posicionamiento en Google cuando alguien busca un tratamiento específico (alisados, mechas balayage, barbería) en su barrio.",
+  "enfoque": "La fórmula para combinar la galería de trabajos con landing pages de servicios específicos que atraigan citas recurrentes a través de WhatsApp y Google Maps. CTA: Ver la portada gratis en 72 h.",
+  "estado": "pendiente"
+ },
+ {
+  "slug": "como-salir-en-chatgpt-negocio-local",
+  "keyword": "como salir en chatgpt negocio local",
+  "secundarias": [
+   "posicionamiento geo inteligencia artificial",
+   "aparecer en perplexity y gemini",
+   "optimizacion de motores generativos negocios"
+  ],
+  "intencion": "procedimiento",
+  "etapa": "descubrimiento",
+  "cluster": "geo-ia",
+  "prioridad": 88,
+  "por_que": "Interés en alza vertical en 2026. Los negocios locales ven que sus clientes ya preguntan a ChatGPT o Gemini por fontaneros o clínicas cercanas, pero los artículos existentes son excesivamente técnicos sobre llm.txt y LLMs genéricos.",
+  "enfoque": "Guía práctica de GEO (Generative Engine Optimization) para autónomos: consistencia NAP, Schema LocalBusiness y lenguaje claro. Explicar cómo el agente GEO de Cresco automatiza estas señales para que las IAs citen la web.",
+  "estado": "pendiente"
+ },
+ {
+  "slug": "cuanto-tarda-una-web-en-salir-en-google",
+  "keyword": "cuanto tarda una web en salir en google",
+  "secundarias": [
+   "tiempo indexacion web nueva google",
+   "cuanto tarda en posicionar una web local",
+   "por que mi pagina web no aparece en google maps"
+  ],
+  "intencion": "informativa",
+  "etapa": "descubrimiento",
+  "cluster": "seo-local",
+  "prioridad": 87,
+  "por_que": "Una de las frustraciones más buscadas por autónomos que acaban de lanzar una web o que llevan meses sin recibir ni una llamada. Resultados actuales hablan de 6-12 meses de forma genérica.",
+  "enfoque": "Diferenciar con claridad entre indexación técnica (días) y posicionamiento en el Local Pack de Google Maps (semanas/meses). Enseñar qué factores aceleran el proceso (ficha GBP vinculada, arquitectura por servicios y supervisión continua) e invitar a hacer el diagnóstico gratuito.",
+  "estado": "pendiente"
+ },
+ {
+  "slug": "pagina-web-para-academias-y-centros-formacion",
+  "keyword": "pagina web para academias",
+  "secundarias": [
+   "diseno web academias de idiomas",
+   "como captar alumnos academia local",
+   "marketing local para centros de formacion"
+  ],
+  "intencion": "local",
+  "etapa": "decision",
+  "cluster": "verticales",
+  "prioridad": 86,
+  "por_que": "Las academias (idiomas, refuerzo escolar, oposiciones, música) viven de campañas estacionales (septiembre y enero). La mayoría pierde matrículas por no tener fichas de cursos claras ni llamadas a la acción directas.",
+  "enfoque": "Estructura web de captación para centros de formación: presentación de cursos, resolución de dudas frecuentes, horarios y botón directo para solicitar prueba de nivel por WhatsApp, con SEO activo para liderar la zona escolar.",
+  "estado": "pendiente"
+ },
+ {
+  "slug": "pagina-web-para-talleres-mecanicos",
+  "keyword": "pagina web para taller mecanico",
+  "secundarias": [
+   "diseno web talleres mecanicos",
+   "como conseguir clientes para un taller mecanico",
+   "seo local para talleres de coches"
+  ],
+  "intencion": "local",
+  "etapa": "decision",
+  "cluster": "verticales",
+  "prioridad": 85,
+  "por_que": "Sector muy tradicional donde el 80% de talleres compite solo con la fachada física o una ficha de Maps abandonada. Cuando un conductor sufre una avería urgente o busca revisión, busca en Google desde el móvil.",
+  "enfoque": "Cómo un taller mecánico local puede captar revisiones pre-ITV y averías rápidas con una web adaptada a móvil, botón de llamada y WhatsApp de urgencia, gestionada al 100% sin quitarle tiempo de taller.",
+  "estado": "pendiente"
+ }
 ]

@@ -23,7 +23,7 @@ El lector es un profesional ocupado que busca resolver una duda concreta. Quiere
 ## Estructura que funciona
 1. Primer párrafo: la respuesta directa a la búsqueda en 2–3 frases (sirve a Google y a las IA que citan).
 2. Desarrollo en el orden en que el clínico lo necesita (decidir → preparar → enviar → qué recibe).
-3. Una sección práctica: checklist, tabla comparativa o "errores que vemos".
+3. Una sección práctica: checklist, tabla comparativa o errores típicos.
 4. FAQ visible (0–5 preguntas) SOLO si hay preguntas reales que el cuerpo no responde ya. No se añade por SEO: Google limita los resultados enriquecidos de FAQ a sitios de salud/gobierno autoritativos.
 5. Cierre sobrio con la llamada a la acción del sitio. Una frase o dos.
 

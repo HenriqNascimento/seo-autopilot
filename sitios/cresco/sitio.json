@@ -19,6 +19,7 @@
     "nota": "El ciclo semanal puede ajustar articulos_semana dentro de estos límites"
   },
   "presupuesto_usd_mes": 4.5,
+  "empresa_nueva": true,
   "negocio": "Webs profesionales para pequeños negocios locales por 69,90 €/mes + IVA, todo incluido, con agentes de IA que optimizan SEO (Google) y GEO (ChatGPT, Gemini, Perplexity). Sede en A Coruña, clientes en toda España.",
   "publico": "Dueños de pequeños negocios locales en España (clínicas, fisioterapeutas, restaurantes, talleres, peluquerías, academias, comercios, servicios profesionales) que no tienen web o tienen una web que no les trae clientes.",
   "objetivo": "Que dueños de negocios locales pidan la portada gratis de su web o hagan el diagnóstico gratuito (formularios de cresco.es).",

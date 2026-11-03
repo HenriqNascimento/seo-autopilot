@@ -134,6 +134,7 @@ def _render(d):
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "BlogPosting", "@id": url + "#articulo", "headline": d["name"], "description": d["metaDescription"],
          "datePublished": hoy, "dateModified": hoy, "inLanguage": "es-ES", "mainEntityOfPage": url,
+         **({"image": d["featuredImage"]} if d.get("featuredImage") else {}),
          "author": {"@type": "Person", "name": s["autor"].split(",")[0]},
          "publisher": {"@type": "Organization", "@id": s["url"].rstrip("/") + "/#negocio", "name": s["nombre"], "url": s["url"]}},
         {"@type": "BreadcrumbList", "itemListElement": [
@@ -147,6 +148,7 @@ def _render(d):
         "{{URL}}": url, "{{SLUG}}": d["slug"], "{{FECHA}}": hoy,
         "{{FECHA_HUMANA}}": dt.date.today().strftime("%d/%m/%Y"), "{{AUTOR}}": html.escape(s["autor"]),
         "{{JSONLD}}": json.dumps(ld, ensure_ascii=False), "{{CUERPO}}": d["postBody"],
+        "{{FOTO_URL}}": d.get("featuredImage", ""), "{{FOTO_ALT}}": html.escape(d.get("featuredImageAltText", "")),
     }
     for k, v in valores.items():
         plantilla = plantilla.replace(k, v)

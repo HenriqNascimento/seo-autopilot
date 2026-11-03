@@ -1,7 +1,10 @@
 """Briefing (análisis de la SERP) → borrador → edición con verificación → control de calidad automático."""
 import html
 import json
+import math
 import re
+import unicodedata
+from urllib.parse import urlsplit
 
 from . import ia
 from .base import conocimiento, leer, registrar, sitio
@@ -61,6 +64,18 @@ PROHIBIDAS = ["en el mundo de", "hoy en día", "en la actualidad", "cuando se tr
               "desbloquear", "revolucion", "a la vanguardia", "crucial"]
 
 
+# Palabras sin peso al comprobar si la keyword está en el primer párrafo
+VACIAS = set("a al como con de del el en es la las lo los mi mis para por que se si sin su sus te tu tus un una uno unos y".split())
+EXPERIENCIA_INVENTADA = re.compile(r"\b(vemos|solemos ver|hemos visto|nos encontramos|nos llegan|nuestra experiencia|nuestros clientes|nuestros casos)\b")
+CIFRA = re.compile(r"\d+(?:[.,]\d+)?\s*%|\b\d+\s*(?:[-–a]\s*\d+\s*)?(?:h|horas|dias|semanas|meses|anos)\b")
+
+
+def _norm(s):
+    """Minúsculas y sin tildes: las keywords de la cola vienen sin ellas («pagina», «diseno»)."""
+    s = unicodedata.normalize("NFD", s.lower())
+    return "".join(c for c in s if not unicodedata.combining(c))
+
+
 def _fotos():
     return leer("imagenes.json", {})
 
@@ -69,9 +84,12 @@ def briefing(tema, existentes):
     prompt = f"""Analiza la búsqueda «{tema['keyword']}» (secundarias: {', '.join(tema.get('secundarias', []))}) en Google España.
 Público: {sitio()['publico']}. Enfoque sugerido: {tema.get('enfoque', '')}
 
-Busca y lee los 4-6 primeros resultados, "Otras preguntas de los usuarios" y alguna discusión de profesionales. Verifica en fuentes de autoridad (organismos oficiales, fabricantes, revistas, asociaciones profesionales) cualquier dato técnico o cifra que el artículo vaya a necesitar y anótalo con su URL.
+Busca y lee los 4-6 primeros resultados, "Otras preguntas de los usuarios" y alguna discusión de profesionales. Verifica en fuentes de autoridad (organismos oficiales, fabricantes, revistas, asociaciones profesionales) cualquier dato técnico o cifra que el artículo vaya a necesitar y anótalo con la URL completa de la página donde lo has leído (no solo el dominio).
 Artículos nuestros ya publicados (no repetir; enlazar si encaja): {json.dumps([e['titulo'] for e in existentes], ensure_ascii=False)}"""
-    return ia.tarea(f"Eres un analista SEO y experto en el sector de {sitio()['nombre']}: {sitio()['negocio']} Español de España.", prompt, BRIEF, web=True)
+    r = ia.tarea(f"Eres un analista SEO y experto en el sector de {sitio()['nombre']}: {sitio()['negocio']} Español de España.", prompt, BRIEF, web=True)
+    # un dominio suelto no prueba nada: esa fuente no respalda ningún dato
+    r["fuentes_verificadas"] = [f for f in r["fuentes_verificadas"] if urlsplit(f["url"]).path.strip("/")]
+    return r
 
 
 def _system():
@@ -107,7 +125,7 @@ Enlaces internos posibles (2-4 donde aporten de verdad, con anchor descriptivo):
 {lista or '(ninguno aún)'}
 Llamada a la acción del cierre: {sitio()['cta']} → {sitio()['contacto_url']}
 
-Fotos reales del laboratorio (elige la que mejor ilustre el tema; a igualdad, la menos usada):
+Fotos reales disponibles (elige el nombre exacto de la que mejor ilustre el tema; a igualdad, la menos usada):
 {fotos}
 
 Supera a los resultados actuales: cubre los huecos, responde las preguntas reales y aporta el criterio propio de la empresa. Datos y cifras solo los del briefing con fuente o los de los hechos de la empresa."""
@@ -117,10 +135,10 @@ Supera a los resultados actuales: cubre los huecos, responde las preguntas reale
 def editar(tema, brief, articulo, problemas_previos=()):
     prompt = f"""Eres el editor jefe. Revisa y MEJORA este artículo para «{tema['keyword']}» antes de publicarlo sin revisión humana. Tu responsabilidad es que no salga nada falso ni nada que suene a IA.
 
-1. Rigor: elimina cualquier plazo, tiempo de entrega, garantía o condición comercial sobre la empresa que no esté literalmente en sus hechos (revisa también título y meta description). Comprueba con búsqueda web cada afirmación técnica que no esté respaldada por el briefing o por los hechos de la empresa. Corrige o elimina lo que no se sostenga. Nada de estudios, porcentajes o casos inventados.
+1. Rigor: elimina cualquier plazo, tiempo de entrega, garantía o condición comercial sobre la empresa que no esté literalmente en sus hechos (revisa también título y meta description). Comprueba con búsqueda web cada afirmación técnica que no esté respaldada por el briefing o por los hechos de la empresa. Corrige o elimina lo que no se sostenga. Nada de estudios, porcentajes o casos inventados. Las afirmaciones sobre qué convierte mejor, alcance, posicionamiento o cómo funcionan Google, las IA y las redes llevan enlace a una fuente de autoridad; si no la hay, redáctalas como opinión y sin absolutos («suele», «puede», «a nuestro juicio») o elimínalas. Revisa también tablas y FAQ.
 2. Naturalidad: elimina todo patrón de la lista de prohibidos, rompe estructuras repetitivas, varía ritmo, quita relleno. Debe sonar a un experto con oficio hablando a un colega.
-3. SEO: keyword en título SEO, H1, primer párrafo y algún H2 de forma natural; meta 140-155; respuesta directa al principio. FAQ solo si aporta preguntas reales no respondidas en el cuerpo (si no, déjala vacía).
-4. Experiencia: que se note el criterio propio de la empresa (decisiones, errores típicos que ve, cómo lo hace).
+3. SEO: la keyword viene sin tildes: escríbela siempre con la ortografía correcta. Inclúyela o adáptala con naturalidad (cambiando persona o tiempo verbal) en título SEO, H1, primer párrafo y algún H2. Nunca la cites entre comillas ni la encajes si la frase suena rara; meta 140-155; respuesta directa al principio. FAQ solo si aporta preguntas reales no respondidas en el cuerpo (si no, déjala vacía).
+4. Criterio: que se note el criterio propio de la empresa (decisiones, errores típicos del sector, cómo lo hace). Solo se presenta como experiencia propia lo que esté en sus hechos.
 {('Problemas detectados en la revisión anterior que DEBES resolver: ' + '; '.join(problemas_previos)) if problemas_previos else ''}
 
 Briefing: {json.dumps(brief, ensure_ascii=False)}
@@ -131,10 +149,11 @@ Devuelve el artículo final completo, puntuación honesta 0-10 por criterio y lo
     return ia.tarea(_system(), prompt, EDICION, web=True, pensar="high")
 
 
-def control_calidad(a, tema, palabras_min=700):
+def control_calidad(a, tema, palabras_min=700, brief=None):
     """Comprobaciones deterministas. Devuelve lista de fallos (vacía = apto)."""
     texto = " ".join(re.sub(r"<[^>]+>", " ", b["texto"]) for b in a["bloques"])
-    bajo = texto.lower()
+    faq = " ".join(f"{f['q']} {f['a']}" for f in a.get("faq", []))
+    bajo = f"{texto} {faq}".lower()
     fallos = []
     n = len(texto.split())
     if n < palabras_min:
@@ -148,10 +167,12 @@ def control_calidad(a, tema, palabras_min=700):
         fallos.append(f"meta description de {len(a['meta_description'])} caracteres")
     if len(a["titulo_seo"]) > 65:
         fallos.append("título SEO demasiado largo")
-    kw = tema["keyword"].lower().split()
-    primer_p = next((b["texto"].lower() for b in a["bloques"] if b["tipo"] == "p"), "")
-    if sum(w in primer_p for w in kw) < max(1, len(kw) - 1):
+    kw = [w for w in _norm(tema["keyword"]).split() if w not in VACIAS]
+    primer_p = _norm(next((re.sub(r"<[^>]+>", " ", b["texto"]) for b in a["bloques"] if b["tipo"] == "p"), ""))
+    if sum(bool(re.search(rf"\b{re.escape(w)}", primer_p)) for w in kw) < math.ceil(len(kw) * 0.6):
         fallos.append("la keyword no aparece en el primer párrafo")
+    if re.search(rf"[«\"“]\s*{re.escape(_norm(tema['keyword']))}\s*[»\"”]", _norm(bajo)):
+        fallos.append("keyword citada literalmente entre comillas")
     if sum(b["tipo"] == "h2" for b in a["bloques"]) < 3:
         fallos.append("menos de 3 H2")
     # promesas de plazo que no están en los hechos de la empresa
@@ -164,6 +185,15 @@ def control_calidad(a, tema, palabras_min=700):
             for m in tiempo.finditer(frase):
                 if m.group(0) not in hechos:
                     fallos.append(f"promesa de plazo no respaldada: «{frase.strip()[:80]}»")
+    if sitio().get("empresa_nueva"):
+        # sin trayectoria que lo respalde: ni experiencia acumulada ni cifras sin fuente
+        normal = _norm(todo)
+        if m := EXPERIENCIA_INVENTADA.search(normal):
+            fallos.append(f"experiencia propia no respaldada: «{m.group(0)}»")
+        respaldo = _norm(hechos + json.dumps((brief or {}).get("fuentes_verificadas", []), ensure_ascii=False)).replace(" horas", " h")
+        for m in CIFRA.finditer(normal):
+            if m.group(0).replace(" horas", " h") not in respaldo:
+                fallos.append(f"cifra sin fuente: «{m.group(0)}»")
     parrafos = [b["texto"] for b in a["bloques"] if b["tipo"] == "p"]
     if parrafos and sum(1 for p in parrafos if p.strip().startswith("Además")) > 1:
         fallos.append("muletilla «Además» repetida")
@@ -206,10 +236,11 @@ def escribir(tema, existentes, variante=None):
         ed = editar(tema, brief, a, problemas)
         a = ed["articulo"]
         nota = ed["puntuacion"]
-        problemas = control_calidad(a, tema) + ed["problemas"]
+        fallos = control_calidad(a, tema, brief=brief)
+        problemas = fallos + ed["problemas"]
         minima = min(nota.values())
         registrar("edicion", slug=tema["slug"], intento=intento + 1, nota_min=minima, problemas=len(problemas))
-        if minima >= 8 and not control_calidad(a, tema):
+        if minima >= 8 and not fallos:
             return a, nota, brief
     raise RuntimeError(f"Calidad insuficiente tras 3 ediciones: {problemas[:6]}")
 

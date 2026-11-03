@@ -63,6 +63,9 @@ nav .wrap{display:flex;align-items:center;justify-content:space-between;gap:20px
 .art .crumbs a{text-decoration:none;color:var(--dim)}.art .crumbs a:hover{color:var(--fg)}
 .art h1{font-size:clamp(32px,4.6vw,52px)}
 .cuerpo{display:grid;gap:18px;font-size:17px}
+.foto{margin:0 0 28px}
+.foto img{display:block;width:100%;height:auto;border-radius:12px;border:1px solid var(--line-2)}
+.foto figcaption{margin-top:8px;color:var(--muted);font-size:13.5px}
 .cuerpo p,.cuerpo li{color:#cfcdc6;max-width:68ch;line-height:1.72}
 .cuerpo h2{margin-top:22px}
 .cuerpo h3{margin-top:10px}
@@ -97,6 +100,7 @@ footer a{color:var(--dim);font-size:13px;margin-right:16px;text-decoration:none}
       <p>{{RESUMEN}}</p>
       <span class="fine">{{FECHA_HUMANA}}</span>
     </header>
+    <figure class="foto"><img src="{{FOTO_URL}}" alt="{{FOTO_ALT}}" width="800" height="506" decoding="async"><figcaption>Una web real hecha por Cresco.</figcaption></figure>
     <article class="cuerpo"><!--CUERPO-->{{CUERPO}}<!--/CUERPO--></article>
 
     <aside class="cta-box">
