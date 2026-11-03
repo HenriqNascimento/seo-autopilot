@@ -49,6 +49,24 @@
         "publicado": "2026-11-02",
         "url": "https://cresco.es/blog/necesito-pagina-web-si-tengo-instagram",
         "sitio": "cresco"
+      },
+      {
+        "slug": "boton-whatsapp-pagina-web-negocio-local",
+        "brazo": "B",
+        "estrato": "cresco:conversion-cro",
+        "prioridad": 90,
+        "publicado": "2026-11-03",
+        "url": "https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local",
+        "sitio": "cresco"
+      },
+      {
+        "slug": "toma-de-color-dental-protocolo-fotografia-laboratorio",
+        "brazo": "B",
+        "estrato": "innovadental:estetica-adhesiva",
+        "prioridad": 94,
+        "publicado": "2026-11-03",
+        "url": "https://innovadental.net/es/blog/toma-de-color-dental-protocolo-fotografia-laboratorio",
+        "sitio": "innovadental"
       }
     ]
   },

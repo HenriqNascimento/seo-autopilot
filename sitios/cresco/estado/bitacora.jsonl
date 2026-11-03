@@ -23,3 +23,8 @@
 {"t": "2026-11-02T15:14:53", "sitio": "cresco", "evento": "estatico_publicado", "slug": "necesito-pagina-web-si-tengo-instagram", "archivo": "public/blog/necesito-pagina-web-si-tengo-instagram.html"}
 {"t": "2026-11-02T15:14:53", "sitio": "cresco", "evento": "publicado", "slug": "necesito-pagina-web-si-tengo-instagram", "url": "https://cresco.es/blog/necesito-pagina-web-si-tengo-instagram", "palabras": 1180}
 {"t": "2026-11-02T15:14:53", "sitio": "cresco", "evento": "coste", "usd": 0.3729, "modelo": "gemini-3.8-flash", "entrada": 64307, "salida": 86590, "busquedas": 10}
+{"t": "2026-11-03T13:52:45", "sitio": "cresco", "evento": "edicion", "slug": "boton-whatsapp-pagina-web-negocio-local", "intento": 1, "nota_min": 9, "problemas": 5}
+{"t": "2026-11-03T13:54:18", "sitio": "cresco", "evento": "edicion", "slug": "boton-whatsapp-pagina-web-negocio-local", "intento": 2, "nota_min": 9, "problemas": 1}
+{"t": "2026-11-03T13:54:19", "sitio": "cresco", "evento": "estatico_publicado", "slug": "boton-whatsapp-pagina-web-negocio-local", "archivo": "public/blog/boton-whatsapp-pagina-web-negocio-local.html"}
+{"t": "2026-11-03T13:54:19", "sitio": "cresco", "evento": "publicado", "slug": "boton-whatsapp-pagina-web-negocio-local", "url": "https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local", "palabras": 2103}
+{"t": "2026-11-03T13:54:19", "sitio": "cresco", "evento": "coste", "usd": 0.1945, "modelo": "gemini-3.8-flash", "entrada": 38358, "salida": 44188, "busquedas": 9}

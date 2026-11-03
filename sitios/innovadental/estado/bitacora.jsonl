@@ -37,3 +37,6 @@
 {"t": "2026-11-01T12:52:35", "sitio": "innovadental", "evento": "aprendizaje", "clusters": 4, "hipotesis": 0, "frecuencia_recomendada": 3}
 {"t": "2026-11-01T12:53:10", "sitio": "innovadental", "evento": "investigacion", "nuevos": 15, "en_cola": 25}
 {"t": "2026-11-01T12:53:10", "sitio": "innovadental", "evento": "coste", "usd": 0.032, "modelo": "gemini-3.8-flash", "entrada": 18580, "salida": 4827, "busquedas": 4}
+{"t": "2026-11-03T14:01:13", "sitio": "innovadental", "evento": "edicion", "slug": "toma-de-color-dental-protocolo-fotografia-laboratorio", "intento": 1, "nota_min": 10, "problemas": 2}
+{"t": "2026-11-03T14:01:17", "sitio": "innovadental", "evento": "publicado", "slug": "toma-de-color-dental-protocolo-fotografia-laboratorio", "url": "https://innovadental.net/es/blog/toma-de-color-dental-protocolo-fotografia-laboratorio", "palabras": 2364}
+{"t": "2026-11-03T14:01:17", "sitio": "innovadental", "evento": "coste", "usd": 0.135, "modelo": "gemini-3.8-flash", "entrada": 30204, "salida": 29955, "busquedas": 8}

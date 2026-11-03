@@ -1,0 +1,265 @@
+{
+  "articulo": {
+    "titulo": "Toma de color dental: protocolo clínico y comunicación de laboratorio",
+    "titulo_seo": "Toma de color dental: protocolo clínico y guía técnica",
+    "meta_description": "Protocolo de toma de color dental para odontólogos: control de deshidratación, escala VITA 3D, polarización cruzada y registro del muñón con guía ND.",
+    "resumen": "Guía técnica para odontólogos sobre toma de color dental: control de la deshidratación en gabinete, fotografía calibrada con polarización cruzada y registro del muñón.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>El éxito en la toma de color dental exige registrar el diente en los primeros minutos de la consulta, antes de cualquier tallado o aislamiento que altere el valor por deshidratación. Para una comunicación inequívoca con el laboratorio, es imprescindible fotografiar la pestaña guía en el mismo plano focal que el borde incisal, emplear filtros de polarización cruzada para aislar el croma y la anatomía interna, y registrar siempre el color del sustrato con la guía IPS Natural Die para que el ceramista seleccione la pastilla y opacidad adecuadas.</strong>"
+      },
+      {
+        "tipo": "p",
+        "texto": "En el laboratorio solemos repetir una frase cuando nos consultan por discrepancias estéticas en sector anterior: el color no se acierta en el laboratorio: se comunica desde la clínica. Cuando una corona unitaria en el grupo anterior llega a boca y se ve grisácea, demasiado blanca o sin vida, rara vez el fallo proviene de una cocción defectuosa de la cerámica. La inmensa mayoría de las repeticiones se originan en una transmisión de datos incompleta o en un registro tomado cuando la fisiología óptica del diente ya estaba alterada."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Por qué falla la toma de color dental: las tres causas de repetición clínica"
+      },
+      {
+        "tipo": "p",
+        "texto": "Escribir «A2» en la prescripción protésica para un incisivo central superior es condenar el trabajo a la incertidumbre. Un diente natural no tiene un color plano; posee un gradiente complejo donde conviven saturación cervical, luminosidad en el tercio medio, efectos opalescentes en las crestas marginales y áreas de translucidez o caracterizaciones incisales. Detrás de casi todas las repeticiones encontramos tres problemas sistemáticos."
+      },
+      {
+        "tipo": "p",
+        "texto": "El primer problema es el metamerismo y la subjetividad lumínica del gabinete. Evaluar el color bajo la luz de la lámpara del equipo dental, que suele emitir en un espectro cálido o descompensado, falsea por completo el matiz y satura el croma amarillo. Cuando el paciente sale a la calle con luz diurna, la corona se ve completamente distinta."
+      },
+      {
+        "tipo": "p",
+        "texto": "El segundo factor es la alteración del valor por deshidratación. Si tomas el color al final de la cita, tras 45 minutos de tallado, colocación de hilos retractores y aire comprimido, mides un diente artificialmente hiperbrillante y blanco. En el laboratorio construiremos una corona con un valor excesivo que desentonará en cuanto el esmalte vecino recupere su hidratación."
+      },
+      {
+        "tipo": "p",
+        "texto": "El tercer motivo, y el que más quebraderos de cabeza da, es omitir el color del muñón. En restauraciones cerámicas libres de metal, como el <a href=\"https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales\">disilicato de litio para coronas</a> o el zirconio de alta translucidez, el color final es el resultado óptico de tres capas: el sustrato dental o pilar, el cemento de fijación y la estructura cerámica. Si desconocemos qué hay debajo, no podemos calcular la opacidad de la pastilla que debemos fresar o inyectar."
+      },
+      {
+        "tipo": "h2",
+        "texto": "La regla de los primeros 120 segundos: control de la deshidratación y fatiga retiniana"
+      },
+      {
+        "tipo": "p",
+        "texto": "El momento exacto para tomar el color es al inicio de la sesión, nada más sentar al paciente y antes de preparar el campo operatorio o infiltrar anestesia. La deshidratación del esmalte ocurre con una rapidez asombrosa. A los dos o tres minutos de mantener los labios separados o aplicar leves soplos de aire con la jeringa triple, el esmalte pierde el agua libre intercelular de su red de prismas de hidroxiapatita."
+      },
+      {
+        "tipo": "p",
+        "texto": "Esta pérdida de agua modifica de inmediato las propiedades ópticas del diente. El índice de refracción del esmalte hidratado ronda 1,62, próximo al del agua (1,33). Al deshidratarse, el espacio que ocupaba el agua pasa a ser ocupado por aire, cuyo índice de refracción es 1,00. Esta diferencia incrementa con fuerza la dispersión de la luz incidente. El resultado óptico no perdona: el diente se vuelve opaco, pierde su translucidez natural y su valor (coordenada L* en el espacio CIELAB) se dispara hacia un blanco artificial."
+      },
+      {
+        "tipo": "p",
+        "texto": "Un diente deshidratado tarda entre 24 y 48 horas en rehidratarse por completo y recuperar sus propiedades basales de transmisión lumínica. Si inicias el tallado sin registrar el color, ya no habrá forma de obtener un dato fiable en esa misma sesión."
+      },
+      {
+        "tipo": "p",
+        "texto": "A este fenómeno físico se suma la fatiga de los fotorreceptores de la retina. Los conos oculares se saturan cuando fijamos la vista en un objeto durante más de cinco a siete segundos. Pasado ese tiempo, el cerebro empieza a compensar la señal cromática y el ojo pierde sensibilidad a los matices amarillos y rojizos. El protocolo exige observaciones rápidas de cinco segundos, apartando la mirada hacia una tarjeta de color gris neutro o azul pálido para descansar la retina antes de la siguiente comparación."
+      },
+      {
+        "tipo": "p",
+        "texto": "Las condiciones ambientales deben acompañar este proceso: apaga la lámpara del sillón dental, trabaja con iluminación ambiental estandarizada cercana a la luz diurna D65 (entre 5500 K y 6500 K), pide al paciente que retire el carmín labial y retira baberos de colores vivos que proyecten reflejos sobre el tercio inferior del rostro."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Sistemas de referencia: VITA 3D-Master frente a VITA Classical"
+      },
+      {
+        "tipo": "p",
+        "texto": "La guía VITA Classical A1-D4 es el estándar histórico de la odontología, pero presenta deficiencias conceptuales cuando buscamos máxima precisión en rehabilitaciones estéticas. La escala clásica organiza las pestañas agrupándolas por matiz (A: marrón-rojizo, B: amarillo, C: grisáceo, D: rojo-grisáceo). Sin embargo, el ojo humano percibe las dimensiones del color en un orden jerárquico muy distinto: primero identifica la luminosidad o valor, después la saturación o croma, y solo al final discrimina pequeñas variaciones de matiz."
+      },
+      {
+        "tipo": "p",
+        "texto": "Además, la distribución de las pestañas en VITA Classical deja vacíos notables en el espacio de color natural de la dentición humana y acumula muestras en rangos cromáticos redundantes. Por el contrario, la guía VITA Toothguide 3D-Master estructura sus 26 pestañas de forma sistemática en tres pasos secuenciales:"
+      },
+      {
+        "tipo": "p",
+        "texto": "Paso 1: Determinar el valor (claridad). Se evalúan los seis grupos de valor (0 al 5) fijándose en la pestaña del grupo M (medio) con croma 2. Entrecierra levemente los ojos para desenfocar la forma y céntrate únicamente en si el diente es más claro o más oscuro que la muestra de referencia."
+      },
+      {
+        "tipo": "p",
+        "texto": "Paso 2: Determinar el croma (saturación). Una vez elegido el grupo de valor (por ejemplo, el grupo 2), despliega el abanico correspondiente y selecciona el nivel de saturación de la dentina entre 1, 2 o 3."
+      },
+      {
+        "tipo": "p",
+        "texto": "Paso 3: Determinar el matiz (tonalidad). Comprueba si el diente presenta una tendencia más amarillenta (subgrupo L) o más rojiza (subgrupo R) en relación con el grupo central neutro (M)."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para pacientes sometidos a blanqueamiento dental o con dientes muy claros, este sistema se complementa con la guía VITA Bleachedguide 3D-Master, que añade los niveles ultra claros (como 0M1, 0M2 y 0M3), ordenados por valor decreciente sin saltos subjetivos."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Protocolo fotográfico para laboratorio: encuadre, plano focal y tarjeta de grises"
+      },
+      {
+        "tipo": "p",
+        "texto": "Una fotografía sin estandarizar no sirve como referencia fiable. Las cámaras integradas en los teléfonos móviles incorporan algoritmos de procesado computacional, HDR agresivo y balance de blancos dinámico que alteran las curvas tonales para hacer la imagen vistosa en pantalla, falseando por completo los valores cromáticos. Para trabajar con garantías en rehabilitaciones anteriores, el estándar de trabajo es una cámara réflex o mirrorless con objetivo macro de focal fija (90 a 105 mm) y flash anular o de doble cabezal (twin flash)."
+      },
+      {
+        "tipo": "p",
+        "texto": "Uno de los fallos más críticos que vemos en el laboratorio al recibir fotografías es el error de profundidad de campo. Si la pestaña de la guía de color se sitúa apenas dos milímetros por delante del borde incisal del diente de referencia, se acerca a la fuente de luz del flash. Al recibir mayor intensidad lumínica por la ley del cuadrado inverso, la pestaña saldrá sobreexpuesta y parecerá tener un valor artificialmente más alto. Si se coloca dos milímetros por detrás, quedará en penumbra y parecerá más oscura."
+      },
+      {
+        "tipo": "p",
+        "texto": "La pestaña de referencia debe situarse en el mismo plano focal exacto que la cara vestibular del diente testigo, preferiblemente borde incisal contra borde incisal, sin superposiciones y orientada con la misma angulación respecto al haz del flash macro."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para calibrar la exposición y el color de manera absoluta, recomendamos incluir en el encuadre una tarjeta de grises neutros al 18 % certificada para fotografía clínica. Al disparar en formato RAW, este parche neutro nos permite en el software del laboratorio fijar con un solo clic el balance de blancos neutro absoluto (temperatura kelvin y tinte) y corregir cualquier desviación de exposición de los flashes antes de seleccionar las masas cerámicas."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Polarización cruzada: eliminación de reflejos especulares y mapa de estratificación"
+      },
+      {
+        "tipo": "p",
+        "texto": "El flash macro genera un destello luminoso que choca contra la superficie lisa y húmeda del diente, produciendo reflejos especulares de color blanco puro. Esos brillos superficiales saturan el sensor de la cámara y enmascaran la información de lo que realmente sucede en el espesor del esmalte y la dentina profunda."
+      },
+      {
+        "tipo": "p",
+        "texto": "El uso de un filtro de polarización cruzada (como polar_eyes o pantallas polarizadoras montadas sobre el flash y el objetivo en ángulo ortogonal) elimina por completo la reflexión especular directa. La cámara capta únicamente la reflexión difusa interna que emerge desde el interior de la estructura dental."
+      },
+      {
+        "tipo": "p",
+        "texto": "Al filtrar esos brillos parásitos, la imagen polarizada revela un mapa anatómico de estratificación de una nitidez absoluta. En el laboratorio podemos observar con total precisión la morfología de los mamelones dentinarios, la profundidad y extensión de las zonas opalescentes en los tercios medio e incisal, las bandas de hipocalcificación o fluorosis, las microfisuras y el grosor real de la capa de esmalte vestibular. Cuando confeccionamos carillas cerámicas, este mapa marca la diferencia entre un diente plano y una pieza que se mimetiza con la dentición natural, un criterio que también aplicamos al elegir entre <a href=\"https://innovadental.net/es/blog/carillas-feldespaticas-vs-disilicato-de-litio\">carillas feldespáticas y disilicato de litio</a>."
+      },
+      {
+        "tipo": "h2",
+        "texto": "El sustrato: por qué registrar el muñón con la guía IPS Natural Die es obligatorio"
+      },
+      {
+        "tipo": "p",
+        "texto": "Tratar una corona de disilicato de litio o de zirconio translúcido como si fuera una corona metal-cerámica tradicional es la vía más rápida hacia el fracaso estético. La cerámica sobre metal contaba con un núcleo opaco de aleación que bloqueaba cualquier influencia óptica subyacente. Las cerámicas vítreas y los zirconios policromáticos modernos destacan precisamente por su translucidez y transmisión de luz."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si tallas un muñón oscuro por una endodoncia previa (o sobre un pilar de titanio metálico) y planificamos una corona de disilicato con una pastilla de alta translucidez (HT) buscando máxima naturalidad, el fondo gris o marrón del sustrato se proyectará a través de la cerámica. La corona en boca se verá grisácea, con un valor bajo y mortecino, aunque hayamos acertado el color de la masa vestibular."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para controlar este fenómeno, Ivoclar desarrolló la guía de colores de muñones IPS Natural Die Material (ND1 a ND9). Esta escala clasifica los sustratos dentales desde el muñón más claro e hipercalcificado (ND1) hasta sustratos con tinciones severas o metálicos (ND9)."
+      },
+      {
+        "tipo": "p",
+        "texto": "Cuando la clínica nos indica el color ND del muñón preparado, en el laboratorio vertemos una réplica de resina de ese muñón específico sobre el modelo de trabajo antes de estratificar o prensar la restauración. Si sabemos que el sustrato es un ND7, seleccionaremos una pastilla de media opacidad (MO) o baja translucidez (LT) para enmascarar la discromía interna sin perder la vitalidad externa. Este control del fondo resulta igual de decisivo cuando diseñamos una <a href=\"https://innovadental.net/es/blog/corona-de-zirconio-sobre-implante-guia-clinica\">corona de zirconio sobre implante</a> montada sobre base de titanio."
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Sustrato (Guía ND) | Material cerámico recomendado | Opacidad / Pastilla requerida | Comportamiento óptico resultante\nND1 - ND2 (Claro / Vital) | Disilicato de litio / Feldespática | HT (Alta translucidez) | Máxima mimetización; el sustrato aporta luminosidad natural\nND3 - ND4 (Medio / Ligera dentina) | Disilicato de litio | MT o LT (Media / Baja translucidez) | Equilibrio ideal entre paso de luz y control de valor\nND5 - ND6 (Oscurecido / Tinciones) | Disilicato o Zirconio 4Y/5Y | LT o MO (Media opacidad) | Frena el fondo oscuro; requiere estratificación vestibular\nND7 - ND9 (Endodoncia / Pilar Ti) | Zirconio 3Y / Disilicato MO | MO (Opaca) o Zirconio opaco | Enmascaramiento total de discromías severas o metales"
+      },
+      {
+        "tipo": "h2",
+        "texto": "El límite del escáner intraoral: por qué el archivo digital necesita respaldo fotográfico"
+      },
+      {
+        "tipo": "p",
+        "texto": "La digitalización ha transformado la precisión dimensional de los modelos de trabajo. Sin embargo, existe una confusión frecuente en clínica: asumir que el escáner intraoral sustituye la toma de color fotográfica."
+      },
+      {
+        "tipo": "p",
+        "texto": "Un archivo STL es una malla tridimensional que describe exclusivamente geometría espacial; carece de información de color. Los formatos que transportan datos cromáticos o texturas (como PLY u OBJ) incorporan lecturas tomadas por pequeños sensores en la punta del escáner. Aunque algunos sistemas generan mapas de color orientativos, esos cálculos se basan en algoritmos que promedian áreas completas bajo fuentes de luz LED no estandarizadas."
+      },
+      {
+        "tipo": "p",
+        "texto": "El escáner no capta la profundidad óptica, la opalescencia incisal, los efectos de fluorescencia ni la estructura interna de los mamelones. Un archivo PLY puede sugerir un tono medio general, pero resulta insuficiente para estratificar un incisivo central unitario con garantías de integración. En cualquier <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital entre clínica y laboratorio</a>, el archivo STL o PLY debe acompañarse siempre de la serie fotográfica calibrada y de la selección manual de pestañas de color."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Checklist de envío al laboratorio: la serie fotográfica para sector anterior"
+      },
+      {
+        "tipo": "p",
+        "texto": "Para que podamos planificar la estratificación o el maquillaje cerámico sin margen para la duda, esta es la información que necesitamos recibir en el laboratorio junto a las impresiones o los archivos digitales:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Foto 1 (Luz polarizada): Diente homólogo y vecinos sin reflejos especulares para cartografiar mamelones, opalescencias y caracterizaciones internas.\nFoto 2 (Luz directa con pestaña incisal): Pestaña seleccionada (VITA 3D o Classical) enfrentada borde incisal contra borde incisal en el mismo plano focal exacto.\nFoto 3 (Luz directa con pestaña cervical): Pestaña de referencia colocada cuello con cuello para comparar la saturación del tercio gingival.\nFoto 4 (Sustrato tallado): Fotografía del muñón preparado con la pestaña correspondiente de la guía IPS Natural Die (ND1 a ND9) en el mismo encuadre.\nFoto 5 (Calibración RAW): Fotografía general que incluya una tarjeta de grises neutros al 18 % para permitir el balance de blancos absoluto en el software de diseño."
+      },
+      {
+        "tipo": "p",
+        "texto": "Ayudándonos mutuamente, planificar es más fácil y el resultado, más predecible. Si tienes dudas con la selección de pastillas o el registro de un muñón complejo, llámanos al laboratorio antes de empezar."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Se debe tomar el color antes o después de aplicar la anestesia local?",
+        "a": "Siempre antes. Los anestésicos infiltrativos con vasoconstrictor provocan isquemia y palidez transitoria en la encía marginal. Ese blanqueamiento del tejido blando falsea la percepción del contraste gingival y hace que el tercio cervical parezca artificialmente más saturado o más oscuro de lo que realmente es."
+      },
+      {
+        "q": "¿Qué referencia conviene enviar al laboratorio si faltan ambos incisivos centrales?",
+        "a": "El canino superior es la mejor guía para el croma y el matiz (suele ser un grado más saturado que el central), mientras que los premolares y los incisivos laterales ayudan a estimar el valor. Si existen fotografías previas del paciente o modelos antiguos antes de la pérdida de las piezas, adjúntalos siempre en el envío."
+      }
+    ],
+    "tags": [
+      "Prótesis fija",
+      "Estética dental",
+      "Flujo digital"
+    ],
+    "foto": "lab-coronas-estratificadas-detalle.jpg",
+    "alt_foto": "Detalle de estratificación cerámica en sector anterior con mamelones y translucidez incisal en laboratorio dental"
+  },
+  "brief": {
+    "intencion": "Informativa y transaccional B2B (guía técnica de protocolo clínico y flujo de trabajo para odontólogos y clínicas dentales que buscan eliminar repeticiones protésicas por discrepancia cromática).",
+    "respuesta_directa": "El éxito en la toma de color dental exige registrar el diente en los primeros minutos de la consulta, antes de cualquier tallado o aislamiento que altere el valor por deshidratación. Para una comunicación inequívoca con el laboratorio, es imprescindible fotografiar la pestaña guía en el mismo plano focal que el borde incisal, emplear filtros de polarización cruzada para aislar el croma y la anatomía interna, y registrar siempre el color del sustrato (guía ND) para que el ceramista seleccione la pastilla y opacidad adecuadas.",
+    "que_cubren_los_top": [
+      "Diferencias básicas entre VITA Classical (16 colores) y VITA 3D-Master (26 colores organizados por valor, croma y matiz).",
+      "Condiciones ambientales recomendadas en gabinete (luz natural normalizada de 5500 K - 6500 K, retirada de lápiz labial y fondo neutro).",
+      "Uso del espectrofotómetro digital (como VITA Easyshade) frente a la selección visual clásica.",
+      "Regla de fatiga retiniana (evaluar en lapsos de 5 a 7 segundos para no saturar los conos)."
+    ],
+    "huecos": [
+      "Impacto biomecánico y óptico de la deshidratación rápida: a los 2-3 minutos de aislamiento relativo o chorreado de aire, el esmalte pierde agua libre, su índice de refracción cambia y el valor (luminosidad) se dispara falsamente.",
+      "El error de profundidad de campo en fotografía: colocar la pestaña guía 2 mm por delante o por detrás del diente genera distorsión de flash y exposición, arruinando la calibración digital en laboratorio.",
+      "Protocolo fotográfico estandarizado con polarización cruzada (filtros tipo polar_eyes) y tarjeta de grises neutra al 18% para balance de blancos absoluto en software CAD o calibración RAW.",
+      "El 'punto ciego' del escáner intraoral: un archivo STL transmite geometría exacta pero carece de información de color, y los mapas de color de los escáneres fallan ante muñones oscuros o policromatismo.",
+      "El registro del sustrato y muñón mediante la guía IPS Natural Die (ND1-ND9), fundamental para estratificar disilicato de litio o zirconio multicapa sin que trasluzca un fondo grisáceo o metálico."
+    ],
+    "preguntas_reales": [
+      "¿Por qué la corona que en la orden clínica era A2 se ve gris o demasiado opaca al cementarla?",
+      "¿Cuánto tiempo tarda un diente en deshidratarse y alterar su color durante la cita?",
+      "¿Cómo influye el color del muñón o muñón de titanio en el resultado estético de una corona de disilicato de litio?",
+      "¿Sirve la foto del móvil o del escáner intraoral para que el protésico estratifique un central anterior?",
+      "¿Cómo se utiliza correctamente la escala VITA 3D-Master en comparación con la VITA Classical?",
+      "¿Qué ventajas aporta el filtro polarizador cruzado en la fotografía dental para el laboratorio?"
+    ],
+    "estructura": [
+      "Por qué falla la transmisión de color entre clínica y laboratorio: las 3 causas reales de repetición",
+      "La regla de los primeros 120 segundos: control de la deshidratación y fisiología visual en gabinete",
+      "Sistemas de referencia: dominar la escala VITA 3D-Master frente al clásico VITA A1-D4",
+      "Protocolo fotográfico para laboratorio: encuadre, mismo plano focal y tarjeta de grises al 18%",
+      "Polarización cruzada en odontología: eliminación de reflejos especulares y mapa de estratificación",
+      "El sustrato: por qué registrar el muñón (guía IPS Natural Die) es obligatorio en cerámica libre de metal",
+      "El límite del escáner intraoral: por qué el archivo STL/PLY necesita respaldo fotográfico calibrado",
+      "Checklist de envío a Innovadental: la ficha cromática completa para rehabilitaciones anteriores sin sorpresas"
+    ],
+    "palabras_objetivo": 1850,
+    "entidades": [
+      "VITA Toothguide 3D-Master",
+      "VITA classical A1-D4",
+      "VITA Bleachedguide",
+      "IPS Natural Die Material (guía ND)",
+      "Filtro de polarización cruzada (polar_eyes / Polaris)",
+      "Disilicato de litio (pastillas HT, MT, LT, MO)",
+      "Zirconio multicapa (3Y-TZP, 4Y-PSZ, 5Y-PSZ)",
+      "Espectrofotómetro (VITA Easyshade V / Optishade)",
+      "Tarjeta de grises 18%",
+      "Espacio de color CIELAB (L*, a*, b*)",
+      "Luz normalizada D65 (5500 K - 6500 K)",
+      "Reflejos especulares vs. reflexión difusa",
+      "Estratificación cerámica (dentina, esmalte, opalescencia, translucidez)"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.vita-zahnfabrik.com/es/VITA-Toothguide-3D-MASTER-2139,1144.html",
+        "dato": "Protocolo sistemático VITA 3D-Master estructurado en 3 pasos: selección de claridad/valor (niveles 0-5), intensidad/croma (1-3) y tonalidad/matiz (L, M, R) para abarcar el espacio cromático dental natural."
+      },
+      {
+        "url": "https://www.vita-zahnfabrik.com/es/VITA-classical-A1D4-Farbskala-2227.html",
+        "dato": "Recomendación técnica del fabricante de determinar el color antes de la preparación para evitar variaciones causadas por la deshidratación, con luz diurna normalizada (5500 K - 6500 K) y en intervalos breves de 5 a 7 segundos para evitar fatiga retiniana."
+      },
+      {
+        "url": "https://www.photomed.net/polar_eyes.htm",
+        "dato": "El filtro de polarización cruzada polar_eyes elimina las reflexiones especulares producidas por el flash macro, permitiendo visualizar la estructura interna, opalescencia, fluorosis y valor real del diente para la comunicación con el laboratorio."
+      }
+    ]
+  },
+  "html": "<p><strong>El éxito en la toma de color dental exige registrar el diente en los primeros minutos de la consulta, antes de cualquier tallado o aislamiento que altere el valor por deshidratación. Para una comunicación inequívoca con el laboratorio, es imprescindible fotografiar la pestaña guía en el mismo plano focal que el borde incisal, emplear filtros de polarización cruzada para aislar el croma y la anatomía interna, y registrar siempre el color del sustrato con la guía IPS Natural Die para que el ceramista seleccione la pastilla y opacidad adecuadas.</strong></p>\n<p>En el laboratorio solemos repetir una frase cuando nos consultan por discrepancias estéticas en sector anterior: el color no se acierta en el laboratorio: se comunica desde la clínica. Cuando una corona unitaria en el grupo anterior llega a boca y se ve grisácea, demasiado blanca o sin vida, rara vez el fallo proviene de una cocción defectuosa de la cerámica. La inmensa mayoría de las repeticiones se originan en una transmisión de datos incompleta o en un registro tomado cuando la fisiología óptica del diente ya estaba alterada.</p>\n<h2>Por qué falla la toma de color dental: las tres causas de repetición clínica</h2>\n<p>Escribir «A2» en la prescripción protésica para un incisivo central superior es condenar el trabajo a la incertidumbre. Un diente natural no tiene un color plano; posee un gradiente complejo donde conviven saturación cervical, luminosidad en el tercio medio, efectos opalescentes en las crestas marginales y áreas de translucidez o caracterizaciones incisales. Detrás de casi todas las repeticiones encontramos tres problemas sistemáticos.</p>\n<p>El primer problema es el metamerismo y la subjetividad lumínica del gabinete. Evaluar el color bajo la luz de la lámpara del equipo dental, que suele emitir en un espectro cálido o descompensado, falsea por completo el matiz y satura el croma amarillo. Cuando el paciente sale a la calle con luz diurna, la corona se ve completamente distinta.</p>\n<p>El segundo factor es la alteración del valor por deshidratación. Si tomas el color al final de la cita, tras 45 minutos de tallado, colocación de hilos retractores y aire comprimido, mides un diente artificialmente hiperbrillante y blanco. En el laboratorio construiremos una corona con un valor excesivo que desentonará en cuanto el esmalte vecino recupere su hidratación.</p>\n<p>El tercer motivo, y el que más quebraderos de cabeza da, es omitir el color del muñón. En restauraciones cerámicas libres de metal, como el <a href=\"https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales\">disilicato de litio para coronas</a> o el zirconio de alta translucidez, el color final es el resultado óptico de tres capas: el sustrato dental o pilar, el cemento de fijación y la estructura cerámica. Si desconocemos qué hay debajo, no podemos calcular la opacidad de la pastilla que debemos fresar o inyectar.</p>\n<h2>La regla de los primeros 120 segundos: control de la deshidratación y fatiga retiniana</h2>\n<p>El momento exacto para tomar el color es al inicio de la sesión, nada más sentar al paciente y antes de preparar el campo operatorio o infiltrar anestesia. La deshidratación del esmalte ocurre con una rapidez asombrosa. A los dos o tres minutos de mantener los labios separados o aplicar leves soplos de aire con la jeringa triple, el esmalte pierde el agua libre intercelular de su red de prismas de hidroxiapatita.</p>\n<p>Esta pérdida de agua modifica de inmediato las propiedades ópticas del diente. El índice de refracción del esmalte hidratado ronda 1,62, próximo al del agua (1,33). Al deshidratarse, el espacio que ocupaba el agua pasa a ser ocupado por aire, cuyo índice de refracción es 1,00. Esta diferencia incrementa con fuerza la dispersión de la luz incidente. El resultado óptico no perdona: el diente se vuelve opaco, pierde su translucidez natural y su valor (coordenada L* en el espacio CIELAB) se dispara hacia un blanco artificial.</p>\n<p>Un diente deshidratado tarda entre 24 y 48 horas en rehidratarse por completo y recuperar sus propiedades basales de transmisión lumínica. Si inicias el tallado sin registrar el color, ya no habrá forma de obtener un dato fiable en esa misma sesión.</p>\n<p>A este fenómeno físico se suma la fatiga de los fotorreceptores de la retina. Los conos oculares se saturan cuando fijamos la vista en un objeto durante más de cinco a siete segundos. Pasado ese tiempo, el cerebro empieza a compensar la señal cromática y el ojo pierde sensibilidad a los matices amarillos y rojizos. El protocolo exige observaciones rápidas de cinco segundos, apartando la mirada hacia una tarjeta de color gris neutro o azul pálido para descansar la retina antes de la siguiente comparación.</p>\n<p>Las condiciones ambientales deben acompañar este proceso: apaga la lámpara del sillón dental, trabaja con iluminación ambiental estandarizada cercana a la luz diurna D65 (entre 5500 K y 6500 K), pide al paciente que retire el carmín labial y retira baberos de colores vivos que proyecten reflejos sobre el tercio inferior del rostro.</p>\n<h2>Sistemas de referencia: VITA 3D-Master frente a VITA Classical</h2>\n<p>La guía VITA Classical A1-D4 es el estándar histórico de la odontología, pero presenta deficiencias conceptuales cuando buscamos máxima precisión en rehabilitaciones estéticas. La escala clásica organiza las pestañas agrupándolas por matiz (A: marrón-rojizo, B: amarillo, C: grisáceo, D: rojo-grisáceo). Sin embargo, el ojo humano percibe las dimensiones del color en un orden jerárquico muy distinto: primero identifica la luminosidad o valor, después la saturación o croma, y solo al final discrimina pequeñas variaciones de matiz.</p>\n<p>Además, la distribución de las pestañas en VITA Classical deja vacíos notables en el espacio de color natural de la dentición humana y acumula muestras en rangos cromáticos redundantes. Por el contrario, la guía VITA Toothguide 3D-Master estructura sus 26 pestañas de forma sistemática en tres pasos secuenciales:</p>\n<p>Paso 1: Determinar el valor (claridad). Se evalúan los seis grupos de valor (0 al 5) fijándose en la pestaña del grupo M (medio) con croma 2. Entrecierra levemente los ojos para desenfocar la forma y céntrate únicamente en si el diente es más claro o más oscuro que la muestra de referencia.</p>\n<p>Paso 2: Determinar el croma (saturación). Una vez elegido el grupo de valor (por ejemplo, el grupo 2), despliega el abanico correspondiente y selecciona el nivel de saturación de la dentina entre 1, 2 o 3.</p>\n<p>Paso 3: Determinar el matiz (tonalidad). Comprueba si el diente presenta una tendencia más amarillenta (subgrupo L) o más rojiza (subgrupo R) en relación con el grupo central neutro (M).</p>\n<p>Para pacientes sometidos a blanqueamiento dental o con dientes muy claros, este sistema se complementa con la guía VITA Bleachedguide 3D-Master, que añade los niveles ultra claros (como 0M1, 0M2 y 0M3), ordenados por valor decreciente sin saltos subjetivos.</p>\n<h2>Protocolo fotográfico para laboratorio: encuadre, plano focal y tarjeta de grises</h2>\n<p>Una fotografía sin estandarizar no sirve como referencia fiable. Las cámaras integradas en los teléfonos móviles incorporan algoritmos de procesado computacional, HDR agresivo y balance de blancos dinámico que alteran las curvas tonales para hacer la imagen vistosa en pantalla, falseando por completo los valores cromáticos. Para trabajar con garantías en rehabilitaciones anteriores, el estándar de trabajo es una cámara réflex o mirrorless con objetivo macro de focal fija (90 a 105 mm) y flash anular o de doble cabezal (twin flash).</p>\n<p>Uno de los fallos más críticos que vemos en el laboratorio al recibir fotografías es el error de profundidad de campo. Si la pestaña de la guía de color se sitúa apenas dos milímetros por delante del borde incisal del diente de referencia, se acerca a la fuente de luz del flash. Al recibir mayor intensidad lumínica por la ley del cuadrado inverso, la pestaña saldrá sobreexpuesta y parecerá tener un valor artificialmente más alto. Si se coloca dos milímetros por detrás, quedará en penumbra y parecerá más oscura.</p>\n<p>La pestaña de referencia debe situarse en el mismo plano focal exacto que la cara vestibular del diente testigo, preferiblemente borde incisal contra borde incisal, sin superposiciones y orientada con la misma angulación respecto al haz del flash macro.</p>\n<p>Para calibrar la exposición y el color de manera absoluta, recomendamos incluir en el encuadre una tarjeta de grises neutros al 18 % certificada para fotografía clínica. Al disparar en formato RAW, este parche neutro nos permite en el software del laboratorio fijar con un solo clic el balance de blancos neutro absoluto (temperatura kelvin y tinte) y corregir cualquier desviación de exposición de los flashes antes de seleccionar las masas cerámicas.</p>\n<h2>Polarización cruzada: eliminación de reflejos especulares y mapa de estratificación</h2>\n<p>El flash macro genera un destello luminoso que choca contra la superficie lisa y húmeda del diente, produciendo reflejos especulares de color blanco puro. Esos brillos superficiales saturan el sensor de la cámara y enmascaran la información de lo que realmente sucede en el espesor del esmalte y la dentina profunda.</p>\n<p>El uso de un filtro de polarización cruzada (como polar_eyes o pantallas polarizadoras montadas sobre el flash y el objetivo en ángulo ortogonal) elimina por completo la reflexión especular directa. La cámara capta únicamente la reflexión difusa interna que emerge desde el interior de la estructura dental.</p>\n<p>Al filtrar esos brillos parásitos, la imagen polarizada revela un mapa anatómico de estratificación de una nitidez absoluta. En el laboratorio podemos observar con total precisión la morfología de los mamelones dentinarios, la profundidad y extensión de las zonas opalescentes en los tercios medio e incisal, las bandas de hipocalcificación o fluorosis, las microfisuras y el grosor real de la capa de esmalte vestibular. Cuando confeccionamos carillas cerámicas, este mapa marca la diferencia entre un diente plano y una pieza que se mimetiza con la dentición natural, un criterio que también aplicamos al elegir entre <a href=\"https://innovadental.net/es/blog/carillas-feldespaticas-vs-disilicato-de-litio\">carillas feldespáticas y disilicato de litio</a>.</p>\n<h2>El sustrato: por qué registrar el muñón con la guía IPS Natural Die es obligatorio</h2>\n<p>Tratar una corona de disilicato de litio o de zirconio translúcido como si fuera una corona metal-cerámica tradicional es la vía más rápida hacia el fracaso estético. La cerámica sobre metal contaba con un núcleo opaco de aleación que bloqueaba cualquier influencia óptica subyacente. Las cerámicas vítreas y los zirconios policromáticos modernos destacan precisamente por su translucidez y transmisión de luz.</p>\n<p>Si tallas un muñón oscuro por una endodoncia previa (o sobre un pilar de titanio metálico) y planificamos una corona de disilicato con una pastilla de alta translucidez (HT) buscando máxima naturalidad, el fondo gris o marrón del sustrato se proyectará a través de la cerámica. La corona en boca se verá grisácea, con un valor bajo y mortecino, aunque hayamos acertado el color de la masa vestibular.</p>\n<p>Para controlar este fenómeno, Ivoclar desarrolló la guía de colores de muñones IPS Natural Die Material (ND1 a ND9). Esta escala clasifica los sustratos dentales desde el muñón más claro e hipercalcificado (ND1) hasta sustratos con tinciones severas o metálicos (ND9).</p>\n<p>Cuando la clínica nos indica el color ND del muñón preparado, en el laboratorio vertemos una réplica de resina de ese muñón específico sobre el modelo de trabajo antes de estratificar o prensar la restauración. Si sabemos que el sustrato es un ND7, seleccionaremos una pastilla de media opacidad (MO) o baja translucidez (LT) para enmascarar la discromía interna sin perder la vitalidad externa. Este control del fondo resulta igual de decisivo cuando diseñamos una <a href=\"https://innovadental.net/es/blog/corona-de-zirconio-sobre-implante-guia-clinica\">corona de zirconio sobre implante</a> montada sobre base de titanio.</p>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Sustrato (Guía ND)</th><th>Material cerámico recomendado</th><th>Opacidad / Pastilla requerida</th><th>Comportamiento óptico resultante</th></tr></thead><tbody><tr><td>ND1 - ND2 (Claro / Vital)</td><td>Disilicato de litio / Feldespática</td><td>HT (Alta translucidez)</td><td>Máxima mimetización; el sustrato aporta luminosidad natural</td></tr><tr><td>ND3 - ND4 (Medio / Ligera dentina)</td><td>Disilicato de litio</td><td>MT o LT (Media / Baja translucidez)</td><td>Equilibrio ideal entre paso de luz y control de valor</td></tr><tr><td>ND5 - ND6 (Oscurecido / Tinciones)</td><td>Disilicato o Zirconio 4Y/5Y</td><td>LT o MO (Media opacidad)</td><td>Frena el fondo oscuro; requiere estratificación vestibular</td></tr><tr><td>ND7 - ND9 (Endodoncia / Pilar Ti)</td><td>Zirconio 3Y / Disilicato MO</td><td>MO (Opaca) o Zirconio opaco</td><td>Enmascaramiento total de discromías severas o metales</td></tr></tbody></table></div>\n<h2>El límite del escáner intraoral: por qué el archivo digital necesita respaldo fotográfico</h2>\n<p>La digitalización ha transformado la precisión dimensional de los modelos de trabajo. Sin embargo, existe una confusión frecuente en clínica: asumir que el escáner intraoral sustituye la toma de color fotográfica.</p>\n<p>Un archivo STL es una malla tridimensional que describe exclusivamente geometría espacial; carece de información de color. Los formatos que transportan datos cromáticos o texturas (como PLY u OBJ) incorporan lecturas tomadas por pequeños sensores en la punta del escáner. Aunque algunos sistemas generan mapas de color orientativos, esos cálculos se basan en algoritmos que promedian áreas completas bajo fuentes de luz LED no estandarizadas.</p>\n<p>El escáner no capta la profundidad óptica, la opalescencia incisal, los efectos de fluorescencia ni la estructura interna de los mamelones. Un archivo PLY puede sugerir un tono medio general, pero resulta insuficiente para estratificar un incisivo central unitario con garantías de integración. En cualquier <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital entre clínica y laboratorio</a>, el archivo STL o PLY debe acompañarse siempre de la serie fotográfica calibrada y de la selección manual de pestañas de color.</p>\n<h2>Checklist de envío al laboratorio: la serie fotográfica para sector anterior</h2>\n<p>Para que podamos planificar la estratificación o el maquillaje cerámico sin margen para la duda, esta es la información que necesitamos recibir en el laboratorio junto a las impresiones o los archivos digitales:</p>\n<ul><li>Foto 1 (Luz polarizada): Diente homólogo y vecinos sin reflejos especulares para cartografiar mamelones, opalescencias y caracterizaciones internas.</li><li>Foto 2 (Luz directa con pestaña incisal): Pestaña seleccionada (VITA 3D o Classical) enfrentada borde incisal contra borde incisal en el mismo plano focal exacto.</li><li>Foto 3 (Luz directa con pestaña cervical): Pestaña de referencia colocada cuello con cuello para comparar la saturación del tercio gingival.</li><li>Foto 4 (Sustrato tallado): Fotografía del muñón preparado con la pestaña correspondiente de la guía IPS Natural Die (ND1 a ND9) en el mismo encuadre.</li><li>Foto 5 (Calibración RAW): Fotografía general que incluya una tarjeta de grises neutros al 18 % para permitir el balance de blancos absoluto en el software de diseño.</li></ul>\n<p>Ayudándonos mutuamente, planificar es más fácil y el resultado, más predecible. Si tienes dudas con la selección de pastillas o el registro de un muñón complejo, llámanos al laboratorio antes de empezar.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Se debe tomar el color antes o después de aplicar la anestesia local?</h3><p>Siempre antes. Los anestésicos infiltrativos con vasoconstrictor provocan isquemia y palidez transitoria en la encía marginal. Ese blanqueamiento del tejido blando falsea la percepción del contraste gingival y hace que el tercio cervical parezca artificialmente más saturado o más oscuro de lo que realmente es.</p>\n<h3>¿Qué referencia conviene enviar al laboratorio si faltan ambos incisivos centrales?</h3><p>El canino superior es la mejor guía para el croma y el matiz (suele ser un grado más saturado que el central), mientras que los premolares y los incisivos laterales ayudan a estimar el valor. Si existen fotografías previas del paciente o modelos antiguos antes de la pérdida de las piezas, adjúntalos siempre en el envío.</p>"
+}

@@ -1,36 +1,70 @@
 [
- {
-  "slug": "necesito-pagina-web-si-tengo-instagram",
-  "post_id": "necesito-pagina-web-si-tengo-instagram",
-  "url": "https://cresco.es/blog/necesito-pagina-web-si-tengo-instagram",
-  "titulo": "¿Necesito página web si tengo Instagram para mi negocio?",
-  "titulo_seo": "Necesito página web si tengo Instagram: diferencias",
-  "meta_description": "¿Necesitas página web si ya tienes Instagram? Qué cubre cada canal, qué riesgos asumes dependiendo solo de Meta y cómo combinarlos sin trabajar el doble.",
-  "keyword": "necesito pagina web si tengo instagram",
-  "cluster": "estrategia-digital-local",
-  "intencion": "informativa",
-  "etapa": "descubrimiento",
-  "prioridad": 94,
-  "palabras": 991,
-  "h2": 7,
-  "tablas": 1,
-  "faq": 2,
-  "variante": {
-   "experimento": "longitud",
-   "brazo": "A",
-   "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
-   "estrato": "cresco:estrategia-digital-local"
+  {
+    "slug": "necesito-pagina-web-si-tengo-instagram",
+    "post_id": "necesito-pagina-web-si-tengo-instagram",
+    "url": "https://cresco.es/blog/necesito-pagina-web-si-tengo-instagram",
+    "titulo": "¿Necesito página web si tengo Instagram para mi negocio?",
+    "titulo_seo": "Necesito página web si tengo Instagram: diferencias",
+    "meta_description": "¿Necesitas página web si ya tienes Instagram? Qué cubre cada canal, qué riesgos asumes dependiendo solo de Meta y cómo combinarlos sin trabajar el doble.",
+    "keyword": "necesito pagina web si tengo instagram",
+    "cluster": "estrategia-digital-local",
+    "intencion": "informativa",
+    "etapa": "descubrimiento",
+    "prioridad": 94,
+    "palabras": 991,
+    "h2": 7,
+    "tablas": 1,
+    "faq": 2,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "A",
+      "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
+      "estrato": "cresco:estrategia-digital-local"
+    },
+    "foto": "innovadental.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 10,
+      "seo": 10,
+      "experiencia": 10
+    },
+    "publicado": "2026-11-02",
+    "simulado": false,
+    "borrador": false
   },
-  "foto": "innovadental.jpg",
-  "nota_editor": {
-   "utilidad": 10,
-   "rigor": 10,
-   "naturalidad": 10,
-   "seo": 10,
-   "experiencia": 10
-  },
-  "publicado": "2026-11-02",
-  "simulado": false,
-  "borrador": false
- }
+  {
+    "slug": "boton-whatsapp-pagina-web-negocio-local",
+    "post_id": "boton-whatsapp-pagina-web-negocio-local",
+    "url": "https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local",
+    "titulo": "Botón de WhatsApp en la web: cómo conseguir más contactos locales",
+    "titulo_seo": "Botón de WhatsApp en la web para negocios locales",
+    "meta_description": "Descubre cómo poner un botón de WhatsApp en la web de tu negocio local, evitar errores en el móvil y captar clientes antes de que cierren la página.",
+    "keyword": "boton whatsapp en la web",
+    "cluster": "conversion-cro",
+    "intencion": "comercial",
+    "etapa": "consideracion",
+    "prioridad": 90,
+    "palabras": 2103,
+    "h2": 9,
+    "tablas": 1,
+    "faq": 2,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "B",
+      "descripcion": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
+      "estrato": "cresco:conversion-cro"
+    },
+    "foto": "lapacar.jpg",
+    "nota_editor": {
+      "utilidad": 9,
+      "rigor": 10,
+      "naturalidad": 9,
+      "seo": 9,
+      "experiencia": 9
+    },
+    "publicado": "2026-11-03",
+    "simulado": false,
+    "borrador": false
+  }
 ]
