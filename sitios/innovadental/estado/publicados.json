@@ -168,5 +168,39 @@
     "publicado": "2026-11-03",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "ferula-de-descarga-digital-impresion-3d-vs-fresada",
+    "post_id": "508312566980",
+    "url": "https://innovadental.net/es/blog/ferula-de-descarga-digital-impresion-3d-vs-fresada",
+    "titulo": "Férula de descarga digital: PMMA fresado o resina 3D",
+    "titulo_seo": "Férula de descarga digital: PMMA fresado vs 3D",
+    "meta_description": "Férula de descarga digital: comparativa técnica entre PMMA fresado y resina 3D, parámetros CAD y protocolo de escaneado para reducir retoques en sillón.",
+    "keyword": "ferula de descarga digital",
+    "cluster": "oclusion-removible",
+    "intencion": "comparativa",
+    "etapa": "decision",
+    "prioridad": 89,
+    "palabras": 1060,
+    "h2": 4,
+    "tablas": 1,
+    "faq": 4,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "A",
+      "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
+      "estrato": "innovadental:oclusion-removible"
+    },
+    "foto": "cat-ferula-guiada-1.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 10,
+      "seo": 10,
+      "experiencia": 10
+    },
+    "publicado": "2026-11-05",
+    "simulado": false,
+    "borrador": false
   }
 ]

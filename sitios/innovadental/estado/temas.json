@@ -31,7 +31,8 @@
     "prioridad": 92,
     "por_que": "GSC muestra alto volumen huérfano sobre disilicato de litio (coronas de disilicato de litio pos. 8-9) mientras el odontólogo actual busca soluciones mínimamente invasivas en premolares y molares que combinan faceta estética vestibular y recubrimiento oclusal; en Google dominan papers académicos y no hay guías prácticas de laboratorio.",
     "enfoque": "Criterio de confección protésica en E-Max para premolares con compromiso estético y estructural: grosores críticos según el software CAD, manejo de márgenes en butt-joint frente a bisel, y protocolo de arenado, grabado con fluorhídrico y silanización antes del envío.",
-    "estado": "pendiente"
+    "estado": "repetido",
+    "motivo": "«coronas de disilicato de litio» ya da 208 impresiones a https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales"
   },
   {
     "slug": "tecnica-bopt-provisionales-pmma-manejo-tejidos-blandos",
@@ -65,7 +66,7 @@
     "prioridad": 89,
     "por_que": "Creciente interés de odontólogos sobre si pedir férulas Michigan impresas o fresadas; los resultados en Google están copados por clínicas explicando el bruxismo al paciente, dejando desatendida la duda clínica sobre estabilidad dimensional, dureza y desgaste en boca.",
     "enfoque": "Comparativa técnica desde el banco de trabajo: comportamiento biomecánico de discos de PMMA reticulado fresados frente a resinas fotopolimerizables de impresión 3D, tolerancias oclusales CAD y por qué el ajuste digital ahorra tiempo de sillón en clínica.",
-    "estado": "pendiente"
+    "estado": "publicado"
   },
   {
     "slug": "escaner-intraoral-errores-escaneado-protesis-fija",

@@ -1,0 +1,186 @@
+{
+  "articulo": {
+    "titulo": "Cuánto cuesta una página web para un negocio local en España",
+    "titulo_seo": "Cuánto cuesta una página web para un negocio local",
+    "meta_description": "¿Cuánto cuesta una página web para un negocio local en España? Desglose del primer año, gastos ocultos habituales y qué opción compensa a una pyme.",
+    "resumen": "Desglose de precios de diseño, hosting y mantenimiento para una web local en España, qué gastos suelen omitir los presupuestos iniciales y qué modelo compensa más.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>En España, una página web profesional para un negocio local cuesta habitualmente entre 800 € y 2.500 € de desarrollo inicial, a los que se suman entre 50 € y 150 € al mes por hosting, copias de seguridad y mantenimiento técnico.</strong> Esto sitúa el coste real del primer año en una horquilla de entre 2.000 € y 3.500 €. Frente a este desembolso con partidas imprevistas, existen modelos de suscripción que unifican diseño, servidor y actualizaciones continuas por una cuota fija mensual."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si pides presupuesto para una clínica de fisioterapia, un taller o una academia, te vas a encontrar con ofertas de 300 € y propuestas de 3.500 € por proyectos que sobre el papel parecen idénticos. La brecha no está en los colores ni en el logotipo. Está en quién redacta los textos, qué ocurre cuando algo falla un domingo y si la página está pensada para recibir llamadas o simplemente para existir."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Cuánto cuesta una página web para un negocio local: desglose partida por partida"
+      },
+      {
+        "tipo": "p",
+        "texto": "Para entender de dónde salen los números al encargar una web a un profesional independiente o a una agencia tradicional, conviene separar la infraestructura técnica del trabajo de diseño y contenidos."
+      },
+      {
+        "tipo": "p",
+        "texto": "<strong>1. Dominio y alojamiento web (hosting)</strong><br>El dominio (.es o .com) es tu dirección en internet y cuesta entre 10 € y 25 € al año. El hosting es el servidor donde se guardan tus archivos. Un alojamiento compartido genérico puede rondar los 60 € anuales, pero un negocio local necesita rapidez de carga en el móvil, certificado de seguridad SSL y copias de seguridad periódicas. Un hosting gestionado solvente se sitúa habitualmente entre los 100 € y los 250 € al año."
+      },
+      {
+        "tipo": "p",
+        "texto": "<strong>2. Diseño, maquetación y redacción</strong><br>Aquí se concentra el grueso del presupuesto de salida. Una web corporativa básica de servicios para autónomos o pymes suele situarse en España entre 800 € y 2.500 €, tal y como desglosa el portal financiero <a href=\"https://rankia.com/empresas/blog/cuanto-cuesta-una-pagina-web\">Rankia</a> en su análisis de tarifas del sector. El gran escollo de las opciones muy baratas es que no suelen incluir la redacción: te piden que tú mismo escribas los textos de cada tratamiento o servicio. El resultado habitual es un proyecto bloqueado durante semanas porque el dueño del negocio no dispone de tiempo para redactar."
+      },
+      {
+        "tipo": "p",
+        "texto": "<strong>3. Mantenimiento técnico mensual</strong><br>La mayoría de páginas se construyen sobre gestores de contenidos como WordPress. Estos sistemas requieren actualizaciones de componentes, plantillas y versiones de servidor para evitar fallos de seguridad o incompatibilidades. Según datos del sector recopilados por proveedores como <a href=\"https://godaddy.com/resources/es/digitalizacion/cuanto-cuesta-mantenimiento-pagina-web\">GoDaddy</a>, el mantenimiento técnico básico en España oscila entre 50 € y 150 € al mes."
+      },
+      {
+        "tipo": "h2",
+        "texto": "La cuenta del primer año: por qué un presupuesto de 1.200 € acaba rozando los 3.000 €"
+      },
+      {
+        "tipo": "p",
+        "texto": "El error más común al calcular el gasto de una web es fijarse solo en la factura de salida. Supongamos que contratas un desarrollo por 1.200 €. Es una cifra estándar y razonable para el mercado español. Sin embargo, la vida útil de la página durante sus primeros doce meses acarrea gastos que rara vez se contemplan el primer día."
+      },
+      {
+        "tipo": "p",
+        "texto": "Llega el verano y necesitas modificar el horario comercial, añadir una nueva especialista a tu equipo o cambiar las fotos de la clínica. Si no contrataste una cuota mensual con horas de soporte incluidas, el desarrollador o la agencia facturará su tarifa por hora, que suele situarse entre 40 € y 80 €. Dos o tres retoques a lo largo del año añaden fácilmente otros 200 € o 300 € a la cuenta."
+      },
+      {
+        "tipo": "p",
+        "texto": "A esto se añade la visibilidad. Publicar una web no garantiza que aparezca cuando alguien busca tus servicios en tu ciudad. Si la entrega no incluye optimización de la ficha de Google ni ajustes periódicos, la página queda inerte. Al sumar creación (1.200 €), hosting y dominio (unos 180 €), mantenimiento técnico básico (alrededor de 70 € al mes, que suman 840 € al año) y pequeños cambios, el primer año supera con facilidad los 2.400 € y en agencias roza los 3.000 €."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Comparativa de opciones para un negocio local"
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Opción | Inversión primer año | Mantenimiento y cambios | Enfoque de visibilidad\nHazlo tú mismo (Wix, Squarespace) | 150 € - 300 € + tu tiempo | Lo gestionas tú por completo | Sin optimización técnica ni SEO local\nFreelance o agencia tradicional | 2.000 € - 3.500 € | Aparte (50 € - 150 €/mes o por horas) | Entrega del proyecto; cambios con coste extra\nSuscripción Cresco Web | 838,80 € (69,90 €/mes + IVA) | Incluido (cambios mensuales y soporte) | Agentes continuos para Google, ChatGPT y Gemini"
+      },
+      {
+        "tipo": "p",
+        "texto": "Montar la página por tu cuenta parece la alternativa más económica, pero tiene una contrapartida clara: el tiempo que dedicas a pelearte con tipografías, botones descuadrados en pantallas pequeñas y configuraciones técnicas es tiempo que restas a tu trabajo diario. Además, las plataformas de plantillas cerradas suelen cargar con lentitud en teléfonos móviles, lo que perjudica la experiencia de quien te visita."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Qué necesita de verdad tu web para conseguir llamadas (y qué sobra)"
+      },
+      {
+        "tipo": "p",
+        "texto": "Para que un taller mecánico, una clínica o una gestoría consigan contactos a través de internet no hacen falta animaciones pesadas ni vídeos de fondo. Lo que a nuestro juicio funciona para captar clientes en un radio cercano es mucho más directo:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Carga rápida en el teléfono móvil, el dispositivo desde el que se hacen la mayoría de consultas locales imprevistas.\nClaridad en la primera pantalla: qué problema resuelves, en qué localidad estás y cómo pedir cita.\nContacto inmediato: un botón para llamar directamente y un acceso a WhatsApp reducen fricciones frente a formularios largos.\nElementos de confianza: fotos reales de las instalaciones o del equipo y opiniones verificables de clientes."
+      },
+      {
+        "tipo": "p",
+        "texto": "Un detalle práctico aplicable hoy mismo sin gastar nada: entra en tu web actual o en tu ficha de Google Business desde tu propio teléfono. Comprueba si tu número de teléfono se puede marcar con un solo toque y si el horario comercial está al día. Si un cliente potencial tiene que memorizar el número o copiarlo y pegarlo a mano para llamarte, estás perdiendo consultas cada semana."
+      },
+      {
+        "tipo": "h2",
+        "texto": "El cambio de hábito: Google Maps y motores de búsqueda con IA"
+      },
+      {
+        "tipo": "p",
+        "texto": "Hasta hace poco, la visibilidad local dependía casi en exclusiva de posicionar en los resultados orgánicos de Google y en Google Maps. Hoy el comportamiento de búsqueda empieza a diversificarse: cada vez más personas consultan dudas en herramientas como ChatGPT, Gemini o Perplexity para pedir recomendaciones de servicios profesionales cercanos."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para que estos sistemas puedan interpretar y recomendar la información de una empresa, una página no puede comportarse como un folleto estático. Requiere datos estructurados específicos, respuestas directas a las preguntas frecuentes de los usuarios y una jerarquía técnica limpia. En los presupuestos tradicionales de desarrollo web, esta optimización para motores de inteligencia artificial rara vez viene incluida de serie."
+      },
+      {
+        "tipo": "p",
+        "texto": "En Cresco planteamos un modelo pensado para eliminar ese desembolso inicial y el riesgo de costes imprevistos. Con nuestro Plan Cresco Web, por 69,90 €/mes + IVA, incluimos diseño a medida adaptado a móvil, redacción de textos profesionales, dominio, hosting con SSL, ficha de Google Business optimizada, cambios de contenido cada mes y el trabajo continuo de agentes de IA supervisados por el equipo para mejorar la web cada semana en Google y en motores como ChatGPT y Perplexity. Sin permanencia: si decides darte de baja, se cancela al final del mes en curso y el dominio sigue siendo tuyo y se te transfiere."
+      },
+      {
+        "tipo": "p",
+        "texto": "Puedes comprobar la presencia digital de tu negocio con nuestro diagnóstico gratuito en <a href=\"https://cresco.es/diagnostico.html\">cresco.es/diagnostico.html</a>, donde analizamos tu visibilidad frente a la competencia en Google Maps. Y si quieres valorar el servicio sin compromiso, preparamos una portada gratis en 72 horas para que veas el resultado antes de pagar nada."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Vale la pena tener web si ya cuento con una ficha en Google Maps o perfil en Instagram?",
+        "a": "Una ficha de Google Maps y las redes sociales son canales útiles, pero tienen límites importantes: dependen de las políticas de terceros y ofrecen espacio restringido para detallar tarifas, condiciones y especialidades. Una web propia actúa como la sede oficial de tu negocio en internet: concentra la información, permite que te contacten por WhatsApp con un solo clic y aporta la estructura técnica necesaria para que Google y los buscadores de IA entiendan qué haces y recomienden tus servicios."
+      },
+      {
+        "q": "¿Qué ocurre con el dominio si decido darme de baja en un servicio de suscripción como Cresco?",
+        "a": "El dominio es siempre propiedad del cliente. En Cresco, si en algún momento decides cancelar el servicio, la baja se hace efectiva al final del mes en curso sin penalizaciones y gestionamos la transferencia del dominio a tu nuevo proveedor."
+      },
+      {
+        "q": "¿El programa Kit Digital cubre el coste total de una web local?",
+        "a": "Las ayudas del programa Kit Digital en España contemplan subvenciones para presencia básica en internet mediante agentes digitalizadores autorizados. No obstante, exigen trámites de justificación administrativa y suelen vincularse a desarrollos cerrados durante doce meses. Conviene comparar si esa tramitación compensa frente a soluciones flexibles y sin permanencia."
+      }
+    ],
+    "tags": [
+      "Precios web",
+      "Digitalización local",
+      "Presupuesto web"
+    ],
+    "foto": "innovadental.jpg",
+    "alt_foto": "Captura de la web de Innovadental, laboratorio de prótesis dental en A Coruña, desarrollada por Cresco."
+  },
+  "brief": {
+    "intencion": "Comercial / Transaccional: autónomos y dueños de pequeños negocios locales quieren saber cuánto cuesta realmente crear y mantener una web en España, desglosando partidas (diseño, hosting, dominio, mantenimiento) y evitando presupuestos opacos o sobrecostes imprevistos.",
+    "respuesta_directa": "En España, una página web profesional para un negocio local cuesta tradicionalmente entre 800 € y 2.500 € de desarrollo inicial, a los que hay que sumar entre 50 € y 150 € al mes por hosting, seguridad, actualizaciones y posicionamiento (superando los 2.500 € - 3.500 € el primer año). Frente a este desembolso con costes ocultos, existen modelos de suscripción integral como CRESCO por 69,90 €/mes + IVA sin permanencia, que unifican diseño, dominio, hosting, mantenimiento y optimización continua en Google y motores de IA.",
+    "que_cubren_los_top": [
+      "Rangos de precios orientativos según tipo de web (one-page desde 800 €, corporativa pyme 1.200 € - 3.500 €, tienda online desde 2.500 €).",
+      "Costes fijos obligatorios: dominio anual (10 € - 25 €), hosting (5 € - 30 €/mes) y certificados SSL.",
+      "Diferencia básica entre hacerlo uno mismo (Wix, WordPress.com), contratar un freelance o contratar una agencia.",
+      "Mantenimiento web técnico mensual estándar (actualización de plugins, backups, seguridad de 30 € a 120 €/mes)."
+    ],
+    "huecos": [
+      "El coste real del primer año: casi ningún artículo suma desarrollo inicial + hosting + mantenimiento + horas de cambios + SEO, ocultando que el gasto real roza los 3.000 €.",
+      "El 'síndrome de la web abandonada': el 90% de presupuestos tradicionales entregan la web y se desentienden del SEO local, dejando al negocio con una web que no genera llamadas ni WhatsApps.",
+      "La nueva visibilidad GEO (Generative Engine Optimization): nadie explica que los clientes ya buscan recomendaciones en ChatGPT, Gemini o Perplexity además de Google Maps, y que una web estática queda invisible.",
+      "La alternativa WaaS (Website as a Service / suscripción todo incluido): comparar con total transparencia el modelo de comprar un activo depreciable frente a una cuota operativa mensual sin permanencia que incluye soporte, cambios y optimización continua."
+    ],
+    "preguntas_reales": [
+      "¿Cuánto cuesta una web sencilla para autónomos en España?",
+      "¿Qué incluye exactamente el mantenimiento mensual de una página web y es obligatorio pagarlo?",
+      "¿Por qué hay presupuestos de 300 € y otros de 3.000 € para la misma clínica o taller?",
+      "¿Vale la pena pagar por una web si ya tengo ficha de Google o cuenta de Instagram?",
+      "¿Qué costes ocultos suelen aparecer después de publicar la página web?"
+    ],
+    "estructura": [
+      "Resumen directo: la horquilla de precios reales para una web local en España en 2026",
+      "Desglose partida por partida: cuánto cuesta cada elemento en el modelo tradicional",
+      "Los costes ocultos del presupuesto tradicional: la suma del primer año (por qué 1.200 € acaban siendo 3.000 €)",
+      "Comparativa de modelos: desarrollo tradicional vs. plataformas 'hazlo tú mismo' vs. suscripción todo incluido",
+      "Qué necesita realmente una web de negocio local para captar clientes (y qué es prescindible)",
+      "Más allá de Google: por qué tu web debe estar optimizada para SEO local y motores de IA (GEO)",
+      "Calculadora rápida: cómo elegir la opción más rentable para tu clínica, comercio o servicio local"
+    ],
+    "palabras_objetivo": 1850,
+    "entidades": [
+      "WordPress",
+      "Hosting gestionado",
+      "Nombre de dominio (.es / .com)",
+      "Certificado SSL (Let's Encrypt)",
+      "Mantenimiento web WordPress",
+      "Google Business Profile / Ficha de Google",
+      "SEO Local",
+      "GEO (Generative Engine Optimization)",
+      "ChatGPT",
+      "Perplexity",
+      "Gemini",
+      "Kit Digital",
+      "Website as a Service (WaaS)"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://godaddy.com/resources/es/digitalizacion/cuanto-cuesta-mantenimiento-pagina-web",
+        "dato": "El mantenimiento medio de una web corporativa básica en España oscila entre 50 € y 150 € al mes para cubrir seguridad, actualizaciones de CMS/plugins y copias de seguridad."
+      },
+      {
+        "url": "https://rankia.com/empresas/blog/cuanto-cuesta-una-pagina-web",
+        "dato": "El coste de encargar una web corporativa para un autónomo o pyme en España a un profesional se sitúa habitualmente entre 800 € y 2.500 € de desarrollo inicial."
+      },
+      {
+        "url": "https://visualbloom.co/cuanto-cuesta-una-web-profesional-en-espana/",
+        "dato": "Una web profesional básica para negocios locales de servicios parte de los 1.000 € - 1.500 € solo en diseño y maquetación, con costes recurrentes de hosting y mantenimiento técnico aparte."
+      }
+    ]
+  },
+  "html": "<p><strong>En España, una página web profesional para un negocio local cuesta habitualmente entre 800 € y 2.500 € de desarrollo inicial, a los que se suman entre 50 € y 150 € al mes por hosting, copias de seguridad y mantenimiento técnico.</strong> Esto sitúa el coste real del primer año en una horquilla de entre 2.000 € y 3.500 €. Frente a este desembolso con partidas imprevistas, existen modelos de suscripción que unifican diseño, servidor y actualizaciones continuas por una cuota fija mensual.</p>\n<p>Si pides presupuesto para una clínica de fisioterapia, un taller o una academia, te vas a encontrar con ofertas de 300 € y propuestas de 3.500 € por proyectos que sobre el papel parecen idénticos. La brecha no está en los colores ni en el logotipo. Está en quién redacta los textos, qué ocurre cuando algo falla un domingo y si la página está pensada para recibir llamadas o simplemente para existir.</p>\n<h2>Cuánto cuesta una página web para un negocio local: desglose partida por partida</h2>\n<p>Para entender de dónde salen los números al encargar una web a un profesional independiente o a una agencia tradicional, conviene separar la infraestructura técnica del trabajo de diseño y contenidos.</p>\n<p><strong>1. Dominio y alojamiento web (hosting)</strong>El dominio (.es o .com) es tu dirección en internet y cuesta entre 10 € y 25 € al año. El hosting es el servidor donde se guardan tus archivos. Un alojamiento compartido genérico puede rondar los 60 € anuales, pero un negocio local necesita rapidez de carga en el móvil, certificado de seguridad SSL y copias de seguridad periódicas. Un hosting gestionado solvente se sitúa habitualmente entre los 100 € y los 250 € al año.</p>\n<p><strong>2. Diseño, maquetación y redacción</strong>Aquí se concentra el grueso del presupuesto de salida. Una web corporativa básica de servicios para autónomos o pymes suele situarse en España entre 800 € y 2.500 €, tal y como desglosa el portal financiero <a href=\"https://rankia.com/empresas/blog/cuanto-cuesta-una-pagina-web\" target=\"_blank\" rel=\"noopener\">Rankia</a> en su análisis de tarifas del sector. El gran escollo de las opciones muy baratas es que no suelen incluir la redacción: te piden que tú mismo escribas los textos de cada tratamiento o servicio. El resultado habitual es un proyecto bloqueado durante semanas porque el dueño del negocio no dispone de tiempo para redactar.</p>\n<p><strong>3. Mantenimiento técnico mensual</strong>La mayoría de páginas se construyen sobre gestores de contenidos como WordPress. Estos sistemas requieren actualizaciones de componentes, plantillas y versiones de servidor para evitar fallos de seguridad o incompatibilidades. Según datos del sector recopilados por proveedores como <a href=\"https://godaddy.com/resources/es/digitalizacion/cuanto-cuesta-mantenimiento-pagina-web\" target=\"_blank\" rel=\"noopener\">GoDaddy</a>, el mantenimiento técnico básico en España oscila entre 50 € y 150 € al mes.</p>\n<h2>La cuenta del primer año: por qué un presupuesto de 1.200 € acaba rozando los 3.000 €</h2>\n<p>El error más común al calcular el gasto de una web es fijarse solo en la factura de salida. Supongamos que contratas un desarrollo por 1.200 €. Es una cifra estándar y razonable para el mercado español. Sin embargo, la vida útil de la página durante sus primeros doce meses acarrea gastos que rara vez se contemplan el primer día.</p>\n<p>Llega el verano y necesitas modificar el horario comercial, añadir una nueva especialista a tu equipo o cambiar las fotos de la clínica. Si no contrataste una cuota mensual con horas de soporte incluidas, el desarrollador o la agencia facturará su tarifa por hora, que suele situarse entre 40 € y 80 €. Dos o tres retoques a lo largo del año añaden fácilmente otros 200 € o 300 € a la cuenta.</p>\n<p>A esto se añade la visibilidad. Publicar una web no garantiza que aparezca cuando alguien busca tus servicios en tu ciudad. Si la entrega no incluye optimización de la ficha de Google ni ajustes periódicos, la página queda inerte. Al sumar creación (1.200 €), hosting y dominio (unos 180 €), mantenimiento técnico básico (alrededor de 70 € al mes, que suman 840 € al año) y pequeños cambios, el primer año supera con facilidad los 2.400 € y en agencias roza los 3.000 €.</p>\n<h2>Comparativa de opciones para un negocio local</h2>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Opción</th><th>Inversión primer año</th><th>Mantenimiento y cambios</th><th>Enfoque de visibilidad</th></tr></thead><tbody><tr><td>Hazlo tú mismo (Wix, Squarespace)</td><td>150 € - 300 € + tu tiempo</td><td>Lo gestionas tú por completo</td><td>Sin optimización técnica ni SEO local</td></tr><tr><td>Freelance o agencia tradicional</td><td>2.000 € - 3.500 €</td><td>Aparte (50 € - 150 €/mes o por horas)</td><td>Entrega del proyecto; cambios con coste extra</td></tr><tr><td>Suscripción Cresco Web</td><td>838,80 € (69,90 €/mes + IVA)</td><td>Incluido (cambios mensuales y soporte)</td><td>Agentes continuos para Google, ChatGPT y Gemini</td></tr></tbody></table></div>\n<p>Montar la página por tu cuenta parece la alternativa más económica, pero tiene una contrapartida clara: el tiempo que dedicas a pelearte con tipografías, botones descuadrados en pantallas pequeñas y configuraciones técnicas es tiempo que restas a tu trabajo diario. Además, las plataformas de plantillas cerradas suelen cargar con lentitud en teléfonos móviles, lo que perjudica la experiencia de quien te visita.</p>\n<h2>Qué necesita de verdad tu web para conseguir llamadas (y qué sobra)</h2>\n<p>Para que un taller mecánico, una clínica o una gestoría consigan contactos a través de internet no hacen falta animaciones pesadas ni vídeos de fondo. Lo que a nuestro juicio funciona para captar clientes en un radio cercano es mucho más directo:</p>\n<ul><li>Carga rápida en el teléfono móvil, el dispositivo desde el que se hacen la mayoría de consultas locales imprevistas.</li><li>Claridad en la primera pantalla: qué problema resuelves, en qué localidad estás y cómo pedir cita.</li><li>Contacto inmediato: un botón para llamar directamente y un acceso a WhatsApp reducen fricciones frente a formularios largos.</li><li>Elementos de confianza: fotos reales de las instalaciones o del equipo y opiniones verificables de clientes.</li></ul>\n<p>Un detalle práctico aplicable hoy mismo sin gastar nada: entra en tu web actual o en tu ficha de Google Business desde tu propio teléfono. Comprueba si tu número de teléfono se puede marcar con un solo toque y si el horario comercial está al día. Si un cliente potencial tiene que memorizar el número o copiarlo y pegarlo a mano para llamarte, estás perdiendo consultas cada semana.</p>\n<h2>El cambio de hábito: Google Maps y motores de búsqueda con IA</h2>\n<p>Hasta hace poco, la visibilidad local dependía casi en exclusiva de posicionar en los resultados orgánicos de Google y en Google Maps. Hoy el comportamiento de búsqueda empieza a diversificarse: cada vez más personas consultan dudas en herramientas como ChatGPT, Gemini o Perplexity para pedir recomendaciones de servicios profesionales cercanos.</p>\n<p>Para que estos sistemas puedan interpretar y recomendar la información de una empresa, una página no puede comportarse como un folleto estático. Requiere datos estructurados específicos, respuestas directas a las preguntas frecuentes de los usuarios y una jerarquía técnica limpia. En los presupuestos tradicionales de desarrollo web, esta optimización para motores de inteligencia artificial rara vez viene incluida de serie.</p>\n<p>En Cresco planteamos un modelo pensado para eliminar ese desembolso inicial y el riesgo de costes imprevistos. Con nuestro Plan Cresco Web, por 69,90 €/mes + IVA, incluimos diseño a medida adaptado a móvil, redacción de textos profesionales, dominio, hosting con SSL, ficha de Google Business optimizada, cambios de contenido cada mes y el trabajo continuo de agentes de IA supervisados por el equipo para mejorar la web cada semana en Google y en motores como ChatGPT y Perplexity. Sin permanencia: si decides darte de baja, se cancela al final del mes en curso y el dominio sigue siendo tuyo y se te transfiere.</p>\n<p>Puedes comprobar la presencia digital de tu negocio con nuestro diagnóstico gratuito en <a href=\"https://cresco.es/diagnostico.html\">cresco.es/diagnostico.html</a>, donde analizamos tu visibilidad frente a la competencia en Google Maps. Y si quieres valorar el servicio sin compromiso, preparamos una portada gratis en 72 horas para que veas el resultado antes de pagar nada.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Vale la pena tener web si ya cuento con una ficha en Google Maps o perfil en Instagram?</h3><p>Una ficha de Google Maps y las redes sociales son canales útiles, pero tienen límites importantes: dependen de las políticas de terceros y ofrecen espacio restringido para detallar tarifas, condiciones y especialidades. Una web propia actúa como la sede oficial de tu negocio en internet: concentra la información, permite que te contacten por WhatsApp con un solo clic y aporta la estructura técnica necesaria para que Google y los buscadores de IA entiendan qué haces y recomienden tus servicios.</p>\n<h3>¿Qué ocurre con el dominio si decido darme de baja en un servicio de suscripción como Cresco?</h3><p>El dominio es siempre propiedad del cliente. En Cresco, si en algún momento decides cancelar el servicio, la baja se hace efectiva al final del mes en curso sin penalizaciones y gestionamos la transferencia del dominio a tu nuevo proveedor.</p>\n<h3>¿El programa Kit Digital cubre el coste total de una web local?</h3><p>Las ayudas del programa Kit Digital en España contemplan subvenciones para presencia básica en internet mediante agentes digitalizadores autorizados. No obstante, exigen trámites de justificación administrativa y suelen vincularse a desarrollos cerrados durante doce meses. Conviene comparar si esa tramitación compensa frente a soluciones flexibles y sin permanencia.</p>"
+}

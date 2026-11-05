@@ -1,0 +1,169 @@
+{
+  "articulo": {
+    "titulo": "Férula de descarga digital: PMMA fresado o resina 3D",
+    "titulo_seo": "Férula de descarga digital: PMMA fresado vs 3D",
+    "meta_description": "Férula de descarga digital: comparativa técnica entre PMMA fresado y resina 3D, parámetros CAD y protocolo de escaneado para reducir retoques en sillón.",
+    "resumen": "Análisis biomecánico entre férulas oclusales fresadas e impresas en 3D, y protocolo clínico de registro para evitar retoques oclusales en el sillón.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>La férula de descarga digital se diseña mediante software CAD a partir de un escaneado intraoral con registro de mordida en relación céntrica, fabricándose mediante fresado sustractivo en PMMA de alta densidad o impresión 3D con resinas biocompatibles Clase IIa.</strong> Frente al procesado analógico en mufla o vertido, elimina la distorsión por contracción de polimerización, reduciendo habitualmente el tiempo de ajuste en clínica de 20-25 minutos a una comprobación pasiva de pocos minutos. En pacientes con bruxismo severo, el PMMA fresado sigue siendo la referencia por resistencia a la fractura y tolerancia al desgaste abrasivo."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Del acrílico manual al CAD/CAM: adiós a la contracción de polimerización"
+      },
+      {
+        "tipo": "p",
+        "texto": "Quien haya ajustado férulas analógicas conoce la rutina: rebajar interferencias en molares, aliviar zonas retentivas con fresa de bellota porque la pieza no entra y volver a pulir en el gabinete mientras el paciente espera con la boca abierta. Ese desajuste rara vez es un fallo de la impresión con alginato o silicona. El culpable suele ser la contracción volumétrica del metilmetacrilato autopolimerizable, que ronda el 6 % durante el fraguado sobre el modelo de yeso."
+      },
+      {
+        "tipo": "p",
+        "texto": "En el flujo digital, esa contracción desaparece. Un disco de PMMA para fresado viene polimerizado industrialmente bajo presiones y temperaturas estandarizadas que ningún laboratorio puede replicar a mano. Esto aporta dos ventajas inmediatas: estabilidad dimensional absoluta y una tasa de monómero residual prácticamente nula, lo que elimina el riesgo de irritaciones mucosas por citotoxicidad en pacientes reactivos. Si tu clínica ya trabaja con un <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital clínica-laboratorio</a>, la ganancia en predictibilidad y tiempo de sillón es directa."
+      },
+      {
+        "tipo": "h2",
+        "texto": "PMMA fresado frente a resinas 3D: comparativa biomecánica"
+      },
+      {
+        "tipo": "p",
+        "texto": "La impresión 3D ha abaratado la producción de férulas oclusales y ofrece resinas con cierta memoria elástica que facilitan la inserción. Sin embargo, en el banco de pruebas y en la boca de un apretador nocturno severo, la microestructura de ambos materiales responde de forma muy diferente."
+      },
+      {
+        "tipo": "p",
+        "texto": "La evidencia biomecánica es concluyente. Los ensayos mecánicos comparativos demuestran que las férulas fresadas en PMMA alcanzan una resistencia inicial a la fractura de 3.398 ± 435 N, frente a los 2.286 ± 499 N que registran las resinas fotopolimerizables 3D (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10534271/\" target=\"_blank\" rel=\"noopener noreferrer\">ensayo en PMC10534271</a>). En flexión, el PMMA fresado soporta hasta 106 ± 8,3 MPa con una dureza Vickers de 20,6 VHN, mientras las resinas 3D se sitúan entre 46 y 75 MPa (<a href=\"https://www.mdpi.com/2304-6767/11/8/199\" target=\"_blank\" rel=\"noopener noreferrer\">estudio en Dentistry Journal</a>)."
+      },
+      {
+        "tipo": "p",
+        "texto": "La resina impresa acusa fatiga cíclica mucho antes y sufre abrasión superficial acelerada. Además, si el postcurado en cámara UV o el pulido de alto brillo no son rigurosos, la microestructura aditiva retiene placa bacteriana y tinciones con mayor facilidad que la superficie compacta de un disco fresado. Para un bruxista severo en el sector posterior, en el laboratorio no lo dudaríamos: fresado en PMMA de alto impacto."
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Parámetro | PMMA fresado CAD/CAM | Resina 3D Clase IIa | Acrílico analógico manual\nResistencia a la fractura | > 3.300 N | ~ 2.200 - 2.300 N | ~ 2.300 - 2.400 N\nResistencia flexural | 100 - 110 MPa | 45 - 75 MPa | 60 - 80 MPa\nDureza superficial | Alta (20,6 VHN) | Media (5 - 14 VHN) | Media-Baja (~17-20 VHN)\nMonómero residual | Mínimo (polimerizado industrial) | Depende del postcurado | Elevado en autopolimerizables\nAjuste pasivo en clínica | Inmediato (< 5 min) | Inmediato (< 5 min) | Variable (15 - 30 min)"
+      },
+      {
+        "tipo": "h2",
+        "texto": "Diseño CAD de la férula de descarga digital: retención y socavados"
+      },
+      {
+        "tipo": "p",
+        "texto": "Para que una férula digital asiente con un clic suave sin comprimir piezas individuales ni saltar al abrir la boca, el software requiere decisiones técnicas concretas antes del mecanizado."
+      },
+      {
+        "tipo": "p",
+        "texto": "El primer paso crítico es la determinación del eje de inserción virtual. Bloqueamos digitalmente los socavados anatómicos (undercuts), aliviando las troneras retentivas y las convexidades vestibulares acentuadas. Si no se compensan esos ángulos muertos en el software, la férula quedará bloqueada mecánicamente al intentar colocarla, obligando al odontólogo a desgastar el intradós a ciegas."
+      },
+      {
+        "tipo": "p",
+        "texto": "El software nos permite calibrar el espacio para fricción pasiva con una holgura micrométrica homogénea en toda la arcada (habitualmente entre 0,05 y 0,08 mm según la anatomía coronaria). De este modo, la retención se reparte en las caras vestibulares y palatinas estratégicas sin someter a las piezas a tensiones ortodóncicas indeseadas durante la noche."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Registro de mordida y articulador virtual: evitar contactos prematuros"
+      },
+      {
+        "tipo": "p",
+        "texto": "El error más frecuente que vemos en el laboratorio no está en el escaneado de la arcada, sino en el registro interoclusal. Si la mordida digital se toma en máxima intercuspidación (MIC) sin galga o sin desprogramación previa, el articulador virtual del software debe abrir la dimensión vertical de forma matemática rotando sobre un eje de bisagra teórico. Esa rotación virtual rara vez coincide con la cinemática mandibular real del paciente, provocando que la férula llegue a clínica con contactos prematuros en los segundos molares."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para garantizar una superficie oclusal tipo Michigan con contactos céntricos posteriores y desoclusión canina limpia sin tocar la pieza con la fresa, aconsejamos seguir este protocolo de registro en el gabinete:"
+      },
+      {
+        "tipo": "ol",
+        "texto": "Desprogramar al paciente durante 5 a 10 minutos (con un jig anterior de resina, desprogramador de Lucia o rollos de algodón) para relajar la musculatura y registrar la relación céntrica.\nEscanear la mordida con el grosor real deseado: registrar el espacio interoclusal con el paciente mordiendo un tope anterior rígido que deje al menos 1,5 a 2 mm de espacio libre en el sector posterior.\nSecar minuciosamente caras oclusales y encía: la saliva acumulada genera brillos que el escáner interpreta como falsa geometría, alterando el plano oclusal de la férula.\nEnviar la arcada antagonista completa con tuberosidades o trígonos retromolares bien definidos para que el articulador virtual sincronice la oclusión con exactitud."
+      },
+      {
+        "tipo": "p",
+        "texto": "Cuando estos datos llegan limpios al CAD, modelamos las rampas de disyunción y la guía anterior directamente en el software. Al sentar al paciente, el papel de articular de 12 micras suele confirmar lo que vimos en pantalla: marcas tripódicas uniformes y desoclusión lateral inmediata. En nuestro artículo sobre <a href=\"https://innovadental.net/es/blog/impresión-digital-vs-convencional-qué-cambia-en-el-laboratorio\">impresión digital frente a convencional</a> explicamos con más detalle cómo influyen estos parámetros en el ajuste protésico."
+      },
+      {
+        "tipo": "p",
+        "texto": "Ayudándonos mutuamente, planificar es más fácil y el resultado, más predecible. Si dudas con el registro de relación céntrica en tu escáner intraoral o quieres valorar un caso, llámanos al 981 65 20 66 o escríbenos a través de <a href=\"https://innovadental.net/es/contacte-innovadental\">Innovadental</a>."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Por qué una férula digital puede quedar demasiado apretada al colocarla?",
+        "a": "Ocurre principalmente cuando el eje de inserción en el diseño CAD no bloqueó suficientes socavados anatómicos o cuando el escaneado intraoral captó saliva en los espacios interproximales, interpretándola como volumen dental rígido."
+      },
+      {
+        "q": "¿Cuánto dura una férula fresada en PMMA frente a una impresa en 3D?",
+        "a": "Una férula fresada de PMMA de alta densidad mantiene su oclusión y estabilidad mecánica entre 3 y 5 años en condiciones habituales. Las resinas 3D actuales, al tener menor resistencia flexural (46-75 MPa) y mayor porosidad microscópica, suelen requerir sustitución o reajustes a partir de los 12-18 meses en pacientes con bruxismo moderado a severo."
+      },
+      {
+        "q": "¿Se puede rebasar o retocar una férula fresada en la clínica?",
+        "a": "Sí. El PMMA fresado comparte la base química del acrílico convencional, por lo que permite rebasados directos y adición de resinas autopolimerizables para modificar rampas oclusales o guías caninas directamente en el sillón."
+      },
+      {
+        "q": "¿Qué grosor mínimo debe tener una férula de descarga digital para no fracturarse?",
+        "a": "En PMMA fresado, el grosor mínimo de seguridad en el fondo de fosas oclusales es de 1,5 mm, con flancos perimetrales de 2 mm. En resinas 3D, debido a su menor resistencia flexural y fatiga cíclica, no conviene bajar de 2,0 mm en ningún punto de contacto oclusal."
+      }
+    ],
+    "tags": [
+      "Férula de descarga",
+      "CAD/CAM dental",
+      "PMMA fresado",
+      "Bruxismo"
+    ],
+    "foto": "cat-ferula-guiada-1.jpg",
+    "alt_foto": "Férula oclusal y guía digital sobre modelo de trabajo en laboratorio dental"
+  },
+  "brief": {
+    "intencion": "Comercial e informativa técnica orientada a odontólogos y directores clínicos que buscan incorporar o evaluar férulas oclusales digitales (fresadas CAD/CAM vs. impresas 3D), reduciendo el tiempo de ajuste en sillón y mejorando la predictibilidad biomecánica frente al acrílico tradicional.",
+    "respuesta_directa": "La férula de descarga digital se diseña mediante software CAD a partir de un escaneo intraoral con registro de mordida en relación céntrica, fabricándose mediante fresado sustractivo de discos de PMMA de alta densidad o impresión 3D aditiva con resinas biocompatibles Clase IIa. Frente al método analógico, elimina la contracción volumétrica de polimerización, ofreciendo un ajuste pasivo micrométrico y una oclusión predecible que reduce el tiempo de sillón de 20-30 minutos a menos de 5 minutos de comprobación. A nivel biomecánico, el PMMA fresado sigue siendo el estándar de oro en resistencia a la fractura (superior a 3.000 N) y resistencia al desgaste abrasivo en bruxismo severo.",
+    "que_cubren_los_top": [
+      "Definición básica de férula de descarga y para qué sirve (bruxismo, ATM, desgaste dental).",
+      "Mención general del flujo digital: escáner intraoral (STL), software CAD (3Shape o exocad) y fabricación.",
+      "Promesa comercial genérica de 'ajuste perfecto a la primera' y 'menos retoques en clínica'.",
+      "Diferenciación superficial entre férula Michigan clásica y férula impresa o fresada sin profundizar en parámetros de laboratorio."
+    ],
+    "huecos": [
+      "Comportamiento de monómero residual: por qué el PMMA termopolimerizado industrialmente a alta presión/temperatura no produce irritación mucosa ni citotoxicidad en comparación con el procesado manual o el postcurado insuficiente de resinas 3D.",
+      "Mecánica de desgaste y resistencia flexural real: datos cuantificables de resistencia a la fractura (PMMA fresado ~100-110 MPa y >3.300 N vs. resinas 3D ~45-75 MPa) y qué significa clínicamente para pacientes bruxistas severos.",
+      "El protocolo técnico de registro oclusal en clínica: cómo registrar la dimensión vertical y relación céntrica para que el articulador virtual del CAD no genere contactos prematuros en molares.",
+      "Control de retención en CAD: bloqueo digital de socavados (undercuts), ángulo de inserción virtual y alivio cervical para evitar ferulizaciones excesivas o falta de retención.",
+      "Protocolo de pulido y mantenimiento higiénico: por qué la porosidad superficial de la impresión 3D sin pulido de alto brillo acumula biofilm y manchas frente a la densidad del PMMA fresado."
+    ],
+    "preguntas_reales": [
+      "¿Qué es mejor para una férula de descarga: fresada en PMMA o impresa en 3D?",
+      "¿Por qué una férula digital recién salida del laboratorio puede quedar apretada o saltar al colocarla?",
+      "¿Cómo influye el registro de mordida del escáner intraoral en el ajuste oclusal de la férula Michigan?",
+      "¿Cuánto dura una férula de descarga impresa en 3D frente a una fresada por CAD/CAM?",
+      "¿Se pueden rebasar o retocar las férulas de PMMA fresado y las de resina 3D en la clínica?"
+    ],
+    "estructura": [
+      "Del articulador de yeso al CAD/CAM: qué cambia realmente en la férula oclusal",
+      "PMMA fresado vs. resinas fotopolimerizables 3D: comparativa biomecánica en el banco de trabajo",
+      "El diseño CAD de la férula Michigan: control de retención, eje de inserción y socavados",
+      "Articulador virtual y oclusión: cómo lograr contacto tripode y desoclusión canina sin tocar el sillón",
+      "Protocolo clínico de envío: qué necesita el laboratorio para una férula sin retoques (STL + mordida)",
+      "Preguntas frecuentes de odontólogos sobre férulas de descarga digitales"
+    ],
+    "palabras_objetivo": 1400,
+    "entidades": [
+      "PMMA de alto impacto (polimetilmetacrilato reticulado)",
+      "Resina biocompatible Clase IIa (KeySplint Soft, Dental LT Clear)",
+      "CAD/CAM dental (3Shape Splint Studio, exocad)",
+      "Fresado en 5 ejes",
+      "Articulador virtual semiajustable",
+      "Relación Céntrica (RC)",
+      "Guía canina y desoclusión anterior",
+      "Contracción de polimerización",
+      "Monómero residual",
+      "Dureza Vickers",
+      "Resistencia flexural (ISO 20795-1)"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10534271/",
+        "dato": "Ensayos mecánicos muestran que las férulas fresadas en PMMA alcanzan una resistencia inicial a la fractura de 3.398 ± 435 N frente a 2.286 ± 499 N en resinas impresas en 3D y 2.393 ± 451 N en férulas convencionales."
+      },
+      {
+        "url": "https://www.mdpi.com/2079-6412/13/8/1460",
+        "dato": "El PMMA fresado presenta valores de resistencia flexural de hasta 106 ± 8,3 MPa y dureza Vickers de 20,6 VHN, mientras que las resinas impresas 3D varían entre 46,1 ± 8,2 MPa y 75,2 ± 7,6 MPa."
+      }
+    ]
+  },
+  "html": "<p><strong>La férula de descarga digital se diseña mediante software CAD a partir de un escaneado intraoral con registro de mordida en relación céntrica, fabricándose mediante fresado sustractivo en PMMA de alta densidad o impresión 3D con resinas biocompatibles Clase IIa.</strong> Frente al procesado analógico en mufla o vertido, elimina la distorsión por contracción de polimerización, reduciendo habitualmente el tiempo de ajuste en clínica de 20-25 minutos a una comprobación pasiva de pocos minutos. En pacientes con bruxismo severo, el PMMA fresado sigue siendo la referencia por resistencia a la fractura y tolerancia al desgaste abrasivo.</p>\n<h2>Del acrílico manual al CAD/CAM: adiós a la contracción de polimerización</h2>\n<p>Quien haya ajustado férulas analógicas conoce la rutina: rebajar interferencias en molares, aliviar zonas retentivas con fresa de bellota porque la pieza no entra y volver a pulir en el gabinete mientras el paciente espera con la boca abierta. Ese desajuste rara vez es un fallo de la impresión con alginato o silicona. El culpable suele ser la contracción volumétrica del metilmetacrilato autopolimerizable, que ronda el 6 % durante el fraguado sobre el modelo de yeso.</p>\n<p>En el flujo digital, esa contracción desaparece. Un disco de PMMA para fresado viene polimerizado industrialmente bajo presiones y temperaturas estandarizadas que ningún laboratorio puede replicar a mano. Esto aporta dos ventajas inmediatas: estabilidad dimensional absoluta y una tasa de monómero residual prácticamente nula, lo que elimina el riesgo de irritaciones mucosas por citotoxicidad en pacientes reactivos. Si tu clínica ya trabaja con un <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital clínica-laboratorio</a>, la ganancia en predictibilidad y tiempo de sillón es directa.</p>\n<h2>PMMA fresado frente a resinas 3D: comparativa biomecánica</h2>\n<p>La impresión 3D ha abaratado la producción de férulas oclusales y ofrece resinas con cierta memoria elástica que facilitan la inserción. Sin embargo, en el banco de pruebas y en la boca de un apretador nocturno severo, la microestructura de ambos materiales responde de forma muy diferente.</p>\n<p>La evidencia biomecánica es concluyente. Los ensayos mecánicos comparativos demuestran que las férulas fresadas en PMMA alcanzan una resistencia inicial a la fractura de 3.398 ± 435 N, frente a los 2.286 ± 499 N que registran las resinas fotopolimerizables 3D (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10534271/\" target=\"_blank\" rel=\"noopener\">ensayo en PMC10534271</a>). En flexión, el PMMA fresado soporta hasta 106 ± 8,3 MPa con una dureza Vickers de 20,6 VHN, mientras las resinas 3D se sitúan entre 46 y 75 MPa (<a href=\"https://www.mdpi.com/2304-6767/11/8/199\" target=\"_blank\" rel=\"noopener\">estudio en Dentistry Journal</a>).</p>\n<p>La resina impresa acusa fatiga cíclica mucho antes y sufre abrasión superficial acelerada. Además, si el postcurado en cámara UV o el pulido de alto brillo no son rigurosos, la microestructura aditiva retiene placa bacteriana y tinciones con mayor facilidad que la superficie compacta de un disco fresado. Para un bruxista severo en el sector posterior, en el laboratorio no lo dudaríamos: fresado en PMMA de alto impacto.</p>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Parámetro</th><th>PMMA fresado CAD/CAM</th><th>Resina 3D Clase IIa</th><th>Acrílico analógico manual</th></tr></thead><tbody><tr><td>Resistencia a la fractura</td><td>&gt; 3.300 N</td><td>~ 2.200 - 2.300 N</td><td>~ 2.300 - 2.400 N</td></tr><tr><td>Resistencia flexural</td><td>100 - 110 MPa</td><td>45 - 75 MPa</td><td>60 - 80 MPa</td></tr><tr><td>Dureza superficial</td><td>Alta (20,6 VHN)</td><td>Media (5 - 14 VHN)</td><td>Media-Baja (~17-20 VHN)</td></tr><tr><td>Monómero residual</td><td>Mínimo (polimerizado industrial)</td><td>Depende del postcurado</td><td>Elevado en autopolimerizables</td></tr><tr><td>Ajuste pasivo en clínica</td><td>Inmediato (&lt; 5 min)</td><td>Inmediato (&lt; 5 min)</td><td>Variable (15 - 30 min)</td></tr></tbody></table></div>\n<h2>Diseño CAD de la férula de descarga digital: retención y socavados</h2>\n<p>Para que una férula digital asiente con un clic suave sin comprimir piezas individuales ni saltar al abrir la boca, el software requiere decisiones técnicas concretas antes del mecanizado.</p>\n<p>El primer paso crítico es la determinación del eje de inserción virtual. Bloqueamos digitalmente los socavados anatómicos (undercuts), aliviando las troneras retentivas y las convexidades vestibulares acentuadas. Si no se compensan esos ángulos muertos en el software, la férula quedará bloqueada mecánicamente al intentar colocarla, obligando al odontólogo a desgastar el intradós a ciegas.</p>\n<p>El software nos permite calibrar el espacio para fricción pasiva con una holgura micrométrica homogénea en toda la arcada (habitualmente entre 0,05 y 0,08 mm según la anatomía coronaria). De este modo, la retención se reparte en las caras vestibulares y palatinas estratégicas sin someter a las piezas a tensiones ortodóncicas indeseadas durante la noche.</p>\n<h2>Registro de mordida y articulador virtual: evitar contactos prematuros</h2>\n<p>El error más frecuente que vemos en el laboratorio no está en el escaneado de la arcada, sino en el registro interoclusal. Si la mordida digital se toma en máxima intercuspidación (MIC) sin galga o sin desprogramación previa, el articulador virtual del software debe abrir la dimensión vertical de forma matemática rotando sobre un eje de bisagra teórico. Esa rotación virtual rara vez coincide con la cinemática mandibular real del paciente, provocando que la férula llegue a clínica con contactos prematuros en los segundos molares.</p>\n<p>Para garantizar una superficie oclusal tipo Michigan con contactos céntricos posteriores y desoclusión canina limpia sin tocar la pieza con la fresa, aconsejamos seguir este protocolo de registro en el gabinete:</p>\n<ol><li>Desprogramar al paciente durante 5 a 10 minutos (con un jig anterior de resina, desprogramador de Lucia o rollos de algodón) para relajar la musculatura y registrar la relación céntrica.</li><li>Escanear la mordida con el grosor real deseado: registrar el espacio interoclusal con el paciente mordiendo un tope anterior rígido que deje al menos 1,5 a 2 mm de espacio libre en el sector posterior.</li><li>Secar minuciosamente caras oclusales y encía: la saliva acumulada genera brillos que el escáner interpreta como falsa geometría, alterando el plano oclusal de la férula.</li><li>Enviar la arcada antagonista completa con tuberosidades o trígonos retromolares bien definidos para que el articulador virtual sincronice la oclusión con exactitud.</li></ol>\n<p>Cuando estos datos llegan limpios al CAD, modelamos las rampas de disyunción y la guía anterior directamente en el software. Al sentar al paciente, el papel de articular de 12 micras suele confirmar lo que vimos en pantalla: marcas tripódicas uniformes y desoclusión lateral inmediata. En nuestro artículo sobre <a href=\"https://innovadental.net/es/blog/impresión-digital-vs-convencional-qué-cambia-en-el-laboratorio\">impresión digital frente a convencional</a> explicamos con más detalle cómo influyen estos parámetros en el ajuste protésico.</p>\n<p>Ayudándonos mutuamente, planificar es más fácil y el resultado, más predecible. Si dudas con el registro de relación céntrica en tu escáner intraoral o quieres valorar un caso, llámanos al 981 65 20 66 o escríbenos a través de <a href=\"https://innovadental.net/es/contacte-innovadental\">Innovadental</a>.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Por qué una férula digital puede quedar demasiado apretada al colocarla?</h3><p>Ocurre principalmente cuando el eje de inserción en el diseño CAD no bloqueó suficientes socavados anatómicos o cuando el escaneado intraoral captó saliva en los espacios interproximales, interpretándola como volumen dental rígido.</p>\n<h3>¿Cuánto dura una férula fresada en PMMA frente a una impresa en 3D?</h3><p>Una férula fresada de PMMA de alta densidad mantiene su oclusión y estabilidad mecánica entre 3 y 5 años en condiciones habituales. Las resinas 3D actuales, al tener menor resistencia flexural (46-75 MPa) y mayor porosidad microscópica, suelen requerir sustitución o reajustes a partir de los 12-18 meses en pacientes con bruxismo moderado a severo.</p>\n<h3>¿Se puede rebasar o retocar una férula fresada en la clínica?</h3><p>Sí. El PMMA fresado comparte la base química del acrílico convencional, por lo que permite rebasados directos y adición de resinas autopolimerizables para modificar rampas oclusales o guías caninas directamente en el sillón.</p>\n<h3>¿Qué grosor mínimo debe tener una férula de descarga digital para no fracturarse?</h3><p>En PMMA fresado, el grosor mínimo de seguridad en el fondo de fosas oclusales es de 1,5 mm, con flancos perimetrales de 2 mm. En resinas 3D, debido a su menor resistencia flexural y fatiga cíclica, no conviene bajar de 2,0 mm en ningún punto de contacto oclusal.</p>"
+}

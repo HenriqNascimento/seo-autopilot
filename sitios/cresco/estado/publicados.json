@@ -66,5 +66,39 @@
     "publicado": "2026-11-03",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "cuanto-cuesta-pagina-web-negocio-local",
+    "post_id": "cuanto-cuesta-pagina-web-negocio-local",
+    "url": "https://cresco.es/blog/cuanto-cuesta-pagina-web-negocio-local",
+    "titulo": "Cuánto cuesta una página web para un negocio local en España",
+    "titulo_seo": "Cuánto cuesta una página web para un negocio local",
+    "meta_description": "¿Cuánto cuesta una página web para un negocio local en España? Desglose del primer año, gastos ocultos habituales y qué opción compensa a una pyme.",
+    "keyword": "cuanto cuesta una pagina web para un negocio local",
+    "cluster": "precios-y-modelos",
+    "intencion": "comparativa",
+    "etapa": "consideracion",
+    "prioridad": 96,
+    "palabras": 1300,
+    "h2": 5,
+    "tablas": 1,
+    "faq": 3,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "A",
+      "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
+      "estrato": "cresco:precios-y-modelos"
+    },
+    "foto": "innovadental.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 9,
+      "seo": 10,
+      "experiencia": 9
+    },
+    "publicado": "2026-11-05",
+    "simulado": false,
+    "borrador": false
   }
 ]

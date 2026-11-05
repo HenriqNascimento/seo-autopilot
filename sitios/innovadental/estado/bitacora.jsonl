@@ -40,3 +40,7 @@
 {"t": "2026-11-03T14:01:13", "sitio": "innovadental", "evento": "edicion", "slug": "toma-de-color-dental-protocolo-fotografia-laboratorio", "intento": 1, "nota_min": 10, "problemas": 2}
 {"t": "2026-11-03T14:01:17", "sitio": "innovadental", "evento": "publicado", "slug": "toma-de-color-dental-protocolo-fotografia-laboratorio", "url": "https://innovadental.net/es/blog/toma-de-color-dental-protocolo-fotografia-laboratorio", "palabras": 2364}
 {"t": "2026-11-03T14:01:17", "sitio": "innovadental", "evento": "coste", "usd": 0.135, "modelo": "gemini-3.8-flash", "entrada": 30204, "salida": 29955, "busquedas": 8}
+{"t": "2026-11-05T14:17:27", "sitio": "innovadental", "evento": "tema_repetido", "slug": "incrustacion-veneerlay-disilicato-de-litio-preparacion-adhesion", "motivo": "«coronas de disilicato de litio» ya da 208 impresiones a https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales"}
+{"t": "2026-11-05T14:26:02", "sitio": "innovadental", "evento": "edicion", "slug": "ferula-de-descarga-digital-impresion-3d-vs-fresada", "intento": 1, "nota_min": 10, "problemas": 0}
+{"t": "2026-11-05T14:26:06", "sitio": "innovadental", "evento": "publicado", "slug": "ferula-de-descarga-digital-impresion-3d-vs-fresada", "url": "https://innovadental.net/es/blog/ferula-de-descarga-digital-impresion-3d-vs-fresada", "palabras": 1060}
+{"t": "2026-11-05T14:26:06", "sitio": "innovadental", "evento": "coste", "usd": 0.1105, "modelo": "gemini-3.8-flash", "entrada": 25230, "salida": 24415, "busquedas": 13}

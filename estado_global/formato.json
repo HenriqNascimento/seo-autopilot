@@ -67,6 +67,24 @@
         "publicado": "2026-11-03",
         "url": "https://innovadental.net/es/blog/toma-de-color-dental-protocolo-fotografia-laboratorio",
         "sitio": "innovadental"
+      },
+      {
+        "slug": "cuanto-cuesta-pagina-web-negocio-local",
+        "brazo": "A",
+        "estrato": "cresco:precios-y-modelos",
+        "prioridad": 96,
+        "publicado": "2026-11-05",
+        "url": "https://cresco.es/blog/cuanto-cuesta-pagina-web-negocio-local",
+        "sitio": "cresco"
+      },
+      {
+        "slug": "ferula-de-descarga-digital-impresion-3d-vs-fresada",
+        "brazo": "A",
+        "estrato": "innovadental:oclusion-removible",
+        "prioridad": 89,
+        "publicado": "2026-11-05",
+        "url": "https://innovadental.net/es/blog/ferula-de-descarga-digital-impresion-3d-vs-fresada",
+        "sitio": "innovadental"
       }
     ]
   },
