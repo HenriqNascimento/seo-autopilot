@@ -44,3 +44,6 @@
 {"t": "2026-11-05T14:26:02", "sitio": "innovadental", "evento": "edicion", "slug": "ferula-de-descarga-digital-impresion-3d-vs-fresada", "intento": 1, "nota_min": 10, "problemas": 0}
 {"t": "2026-11-05T14:26:06", "sitio": "innovadental", "evento": "publicado", "slug": "ferula-de-descarga-digital-impresion-3d-vs-fresada", "url": "https://innovadental.net/es/blog/ferula-de-descarga-digital-impresion-3d-vs-fresada", "palabras": 1060}
 {"t": "2026-11-05T14:26:06", "sitio": "innovadental", "evento": "coste", "usd": 0.1105, "modelo": "gemini-3.8-flash", "entrada": 25230, "salida": 24415, "busquedas": 13}
+{"t": "2026-11-07T12:41:19", "sitio": "innovadental", "evento": "edicion", "slug": "tecnica-bopt-provisionales-pmma-manejo-tejidos-blandos", "intento": 1, "nota_min": 9, "problemas": 3}
+{"t": "2026-11-07T12:41:21", "sitio": "innovadental", "evento": "publicado", "slug": "tecnica-bopt-provisionales-pmma-manejo-tejidos-blandos", "url": "https://innovadental.net/es/blog/tecnica-bopt-provisionales-pmma-manejo-tejidos-blandos", "palabras": 1814}
+{"t": "2026-11-07T12:41:21", "sitio": "innovadental", "evento": "coste", "usd": 0.1198, "modelo": "gemini-3.8-flash", "entrada": 29505, "salida": 26046, "busquedas": 11}

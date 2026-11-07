@@ -1,0 +1,218 @@
+{
+  "articulo": {
+    "titulo": "Técnica BOPT en provisionales: diseño CAD/CAM y perfil de emergencia",
+    "titulo_seo": "Técnica BOPT en provisionales: perfil CAD/CAM y encía",
+    "meta_description": "Protocolo de provisionales en técnica BOPT con PMMA fresado: control del ángulo de emergencia subgingival, creeping tisular y réplica digital a zirconio.",
+    "resumen": "Guía técnica para provisionales en técnica BOPT: control del perfil de emergencia en PMMA fresado, cicatrización gingival y duplicación en la corona definitiva.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>En la técnica BOPT, los provisionales de PMMA no actúan como simples protectores temporales, sino como el elemento protésico activo que estabiliza el coágulo del curetaje rotatorio y modela la nueva unión amelocementaria protésica.</strong> Mediante el control del ángulo de emergencia subgingival (habitualmente entre 30° y 45°), la corona provisional guía la migración epitelial y el engrosamiento del tejido blando (<em>creeping attachment</em>) antes de transferir ese mismo contorno a la restauración definitiva."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Comportamiento biológico del provisional en la técnica BOPT"
+      },
+      {
+        "tipo": "p",
+        "texto": "En la prótesis fija tradicional sobre muñón tallado con hombro o chamfer, la posición del margen viene fijada por el escalón mineral labrado con la fresa. El técnico en el laboratorio se ciñe a esa línea de terminación geométrica y el provisional sirve para proteger el remanente, aislar la dentina y evitar movimientos dentarios indeseados. En cambio, en la técnica BOPT (Biologically Oriented Preparation Technique), introducida por el Dr. Ignazio Loi, la prótesis provisional asume una responsabilidad biológica directa sobre la encía."
+      },
+      {
+        "tipo": "p",
+        "texto": "Al eliminar la línea de acabado horizontal y desdibujar la unión amelocementaria anatómica, el tejido blando pierde su referencia espacial. Queda un espacio cilíndrico o ligeramente cónico en el que la encía se adapta a la forma que le otorguemos desde el diseño protésico. Si colocamos una restauración sobrecontorneada o con microtextura rugosa, provocaremos inflamación y recesión incontrolada. Si diseñamos un perfil con la convergencia justa y un pulido mecánico estricto, el epitelio de unión se reorganiza coronalmente, la encía queratinizada gana espesor y logramos estabilidad marginal a largo plazo."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Tallado vertical: eliminación de la LAC y coágulo intrasulcular"
+      },
+      {
+        "tipo": "p",
+        "texto": "La preparación vertical sin margen definido busca suprimir cualquier irregularidad o prisma adamantino del cuello dentario. Con fresas de llama de grano grueso y fino, el clínico penetra en el surco gingival y realiza simultáneamente el desgaste dental y el legrado rotatorio de la vertiente interna del surco (gingitage intencional). Esta maniobra retira el epitelio crevicular enfermo y genera un sangrado profuso que no conviene lavar con chorros de agua a presión."
+      },
+      {
+        "tipo": "p",
+        "texto": "Ese sangrado inicial forma una red de fibrina alrededor del cuello radicular. Según describieron Loi y Di Felice en su publicación de 2013 en el <em>European Journal of Esthetic Dentistry</em>, la corona provisional debe penetrar entre 0,5 y 1,0 mm dentro del surco para sostener mecánicamente dicho coágulo. Este soporte evita el colapso del tejido blando y respeta los aproximadamente 2 mm que corresponden a la inserción biológica supracrestal. Si el provisional invade el tejido conectivo cercano a la cresta ósea, el organismo responderá reabsorbiendo hueso; cuando se posiciona respetando esa distancia, las fibras colágenas se alinean paralelamente a la pared de resina."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Diseño CAD/CAM del perfil de emergencia: ángulos de 30° a 45° y control del creeping"
+      },
+      {
+        "tipo": "p",
+        "texto": "El error más habitual que vemos en el laboratorio al planificar coronas verticales es modelar perfiles convexos en la zona subgingival para «empujar» la encía hacia vestibular. La biología tisular reacciona en sentido opuesto: la compresión excesiva colapsa el plexo microvascular del margen libre y termina provocando recesión apical."
+      },
+      {
+        "tipo": "p",
+        "texto": "La literatura científica ha evaluado este comportamiento de forma métrica. El estudio de Amesti-Garaizabal y Agustín-Panadero (<a href=\"https://doi.org/10.3390/app10124108\" target=\"_blank\" rel=\"noopener noreferrer\">Appl. Sci. 2020</a>) demostró que al aumentar el ángulo de emergencia del provisional de 30° a 60°, el grosor de la encía vestibular aumentó 0,255 mm, pero el margen gingival se desplazó en sentido apical 0,262 mm. Es decir, se gana espesor mucoso perdiendo altura de festoneado. Por este motivo, cuando se busca ganar inserción coronal (<em>creeping attachment</em>) o igualar parábolas asimétricas, en Innovadental modelamos ángulos de emergencia de entre 30° y 45°, manteniendo una zona recta o ligeramente cóncava en los primeros 0,8 mm subgingivales."
+      },
+      {
+        "tipo": "p",
+        "texto": "Un ángulo inferior a 30° deja holgura dentro del surco. Aunque acelera el ascenso coronal del margen, genera una encía marginal fina que transparenta muñones oscuros y carece de soporte interproximal. Por el contrario, el rango comprendido entre 30° y 45° ofrece sustentación mecánica sin estrangular capilares, propiciando el engrosamiento del conectivo y permitiendo que la encía avance hacia coronal durante las primeras semanas. Si sobrepasamos los 50° o 60°, la isquemia sostenida provoca retracciones visibles que arruinan la línea de sonrisa."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Materiales y acabado: fresado de PMMA reticulado y pulido mecánico"
+      },
+      {
+        "tipo": "p",
+        "texto": "Durante años se confeccionó el provisional mediante una cáscara de huevo (<em>eggshell</em>) de acrílico autopolimerizable rebasada en clínica directamente sobre el muñón sangrante. Aunque resolvió muchas situaciones, la contracción volumétrica de la resina y la porosidad por evaporación de monómero incrementan el riesgo de desajuste marginal y retención de biofilm."
+      },
+      {
+        "tipo": "p",
+        "texto": "El protocolo más estable consiste en fresar discos de PMMA reticulado de alto peso molecular, como Telio CAD o resinas multicapa de alta densidad como las caracterizadas con composites de laboratorio. Este material garantiza estabilidad dimensional, ausencia de poros y una tenacidad flexural que permite mantener bordes en filo de cuchillo de 0,2 mm de grosor sin desportillarse durante la prueba o el uso masticatorio."
+      },
+      {
+        "tipo": "h3",
+        "texto": "Rugosidad superficial y sellado biológico"
+      },
+      {
+        "tipo": "p",
+        "texto": "El tejido conectivo y el epitelio de unión no perdonan irregularidades microscópicas en la zona intrasulcular. La literatura periodontal indica que valores de rugosidad superficial superiores a Ra = 0,2 µm desencadenan una adhesión bacteriana acelerada y activan la respuesta inflamatoria. En técnica BOPT, un pulido subóptimo impide la maduración tisular."
+      },
+      {
+        "tipo": "p",
+        "texto": "En nuestro protocolo de laboratorio tratamos la zona subgingival del PMMA con una secuencia mecánica rigurosa: desbaste con siliconas montadas de grano decreciente, cepillo de cerda natural con piedra pómez húmeda y abrillantado con pasta de diamante de granulometría submicrónica hasta lograr un brillo especular (Ra < 0,15 µm). Desaconsejamos por completo el uso de lacas o glazes fotopolimerizables en el perfil subgingival: el medio húmedo y las enzimas del fluido crevicular desprenden esas capas superficiales en pocos días, dejando bordes ásperos que cronifican la inflamación."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Tiempos de cicatrización y acondicionamiento gingival"
+      },
+      {
+        "tipo": "p",
+        "texto": "El periodonto requiere tiempo biológico para que las fibras de colágeno se reorganicen alrededor del perfil protésico. Tomar los registros definitivos de forma precipitada es el origen directo de discrepancias de volumen y recesiones imprevistas tras cementar la corona final."
+      },
+      {
+        "tipo": "p",
+        "texto": "El flujo digital estandarizado optimiza estos intervalos. En el estudio sobre el protocolo EasyBOPT (<a href=\"https://doi.org/10.3390/jcm15072591\" target=\"_blank\" rel=\"noopener noreferrer\">J. Clin. Med. 2026</a>), el empleo de provisionales CAD/CAM con emergencia a 45° redujo el tiempo de sillón de 31,2 a 12,3 minutos por diente y recortó el tiempo de maduración gingival madura de 9,6 a 4,4 semanas respecto al rebasado convencional analógico."
+      },
+      {
+        "tipo": "p",
+        "texto": "En el gabinete se comprueba que el tejido está listo para el escaneado definitivo ante tres manifestaciones clínicas: ausencia de sangrado al sondaje suave, presencia de puntillado en «piel de naranja» en la encía insertada y estabilidad de la altura marginal durante al menos tres semanas. En el sector anterior estético, conviene mantener el provisional entre 6 y 8 semanas para asegurar que el volumen de las papilas interdentales no retroceda."
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Parámetro clínico | Técnica analógica (cáscara rebasada) | Técnica digital BOPT (PMMA CAD/CAM)\nAjuste en el margen subgingival | Variable; supeditado a la fluidez del acrílico | Precisión milimétrica por fresado a 5 ejes\nRugosidad superficial (Ra) | Elevada (microburbujas por mezcla manual) | Inferior a 0,2 µm tras pulido de laboratorio\nTiempo medio en sillón | 30–45 minutos por pieza | 10–15 minutos por pieza\nTiempo de maduración tisular | 8 a 12 semanas | 4 a 6 semanas\nResistencia en bordes finos (<0,3 mm) | Propensa a fracturas durante el ajuste | Alta resistencia flexural por reticulado\nComportamiento biológico del coágulo | Riesgo de irritación por monómero residual | Biocompatibilidad y sellado epitelial estable"
+      },
+      {
+        "tipo": "h2",
+        "texto": "De la réplica digital a la restauración definitiva en zirconio o disilicato"
+      },
+      {
+        "tipo": "p",
+        "texto": "El punto crítico de la técnica se presenta al retirar el provisional maduro. Al carecer de un hombro mineral que sirva de tope rígido, el surco gingival se colapsa en cuestión de minutos. Si el técnico labra la corona definitiva a ciegas, la discrepancia anatómica generará sangrado o retracción."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para transferir la información sin alteraciones en el <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital entre clínica y laboratorio</a>, el odontólogo realiza primero un escaneado intraoral de la arcada con el provisional en boca, capturando el contorno gingival estabilizado. Acto seguido, retira el provisional y escanea el muñón de inmediato (en menos de 60 segundos), antes de que el tejido colapse. Por último, escanea el provisional fuera de boca para registrar toda la emergencia subgingival en 360 grados."
+      },
+      {
+        "tipo": "p",
+        "texto": "En el software CAD alineamos el archivo del muñón con el escaneado del provisional acondicionado. De este modo, trasladamos con precisión milimétrica la angulación de 35° a 40° a la corona final, ya sea en <a href=\"https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales\">coronas de disilicato de litio</a> fresadas o en zirconio monolítico InnovaCAD con pulido cervical de alto brillo. Este mismo criterio de acondicionamiento de tejidos blandos y soporte mucoso lo aplicamos en los <a href=\"https://innovadental.net/es/blog/provisional-carga-inmediata-implantes\">provisionales de carga inmediata</a> sobre implantes."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Manejo del sellado telescópico y errores habituales en clínica"
+      },
+      {
+        "tipo": "p",
+        "texto": "Al eliminar el escalón nítido, la corona asienta por fricción telescópica sobre el lecho radicular. Esta biomecánica facilita el tratamiento de dientes con soporte periodontal reducido, pero requiere controlar tres detalles operativos:"
+      },
+      {
+        "tipo": "ol",
+        "texto": "Control de la sobreinserción apical: al no haber tope horizontal rígido, una presión desmedida durante el asentamiento puede clavar el margen más allá del milímetro previsto, dañando el ligamento periodontal. Es preciso chequear la posición del borde respecto al margen libre antes de que fragüe el cemento.\nDosificación del cemento temporal: el cemento que escapa hacia el surco no encuentra un hombro que lo detenga. Debe aplicarse una película muy fina restringida a los dos tercios incisales u oclusales del intradós coronario, pasando seda dental anudada por los espacios interproximales antes de la polimerización total.\nVigilancia de la expulsividad del muñón: si el muñón presenta una convergencia superior a 10°-12°, la retención por fricción se pierde y aparecerán descementaciones recurrentes. Conviene mantener paredes axiales casi paralelas, con una convergencia global de entre 4° y 8°."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Pautas de escaneado y comunicación con Innovadental"
+      },
+      {
+        "tipo": "p",
+        "texto": "Para que en el laboratorio podamos diseñar provisionales BOPT con un sellado predecible, agradecemos recibir los registros teniendo en cuenta estas consideraciones técnicas:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Escanear la arcada completa incluyendo un margen generoso de mucosa queratinizada adyacente, secando la zona previamente para evitar reflejos de saliva, ya que el software de escaneado interpreta el brillo como relieve geométrico.\nAdjuntar el archivo digital del encerado diagnóstico o el escaneado de la situación inicial previa al tallado para calibrar la guía anterior y la posición del borde incisal.\nAvisar si el muñón presenta tinciones oscuras debidas a endodoncia o pernos metálicos, lo que nos permite elegir un disco de PMMA con la opacidad justa sin necesidad de engrosar el tercio cervical."
+      },
+      {
+        "tipo": "p",
+        "texto": "Puede parecer difícil al principio, pero todo es difícil al principio. Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible. Si estás valorando un caso con muñones comprometidos o quieres contrastar el perfil de emergencia antes de fresar el PMMA, llámanos a Innovadental y revisamos juntos el archivo 3D."
+      }
+    ],
+    "faq": [],
+    "tags": [
+      "Técnica BOPT",
+      "Prótesis fija",
+      "CAD-CAM",
+      "Periodoncia protésica"
+    ],
+    "foto": "cat-bopt-2.jpg",
+    "alt_foto": "Coronas anteriores sobre diente natural preparadas con técnica BOPT y provisionales de perfil adaptado"
+  },
+  "brief": {
+    "intencion": "Informativa técnica y formativa dirigida a odontólogos, prostodoncistas y técnicos de laboratorio dental interesados en el protocolo clínico-protésico de provisionalización con la técnica BOPT (Biologically Oriented Preparation Technique), enfocada en el diseño del perfil de emergencia en PMMA CAD/CAM para guiar la cicatrización y el sellado tisular.",
+    "respuesta_directa": "En la técnica BOPT, el provisional de PMMA no es un simple protector temporal, sino el elemento protésico activo que estabiliza el coágulo generado por el curetaje rotatorio (gingitage) y modela la nueva unión amelocementaria protésica. Mediante el control del ángulo de emergencia subgingival (habitualmente entre 30° y 45°), el provisional guía la migración epitelial y el engrosamiento del tejido blando (creeping attachment) antes de transferir exactamente dicho perfil a la corona definitiva.",
+    "que_cubren_los_top": [
+      "Definición de BOPT descrita originalmente por el Dr. Ignazio Loi y concepto de tallado vertical sin línea de terminación definida.",
+      "El concepto de curetaje rotatorio intencional (gingitage) para inducir sangrado y estabilizar el coágulo biológico.",
+      "Técnica convencional analógica de rebasado en clínica de una cáscara de huevo (eggshell) de resina acrílica.",
+      "Modificación manual del perfil de emergencia para compensar desniveles de márgenes gingivales y festoneado.",
+      "Maduración gingival durante un periodo de 4 a 12 semanas antes de tomar la impresión definitiva."
+    ],
+    "huecos": [
+      "Falta de detalle en el flujo digital CAD/CAM para fresado de provisionales en PMMA de alto peso molecular (TelioCAD/PMMA multicapa) con márgenes a filo de cuchillo.",
+      "Parámetros geométricos exactos del ángulo de emergencia subgingival: por qué ángulos de 30°-45° favorecen el creeping coronal y espesores gingivales frente a sobrecontornos (>60°) que inducen recesión.",
+      "Protocolo de acabado y pulido de laboratorio: la rugosidad superficial (Ra < 0.2 µm) como condición crítica biológica para evitar adhesión bacteriana y permitir la migración epitelial.",
+      "El paso clave de la copia del perfil de emergencia madurado: cómo duplicar el provisional digitalmente o mediante escaneado intraoral para diseñar la restauración definitiva en zirconio o disilicato de litio.",
+      "La comunicación clínica-laboratorio en casos de muñones cilíndricos y cómo compensar el sellado marginal telescópico sin generar sobrecontornos perjudiciales."
+    ],
+    "preguntas_reales": [
+      "¿Qué ángulo de emergencia debe tener el provisional en BOPT para favorecer la migración coronal?",
+      "¿Cuánto tiempo debe llevar el paciente el provisional BOPT antes de tomar la impresión definitiva?",
+      "¿Es mejor un provisional fresado en PMMA CAD/CAM o una cáscara de huevo rebasada en clínica?",
+      "¿Cómo se copia con exactitud el perfil de emergencia del provisional a la corona final de zirconio o disilicato?",
+      "¿A qué distancia de la cresta ósea debe quedar el margen del provisional fresado para respetar el espacio biológico?",
+      "¿Cómo evitar la inflamación gingival crónica alrededor del provisional de PMMA durante la maduración?"
+    ],
+    "estructura": [
+      "El papel biológico del provisional en la técnica BOPT: más allá de una prótesis temporal",
+      "Fundamentos del tallado vertical: eliminación de la LAC y estabilización del coágulo (gingitage)",
+      "Diseño CAD/CAM del perfil de emergencia en PMMA: ángulos de 30° a 45° y control del creeping",
+      "Materiales y acabado: fresado de PMMA de alto peso molecular y la importancia del pulido espejo (Ra < 0,2 µm)",
+      "Protocolo de maduración de tejidos blandos: tiempos clínicos y acondicionamiento gingival",
+      "De la réplica digital a la restauración definitiva: duplicación del perfil en zirconio o disilicato de litio",
+      "Protocolo de comunicación clínica-laboratorio Innovadental: archivos STL, perfiles de emergencia y cementado"
+    ],
+    "palabras_objetivo": 1850,
+    "entidades": [
+      "Biologically Oriented Preparation Technique (BOPT)",
+      "Dr. Ignazio Loi",
+      "Gingitage rotatorio",
+      "Espacio biológico (anchura biológica)",
+      "Creeping attachment",
+      "PMMA fresado (Telio CAD, PMMA cross-linked)",
+      "Perfil de emergencia subgingival",
+      "Ángulo de emergencia cervical (30°-45°)",
+      "Unión amelocementaria anatómica vs protésica",
+      "Zirconio translúcido (3Y-TZP, 4Y-PSZ, 5Y-PSZ)",
+      "Disilicato de litio",
+      "Rugosidad superficial (Ra)",
+      "Escáner intraoral (STL/PLY)",
+      "Margen en filo de cuchillo (feather edge)"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://doi.org/10.3390/app10124108",
+        "dato": "El estudio de Amesti-Garaizabal y Agustín-Panadero demostró que al variar el ángulo de emergencia del provisional de 30° a 60°, el grosor de la encía vestibular aumentó 0,255 mm pero el margen gingival se desplazó apicalmente 0,262 mm; emergencias de 30°-45° favorecen la migración gingival hacia coronal."
+      },
+      {
+        "url": "https://www.mdpi.com/2077-0383/13/7/1912",
+        "dato": "En el protocolo digital estandarizado de BOPT (EasyBOPT), el diseño CAD/CAM de provisionales de PMMA con emergencia a 45° redujo el tiempo de sillón de 31,2 a 12,3 minutos y el tiempo de cicatrización gingival madura de 9,6 a 4,4 semanas respecto al rebasado convencional."
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4689255/",
+        "dato": "El principio BOPT descrito por Loi y Di Felice establece que la corona provisional debe introducirse de 0,5 a 1 mm en el surco gingival para estabilizar el coágulo y guiar la reorientación de las fibras del tejido conectivo respetando los 2 mm del espacio biológico óseo."
+      }
+    ]
+  },
+  "html": "<p><strong>En la técnica BOPT, los provisionales de PMMA no actúan como simples protectores temporales, sino como el elemento protésico activo que estabiliza el coágulo del curetaje rotatorio y modela la nueva unión amelocementaria protésica.</strong> Mediante el control del ángulo de emergencia subgingival (habitualmente entre 30° y 45°), la corona provisional guía la migración epitelial y el engrosamiento del tejido blando (<em>creeping attachment</em>) antes de transferir ese mismo contorno a la restauración definitiva.</p>\n<h2>Comportamiento biológico del provisional en la técnica BOPT</h2>\n<p>En la prótesis fija tradicional sobre muñón tallado con hombro o chamfer, la posición del margen viene fijada por el escalón mineral labrado con la fresa. El técnico en el laboratorio se ciñe a esa línea de terminación geométrica y el provisional sirve para proteger el remanente, aislar la dentina y evitar movimientos dentarios indeseados. En cambio, en la técnica BOPT (Biologically Oriented Preparation Technique), introducida por el Dr. Ignazio Loi, la prótesis provisional asume una responsabilidad biológica directa sobre la encía.</p>\n<p>Al eliminar la línea de acabado horizontal y desdibujar la unión amelocementaria anatómica, el tejido blando pierde su referencia espacial. Queda un espacio cilíndrico o ligeramente cónico en el que la encía se adapta a la forma que le otorguemos desde el diseño protésico. Si colocamos una restauración sobrecontorneada o con microtextura rugosa, provocaremos inflamación y recesión incontrolada. Si diseñamos un perfil con la convergencia justa y un pulido mecánico estricto, el epitelio de unión se reorganiza coronalmente, la encía queratinizada gana espesor y logramos estabilidad marginal a largo plazo.</p>\n<h2>Tallado vertical: eliminación de la LAC y coágulo intrasulcular</h2>\n<p>La preparación vertical sin margen definido busca suprimir cualquier irregularidad o prisma adamantino del cuello dentario. Con fresas de llama de grano grueso y fino, el clínico penetra en el surco gingival y realiza simultáneamente el desgaste dental y el legrado rotatorio de la vertiente interna del surco (gingitage intencional). Esta maniobra retira el epitelio crevicular enfermo y genera un sangrado profuso que no conviene lavar con chorros de agua a presión.</p>\n<p>Ese sangrado inicial forma una red de fibrina alrededor del cuello radicular. Según describieron Loi y Di Felice en su publicación de 2013 en el <em>European Journal of Esthetic Dentistry</em>, la corona provisional debe penetrar entre 0,5 y 1,0 mm dentro del surco para sostener mecánicamente dicho coágulo. Este soporte evita el colapso del tejido blando y respeta los aproximadamente 2 mm que corresponden a la inserción biológica supracrestal. Si el provisional invade el tejido conectivo cercano a la cresta ósea, el organismo responderá reabsorbiendo hueso; cuando se posiciona respetando esa distancia, las fibras colágenas se alinean paralelamente a la pared de resina.</p>\n<h2>Diseño CAD/CAM del perfil de emergencia: ángulos de 30° a 45° y control del creeping</h2>\n<p>El error más habitual que vemos en el laboratorio al planificar coronas verticales es modelar perfiles convexos en la zona subgingival para «empujar» la encía hacia vestibular. La biología tisular reacciona en sentido opuesto: la compresión excesiva colapsa el plexo microvascular del margen libre y termina provocando recesión apical.</p>\n<p>La literatura científica ha evaluado este comportamiento de forma métrica. El estudio de Amesti-Garaizabal y Agustín-Panadero (<a href=\"https://doi.org/10.3390/app10124108\" target=\"_blank\" rel=\"noopener\">Appl. Sci. 2020</a>) demostró que al aumentar el ángulo de emergencia del provisional de 30° a 60°, el grosor de la encía vestibular aumentó 0,255 mm, pero el margen gingival se desplazó en sentido apical 0,262 mm. Es decir, se gana espesor mucoso perdiendo altura de festoneado. Por este motivo, cuando se busca ganar inserción coronal (<em>creeping attachment</em>) o igualar parábolas asimétricas, en Innovadental modelamos ángulos de emergencia de entre 30° y 45°, manteniendo una zona recta o ligeramente cóncava en los primeros 0,8 mm subgingivales.</p>\n<p>Un ángulo inferior a 30° deja holgura dentro del surco. Aunque acelera el ascenso coronal del margen, genera una encía marginal fina que transparenta muñones oscuros y carece de soporte interproximal. Por el contrario, el rango comprendido entre 30° y 45° ofrece sustentación mecánica sin estrangular capilares, propiciando el engrosamiento del conectivo y permitiendo que la encía avance hacia coronal durante las primeras semanas. Si sobrepasamos los 50° o 60°, la isquemia sostenida provoca retracciones visibles que arruinan la línea de sonrisa.</p>\n<h2>Materiales y acabado: fresado de PMMA reticulado y pulido mecánico</h2>\n<p>Durante años se confeccionó el provisional mediante una cáscara de huevo (<em>eggshell</em>) de acrílico autopolimerizable rebasada en clínica directamente sobre el muñón sangrante. Aunque resolvió muchas situaciones, la contracción volumétrica de la resina y la porosidad por evaporación de monómero incrementan el riesgo de desajuste marginal y retención de biofilm.</p>\n<p>El protocolo más estable consiste en fresar discos de PMMA reticulado de alto peso molecular, como Telio CAD o resinas multicapa de alta densidad como las caracterizadas con composites de laboratorio. Este material garantiza estabilidad dimensional, ausencia de poros y una tenacidad flexural que permite mantener bordes en filo de cuchillo de 0,2 mm de grosor sin desportillarse durante la prueba o el uso masticatorio.</p>\n<h3>Rugosidad superficial y sellado biológico</h3>\n<p>El tejido conectivo y el epitelio de unión no perdonan irregularidades microscópicas en la zona intrasulcular. La literatura periodontal indica que valores de rugosidad superficial superiores a Ra = 0,2 µm desencadenan una adhesión bacteriana acelerada y activan la respuesta inflamatoria. En técnica BOPT, un pulido subóptimo impide la maduración tisular.</p>\n<p>En nuestro protocolo de laboratorio tratamos la zona subgingival del PMMA con una secuencia mecánica rigurosa: desbaste con siliconas montadas de grano decreciente, cepillo de cerda natural con piedra pómez húmeda y abrillantado con pasta de diamante de granulometría submicrónica hasta lograr un brillo especular (Ra < 0,15 µm). Desaconsejamos por completo el uso de lacas o glazes fotopolimerizables en el perfil subgingival: el medio húmedo y las enzimas del fluido crevicular desprenden esas capas superficiales en pocos días, dejando bordes ásperos que cronifican la inflamación.</p>\n<h2>Tiempos de cicatrización y acondicionamiento gingival</h2>\n<p>El periodonto requiere tiempo biológico para que las fibras de colágeno se reorganicen alrededor del perfil protésico. Tomar los registros definitivos de forma precipitada es el origen directo de discrepancias de volumen y recesiones imprevistas tras cementar la corona final.</p>\n<p>El flujo digital estandarizado optimiza estos intervalos. En el estudio sobre el protocolo EasyBOPT (<a href=\"https://doi.org/10.3390/jcm15072591\" target=\"_blank\" rel=\"noopener\">J. Clin. Med. 2026</a>), el empleo de provisionales CAD/CAM con emergencia a 45° redujo el tiempo de sillón de 31,2 a 12,3 minutos por diente y recortó el tiempo de maduración gingival madura de 9,6 a 4,4 semanas respecto al rebasado convencional analógico.</p>\n<p>En el gabinete se comprueba que el tejido está listo para el escaneado definitivo ante tres manifestaciones clínicas: ausencia de sangrado al sondaje suave, presencia de puntillado en «piel de naranja» en la encía insertada y estabilidad de la altura marginal durante al menos tres semanas. En el sector anterior estético, conviene mantener el provisional entre 6 y 8 semanas para asegurar que el volumen de las papilas interdentales no retroceda.</p>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Parámetro clínico</th><th>Técnica analógica (cáscara rebasada)</th><th>Técnica digital BOPT (PMMA CAD/CAM)</th></tr></thead><tbody><tr><td>Ajuste en el margen subgingival</td><td>Variable; supeditado a la fluidez del acrílico</td><td>Precisión milimétrica por fresado a 5 ejes</td></tr><tr><td>Rugosidad superficial (Ra)</td><td>Elevada (microburbujas por mezcla manual)</td><td>Inferior a 0,2 µm tras pulido de laboratorio</td></tr><tr><td>Tiempo medio en sillón</td><td>30–45 minutos por pieza</td><td>10–15 minutos por pieza</td></tr><tr><td>Tiempo de maduración tisular</td><td>8 a 12 semanas</td><td>4 a 6 semanas</td></tr><tr><td>Resistencia en bordes finos (&lt;0,3 mm)</td><td>Propensa a fracturas durante el ajuste</td><td>Alta resistencia flexural por reticulado</td></tr><tr><td>Comportamiento biológico del coágulo</td><td>Riesgo de irritación por monómero residual</td><td>Biocompatibilidad y sellado epitelial estable</td></tr></tbody></table></div>\n<h2>De la réplica digital a la restauración definitiva en zirconio o disilicato</h2>\n<p>El punto crítico de la técnica se presenta al retirar el provisional maduro. Al carecer de un hombro mineral que sirva de tope rígido, el surco gingival se colapsa en cuestión de minutos. Si el técnico labra la corona definitiva a ciegas, la discrepancia anatómica generará sangrado o retracción.</p>\n<p>Para transferir la información sin alteraciones en el <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital entre clínica y laboratorio</a>, el odontólogo realiza primero un escaneado intraoral de la arcada con el provisional en boca, capturando el contorno gingival estabilizado. Acto seguido, retira el provisional y escanea el muñón de inmediato (en menos de 60 segundos), antes de que el tejido colapse. Por último, escanea el provisional fuera de boca para registrar toda la emergencia subgingival en 360 grados.</p>\n<p>En el software CAD alineamos el archivo del muñón con el escaneado del provisional acondicionado. De este modo, trasladamos con precisión milimétrica la angulación de 35° a 40° a la corona final, ya sea en <a href=\"https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales\">coronas de disilicato de litio</a> fresadas o en zirconio monolítico InnovaCAD con pulido cervical de alto brillo. Este mismo criterio de acondicionamiento de tejidos blandos y soporte mucoso lo aplicamos en los <a href=\"https://innovadental.net/es/blog/provisional-carga-inmediata-implantes\">provisionales de carga inmediata</a> sobre implantes.</p>\n<h2>Manejo del sellado telescópico y errores habituales en clínica</h2>\n<p>Al eliminar el escalón nítido, la corona asienta por fricción telescópica sobre el lecho radicular. Esta biomecánica facilita el tratamiento de dientes con soporte periodontal reducido, pero requiere controlar tres detalles operativos:</p>\n<ol><li>Control de la sobreinserción apical: al no haber tope horizontal rígido, una presión desmedida durante el asentamiento puede clavar el margen más allá del milímetro previsto, dañando el ligamento periodontal. Es preciso chequear la posición del borde respecto al margen libre antes de que fragüe el cemento.</li><li>Dosificación del cemento temporal: el cemento que escapa hacia el surco no encuentra un hombro que lo detenga. Debe aplicarse una película muy fina restringida a los dos tercios incisales u oclusales del intradós coronario, pasando seda dental anudada por los espacios interproximales antes de la polimerización total.</li><li>Vigilancia de la expulsividad del muñón: si el muñón presenta una convergencia superior a 10°-12°, la retención por fricción se pierde y aparecerán descementaciones recurrentes. Conviene mantener paredes axiales casi paralelas, con una convergencia global de entre 4° y 8°.</li></ol>\n<h2>Pautas de escaneado y comunicación con Innovadental</h2>\n<p>Para que en el laboratorio podamos diseñar provisionales BOPT con un sellado predecible, agradecemos recibir los registros teniendo en cuenta estas consideraciones técnicas:</p>\n<ul><li>Escanear la arcada completa incluyendo un margen generoso de mucosa queratinizada adyacente, secando la zona previamente para evitar reflejos de saliva, ya que el software de escaneado interpreta el brillo como relieve geométrico.</li><li>Adjuntar el archivo digital del encerado diagnóstico o el escaneado de la situación inicial previa al tallado para calibrar la guía anterior y la posición del borde incisal.</li><li>Avisar si el muñón presenta tinciones oscuras debidas a endodoncia o pernos metálicos, lo que nos permite elegir un disco de PMMA con la opacidad justa sin necesidad de engrosar el tercio cervical.</li></ul>\n<p>Puede parecer difícil al principio, pero todo es difícil al principio. Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible. Si estás valorando un caso con muñones comprometidos o quieres contrastar el perfil de emergencia antes de fresar el PMMA, llámanos a Innovadental y revisamos juntos el archivo 3D.</p>"
+}

@@ -85,6 +85,15 @@
         "publicado": "2026-11-05",
         "url": "https://innovadental.net/es/blog/ferula-de-descarga-digital-impresion-3d-vs-fresada",
         "sitio": "innovadental"
+      },
+      {
+        "slug": "tecnica-bopt-provisionales-pmma-manejo-tejidos-blandos",
+        "brazo": "B",
+        "estrato": "innovadental:flujo-digital",
+        "prioridad": 90,
+        "publicado": "2026-11-07",
+        "url": "https://innovadental.net/es/blog/tecnica-bopt-provisionales-pmma-manejo-tejidos-blandos",
+        "sitio": "innovadental"
       }
     ]
   },

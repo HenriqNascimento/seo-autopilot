@@ -202,5 +202,39 @@
     "publicado": "2026-11-05",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "tecnica-bopt-provisionales-pmma-manejo-tejidos-blandos",
+    "post_id": "509960753385",
+    "url": "https://innovadental.net/es/blog/tecnica-bopt-provisionales-pmma-manejo-tejidos-blandos",
+    "titulo": "Técnica BOPT en provisionales: diseño CAD/CAM y perfil de emergencia",
+    "titulo_seo": "Técnica BOPT en provisionales: perfil CAD/CAM y encía",
+    "meta_description": "Protocolo de provisionales en técnica BOPT con PMMA fresado: control del ángulo de emergencia subgingival, creeping tisular y réplica digital a zirconio.",
+    "keyword": "tecnica bopt provisionales",
+    "cluster": "flujo-digital",
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "prioridad": 90,
+    "palabras": 1814,
+    "h2": 8,
+    "tablas": 1,
+    "faq": 0,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "B",
+      "descripcion": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
+      "estrato": "innovadental:flujo-digital"
+    },
+    "foto": "cat-bopt-2.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 9,
+      "seo": 10,
+      "experiencia": 10
+    },
+    "publicado": "2026-11-07",
+    "simulado": false,
+    "borrador": false
   }
 ]
