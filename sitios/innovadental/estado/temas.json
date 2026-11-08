@@ -1,74 +1,5 @@
 [
   {
-    "slug": "toma-de-color-dental-protocolo-fotografia-laboratorio",
-    "keyword": "toma de color dental",
-    "secundarias": [
-      "protocolo toma de color dental",
-      "fotografia toma de color odontologia",
-      "comunicacion color clinica laboratorio",
-      "escala de color vita 3d master"
-    ],
-    "intencion": "procedimiento",
-    "etapa": "consideracion",
-    "cluster": "estetica-adhesiva",
-    "prioridad": 94,
-    "por_que": "Las búsquedas profesionales muestran frustración constante por discrepancias cromáticas entre clínica y laboratorio; los resultados en Google España son posts genéricos de clínicas para pacientes (definiendo tono/valor/croma de forma superficial) o PDFs teóricos desactualizados, sin un protocolo fotográfico técnico con tarjeta de grises y polarización.",
-    "enfoque": "Protocolo técnico riguroso de transmisión cromática hacia el laboratorio: control de deshidratación previa al tallado, encuadre de la pestaña guía en el mismo plano focal, uso de polarizadores/tarjeta de grises y registro específico de sustrato y muñón para evitar repeticiones.",
-    "estado": "publicado"
-  },
-  {
-    "slug": "incrustacion-veneerlay-disilicato-de-litio-preparacion-adhesion",
-    "keyword": "veneerlay disilicato de litio",
-    "secundarias": [
-      "incrustacion veneerlay",
-      "preparacion veneerlay",
-      "restauraciones indirectas disilicato emax",
-      "cementado adhesivo veneerlay"
-    ],
-    "intencion": "procedimiento",
-    "etapa": "consideracion",
-    "cluster": "protesis-fija-ceramica",
-    "prioridad": 92,
-    "por_que": "GSC muestra alto volumen huérfano sobre disilicato de litio (coronas de disilicato de litio pos. 8-9) mientras el odontólogo actual busca soluciones mínimamente invasivas en premolares y molares que combinan faceta estética vestibular y recubrimiento oclusal; en Google dominan papers académicos y no hay guías prácticas de laboratorio.",
-    "enfoque": "Criterio de confección protésica en E-Max para premolares con compromiso estético y estructural: grosores críticos según el software CAD, manejo de márgenes en butt-joint frente a bisel, y protocolo de arenado, grabado con fluorhídrico y silanización antes del envío.",
-    "estado": "repetido",
-    "motivo": "«coronas de disilicato de litio» ya da 208 impresiones a https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales"
-  },
-  {
-    "slug": "tecnica-bopt-provisionales-pmma-manejo-tejidos-blandos",
-    "keyword": "tecnica bopt provisionales",
-    "secundarias": [
-      "bopt odontologia laboratorio",
-      "perfil de emergencia bopt pmma",
-      "tallado vertical sin linea de terminacion",
-      "provisionales cad cam bopt"
-    ],
-    "intencion": "procedimiento",
-    "etapa": "consideracion",
-    "cluster": "flujo-digital",
-    "prioridad": 90,
-    "por_que": "La técnica BOPT (preparación vertical) genera continuas dudas en clínica sobre cómo el provisional guía el festoneado gingival; la competencia solo ofrece artículos teóricos de cursos universitarios o páginas comerciales de aseguradoras sin detalle protésico CAD-CAM.",
-    "enfoque": "Cómo diseñar y fresar el provisional en PMMA (TelioCAD/InnovaCAD) para modelar el sellado mucoso y la migración epitelial, explicando la transición desde el muñón cilíndrico hasta la corona definitiva de zirconio o disilicato.",
-    "estado": "publicado"
-  },
-  {
-    "slug": "ferula-de-descarga-digital-impresion-3d-vs-fresada",
-    "keyword": "ferula de descarga digital",
-    "secundarias": [
-      "ferula michigan fresada cad cam",
-      "ferula descarga impresa 3d o fresada",
-      "ajuste oclusal ferula digital",
-      "resina ferula descarga laboratorio"
-    ],
-    "intencion": "comparativa",
-    "etapa": "decision",
-    "cluster": "oclusion-removible",
-    "prioridad": 89,
-    "por_que": "Creciente interés de odontólogos sobre si pedir férulas Michigan impresas o fresadas; los resultados en Google están copados por clínicas explicando el bruxismo al paciente, dejando desatendida la duda clínica sobre estabilidad dimensional, dureza y desgaste en boca.",
-    "enfoque": "Comparativa técnica desde el banco de trabajo: comportamiento biomecánico de discos de PMMA reticulado fresados frente a resinas fotopolimerizables de impresión 3D, tolerancias oclusales CAD y por qué el ajuste digital ahorra tiempo de sillón en clínica.",
-    "estado": "publicado"
-  },
-  {
     "slug": "escaner-intraoral-errores-escaneado-protesis-fija",
     "keyword": "errores escaneo intraoral",
     "secundarias": [
@@ -433,6 +364,23 @@
     "motivo": "Solapa con 'Cómo elegir laboratorio de prótesis dental' y prometía plazos no reales. Borrador descartado por el dueño."
   },
   {
+    "slug": "toma-de-color-dental-protocolo-fotografia-laboratorio",
+    "keyword": "toma de color dental",
+    "secundarias": [
+      "protocolo toma de color dental",
+      "fotografia toma de color odontologia",
+      "comunicacion color clinica laboratorio",
+      "escala de color vita 3d master"
+    ],
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "cluster": "estetica-adhesiva",
+    "prioridad": 94,
+    "por_que": "Las búsquedas profesionales muestran frustración constante por discrepancias cromáticas entre clínica y laboratorio; los resultados en Google España son posts genéricos de clínicas para pacientes (definiendo tono/valor/croma de forma superficial) o PDFs teóricos desactualizados, sin un protocolo fotográfico técnico con tarjeta de grises y polarización.",
+    "enfoque": "Protocolo técnico riguroso de transmisión cromática hacia el laboratorio: control de deshidratación previa al tallado, encuadre de la pestaña guía en el mismo plano focal, uso de polarizadores/tarjeta de grises y registro específico de sustrato y muñón para evitar repeticiones.",
+    "estado": "publicado"
+  },
+  {
     "slug": "planificacion-guias-quirurgicas-cbct-stl",
     "keyword": "guías quirúrgicas 3d cbct stl",
     "secundarias": [
@@ -449,6 +397,24 @@
     "estado": "publicado"
   },
   {
+    "slug": "incrustacion-veneerlay-disilicato-de-litio-preparacion-adhesion",
+    "keyword": "veneerlay disilicato de litio",
+    "secundarias": [
+      "incrustacion veneerlay",
+      "preparacion veneerlay",
+      "restauraciones indirectas disilicato emax",
+      "cementado adhesivo veneerlay"
+    ],
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "cluster": "protesis-fija-ceramica",
+    "prioridad": 92,
+    "por_que": "GSC muestra alto volumen huérfano sobre disilicato de litio (coronas de disilicato de litio pos. 8-9) mientras el odontólogo actual busca soluciones mínimamente invasivas en premolares y molares que combinan faceta estética vestibular y recubrimiento oclusal; en Google dominan papers académicos y no hay guías prácticas de laboratorio.",
+    "enfoque": "Criterio de confección protésica en E-Max para premolares con compromiso estético y estructural: grosores críticos según el software CAD, manejo de márgenes en butt-joint frente a bisel, y protocolo de arenado, grabado con fluorhídrico y silanización antes del envío.",
+    "estado": "repetido",
+    "motivo": "«coronas de disilicato de litio» ya da 208 impresiones a https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales"
+  },
+  {
     "slug": "puente-maryland-zirconio-protocolo-adhesion",
     "keyword": "puente maryland zirconio",
     "secundarias": [
@@ -462,6 +428,40 @@
     "prioridad": 91,
     "por_que": "Los odontólogos debaten intensamente en foros clínicos si usar 1 o 2 aletas y cómo garantizar la adhesión química sin desalojo en agenesias de laterales. La mayoría de artículos en Google España son de clínicas para pacientes o textos desactualizados sobre metal-resina.",
     "enfoque": "Enfoque técnico de prótesis mínimamente invasiva: por qué el diseño cantilever monoaleta reduce descementados frente al bialeta, cómo preparamos y arenamos el zirconio en laboratorio y el protocolo crítico de cementado adhesivo con silano/MDP en clínica.",
+    "estado": "publicado"
+  },
+  {
+    "slug": "tecnica-bopt-provisionales-pmma-manejo-tejidos-blandos",
+    "keyword": "tecnica bopt provisionales",
+    "secundarias": [
+      "bopt odontologia laboratorio",
+      "perfil de emergencia bopt pmma",
+      "tallado vertical sin linea de terminacion",
+      "provisionales cad cam bopt"
+    ],
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "cluster": "flujo-digital",
+    "prioridad": 90,
+    "por_que": "La técnica BOPT (preparación vertical) genera continuas dudas en clínica sobre cómo el provisional guía el festoneado gingival; la competencia solo ofrece artículos teóricos de cursos universitarios o páginas comerciales de aseguradoras sin detalle protésico CAD-CAM.",
+    "enfoque": "Cómo diseñar y fresar el provisional en PMMA (TelioCAD/InnovaCAD) para modelar el sellado mucoso y la migración epitelial, explicando la transición desde el muñón cilíndrico hasta la corona definitiva de zirconio o disilicato.",
+    "estado": "publicado"
+  },
+  {
+    "slug": "ferula-de-descarga-digital-impresion-3d-vs-fresada",
+    "keyword": "ferula de descarga digital",
+    "secundarias": [
+      "ferula michigan fresada cad cam",
+      "ferula descarga impresa 3d o fresada",
+      "ajuste oclusal ferula digital",
+      "resina ferula descarga laboratorio"
+    ],
+    "intencion": "comparativa",
+    "etapa": "decision",
+    "cluster": "oclusion-removible",
+    "prioridad": 89,
+    "por_que": "Creciente interés de odontólogos sobre si pedir férulas Michigan impresas o fresadas; los resultados en Google están copados por clínicas explicando el bruxismo al paciente, dejando desatendida la duda clínica sobre estabilidad dimensional, dureza y desgaste en boca.",
+    "enfoque": "Comparativa técnica desde el banco de trabajo: comportamiento biomecánico de discos de PMMA reticulado fresados frente a resinas fotopolimerizables de impresión 3D, tolerancias oclusales CAD y por qué el ajuste digital ahorra tiempo de sillón en clínica.",
     "estado": "publicado"
   },
   {

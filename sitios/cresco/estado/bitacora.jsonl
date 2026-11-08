@@ -33,3 +33,5 @@
 {"t": "2026-11-05T14:17:26", "sitio": "cresco", "evento": "estatico_publicado", "slug": "cuanto-cuesta-pagina-web-negocio-local", "archivo": "public/blog/cuanto-cuesta-pagina-web-negocio-local.html"}
 {"t": "2026-11-05T14:17:26", "sitio": "cresco", "evento": "publicado", "slug": "cuanto-cuesta-pagina-web-negocio-local", "url": "https://cresco.es/blog/cuanto-cuesta-pagina-web-negocio-local", "palabras": 1300}
 {"t": "2026-11-05T14:17:26", "sitio": "cresco", "evento": "coste", "usd": 0.1218, "modelo": "gemini-3.8-flash", "entrada": 26405, "salida": 27206, "busquedas": 5}
+{"t": "2026-11-08T12:55:29", "sitio": "cresco", "evento": "aprendizaje", "clusters": 3, "hipotesis": 0, "frecuencia_recomendada": 3}
+{"t": "2026-11-08T12:55:29", "sitio": "cresco", "evento": "coste", "usd": 0.0026, "modelo": "gemini-3.8-flash", "entrada": 1718, "salida": 363, "busquedas": 0}

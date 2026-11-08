@@ -10,5 +10,99 @@
       "leads_cualificados_28d_desde_blog": 0,
       "articulos_semana": 3
     }
+  },
+  {
+    "fecha": "2026-11-05",
+    "paginas": [
+      {
+        "slug": "necesito-pagina-web-si-tengo-instagram",
+        "keyword": "necesito pagina web si tengo instagram",
+        "cluster": "estrategia-digital-local",
+        "intencion": "informativa",
+        "etapa": "descubrimiento",
+        "palabras": 991,
+        "h2": 7,
+        "tablas": 1,
+        "faq": 2,
+        "variante": {
+          "experimento": "longitud",
+          "brazo": "A",
+          "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
+          "estrato": "cresco:estrategia-digital-local"
+        },
+        "titulo_seo": "Necesito página web si tengo Instagram: diferencias",
+        "edad_dias": 6,
+        "clics": 0,
+        "impresiones": 0,
+        "ctr": 0,
+        "posicion": null,
+        "leads_cualificados_total": 0,
+        "leads_total": 0,
+        "leads_cualificados_28d": 0,
+        "clics_cta_28d": 0
+      },
+      {
+        "slug": "boton-whatsapp-pagina-web-negocio-local",
+        "keyword": "boton whatsapp en la web",
+        "cluster": "conversion-cro",
+        "intencion": "comercial",
+        "etapa": "consideracion",
+        "palabras": 2103,
+        "h2": 9,
+        "tablas": 1,
+        "faq": 2,
+        "variante": {
+          "experimento": "longitud",
+          "brazo": "B",
+          "descripcion": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
+          "estrato": "cresco:conversion-cro"
+        },
+        "titulo_seo": "Botón de WhatsApp en la web para negocios locales",
+        "edad_dias": 5,
+        "clics": 0,
+        "impresiones": 0,
+        "ctr": 0,
+        "posicion": null,
+        "leads_cualificados_total": 0,
+        "leads_total": 0,
+        "leads_cualificados_28d": 0,
+        "clics_cta_28d": 0
+      },
+      {
+        "slug": "cuanto-cuesta-pagina-web-negocio-local",
+        "keyword": "cuanto cuesta una pagina web para un negocio local",
+        "cluster": "precios-y-modelos",
+        "intencion": "comparativa",
+        "etapa": "consideracion",
+        "palabras": 1300,
+        "h2": 5,
+        "tablas": 1,
+        "faq": 3,
+        "variante": {
+          "experimento": "longitud",
+          "brazo": "A",
+          "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
+          "estrato": "cresco:precios-y-modelos"
+        },
+        "titulo_seo": "Cuánto cuesta una página web para un negocio local",
+        "edad_dias": 3,
+        "clics": 0,
+        "impresiones": 0,
+        "ctr": 0,
+        "posicion": null,
+        "leads_cualificados_total": 0,
+        "leads_total": 0,
+        "leads_cualificados_28d": 0,
+        "clics_cta_28d": 0
+      }
+    ],
+    "total": {
+      "clics": 0,
+      "impresiones": 0,
+      "leads_28d_sitio": 1,
+      "leads_cualificados_28d_sitio": 0,
+      "leads_cualificados_28d_desde_blog": 0,
+      "articulos_semana": 3
+    }
   }
 ]
