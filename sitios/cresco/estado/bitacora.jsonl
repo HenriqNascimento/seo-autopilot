@@ -35,3 +35,8 @@
 {"t": "2026-11-05T14:17:26", "sitio": "cresco", "evento": "coste", "usd": 0.1218, "modelo": "gemini-3.8-flash", "entrada": 26405, "salida": 27206, "busquedas": 5}
 {"t": "2026-11-08T12:55:29", "sitio": "cresco", "evento": "aprendizaje", "clusters": 3, "hipotesis": 0, "frecuencia_recomendada": 3}
 {"t": "2026-11-08T12:55:29", "sitio": "cresco", "evento": "coste", "usd": 0.0026, "modelo": "gemini-3.8-flash", "entrada": 1718, "salida": 363, "busquedas": 0}
+{"t": "2026-11-09T15:34:48", "sitio": "cresco", "evento": "edicion", "slug": "pagina-web-sin-permanencia", "intento": 1, "nota_min": 10, "problemas": 5}
+{"t": "2026-11-09T15:36:27", "sitio": "cresco", "evento": "edicion", "slug": "pagina-web-sin-permanencia", "intento": 2, "nota_min": 9, "problemas": 0}
+{"t": "2026-11-09T15:36:30", "sitio": "cresco", "evento": "estatico_publicado", "slug": "pagina-web-sin-permanencia", "archivo": "public/blog/pagina-web-sin-permanencia.html"}
+{"t": "2026-11-09T15:36:30", "sitio": "cresco", "evento": "publicado", "slug": "pagina-web-sin-permanencia", "url": "https://cresco.es/blog/pagina-web-sin-permanencia", "palabras": 1824}
+{"t": "2026-11-09T15:36:30", "sitio": "cresco", "evento": "coste", "usd": 0.1787, "modelo": "gemini-3.8-flash", "entrada": 31848, "salida": 41282, "busquedas": 7}

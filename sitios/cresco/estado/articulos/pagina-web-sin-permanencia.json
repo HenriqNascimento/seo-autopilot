@@ -1,0 +1,270 @@
+{
+  "articulo": {
+    "titulo": "Diseño web sin permanencia: guía para evitar contratos trampa",
+    "titulo_seo": "Diseño web sin permanencia: qué mirar antes de firmar",
+    "meta_description": "El diseño web sin permanencia permite pagar mes a mes. Descubre cómo proteger tu dominio, evitar costes de alta ocultos y mantener el control de tu web.",
+    "resumen": "Explicamos cómo funciona el diseño web por suscripción mensual sin permanencia, las trampas contractuales habituales y cómo proteger la titularidad de tu dominio.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>El diseño web sin permanencia permite a un negocio local disponer de una web profesional mediante una suscripción mensual, con hosting, mantenimiento y actualizaciones continuas, pudiendo cancelar el servicio cuando quiera sin penalizaciones económicas.</strong> La diferencia entre un modelo transparente y una trampa comercial radica en la titularidad: el dominio y los contenidos deben quedar registrados a nombre de tu negocio para que, si decides marcharte, conserves el control de tu identidad digital."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para una clínica dental, un taller mecánico o un centro de fisioterapia, pagar de golpe miles de euros por una página web supone un desembolso pesado. Si a ese gasto inicial le sumas que muchas páginas quedan desatendidas a los pocos meses porque nadie asume su mantenimiento técnico, el pago mensual parece el camino lógico. Sin embargo, tras el reclamo de «sin permanencia» aparecen a menudo contratos pensados para retener al cliente a la fuerza."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Por qué el pago único tradicional ya no encaja en tantos negocios"
+      },
+      {
+        "tipo": "p",
+        "texto": "El esquema clásico de agencia web funciona casi igual desde hace años: encargas el proyecto, abonas un anticipo, esperas varias semanas y pagas el resto al recibir los archivos. A partir de ese momento, la relación suele terminar salvo que contrates una cuota mensual de mantenimiento que rara vez baja de los 100 euros por tareas que pocas veces se detallan."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si necesitas modificar un horario, añadir un servicio o actualizar tarifas, te encuentras con presupuestos adicionales por horas sueltas de trabajo. Si quieres revisar los rangos de inversión habituales en el mercado español, puedes consultar nuestro análisis sobre <a href=\"https://cresco.es/blog/cuanto-cuesta-pagina-web-negocio-local\">cuánto cuesta una página web para un negocio local</a>."
+      },
+      {
+        "tipo": "p",
+        "texto": "El modelo de suscripción mensual resuelve esta fricción al transformar una inversión inicial alta en una cuota mensual predecible. Pagas una mensualidad asumible y el equipo técnico se encarga de la velocidad, la seguridad del servidor y los cambios de texto. El problema llega cuando algunas empresas utilizan este formato para crear sistemas de alquiler donde el cliente no tiene derechos reales sobre su propia presencia digital."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Las trampas habituales en los contratos de alquiler de páginas web"
+      },
+      {
+        "tipo": "p",
+        "texto": "No todas las cuotas mensuales son iguales. Hay modelos comerciales diseñados para que marcharte sea tan farragoso o costoso que prefieras seguir pagando. Conviene revisar cuatro prácticas habituales antes de comprometerte con ningún proveedor."
+      },
+      {
+        "tipo": "h3",
+        "texto": "1. Cuotas bajas con costes de alta encubiertos"
+      },
+      {
+        "tipo": "p",
+        "texto": "Te anuncian una cuota reducida de 29 o 39 euros al mes y aseguran que puedes cancelar cuando quieras. La sorpresa surge al firmar: exigen abonar varios cientos de euros en concepto de «puesta en marcha», «gastos de apertura» o «configuración técnica». Si decides darte de baja a los pocos meses porque el servicio no responde, has perdido ese importe inicial. En la práctica, ese coste de alta actúa exactamente como una penalización anticipada."
+      },
+      {
+        "tipo": "h3",
+        "texto": "2. Permanencias forzosas en la letra pequeña"
+      },
+      {
+        "tipo": "p",
+        "texto": "La publicidad destaca la flexibilidad, pero el contrato formal estipula un periodo de permanencia obligatorio de uno o varios años con el pretexto de amortizar el desarrollo. Si pides la baja antes de tiempo, te reclaman todas las mensualidades pendientes. Quien confía en su trabajo no necesita retener a un cliente mediante cláusulas forzosas."
+      },
+      {
+        "tipo": "h3",
+        "texto": "3. Plataformas cerradas y código cautivo"
+      },
+      {
+        "tipo": "p",
+        "texto": "Ciertas empresas montan tu web sobre gestores de contenido propios que solo funcionan en sus servidores. Si un día te vas, no puedes llevarte la página a otro hosting: pierdes la estructura, el diseño y todo el histórico acumulado. Te ves obligado a empezar desde cero."
+      },
+      {
+        "tipo": "h3",
+        "texto": "4. Webs desatendidas que nadie actualiza"
+      },
+      {
+        "tipo": "p",
+        "texto": "Otro fallo común es pagar un mantenimiento que se limita a copias de seguridad automáticas en el servidor. La web queda congelada tal y como se publicó el primer día, sin revisiones de velocidad ni ajustes para responder a lo que tus clientes buscan en tu zona."
+      },
+      {
+        "tipo": "h2",
+        "texto": "La trampa del dominio secuestrado: cómo comprobar tu titularidad hoy"
+      },
+      {
+        "tipo": "p",
+        "texto": "De todos los problemas contractuales, perder el control del nombre de dominio es el más dañino para un negocio local. Imagina llevar años repartiendo presupuestos, rotulando vehículos y consiguiendo enlaces hacia la web de tu consulta. Si decides cambiar de empresa y descubres que la agencia registró el dominio a su propio nombre, te encuentras bloqueado."
+      },
+      {
+        "tipo": "p",
+        "texto": "Algunas agencias exigen pagos adicionales de cientos de euros para entregarte el código de autorización de transferencia, conocido como AuthCode o EPP Code. En situaciones extremas, dejan caducar el dominio o lo redirigen hacia otras páginas, perjudicando la visibilidad local que tanto costó construir en Google."
+      },
+      {
+        "tipo": "p",
+        "texto": "En España, la entidad pública empresarial Red.es gestiona el registro de dominios .es. La <a href=\"https://www.dominios.es/es/normativa\">normativa de registro de Red.es</a> indica con claridad que quien figura en el campo de titular (registrant) ostenta los derechos legítimos sobre el nombre. Si en ese apartado consta la agencia o un intermediario, legalmente tú no eres el dueño del dominio, por mucho que hayas pagado las facturas."
+      },
+      {
+        "tipo": "p",
+        "texto": "Puedes verificar la titularidad de tu web ahora mismo siguiendo estos pasos:"
+      },
+      {
+        "tipo": "ol",
+        "texto": "Si tu dominio termina en .es, entra en la web de Dominios.es y usa su buscador Whois público para ver los datos del titular.\nSi tu dominio es .com u otra extensión genérica, revísalo en la herramienta de consulta de la ICANN en lookup.icann.org.\nComprueba el campo «Titular» o «Registrant Name»: debe figurar tu nombre fiscal o el CIF de tu empresa, junto a un correo bajo tu control directo.\nRevisa el contacto administrativo: debe ser una dirección tuya para poder autorizar la transferencia del AuthCode sin intermediarios obligatorios."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si detectas que el titular es tu proveedor actual, pide por escrito una modificación inmediata de los datos de contacto y de titularidad para resolverlo antes de cualquier discrepancia."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Marco legal en España frente a permanencias y penalizaciones web"
+      },
+      {
+        "tipo": "p",
+        "texto": "Muchos autónomos creen que si firmaron un contrato con permanencia prolongada, no tienen margen para reclamar. El marco legal en España y en la Unión Europea impone límites claros frente a cláusulas desequilibradas."
+      },
+      {
+        "tipo": "p",
+        "texto": "El <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555\">Texto Refundido de la Ley General para la Defensa de los Consumidores y Usuarios (RDL 1/2007)</a> recoge en sus artículos 80 a 91 la nulidad de pleno derecho de las cláusulas abusivas. La norma prohíbe imponer obstáculos onerosos al derecho de poner fin al contrato, así como penalizaciones que no guarden relación con daños acreditados. En el ámbito comunitario, la <a href=\"https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:31993L0013\">Directiva 93/13/CEE</a> marca pautas similares contra los compromisos de duración desmedida."
+      },
+      {
+        "tipo": "p",
+        "texto": "Aunque los autónomos y pymes contratan como profesionales, la Ley sobre Condiciones Generales de la Contratación y los artículos 7 y 1154 del Código Civil permiten moderar judicialmente penalizaciones desorbitadas si no corresponden a costes reales pendientes de amortizar."
+      },
+      {
+        "tipo": "p",
+        "texto": "Reclamar años enteros de cuotas por adelantado cuando el cliente rescinde un contrato por un mal servicio suele considerarse una penalización desproporcionada. Una empresa que confía en lo que hace cuida la retención ofreciendo un servicio útil, no amenazando con litigios."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Comparativa: desarrollo tradicional frente a diseño web sin permanencia"
+      },
+      {
+        "tipo": "p",
+        "texto": "Para valorar con claridad cada opción, conviene comparar qué implica cada modelo a nivel económico y operativo durante el primer año de actividad."
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Criterio | Desarrollo tradicional | Alquiler web cautivo | Suscripción sin permanencia\nDesembolso inicial | Presupuesto cerrado elevado | Cuota de alta o puesta en marcha | Sin coste de alta\nCompromiso temporal | Sin permanencia técnica | Contratos con permanencia forzosa | Sin permanencia (baja a fin de mes)\nPropiedad del dominio | Según contrato | Frecuentemente retenido por la agencia | Registrado a nombre del cliente\nMantenimiento técnico | Presupuesto por horas o cuota aparte | Básico sobre plataforma cerrada | Soporte continuo y actualizaciones\nOptimización en buscadores | Servicio aparte de consultoría | Inexistente o genérica | Agentes continuos de SEO y motores de IA\nInversión orientativa primer año | Aprox. 3.000 € (desarrollo y mantenimiento) | Variable según cuota y penalizaciones | 838,80 € (69,90 €/mes + IVA)"
+      },
+      {
+        "tipo": "p",
+        "texto": "La tabla muestra que el problema del alquiler tradicional no es pagar mes a mes, sino las condiciones de salida y la pérdida de control técnico. Una suscripción transparente ofrece previsibilidad financiera manteniendo la libertad de marcharte si tus prioridades cambian."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Qué debe incluir una web local para generar llamadas y citas"
+      },
+      {
+        "tipo": "p",
+        "texto": "Pagar una cuota mensual por una página que nadie visita es un gasto improductivo. Para que una web local aporte clientes de forma estable, necesita cuidar tres aspectos técnicos fundamentales:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Diseño rápido en móvil con vías de contacto directas, como un <a href=\"https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local\">botón de WhatsApp en la web</a> bien configurado.\nOptimización técnica de SEO local coordinada con el Perfil de Empresa en Google para aparecer cuando busquen tus servicios en tu municipio.\nAdaptación para motores de búsqueda de inteligencia artificial (GEO), estructurando los datos para que ChatGPT, Perplexity o Gemini identifiquen con precisión tu negocio al responder preguntas locales."
+      },
+      {
+        "tipo": "p",
+        "texto": "Muchos negocios cometen el error de <a href=\"https://cresco.es/blog/necesito-pagina-web-si-tengo-instagram\">depender solo de Instagram para captar clientes</a>. Las redes sociales ayudan a mostrar cercanía, pero cuando alguien sufre una urgencia o busca un profesional cerca de casa un martes por la noche, acude a los buscadores y asistentes directos, no al feed de una red social."
+      },
+      {
+        "tipo": "h2",
+        "texto": "El modelo Cresco: web profesional por 69,90 € al mes y libertad para marcharte"
+      },
+      {
+        "tipo": "p",
+        "texto": "En Cresco nos basamos en una idea transparente: los acuerdos comerciales duran mientras resulten provechosos para ambas partes, no porque un papel te obligue a quedarte."
+      },
+      {
+        "tipo": "p",
+        "texto": "Con nuestro Plan Cresco Web pagas 69,90 € al mes más IVA. No cobramos costes de alta ocultos ni exigimos permanencia: si decides no continuar, avisas y el servicio termina al finalizar el mes en curso. El dominio es tuyo y te lo transferimos para que conserves íntegra tu identidad digital."
+      },
+      {
+        "tipo": "p",
+        "texto": "La cuota cubre el diseño a medida adaptado a móviles, textos profesionales, dominio, hosting, certificado SSL, optimización de la ficha de Google Business, cambios de contenido mensuales, informe de visitas y contactos, y soporte por WhatsApp y correo electrónico."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para que la página no quede abandonada, usamos agentes de inteligencia artificial supervisados por nuestro equipo que aplican mejoras cada semana: agente SEO (búsquedas locales, títulos, textos, estructura y velocidad), agente GEO (datos estructurados y respuestas claras para ChatGPT, Gemini y Perplexity) y agente CRO (llamadas a la acción, formularios y orden de contenidos)."
+      },
+      {
+        "tipo": "p",
+        "texto": "Atendemos a negocios de toda España desde nuestra sede en A Coruña. Hemos desarrollado proyectos como la plataforma multilingüe con presupuestos online para Lapacar Gran Turismo (vehículos con conductor en A Coruña) o la web, blog y posicionamiento local para Innovadental, un laboratorio de prótesis dental de O Burgo que trabaja con clínicas de toda Galicia."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para que valores nuestro trabajo antes de gastar un euro, tras una llamada de 30 minutos preparamos la portada de tu web gratis en 72 horas. Si el resultado no te convence, no pagas nada. Con el fin de asegurar la atención a cada cliente, limitamos las altas a 10 webs nuevas al mes."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si quieres revisar la situación de tu negocio en internet antes de decidir nada, solicita un diagnóstico gratuito en <a href=\"https://cresco.es/diagnostico.html\">cresco.es/diagnostico.html</a> para ver tu puntuación y tu visibilidad frente a la competencia en Google Maps."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Puedo llevarme mi página a otro hosting si me doy de baja?",
+        "a": "El dominio y todos los textos e imágenes son de tu propiedad y te los llevas sin penalización. En los servicios de web por suscripción, la plantilla y la infraestructura de gestión están vinculadas a los servidores del proveedor. Al marcharte conservas tu marca y tus contenidos, pero un nuevo diseñador tendrá que alojar la página en otro servidor."
+      },
+      {
+        "q": "¿Qué pasa con el posicionamiento local en Google si cancelo el servicio?",
+        "a": "La visibilidad local depende de la continuidad de tu dominio y de tu Perfil de Empresa en Google. Si cancelas el servicio y no publicas una nueva web de inmediato, las búsquedas locales acabarán resintiéndose. Para proteger tu posición, transfiere el dominio a tu nombre y apunta hacia la nueva web conservando las mismas direcciones de página."
+      },
+      {
+        "q": "¿Qué diferencia hay entre este modelo y crear la web en Wix o Squarespace?",
+        "a": "En esas plataformas pagas una cuota por utilizar su herramienta, pero todo el trabajo recae sobre ti: diseñar, redactar, configurar el SEO local y resolver fallos técnicos. Una suscripción profesional gestionada incluye el diseño a medida, la redacción comercial, la optimización continua en buscadores y el soporte directo para que tú no pierdas horas de trabajo."
+      }
+    ],
+    "tags": [
+      "Diseño web",
+      "Negocios locales",
+      "SEO local"
+    ],
+    "foto": "lapacar.jpg",
+    "alt_foto": "Web de Lapacar Gran Turismo diseñada por Cresco"
+  },
+  "brief": {
+    "intencion": "Comercial e investigacional: el usuario busca contratar una página web profesional pagando mes a mes para evitar desembolsos iniciales elevados de 1.000 € a 2.500 €, pero teme quedar atado a contratos leoninos de 12 a 36 meses, perder su dominio o sufrir penalizaciones abusivas de cancelación.",
+    "respuesta_directa": "El diseño web sin permanencia permite a un negocio local disponer de una web profesional mediante una suscripción mensual, con mantenimiento, hosting y actualizaciones continuas, pudiendo cancelar el servicio en cualquier momento sin penalizaciones económicas. El factor determinante que separa un servicio ético de una trampa comercial es la titularidad: el dominio y los contenidos deben estar registrados 100 % a nombre del cliente para que, si decide irse, mantenga el control total de su marca e identidad digital.",
+    "que_cubren_los_top": [
+      "Definición de alquiler de páginas web o 'web renting' frente al modelo tradicional de pago único de desarrollo.",
+      "Comparativas de costes a corto plazo (primer año) frente al medio plazo (3 a 5 años).",
+      "Listados de servicios incluidos en las cuotas: hosting, certificado SSL, actualizaciones de CMS y soporte básico.",
+      "Avisos genéricos sobre el riesgo de perder la web si dejas de pagar la suscripción.",
+      "Ofertas low-cost desde 19 € a 55 €/mes, muchas de las cuales esconden costes de puesta en marcha ('setup fees') o permanencias camufladas de 12 meses."
+    ],
+    "huecos": [
+      "La trampa del secuestro del dominio (titularidad Whois): agencias que registran el .es o .com a nombre de la propia agencia y cobran penalizaciones de cientos de euros por liberar el AuthCode / código EPP de transferencia.",
+      "La diferencia legal y práctica entre 'alquiler cautivo con CMS propietario' (donde la web no puede migrarse a ningún sitio) y un modelo de suscripción ética con propiedad garantizada del dominio y portabilidad.",
+      "La letra pequeña de los contratos de permanencia de 12, 24 o 36 meses y su tensión con el Real Decreto Legislativo 1/2007 (Ley General para la Defensa de los Consumidores y Usuarios) y la Directiva 93/13/CEE sobre cláusulas abusivas y penalizaciones desproporcionadas.",
+      "El impacto real del modelo en el SEO y GEO local: la mayoría de 'webs de alquiler' usan plantillas genéricas sin optimización técnica para motores de búsqueda ni adaptación para motores de IA (ChatGPT, Perplexity, Gemini).",
+      "El desglose transparente del modelo de CRESCO: 69,90 €/mes + IVA, sin coste de alta oculto, sin permanencia, cancelación libre y agentes de IA trabajando el posicionamiento local continuo."
+    ],
+    "preguntas_reales": [
+      "Si cancelo mi suscripción mensual, ¿pierdo mi dominio y mi correo corporativo?",
+      "¿Qué pasa con el posicionamiento de mi negocio en Google si me doy de baja de una web de alquiler?",
+      "¿Es legal que una agencia web me exija 12 meses de permanencia si no estoy satisfecho con el servicio?",
+      "¿Por qué muchas agencias cobran entre 100 € y 300 € de 'coste de alta' o 'puesta en marcha' aunque anuncien que es sin permanencia?",
+      "¿Puedo llevarme mi página web a otro hosting si decido cancelar la cuota mensual?",
+      "¿Qué diferencia hay entre alquilar una web en Wix/Squarespace y contratar una web en cuota mensual con soporte profesional?"
+    ],
+    "estructura": [
+      "Qué es el diseño web sin permanencia (y por qué los negocios locales huyen del pago único)",
+      "Las 4 trampas habituales en los contratos de 'alquiler de páginas web'",
+      "La trampa reina: el secuestro del dominio y la pérdida de la reputación local",
+      "Marco legal en España: ¿hasta qué punto son legales las permanencias y penalizaciones en desarrollo web?",
+      "Comparativa de modelos: pago único tradicional vs. alquiler cautivo vs. suscripción ética transparente",
+      "Qué debe incluir una suscripción web profesional sin ataduras (SEO local, GEO y mantenimiento)",
+      "El modelo CRESCO: tu web profesional por 69,90 €/mes, libertad total y dominio 100 % tuyo",
+      "Preguntas frecuentes sobre páginas web con cuota mensual y sin permanencia"
+    ],
+    "palabras_objetivo": 1750,
+    "entidades": [
+      "AuthCode / EPP Code (código de autorización para transferencias de dominio)",
+      "Whois y Registrador de Dominios (Nominet, Red.es, ICANN)",
+      "Real Decreto Legislativo 1/2007 (Ley de Consumidores y Usuarios de España)",
+      "Directiva 93/13/CEE sobre cláusulas abusivas en contratos de servicios",
+      "CMS propietario vs. código abierto / portable (WordPress, arquitecturas headless)",
+      "Hosting gestionado, Certificado SSL/TLS y copias de seguridad automáticas",
+      "SEO Local y Perfil de Empresa en Google (antiguo Google My Business)",
+      "Generative Engine Optimization (GEO para ChatGPT, Gemini y Perplexity)",
+      "Coste de alta o tarifa de puesta en marcha ('setup fee')"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555",
+        "dato": "Texto Refundido de la Ley General para la Defensa de los Consumidores y Usuarios (RDL 1/2007), que regula en sus artículos 80 a 91 la nulidad de pleno derecho de las cláusulas abusivas, incluyendo penalizaciones no proporcionales por rescisión anticipada y obstáculos onerosos al ejercicio de los derechos de baja."
+      },
+      {
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:31993L0013",
+        "dato": "Directiva 93/13/CEE del Consejo sobre cláusulas abusivas en contratos celebrados con consumidores y autónomos asimilados, que prohíbe imponer compromisos de duración excesiva o indemnizaciones desproporcionadas por rescisión unilateral de servicios."
+      },
+      {
+        "url": "https://www.dominios.es/es/normativa",
+        "dato": "Instrucción de Red.es y normativa aplicable al registro de dominios .es, que estipula que el titular legítimo (registrant) debe figurar con sus datos reales para tener plenas facultades jurídicas sobre el nombre y su transferencia mediante código de autenticación."
+      }
+    ]
+  },
+  "html": "<p><strong>El diseño web sin permanencia permite a un negocio local disponer de una web profesional mediante una suscripción mensual, con hosting, mantenimiento y actualizaciones continuas, pudiendo cancelar el servicio cuando quiera sin penalizaciones económicas.</strong> La diferencia entre un modelo transparente y una trampa comercial radica en la titularidad: el dominio y los contenidos deben quedar registrados a nombre de tu negocio para que, si decides marcharte, conserves el control de tu identidad digital.</p>\n<p>Para una clínica dental, un taller mecánico o un centro de fisioterapia, pagar de golpe miles de euros por una página web supone un desembolso pesado. Si a ese gasto inicial le sumas que muchas páginas quedan desatendidas a los pocos meses porque nadie asume su mantenimiento técnico, el pago mensual parece el camino lógico. Sin embargo, tras el reclamo de «sin permanencia» aparecen a menudo contratos pensados para retener al cliente a la fuerza.</p>\n<h2>Por qué el pago único tradicional ya no encaja en tantos negocios</h2>\n<p>El esquema clásico de agencia web funciona casi igual desde hace años: encargas el proyecto, abonas un anticipo, esperas varias semanas y pagas el resto al recibir los archivos. A partir de ese momento, la relación suele terminar salvo que contrates una cuota mensual de mantenimiento que rara vez baja de los 100 euros por tareas que pocas veces se detallan.</p>\n<p>Si necesitas modificar un horario, añadir un servicio o actualizar tarifas, te encuentras con presupuestos adicionales por horas sueltas de trabajo. Si quieres revisar los rangos de inversión habituales en el mercado español, puedes consultar nuestro análisis sobre <a href=\"https://cresco.es/blog/cuanto-cuesta-pagina-web-negocio-local\">cuánto cuesta una página web para un negocio local</a>.</p>\n<p>El modelo de suscripción mensual resuelve esta fricción al transformar una inversión inicial alta en una cuota mensual predecible. Pagas una mensualidad asumible y el equipo técnico se encarga de la velocidad, la seguridad del servidor y los cambios de texto. El problema llega cuando algunas empresas utilizan este formato para crear sistemas de alquiler donde el cliente no tiene derechos reales sobre su propia presencia digital.</p>\n<h2>Las trampas habituales en los contratos de alquiler de páginas web</h2>\n<p>No todas las cuotas mensuales son iguales. Hay modelos comerciales diseñados para que marcharte sea tan farragoso o costoso que prefieras seguir pagando. Conviene revisar cuatro prácticas habituales antes de comprometerte con ningún proveedor.</p>\n<h3>1. Cuotas bajas con costes de alta encubiertos</h3>\n<p>Te anuncian una cuota reducida de 29 o 39 euros al mes y aseguran que puedes cancelar cuando quieras. La sorpresa surge al firmar: exigen abonar varios cientos de euros en concepto de «puesta en marcha», «gastos de apertura» o «configuración técnica». Si decides darte de baja a los pocos meses porque el servicio no responde, has perdido ese importe inicial. En la práctica, ese coste de alta actúa exactamente como una penalización anticipada.</p>\n<h3>2. Permanencias forzosas en la letra pequeña</h3>\n<p>La publicidad destaca la flexibilidad, pero el contrato formal estipula un periodo de permanencia obligatorio de uno o varios años con el pretexto de amortizar el desarrollo. Si pides la baja antes de tiempo, te reclaman todas las mensualidades pendientes. Quien confía en su trabajo no necesita retener a un cliente mediante cláusulas forzosas.</p>\n<h3>3. Plataformas cerradas y código cautivo</h3>\n<p>Ciertas empresas montan tu web sobre gestores de contenido propios que solo funcionan en sus servidores. Si un día te vas, no puedes llevarte la página a otro hosting: pierdes la estructura, el diseño y todo el histórico acumulado. Te ves obligado a empezar desde cero.</p>\n<h3>4. Webs desatendidas que nadie actualiza</h3>\n<p>Otro fallo común es pagar un mantenimiento que se limita a copias de seguridad automáticas en el servidor. La web queda congelada tal y como se publicó el primer día, sin revisiones de velocidad ni ajustes para responder a lo que tus clientes buscan en tu zona.</p>\n<h2>La trampa del dominio secuestrado: cómo comprobar tu titularidad hoy</h2>\n<p>De todos los problemas contractuales, perder el control del nombre de dominio es el más dañino para un negocio local. Imagina llevar años repartiendo presupuestos, rotulando vehículos y consiguiendo enlaces hacia la web de tu consulta. Si decides cambiar de empresa y descubres que la agencia registró el dominio a su propio nombre, te encuentras bloqueado.</p>\n<p>Algunas agencias exigen pagos adicionales de cientos de euros para entregarte el código de autorización de transferencia, conocido como AuthCode o EPP Code. En situaciones extremas, dejan caducar el dominio o lo redirigen hacia otras páginas, perjudicando la visibilidad local que tanto costó construir en Google.</p>\n<p>En España, la entidad pública empresarial Red.es gestiona el registro de dominios .es. La <a href=\"https://www.dominios.es/es/normativa\" target=\"_blank\" rel=\"noopener\">normativa de registro de Red.es</a> indica con claridad que quien figura en el campo de titular (registrant) ostenta los derechos legítimos sobre el nombre. Si en ese apartado consta la agencia o un intermediario, legalmente tú no eres el dueño del dominio, por mucho que hayas pagado las facturas.</p>\n<p>Puedes verificar la titularidad de tu web ahora mismo siguiendo estos pasos:</p>\n<ol><li>Si tu dominio termina en .es, entra en la web de Dominios.es y usa su buscador Whois público para ver los datos del titular.</li><li>Si tu dominio es .com u otra extensión genérica, revísalo en la herramienta de consulta de la ICANN en lookup.icann.org.</li><li>Comprueba el campo «Titular» o «Registrant Name»: debe figurar tu nombre fiscal o el CIF de tu empresa, junto a un correo bajo tu control directo.</li><li>Revisa el contacto administrativo: debe ser una dirección tuya para poder autorizar la transferencia del AuthCode sin intermediarios obligatorios.</li></ol>\n<p>Si detectas que el titular es tu proveedor actual, pide por escrito una modificación inmediata de los datos de contacto y de titularidad para resolverlo antes de cualquier discrepancia.</p>\n<h2>Marco legal en España frente a permanencias y penalizaciones web</h2>\n<p>Muchos autónomos creen que si firmaron un contrato con permanencia prolongada, no tienen margen para reclamar. El marco legal en España y en la Unión Europea impone límites claros frente a cláusulas desequilibradas.</p>\n<p>El <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555\" target=\"_blank\" rel=\"noopener\">Texto Refundido de la Ley General para la Defensa de los Consumidores y Usuarios (RDL 1/2007)</a> recoge en sus artículos 80 a 91 la nulidad de pleno derecho de las cláusulas abusivas. La norma prohíbe imponer obstáculos onerosos al derecho de poner fin al contrato, así como penalizaciones que no guarden relación con daños acreditados. En el ámbito comunitario, la <a href=\"https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:31993L0013\" target=\"_blank\" rel=\"noopener\">Directiva 93/13/CEE</a> marca pautas similares contra los compromisos de duración desmedida.</p>\n<p>Aunque los autónomos y pymes contratan como profesionales, la Ley sobre Condiciones Generales de la Contratación y los artículos 7 y 1154 del Código Civil permiten moderar judicialmente penalizaciones desorbitadas si no corresponden a costes reales pendientes de amortizar.</p>\n<p>Reclamar años enteros de cuotas por adelantado cuando el cliente rescinde un contrato por un mal servicio suele considerarse una penalización desproporcionada. Una empresa que confía en lo que hace cuida la retención ofreciendo un servicio útil, no amenazando con litigios.</p>\n<h2>Comparativa: desarrollo tradicional frente a diseño web sin permanencia</h2>\n<p>Para valorar con claridad cada opción, conviene comparar qué implica cada modelo a nivel económico y operativo durante el primer año de actividad.</p>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Criterio</th><th>Desarrollo tradicional</th><th>Alquiler web cautivo</th><th>Suscripción sin permanencia</th></tr></thead><tbody><tr><td>Desembolso inicial</td><td>Presupuesto cerrado elevado</td><td>Cuota de alta o puesta en marcha</td><td>Sin coste de alta</td></tr><tr><td>Compromiso temporal</td><td>Sin permanencia técnica</td><td>Contratos con permanencia forzosa</td><td>Sin permanencia (baja a fin de mes)</td></tr><tr><td>Propiedad del dominio</td><td>Según contrato</td><td>Frecuentemente retenido por la agencia</td><td>Registrado a nombre del cliente</td></tr><tr><td>Mantenimiento técnico</td><td>Presupuesto por horas o cuota aparte</td><td>Básico sobre plataforma cerrada</td><td>Soporte continuo y actualizaciones</td></tr><tr><td>Optimización en buscadores</td><td>Servicio aparte de consultoría</td><td>Inexistente o genérica</td><td>Agentes continuos de SEO y motores de IA</td></tr><tr><td>Inversión orientativa primer año</td><td>Aprox. 3.000 € (desarrollo y mantenimiento)</td><td>Variable según cuota y penalizaciones</td><td>838,80 € (69,90 €/mes + IVA)</td></tr></tbody></table></div>\n<p>La tabla muestra que el problema del alquiler tradicional no es pagar mes a mes, sino las condiciones de salida y la pérdida de control técnico. Una suscripción transparente ofrece previsibilidad financiera manteniendo la libertad de marcharte si tus prioridades cambian.</p>\n<h2>Qué debe incluir una web local para generar llamadas y citas</h2>\n<p>Pagar una cuota mensual por una página que nadie visita es un gasto improductivo. Para que una web local aporte clientes de forma estable, necesita cuidar tres aspectos técnicos fundamentales:</p>\n<ul><li>Diseño rápido en móvil con vías de contacto directas, como un <a href=\"https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local\">botón de WhatsApp en la web</a> bien configurado.</li><li>Optimización técnica de SEO local coordinada con el Perfil de Empresa en Google para aparecer cuando busquen tus servicios en tu municipio.</li><li>Adaptación para motores de búsqueda de inteligencia artificial (GEO), estructurando los datos para que ChatGPT, Perplexity o Gemini identifiquen con precisión tu negocio al responder preguntas locales.</li></ul>\n<p>Muchos negocios cometen el error de <a href=\"https://cresco.es/blog/necesito-pagina-web-si-tengo-instagram\">depender solo de Instagram para captar clientes</a>. Las redes sociales ayudan a mostrar cercanía, pero cuando alguien sufre una urgencia o busca un profesional cerca de casa un martes por la noche, acude a los buscadores y asistentes directos, no al feed de una red social.</p>\n<h2>El modelo Cresco: web profesional por 69,90 € al mes y libertad para marcharte</h2>\n<p>En Cresco nos basamos en una idea transparente: los acuerdos comerciales duran mientras resulten provechosos para ambas partes, no porque un papel te obligue a quedarte.</p>\n<p>Con nuestro Plan Cresco Web pagas 69,90 € al mes más IVA. No cobramos costes de alta ocultos ni exigimos permanencia: si decides no continuar, avisas y el servicio termina al finalizar el mes en curso. El dominio es tuyo y te lo transferimos para que conserves íntegra tu identidad digital.</p>\n<p>La cuota cubre el diseño a medida adaptado a móviles, textos profesionales, dominio, hosting, certificado SSL, optimización de la ficha de Google Business, cambios de contenido mensuales, informe de visitas y contactos, y soporte por WhatsApp y correo electrónico.</p>\n<p>Para que la página no quede abandonada, usamos agentes de inteligencia artificial supervisados por nuestro equipo que aplican mejoras cada semana: agente SEO (búsquedas locales, títulos, textos, estructura y velocidad), agente GEO (datos estructurados y respuestas claras para ChatGPT, Gemini y Perplexity) y agente CRO (llamadas a la acción, formularios y orden de contenidos).</p>\n<p>Atendemos a negocios de toda España desde nuestra sede en A Coruña. Hemos desarrollado proyectos como la plataforma multilingüe con presupuestos online para Lapacar Gran Turismo (vehículos con conductor en A Coruña) o la web, blog y posicionamiento local para Innovadental, un laboratorio de prótesis dental de O Burgo que trabaja con clínicas de toda Galicia.</p>\n<p>Para que valores nuestro trabajo antes de gastar un euro, tras una llamada de 30 minutos preparamos la portada de tu web gratis en 72 horas. Si el resultado no te convence, no pagas nada. Con el fin de asegurar la atención a cada cliente, limitamos las altas a 10 webs nuevas al mes.</p>\n<p>Si quieres revisar la situación de tu negocio en internet antes de decidir nada, solicita un diagnóstico gratuito en <a href=\"https://cresco.es/diagnostico.html\">cresco.es/diagnostico.html</a> para ver tu puntuación y tu visibilidad frente a la competencia en Google Maps.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Puedo llevarme mi página a otro hosting si me doy de baja?</h3><p>El dominio y todos los textos e imágenes son de tu propiedad y te los llevas sin penalización. En los servicios de web por suscripción, la plantilla y la infraestructura de gestión están vinculadas a los servidores del proveedor. Al marcharte conservas tu marca y tus contenidos, pero un nuevo diseñador tendrá que alojar la página en otro servidor.</p>\n<h3>¿Qué pasa con el posicionamiento local en Google si cancelo el servicio?</h3><p>La visibilidad local depende de la continuidad de tu dominio y de tu Perfil de Empresa en Google. Si cancelas el servicio y no publicas una nueva web de inmediato, las búsquedas locales acabarán resintiéndose. Para proteger tu posición, transfiere el dominio a tu nombre y apunta hacia la nueva web conservando las mismas direcciones de página.</p>\n<h3>¿Qué diferencia hay entre este modelo y crear la web en Wix o Squarespace?</h3><p>En esas plataformas pagas una cuota por utilizar su herramienta, pero todo el trabajo recae sobre ti: diseñar, redactar, configurar el SEO local y resolver fallos técnicos. Una suscripción profesional gestionada incluye el diseño a medida, la redacción comercial, la optimización continua en buscadores y el soporte directo para que tú no pierdas horas de trabajo.</p>"
+}

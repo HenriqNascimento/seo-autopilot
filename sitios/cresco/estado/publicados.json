@@ -100,5 +100,39 @@
     "publicado": "2026-11-05",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "pagina-web-sin-permanencia",
+    "post_id": "pagina-web-sin-permanencia",
+    "url": "https://cresco.es/blog/pagina-web-sin-permanencia",
+    "titulo": "Diseño web sin permanencia: guía para evitar contratos trampa",
+    "titulo_seo": "Diseño web sin permanencia: qué mirar antes de firmar",
+    "meta_description": "El diseño web sin permanencia permite pagar mes a mes. Descubre cómo proteger tu dominio, evitar costes de alta ocultos y mantener el control de tu web.",
+    "keyword": "diseno web sin permanencia",
+    "cluster": "precios-y-modelos",
+    "intencion": "comercial",
+    "etapa": "decision",
+    "prioridad": 95,
+    "palabras": 1824,
+    "h2": 7,
+    "tablas": 1,
+    "faq": 3,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "B",
+      "descripcion": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
+      "estrato": "cresco:precios-y-modelos"
+    },
+    "foto": "lapacar.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 9,
+      "seo": 10,
+      "experiencia": 9
+    },
+    "publicado": "2026-11-09",
+    "simulado": false,
+    "borrador": false
   }
 ]
