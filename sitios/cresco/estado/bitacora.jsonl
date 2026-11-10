@@ -40,3 +40,11 @@
 {"t": "2026-11-09T15:36:30", "sitio": "cresco", "evento": "estatico_publicado", "slug": "pagina-web-sin-permanencia", "archivo": "public/blog/pagina-web-sin-permanencia.html"}
 {"t": "2026-11-09T15:36:30", "sitio": "cresco", "evento": "publicado", "slug": "pagina-web-sin-permanencia", "url": "https://cresco.es/blog/pagina-web-sin-permanencia", "palabras": 1824}
 {"t": "2026-11-09T15:36:30", "sitio": "cresco", "evento": "coste", "usd": 0.1787, "modelo": "gemini-3.8-flash", "entrada": 31848, "salida": 41282, "busquedas": 7}
+{"t": "2026-11-10T14:32:50", "sitio": "cresco", "evento": "edicion", "slug": "por-que-mi-negocio-no-aparece-en-google-maps", "intento": 1, "nota_min": 9, "problemas": 2}
+{"t": "2026-11-10T14:34:28", "sitio": "cresco", "evento": "edicion", "slug": "por-que-mi-negocio-no-aparece-en-google-maps", "intento": 2, "nota_min": 10, "problemas": 1}
+{"t": "2026-11-10T14:37:05", "sitio": "cresco", "evento": "edicion", "slug": "por-que-mi-negocio-no-aparece-en-google-maps", "intento": 3, "nota_min": 10, "problemas": 1}
+{"t": "2026-11-10T14:37:05", "sitio": "cresco", "evento": "descartado", "slug": "por-que-mi-negocio-no-aparece-en-google-maps", "motivo": "Calidad insuficiente tras 3 ediciones: ['expresión prohibida: «desbloquear»']"}
+{"t": "2026-11-10T14:40:34", "sitio": "cresco", "evento": "edicion", "slug": "pagina-web-para-fisioterapeutas", "intento": 1, "nota_min": 9, "problemas": 2}
+{"t": "2026-11-10T14:40:36", "sitio": "cresco", "evento": "estatico_publicado", "slug": "pagina-web-para-fisioterapeutas", "archivo": "public/blog/pagina-web-para-fisioterapeutas.html"}
+{"t": "2026-11-10T14:40:36", "sitio": "cresco", "evento": "publicado", "slug": "pagina-web-para-fisioterapeutas", "url": "https://cresco.es/blog/pagina-web-para-fisioterapeutas", "palabras": 1045}
+{"t": "2026-11-10T14:40:36", "sitio": "cresco", "evento": "coste", "usd": 0.327, "modelo": "gemini-3.8-flash", "entrada": 66154, "salida": 73971, "busquedas": 30}

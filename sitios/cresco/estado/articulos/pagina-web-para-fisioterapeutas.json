@@ -1,0 +1,185 @@
+{
+  "articulo": {
+    "titulo": "Página web para fisioterapeutas: cómo captar pacientes locales",
+    "titulo_seo": "Página web para fisioterapeutas que atrae pacientes",
+    "meta_description": "Cómo crear una página web para fisioterapeutas que consiga pacientes: estructura por dolencias, contacto sin fricción y visibilidad en Google Maps.",
+    "resumen": "Qué necesita la web de una clínica de fisioterapia para convertir búsquedas locales en citas en agenda, desde la estructura por patologías hasta el contacto directo.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>Una página web para fisioterapeutas debe estar orientada a la conversión inmediata desde el teléfono móvil</strong>: páginas específicas por dolencia o tratamiento (lumbalgia, suelo pélvico, lesiones deportivas), un canal directo de contacto sin registros y una sincronización cuidada con Google Maps. En la salud local rara vez gana la web con más animaciones, sino la que resuelve la duda de quien tiene dolor en pocos segundos y le facilita pedir cita al momento."
+      },
+      {
+        "tipo": "p",
+        "texto": "Son las diez de la noche de un martes. Un corredor aficionado nota un pinchazo en el gemelo o una oficinista no aguanta el dolor cervical tras ocho horas frente al monitor. Ninguno de los dos busca en Google nombres de máquinas ni técnicas universitarias. Buscan una solución rápida en su barrio antes de que el dolor vaya a más."
+      },
+      {
+        "tipo": "h2",
+        "texto": "El error del catálogo técnico frente a lo que busca el paciente"
+      },
+      {
+        "tipo": "p",
+        "texto": "Muchas webs de clínicas de fisioterapia cometen el mismo fallo: parecen la memoria académica de un congreso. Dedican apartados enteros a explicar la punción seca, la neuromodulación percutánea o la diatermia por radiofrecuencia. El problema es que el paciente de a pie rara vez teclea esos términos."
+      },
+      {
+        "tipo": "p",
+        "texto": "Quien tiene molestias busca por síntoma o patología: «tratamiento dolor lumbar en [ciudad]», «fisio suelo pélvico posparto» o «recuperación esguince tobillo». A nuestro juicio, las búsquedas locales que combinan dolencia y zona suelen tener una intención de consulta mucho más alta que las genéricas. Si una persona busca una solución para su dolor y tu web agrupa todo en una sola pestaña llamada «Servicios» con una lista de nombres técnicos, a Google le cuesta saber para qué búsquedas mostrarte y quien lee suele marcharse a otra clínica que hable su mismo idioma."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Cómo estructurar una página web para fisioterapeutas"
+      },
+      {
+        "tipo": "p",
+        "texto": "Para que la web ayude a llenar la agenda, la arquitectura de contenidos debe responder a problemas concretos. En lugar de un listado plano, conviene organizar el sitio en tres niveles:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Páginas específicas por dolencia o especialidad: una URL para fisioterapia deportiva, otra para suelo pélvico, otra para dolor de espalda y otra para rehabilitación.\nExplicación clara de la primera sesión: qué hacéis en la valoración inicial, cuánto dura y cómo se plantea el tratamiento.\nEquipo con nombre, foto y número de colegiado: en salud, la confianza empieza por saber en manos de quién te pones."
+      },
+      {
+        "tipo": "p",
+        "texto": "En cada página de dolencia, el contenido debe ir al grano: qué síntomas tratas, qué objetivos se buscan en consulta y un botón visible para pedir valoración. Sin rodeos ni jerga médica innecesaria."
+      },
+      {
+        "tipo": "h2",
+        "texto": "WhatsApp frente a calendarios de reserva complejos"
+      },
+      {
+        "tipo": "p",
+        "texto": "Hay quien piensa que una clínica necesita obligatoriamente un software de reservas online con cuenta de usuario y selección de gabinete. Para un hospital o un centro con veinte fisioterapeutas puede tener sentido, pero en consultas pequeñas y medianas suele crear una barrera innecesaria."
+      },
+      {
+        "tipo": "p",
+        "texto": "Pedirle a una persona que apenas puede sentarse por un ataque de ciática que cree un usuario, confirme un correo y navegue por un calendario interactivo en la pantalla del móvil provoca abandonos. En cambio, <a href=\"https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local\">un botón de WhatsApp bien integrado</a> permite escribir directamente: «Hola, me duele la zona lumbar desde ayer, ¿tenéis hueco disponible hoy o mañana?». Quien atiende la recepción o el propio profesional en un descanso puede responder y cerrar la cita en dos minutos."
+      },
+      {
+        "tipo": "h2",
+        "texto": "El triángulo local: web, Google Maps y datos coherentes"
+      },
+      {
+        "tipo": "p",
+        "texto": "En fisioterapia, la cercanía manda: casi nadie cruza la ciudad con dolor de espalda si tiene un profesional cualificado a diez minutos a pie. Por eso, la web tiene que trabajar alineada con la ficha de Google Business Profile."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si quieres competir por los primeros puestos en el mapa cuando alguien busca fisioterapia en tu entorno, conviene cuidar lo que en posicionamiento local se conoce como consistencia NAP (Nombre, Dirección y Teléfono). Estos datos deben figurar exactamente iguales en el pie de página de la web, en Google Maps y en los directorios colegiales. Una variación en la dirección o un teléfono distinto confunde al buscador."
+      },
+      {
+        "tipo": "p",
+        "texto": "Por otra parte, cuando alguien pregunta a un asistente de inteligencia artificial como ChatGPT o Perplexity por fisioterapeutas en su barrio, estos sistemas consultan fuentes públicas estructuradas. Añadir el marcado de datos estructurados de centro sanitario (MedicalBusiness) y redactar con claridad qué tratáis y en qué zona estáis ayuda a que estos motores entiendan vuestra actividad sin confusiones."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Requisitos legales y normativos para clínicas en España"
+      },
+      {
+        "tipo": "p",
+        "texto": "La fisioterapia es una profesión sanitaria titulada y su presencia online está sujeta a normativas concretas, como el Real Decreto 1907/1996 sobre publicidad con finalidad sanitaria. Omitir estos datos acarrea riesgo de sanciones y resta credibilidad ante pacientes y buscadores."
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Elemento legal | Dónde debe aparecer | Por qué es obligatorio\nNúmero de colegiado | Cabecera, sección sobre nosotros y aviso legal | Obligación estatutaria del Colegio Oficial de Fisioterapeutas.\nCódigo de Registro Sanitario | Pie de página visible en toda la web | Acredita la autorización administrativa de la clínica (REGCESS autonómico).\nPolítica de privacidad adaptada | Formularios de cita y aviso de cookies | Los datos de salud exigen consentimiento explícito bajo el RGPD."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Evitar ataduras técnicas y presupuestos desorbitados"
+      },
+      {
+        "tipo": "p",
+        "texto": "Muchos profesionales terminan pagando presupuestos de entre 1.500 y 3.000 euros a agencias que entregan una web difícil de mantener. Cuando el fisioterapeuta necesita cambiar el horario de verano o incorporar a alguien al equipo, la agencia cobra por cada modificación o tarda días en contestar."
+      },
+      {
+        "tipo": "p",
+        "texto": "Antes de contratar, conviene revisar <a href=\"https://cresco.es/blog/cuanto-cuesta-pagina-web-negocio-local\">cuánto cuesta una página web para un negocio local</a> y valorar opciones de <a href=\"https://cresco.es/blog/pagina-web-sin-permanencia\">diseño web sin permanencia</a>. El dominio debe estar siempre a tu nombre y las actualizaciones habituales no deberían suponer una sorpresa en la cuenta a final de mes."
+      },
+      {
+        "tipo": "p",
+        "texto": "En Cresco nos encargamos de todo el proceso con nuestro Plan Cresco Web por 69,90 € al mes + IVA: diseñamos la web a medida para tu clínica adaptada a móvil, redactamos los textos pensando en las dolencias de tus pacientes, optimizamos la ficha de Google Business e incluimos hosting, dominio y cambios de contenido cada mes. Sin permanencia: si decides cancelar al final del mes en curso, el dominio es tuyo y se te transfiere. Para que valores el trabajo sin compromiso, preparamos la portada de tu clínica gratis en 72 horas antes de que tomes ninguna decisión."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Se pueden incluir opiniones de pacientes en la web de la clínica?",
+        "a": "En España, el Real Decreto 1907/1996 prohíbe utilizar testimonios de pacientes para promocionar servicios sanitarios. Aunque las personas pueden publicar reseñas por iniciativa propia en Google Maps, copiarlas en la web como reclamo publicitario puede vulnerar la normativa de publicidad sanitaria y los códigos deontológicos de la profesión."
+      },
+      {
+        "q": "¿Es legal publicar los precios de las sesiones en la web?",
+        "a": "Sí. Es completamente legal y además aporta transparencia mostrar las tarifas de consulta o de los bonos, siempre que sean precios finales y claros. Ayuda a que el paciente conozca las condiciones antes de escribir y ahorra tiempo de consultas básicas en recepción."
+      }
+    ],
+    "tags": [
+      "Diseño web local",
+      "SEO local",
+      "Negocios locales"
+    ],
+    "foto": "innovadental.jpg",
+    "alt_foto": "Captura de la web de Innovadental diseñada por Cresco para el sector sanitario"
+  },
+  "brief": {
+    "intencion": "Comercial / Transaccional: el fisioterapeuta o dueño de clínica busca saber qué debe incluir su página web para captar pacientes en su localidad y decidir si contratar un servicio de diseño web profesional.",
+    "respuesta_directa": "Una web para fisioterapeutas debe estar orientada a la conversión inmediata desde el móvil: páginas específicas por dolencia o tratamiento (lumbalgia, suelo pélvico, deportiva), botón flotante de WhatsApp para agendar sin fricción y una sincronización impecable con Google Maps. En el sector sanitario local no gana la web con más efectos visuales, sino la que resuelve la duda del paciente con dolor en menos de 5 segundos y le permite pedir cita al instante.",
+    "que_cubren_los_top": [
+      "Listados genéricos de secciones imprescindibles (Inicio, Quiénes Somos, Tratamientos, Contacto).",
+      "Importancia del diseño responsive para móviles y velocidad de carga rápida.",
+      "Mención superficial al SEO local y a la ficha de Google Business Profile (Google Maps).",
+      "Sistemas de reserva online automatizados o motores de citas tipo Doctoralia.",
+      "Necesidad de transmitir confianza médica y profesionalidad con fotos de las instalaciones."
+    ],
+    "huecos": [
+      "Arquitectura por dolor vs. técnica: casi nadie explica que el paciente no busca 'punción seca' o 'neuromodulación', sino 'dolor lumbar', 'ciática' o 'esguince de tobillo en [ciudad]'.",
+      "Fricción de las plataformas de cita compleja: obligar a un paciente dolorido a registrarse en un software sanitario frente a la altísima conversión del clic directo a WhatsApp con mensaje preconfigurado.",
+      "El peligro de las ataduras técnicas y permanencias: agencias que cobran 1.500 € o cuotas cautivas sin entregar las llaves del dominio o cobrando por cada mínimo cambio de horario/equipo.",
+      "Optimización GEO (motores de IA como ChatGPT o Perplexity): cómo estructurar los datos del centro sanitario para ser recomendado cuando alguien pregunta a un asistente de IA por fisioterapeutas en su barrio.",
+      "Cumplimiento sanitario y deontológico práctico en España: número de colegiado visible, autorización de centro sanitario y RGPD para datos de salud sin asustar al visitante."
+    ],
+    "preguntas_reales": [
+      "¿Cuánto cuesta hacer una página web para una clínica de fisioterapia en España?",
+      "¿Es mejor poner reserva de citas online o un botón directo a WhatsApp?",
+      "¿Qué apartados y textos debe tener la web para cumplir con el colegio de fisioterapeutas?",
+      "¿Cómo conseguir que mi clínica aparezca la primera en Google Maps?",
+      "¿Realmente necesito una página por cada tratamiento o basta con una lista en la página de inicio?",
+      "¿Por qué mi web actual no me genera llamadas ni pacientes nuevos?"
+    ],
+    "estructura": [
+      "Por qué la mayoría de webs de fisioterapia parecen folletos clínicos (y no llenan la agenda)",
+      "La arquitectura que convierte: cómo busca un paciente con dolor en Google",
+      "Páginas por patología y especialidad: el secreto para rankear en tu ciudad",
+      "WhatsApp vs. software de citas: cómo reducir la fricción para cerrar consultas",
+      "El triángulo del SEO local: tu web, Google Maps y la consistencia NAP",
+      "Requisitos legales y de confianza que no pueden faltar (colegiación y RGPD)",
+      "Webs de fisioterapia sin permanencia ni ataduras técnicas: cómo tenerla lista sin arruinarte"
+    ],
+    "palabras_objetivo": 1850,
+    "entidades": [
+      "Google Business Profile",
+      "Consistencia NAP (Name, Address, Phone)",
+      "Schema MedicalBusiness",
+      "Colegio Oficial de Fisioterapeutas",
+      "Número de Registro Sanitario (C3 / REGCESS)",
+      "RGPD (Reglamento General de Protección de Datos)",
+      "Core Web Vitals",
+      "Fisioterapia deportiva",
+      "Suelo pélvico",
+      "Punción seca",
+      "Tratamiento de lumbalgia",
+      "GEO (Generative Engine Optimization)",
+      "Pack Local de Google Maps"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://serenna.es/blog/seo-para-fisioterapeutas",
+        "dato": "En clínicas de fisioterapia en España, el Nivel 4 de búsqueda local ('dolencia + zona', como 'fisio lumbalgia [ciudad]') tiene la mayor tasa de conversión transaccional y el SEO local supera el retorno de plataformas médicas a partir del sexto mes."
+      },
+      {
+        "url": "https://meprestamarketing.es/seo-local-clinicas/",
+        "dato": "En centros sanitarios y de fisioterapia, Google aplica criterios de calidad estrictos al ser sector salud (YMYL), exigiendo número de colegiado, identificación del profesional y coherencia entre la ficha de Google Business Profile y las URLs de tratamientos."
+      },
+      {
+        "url": "https://rexdigital.es/seo-clinicas/",
+        "dato": "La fisioterapia es la disciplina sanitaria donde el factor de proximidad ('cerca de mí' / barrio) tiene mayor peso de decisión móvil, subordinada a la normativa de publicidad sanitaria regulada por el RD 1907/1996."
+      }
+    ]
+  },
+  "html": "<p><strong>Una página web para fisioterapeutas debe estar orientada a la conversión inmediata desde el teléfono móvil</strong>: páginas específicas por dolencia o tratamiento (lumbalgia, suelo pélvico, lesiones deportivas), un canal directo de contacto sin registros y una sincronización cuidada con Google Maps. En la salud local rara vez gana la web con más animaciones, sino la que resuelve la duda de quien tiene dolor en pocos segundos y le facilita pedir cita al momento.</p>\n<p>Son las diez de la noche de un martes. Un corredor aficionado nota un pinchazo en el gemelo o una oficinista no aguanta el dolor cervical tras ocho horas frente al monitor. Ninguno de los dos busca en Google nombres de máquinas ni técnicas universitarias. Buscan una solución rápida en su barrio antes de que el dolor vaya a más.</p>\n<h2>El error del catálogo técnico frente a lo que busca el paciente</h2>\n<p>Muchas webs de clínicas de fisioterapia cometen el mismo fallo: parecen la memoria académica de un congreso. Dedican apartados enteros a explicar la punción seca, la neuromodulación percutánea o la diatermia por radiofrecuencia. El problema es que el paciente de a pie rara vez teclea esos términos.</p>\n<p>Quien tiene molestias busca por síntoma o patología: «tratamiento dolor lumbar en [ciudad]», «fisio suelo pélvico posparto» o «recuperación esguince tobillo». A nuestro juicio, las búsquedas locales que combinan dolencia y zona suelen tener una intención de consulta mucho más alta que las genéricas. Si una persona busca una solución para su dolor y tu web agrupa todo en una sola pestaña llamada «Servicios» con una lista de nombres técnicos, a Google le cuesta saber para qué búsquedas mostrarte y quien lee suele marcharse a otra clínica que hable su mismo idioma.</p>\n<h2>Cómo estructurar una página web para fisioterapeutas</h2>\n<p>Para que la web ayude a llenar la agenda, la arquitectura de contenidos debe responder a problemas concretos. En lugar de un listado plano, conviene organizar el sitio en tres niveles:</p>\n<ul><li>Páginas específicas por dolencia o especialidad: una URL para fisioterapia deportiva, otra para suelo pélvico, otra para dolor de espalda y otra para rehabilitación.</li><li>Explicación clara de la primera sesión: qué hacéis en la valoración inicial, cuánto dura y cómo se plantea el tratamiento.</li><li>Equipo con nombre, foto y número de colegiado: en salud, la confianza empieza por saber en manos de quién te pones.</li></ul>\n<p>En cada página de dolencia, el contenido debe ir al grano: qué síntomas tratas, qué objetivos se buscan en consulta y un botón visible para pedir valoración. Sin rodeos ni jerga médica innecesaria.</p>\n<h2>WhatsApp frente a calendarios de reserva complejos</h2>\n<p>Hay quien piensa que una clínica necesita obligatoriamente un software de reservas online con cuenta de usuario y selección de gabinete. Para un hospital o un centro con veinte fisioterapeutas puede tener sentido, pero en consultas pequeñas y medianas suele crear una barrera innecesaria.</p>\n<p>Pedirle a una persona que apenas puede sentarse por un ataque de ciática que cree un usuario, confirme un correo y navegue por un calendario interactivo en la pantalla del móvil provoca abandonos. En cambio, <a href=\"https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local\">un botón de WhatsApp bien integrado</a> permite escribir directamente: «Hola, me duele la zona lumbar desde ayer, ¿tenéis hueco disponible hoy o mañana?». Quien atiende la recepción o el propio profesional en un descanso puede responder y cerrar la cita en dos minutos.</p>\n<h2>El triángulo local: web, Google Maps y datos coherentes</h2>\n<p>En fisioterapia, la cercanía manda: casi nadie cruza la ciudad con dolor de espalda si tiene un profesional cualificado a diez minutos a pie. Por eso, la web tiene que trabajar alineada con la ficha de Google Business Profile.</p>\n<p>Si quieres competir por los primeros puestos en el mapa cuando alguien busca fisioterapia en tu entorno, conviene cuidar lo que en posicionamiento local se conoce como consistencia NAP (Nombre, Dirección y Teléfono). Estos datos deben figurar exactamente iguales en el pie de página de la web, en Google Maps y en los directorios colegiales. Una variación en la dirección o un teléfono distinto confunde al buscador.</p>\n<p>Por otra parte, cuando alguien pregunta a un asistente de inteligencia artificial como ChatGPT o Perplexity por fisioterapeutas en su barrio, estos sistemas consultan fuentes públicas estructuradas. Añadir el marcado de datos estructurados de centro sanitario (MedicalBusiness) y redactar con claridad qué tratáis y en qué zona estáis ayuda a que estos motores entiendan vuestra actividad sin confusiones.</p>\n<h2>Requisitos legales y normativos para clínicas en España</h2>\n<p>La fisioterapia es una profesión sanitaria titulada y su presencia online está sujeta a normativas concretas, como el Real Decreto 1907/1996 sobre publicidad con finalidad sanitaria. Omitir estos datos acarrea riesgo de sanciones y resta credibilidad ante pacientes y buscadores.</p>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Elemento legal</th><th>Dónde debe aparecer</th><th>Por qué es obligatorio</th></tr></thead><tbody><tr><td>Número de colegiado</td><td>Cabecera, sección sobre nosotros y aviso legal</td><td>Obligación estatutaria del Colegio Oficial de Fisioterapeutas.</td></tr><tr><td>Código de Registro Sanitario</td><td>Pie de página visible en toda la web</td><td>Acredita la autorización administrativa de la clínica (REGCESS autonómico).</td></tr><tr><td>Política de privacidad adaptada</td><td>Formularios de cita y aviso de cookies</td><td>Los datos de salud exigen consentimiento explícito bajo el RGPD.</td></tr></tbody></table></div>\n<h2>Evitar ataduras técnicas y presupuestos desorbitados</h2>\n<p>Muchos profesionales terminan pagando presupuestos de entre 1.500 y 3.000 euros a agencias que entregan una web difícil de mantener. Cuando el fisioterapeuta necesita cambiar el horario de verano o incorporar a alguien al equipo, la agencia cobra por cada modificación o tarda días en contestar.</p>\n<p>Antes de contratar, conviene revisar <a href=\"https://cresco.es/blog/cuanto-cuesta-pagina-web-negocio-local\">cuánto cuesta una página web para un negocio local</a> y valorar opciones de <a href=\"https://cresco.es/blog/pagina-web-sin-permanencia\">diseño web sin permanencia</a>. El dominio debe estar siempre a tu nombre y las actualizaciones habituales no deberían suponer una sorpresa en la cuenta a final de mes.</p>\n<p>En Cresco nos encargamos de todo el proceso con nuestro Plan Cresco Web por 69,90 € al mes + IVA: diseñamos la web a medida para tu clínica adaptada a móvil, redactamos los textos pensando en las dolencias de tus pacientes, optimizamos la ficha de Google Business e incluimos hosting, dominio y cambios de contenido cada mes. Sin permanencia: si decides cancelar al final del mes en curso, el dominio es tuyo y se te transfiere. Para que valores el trabajo sin compromiso, preparamos la portada de tu clínica gratis en 72 horas antes de que tomes ninguna decisión.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Se pueden incluir opiniones de pacientes en la web de la clínica?</h3><p>En España, el Real Decreto 1907/1996 prohíbe utilizar testimonios de pacientes para promocionar servicios sanitarios. Aunque las personas pueden publicar reseñas por iniciativa propia en Google Maps, copiarlas en la web como reclamo publicitario puede vulnerar la normativa de publicidad sanitaria y los códigos deontológicos de la profesión.</p>\n<h3>¿Es legal publicar los precios de las sesiones en la web?</h3><p>Sí. Es completamente legal y además aporta transparencia mostrar las tarifas de consulta o de los bonos, siempre que sean precios finales y claros. Ayuda a que el paciente conozca las condiciones antes de escribir y ahorra tiempo de consultas básicas en recepción.</p>"
+}

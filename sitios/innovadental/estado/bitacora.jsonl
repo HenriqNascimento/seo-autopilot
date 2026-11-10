@@ -49,3 +49,6 @@
 {"t": "2026-11-07T12:41:21", "sitio": "innovadental", "evento": "coste", "usd": 0.1198, "modelo": "gemini-3.8-flash", "entrada": 29505, "salida": 26046, "busquedas": 11}
 {"t": "2026-11-08T12:55:36", "sitio": "innovadental", "evento": "aprendizaje", "clusters": 6, "hipotesis": 0, "frecuencia_recomendada": 3}
 {"t": "2026-11-08T12:55:36", "sitio": "innovadental", "evento": "coste", "usd": 0.0043, "modelo": "gemini-3.8-flash", "entrada": 3121, "salida": 534, "busquedas": 0}
+{"t": "2026-11-10T15:00:06", "sitio": "innovadental", "evento": "edicion", "slug": "escaner-intraoral-errores-escaneado-protesis-fija", "intento": 1, "nota_min": 10, "problemas": 0}
+{"t": "2026-11-10T15:00:10", "sitio": "innovadental", "evento": "publicado", "slug": "escaner-intraoral-errores-escaneado-protesis-fija", "url": "https://innovadental.net/es/blog/escaner-intraoral-errores-escaneado-protesis-fija", "palabras": 1331}
+{"t": "2026-11-10T15:00:10", "sitio": "innovadental", "evento": "coste", "usd": 0.1261, "modelo": "gemini-3.8-flash", "entrada": 26722, "salida": 28284, "busquedas": 7}

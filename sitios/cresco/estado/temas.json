@@ -29,7 +29,8 @@
     "prioridad": 93,
     "por_que": "Es la búsqueda de socorro más común de comercios y clínicas que crean su perfil de Google pero quedan enterrados en la página 3 o fuera del mapa de los 3 primeros resultados.",
     "enfoque": "Diagnóstico claro de las 5 causas principales: falta de web conectada, discordancia en datos NAP, ausencia de categorías clave y falta de reseñas. Invitar directamente al test gratuito en cresco.es/diagnostico.html.",
-    "estado": "pendiente"
+    "estado": "descartado",
+    "motivo": "Calidad insuficiente tras 3 ediciones: ['expresión prohibida: «desbloquear»']"
   },
   {
     "slug": "pagina-web-para-fisioterapeutas",
@@ -45,7 +46,7 @@
     "prioridad": 92,
     "por_que": "Sector con alta densidad de profesionales independientes con webs desactualizadas o dependientes de plataformas de reservas con comisiones elevadas.",
     "enfoque": "Qué elementos necesita la web de una clínica de fisioterapia para llenar agenda: páginas por patología/tratamiento, reserva por WhatsApp, sincronización con Google Maps y sin ataduras técnicas. CTA directo a solicitar la portada gratis en 72 h.",
-    "estado": "pendiente"
+    "estado": "publicado"
   },
   {
     "slug": "mantenimiento-web-que-incluye-cuanto-cuesta",

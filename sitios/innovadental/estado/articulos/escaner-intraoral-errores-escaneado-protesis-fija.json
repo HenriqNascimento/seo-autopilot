@@ -1,0 +1,209 @@
+{
+  "articulo": {
+    "titulo": "Errores de escaneo intraoral: causas en clínica y ajuste protésico",
+    "titulo_seo": "Errores de escaneo intraoral: causas y solución técnica",
+    "meta_description": "Conoce las causas de los errores de escaneo intraoral y cómo evitarlos en clínica: saliva, colapso de márgenes y distorsión transversal en arcadas.",
+    "resumen": "Análisis técnico de los fallos más comunes al tomar impresiones ópticas: refracción por saliva, colapso tisular y deriva de alineación en arcadas completas.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>Los errores de escaneo intraoral más habituales provienen de tres fuentes:</strong> la refracción de luz por saliva o sangre que genera mallas flotantes y escalones artificiales, el colapso del tejido gingival sobre la línea de terminación por falta de retracción y la acumulación de desviación fotogramétrica (<em>stitching</em>) en arcadas completas. Para evitarlos en clínica, aísla el campo con aspiración continua, expón al menos 0,2 mm de estructura sana apical al margen mediante doble hilo o pasta astringente y sigue una ruta de barrido continuo (oclusal-lingual-vestibular) comprobando el engranaje interoclusal antes de exportar el archivo."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Qué ocurre en el software CAD cuando un archivo llega con defectos"
+      },
+      {
+        "tipo": "p",
+        "texto": "Cuando el escáner intraoral no registra con nitidez una zona porque había fluido o encía invadiendo el tallado, los programas de diseño no suelen dejar un agujero en la malla: aplican un algoritmo de interpolación. Unen vértices entre los puntos más cercanos registrados para cerrar la superficie de forma automática."
+      },
+      {
+        "tipo": "p",
+        "texto": "Esa interpolación inventa geometría. En una fosa oclusal el impacto puede ser menor, pero en una línea de terminación genera escalones ficticios de 40 a 80 micras. Al diseñar la corona, el margen se adapta a una forma que no existe en el diente preparado. La consecuencia en boca es la falta de sellado marginal, el empaquetamiento de comida o restauraciones que basculan. En el laboratorio siempre pedimos recibir la arcada completa con un margen generoso de mucosa, evitar saliva y reflejos —porque el brillo se interpreta como geometría— y avisar de muñones oscuros o márgenes subgingivales antes de procesar el <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital entre clínica y laboratorio</a>."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Saliva y fluido crevicular: refracción óptica y mallas flotantes"
+      },
+      {
+        "tipo": "p",
+        "texto": "Los escáneres intraorales funcionan mediante triangulación óptica o microscopía confocal. La luz proyectada, ya sea láser o LED estructurado, necesita rebotar en una superficie sólida con reflexión difusa. La saliva y la sangre tienen un índice de refracción diferente al del esmalte y producen destellos especulares."
+      },
+      {
+        "tipo": "p",
+        "texto": "El sensor óptico interpreta ese brillo como volumen anatómico sólido, provocando dos problemas típicos:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Triángulos flotantes o ruido periférico: fragmentos de malla inconexos que quedan suspendidos junto al muñón y alteran el eje de inserción protésico.\nEngrosamiento de caras oclusales: al escanear sobre cúspides anegadas en saliva, el sistema mide el menisco líquido en lugar del esmalte. La restauración resultante quedará inevitablemente alta al articular en boca."
+      },
+      {
+        "tipo": "p",
+        "texto": "Aspirar a fondo con cánula quirúrgica y aplicar aire suave antes del barrido soluciona este contratiempo. No hace falta resecar la dentina, pero el margen no puede presentar líquido estancado."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Márgenes subgingivales: el haz óptico no penetra bajo la encía"
+      },
+      {
+        "tipo": "p",
+        "texto": "Una silicona de adición ejerce presión hidrodinámica y desplaza mecánicamente el surco gingival. La cámara intraoral, en cambio, solo registra lo que está en su línea directa de visión. Si el tejido blando colapsa sobre un chamfer o un hombro biselado, la cámara es incapaz de capturarlo."
+      },
+      {
+        "tipo": "p",
+        "texto": "En preparaciones yuxtagingivales o subgingivales, el manejo de tejidos requiere un método estricto:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Técnica de doble hilo: inserta primero un hilo fino (calibre 000) en el fondo del surco para frenar el fluido crevicular y posibles sangrados. Coloca encima un segundo hilo (calibre 0 o 1) con o sin solución astringente de cloruro de aluminio para conseguir la separación lateral.\nMomento del barrido: retira el segundo hilo justo antes de pasar el escáner y mantén el hilo 000 en el surco. La encía tarda entre 20 y 30 segundos en recolapsar sobre el diente tallado."
+      },
+      {
+        "tipo": "p",
+        "texto": "Un archivo STL tradicional solo almacena una malla geométrica monocroma. Con márgenes equigingivales, delimitar dónde acaba la preparación y dónde empieza el epitelio en una superficie gris homogénea resulta comprometido. Siempre que el sistema lo permita, exporta en formato PLY u OBJ. La textura en color real nos ayuda en el laboratorio a distinguir nítidamente el tono del epitelio del de la dentina tallada, marcando una clara diferencia respecto a la <a href=\"https://innovadental.net/es/blog/impresion-digital-vs-convencional-que-cambia-en-el-laboratorio\">impresión digital frente a la convencional</a>."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Cómo evitar errores de escaneo intraoral en arcada completa"
+      },
+      {
+        "tipo": "p",
+        "texto": "El escáner no toma una instantánea única de la boca. Dispara decenas de tomas tridimensionales individuales por segundo y el software las va uniendo por coincidencia anatómica, en un proceso conocido como <em>stitching</em>."
+      },
+      {
+        "tipo": "p",
+        "texto": "En preparaciones unitarias o cuadrantes, la precisión es excelente. La complicación técnica surge en arcadas completas. Al cruzar el sector anterior de canino a canino o al recorrer vanos edéntulos sin referencias morfológicas marcadas, los pequeños desajustes angulares de cada fotograma se acumulan. Esta deriva transversal (<em>full-arch drift</em>) deforma la distancia intermolar en el modelo virtual."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si el barrido se realiza saltando de un cuadrante a otro sin continuidad, la estructura no tendrá ajuste pasivo en boca, aunque el visor del escáner marque el modelo completo en verde. En nuestro laboratorio, cuando abordamos rehabilitaciones sobre más de cuatro implantes, enviamos el caso a un escáner industrial táctil para garantizar la pasividad micrométrica de la estructura."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para minimizar este error acumulativo en dentición natural, mantén una trayectoria de barrido continua: avanza por las caras oclusales desde el molar de inicio hasta el molar contralateral sin separar la punta, gira 45 grados hacia lingual o palatino en el regreso y remata por vestibular. En tramos edéntulos amplios, apóyate en las rugas palatinas como punto de anclaje geométrico."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Errores en el registro interoclusal y articulación digital"
+      },
+      {
+        "tipo": "p",
+        "texto": "Una corona con un ajuste marginal perfecto fracasa si la relación intermaxilar digital está falseada. Los fallos más comunes al tomar el registro oclusal lateral son:"
+      },
+      {
+        "tipo": "p",
+        "texto": "La mordida con presión desmedida deforma la mandíbula por flexión fisiológica y comprime el ligamento periodontal. En la pantalla aparece menos espacio interoclusal del real, por lo que la corona diseñada con materiales como el <a href=\"https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales\">disilicato de litio</a> saldrá en sobreoclusión durante la masticación habitual del paciente."
+      },
+      {
+        "tipo": "p",
+        "texto": "La interposición de tejidos blandos ocurre cuando la cámara captura mucosa del carrillo o del labio durante el registro vestibular. El algoritmo de alineación intenta hacer coincidir esa masa móvil en lugar de las facetas de esmalte, provocando una rotación artificial entre ambos modelos."
+      },
+      {
+        "tipo": "p",
+        "texto": "El registro unilateral en arcada completa induce básculas en el plano de oclusión virtual. En cualquier rehabilitación posterior o de arcada completa, captura siempre ambos lados a la altura de premolares y molares."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Tabla de resolución de problemas en impresiones ópticas"
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Problema en boca | Causa en el escaneado | Solución clínica en gabinete\nCorona alta en oclusión | Saliva en fosas oclusales o mordida forzada | Secar caras oclusales y registrar oclusión en céntrica relajada\nEscalón o falta de sellado marginal | Colapso gingival con interpolación de malla | Doble hilo (000 y 0), exponer 0,2 mm de diente y exportar en PLY\nBáscula en puente de tramo largo | Deriva por stitching tras barrido desordenado | Seguir ruta continua oclusal-lingual-vestibular sin interrupciones\nPuntos de contacto abiertos o sobreajustados | Tronera interproximal sombreada sin capturar | Inclinar la punta 45° a mesial y distal para cerrar la tronera vecina\nModelos virtuales desalineados | Carrillo o mucosa atrapada en el registro de mordida | Separar tejidos con espejo y registrar canino-premolar con nitidez"
+      },
+      {
+        "tipo": "h2",
+        "texto": "Checklist de Innovadental antes de exportar el caso"
+      },
+      {
+        "tipo": "ol",
+        "texto": "Desactivar el color en pantalla: inspecciona la preparación en malla gris para confirmar que el margen no presenta zonas difusas ni interpoladas.\nRecortar tejidos móviles: elimina lengüetas de carrillo, lengua o guante antes de cerrar el archivo definitivo.\nVerificar caras proximales vecinas: comprueba que las superficies de contacto adyacentes estén registradas por debajo del ecuador anatómico.\nRevisar el mapa de espacio oclusal: confirma que la preparación cuenta con el espesor mínimo que exige el material restaurador prescrito.\nInspeccionar el engranaje desde la cara lingual: gira los modelos articulados para corroborar que las cúspides ocluyen tal como viste en boca.\nExportar con textura en color (PLY u OBJ): facilita al protésico la delimitación exacta entre esmalte, muñón y encía marginal."
+      },
+      {
+        "tipo": "p",
+        "texto": "Ayudándonos mutuamente, planificar es más fácil y el resultado, más predecible. Si tienes dudas técnicas con algún archivo o con la preparación de un caso, llámanos al 981 65 20 66 o <a href=\"https://innovadental.net/es/contacte-innovadental\">contacta con nosotros</a>."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Por qué el software del escáner dio por bueno el escaneo si luego el laboratorio avisa de que el margen no es válido?",
+        "a": "El mapa verde del escáner solo verifica que la malla geométrica esté cerrada sin agujeros, no que la superficie registrada sea diente sano. Si había saliva o encía montada sobre el tallado, el software interpola y cierra el volumen con una superficie inventada que en clínica se traduce en falta de ajuste."
+      },
+      {
+        "q": "¿Afecta la lámpara del sillón dental a la toma de impresión óptica?",
+        "a": "Sí. La iluminación directa con focos LED o halógenos de alta intensidad satura los sensores ópticos de la cámara intraoral. Provoca destellos y pérdida de seguimiento de la punta. Conviene apartar la luz directa del sillón mientras se realiza el barrido."
+      },
+      {
+        "q": "¿Es necesario escanear la arcada completa si la corona es unitaria?",
+        "a": "Técnicamente un cuadrante permite diseñar una unitaria, pero en el laboratorio pedimos la arcada completa. Tener la arcada entera aporta estabilidad al articular contra el antagonista y permite diseñar las guías anteriores y de desoclusión con referencias anatómicas reales."
+      }
+    ],
+    "tags": [
+      "Escaneo intraoral",
+      "Flujo digital",
+      "Prótesis fija",
+      "CAD/CAM dental"
+    ],
+    "foto": "lab-corona-molar-ajuste-contactos.jpg",
+    "alt_foto": "Comprobación de contactos y oclusión en corona molar tras escaneo intraoral"
+  },
+  "brief": {
+    "intencion": "Informativa y transaccional B2B: odontólogos y clínicas dentales buscan identificar por qué fallan sus impresiones ópticas (desajuste marginal, puntos de contacto abiertos, discrepancias oclusales o báscula en arcada completa) y conocer las pautas clínicas exactas para enviar archivos STL o PLY limpios y sin distorsión al laboratorio de prótesis.",
+    "respuesta_directa": "Los fallos en el escaneo intraoral provienen de tres fuentes: la refracción de luz por saliva o sangre que genera artefactos y mallas flotantes (triángulos falsos), el colapso del tejido gingival sobre la línea de terminación por falta de retracción mecánica o química, y la acumulación de error de alineación fotogramétrica (*stitching*) a lo largo de arcadas completas. Para solucionarlo, se debe aislar el campo rigurosamente, exponer 0,2 mm de estructura sana apical al margen mediante técnica de doble hilo o pasta astringente, y seguir una estrategia de barrido continuo (oclusal-lingual-vestibular) verificando el registro de mordida antes de exportar el archivo.",
+    "que_cubren_los_top": [
+      "Diferencias de precisión entre modelos seccionales (cuadrantes) y arcada completa.",
+      "El impacto del exceso de saliva y reflejos ópticos en la captura del sensor.",
+      "La necesidad del hilo retractor para visibilizar la línea de terminación.",
+      "La importancia de calibrar el escáner y seguir la ruta de barrido recomendada por cada fabricante.",
+      "Checklist básico antes de exportar los archivos STL/PLY al laboratorio."
+    ],
+    "huecos": [
+      "Explicación técnica desde la perspectiva de CAD/CAM en laboratorio: cómo el software (Exocad/3Shape) interpreta la saliva rellenando huecos mediante 'interpolación matemática' y creando escalones irreales de micras en el margen.",
+      "La física del 'stitching drift': por qué en tramos edéntulos largos o en el paso cruzado de canino a canino el algoritmo pierde referencias geométricas y deforma la distancia intermolar (hasta 100 µm de desviación).",
+      "Protocolo clínico específico para márgenes yuxta y subgingivales: técnica de doble hilo (000 + 0) y el momento exacto del escaneo tras retirar el segundo hilo.",
+      "Diferencia entre formatos de exportación (STL monocromo vs. PLY/OBJ con textura de color) para discriminar epitelio de esmalte en preparaciones subgingivales.",
+      "Errores en el registro de mordida interoclusal: deformación mandibular al morder y escaneo de carrillos que falsea el engranaje de modelos."
+    ],
+    "preguntas_reales": [
+      "¿Por qué la corona bascula o no asienta si el escáner marcaba todo en verde?",
+      "¿Cómo evitar que la saliva genere triángulos flotantes o cierre márgenes en el STL?",
+      "¿Por qué se distorsiona la mordida o el ajuste pasivo en una arcada completa escaneada?",
+      "¿Cuándo es necesario usar hilo retractor en escaneo digital si antes no lo usaba con silicona?",
+      "¿Qué formato de archivo es mejor enviar al laboratorio: STL, PLY u OBJ?"
+    ],
+    "estructura": [
+      "Qué ocurre en el laboratorio cuando un STL llega con errores: la perspectiva protésica",
+      "El efecto de la saliva y el fluido crevicular: refracción de luz y mallas interpoladas",
+      "Márgenes subgingivales y yuxtagingivales: por qué el escáner no 'adivina' bajo la encía",
+      "Distorsión por 'stitching' en arcada completa: la física detrás de la pérdida de ajuste pasivo",
+      "Errores en el registro interoclusal (Bite Scan): fallos de engranaje y presión mandibular",
+      "Checklist clínico de Innovadental: protocolo de 6 pasos antes de exportar tu archivo STL/PLY"
+    ],
+    "palabras_objetivo": 1850,
+    "entidades": [
+      "Stitching (alineación de fotogramas)",
+      "Malla poligonal STL / Archivo PLY",
+      "Interpolación algorítmica de superficies",
+      "Exocad DentalCAD / 3Shape Dental System",
+      "Hilo retractor (técnica de doble hilo 000 y 0)",
+      "Pasta de retracción con cloruro de aluminio",
+      "Margen de preparación (chamfer, hombro, filo de cuchillo)",
+      "Scan body / Transfer digital",
+      "Distorsión intermolar (Full-arch drift)",
+      "Registro interoclusal bucal (Bite registration)"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32997230/",
+        "dato": "En comparación con escaneos de cuadrante (0,05-0,06 mm de desviación), los escaneos de arcada completa acumulan desviaciones de hasta 0,09-0,10 mm debido al error acumulativo de stitching en molares posteriores."
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25027580/",
+        "dato": "En arcada completa con múltiples pilares tallados, la veracidad (trueness) media entre escáneres intraorales oscila ampliamente de 38 a más de 300 µm según el sistema óptico y el recorrido."
+      },
+      {
+        "url": "https://associateddl.com/spot-prevent-intraoral-scan-stitching-errors/",
+        "dato": "El micro-stitching drift genera duplicidad anatómica ('ghost edges'), escalones artificiales en crestas marginales y contactos oclusales desvirtuados al encajar modelos."
+      }
+    ]
+  },
+  "html": "<p><strong>Los errores de escaneo intraoral más habituales provienen de tres fuentes:</strong> la refracción de luz por saliva o sangre que genera mallas flotantes y escalones artificiales, el colapso del tejido gingival sobre la línea de terminación por falta de retracción y la acumulación de desviación fotogramétrica (<em>stitching</em>) en arcadas completas. Para evitarlos en clínica, aísla el campo con aspiración continua, expón al menos 0,2 mm de estructura sana apical al margen mediante doble hilo o pasta astringente y sigue una ruta de barrido continuo (oclusal-lingual-vestibular) comprobando el engranaje interoclusal antes de exportar el archivo.</p>\n<h2>Qué ocurre en el software CAD cuando un archivo llega con defectos</h2>\n<p>Cuando el escáner intraoral no registra con nitidez una zona porque había fluido o encía invadiendo el tallado, los programas de diseño no suelen dejar un agujero en la malla: aplican un algoritmo de interpolación. Unen vértices entre los puntos más cercanos registrados para cerrar la superficie de forma automática.</p>\n<p>Esa interpolación inventa geometría. En una fosa oclusal el impacto puede ser menor, pero en una línea de terminación genera escalones ficticios de 40 a 80 micras. Al diseñar la corona, el margen se adapta a una forma que no existe en el diente preparado. La consecuencia en boca es la falta de sellado marginal, el empaquetamiento de comida o restauraciones que basculan. En el laboratorio siempre pedimos recibir la arcada completa con un margen generoso de mucosa, evitar saliva y reflejos —porque el brillo se interpreta como geometría— y avisar de muñones oscuros o márgenes subgingivales antes de procesar el <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital entre clínica y laboratorio</a>.</p>\n<h2>Saliva y fluido crevicular: refracción óptica y mallas flotantes</h2>\n<p>Los escáneres intraorales funcionan mediante triangulación óptica o microscopía confocal. La luz proyectada, ya sea láser o LED estructurado, necesita rebotar en una superficie sólida con reflexión difusa. La saliva y la sangre tienen un índice de refracción diferente al del esmalte y producen destellos especulares.</p>\n<p>El sensor óptico interpreta ese brillo como volumen anatómico sólido, provocando dos problemas típicos:</p>\n<ul><li>Triángulos flotantes o ruido periférico: fragmentos de malla inconexos que quedan suspendidos junto al muñón y alteran el eje de inserción protésico.</li><li>Engrosamiento de caras oclusales: al escanear sobre cúspides anegadas en saliva, el sistema mide el menisco líquido en lugar del esmalte. La restauración resultante quedará inevitablemente alta al articular en boca.</li></ul>\n<p>Aspirar a fondo con cánula quirúrgica y aplicar aire suave antes del barrido soluciona este contratiempo. No hace falta resecar la dentina, pero el margen no puede presentar líquido estancado.</p>\n<h2>Márgenes subgingivales: el haz óptico no penetra bajo la encía</h2>\n<p>Una silicona de adición ejerce presión hidrodinámica y desplaza mecánicamente el surco gingival. La cámara intraoral, en cambio, solo registra lo que está en su línea directa de visión. Si el tejido blando colapsa sobre un chamfer o un hombro biselado, la cámara es incapaz de capturarlo.</p>\n<p>En preparaciones yuxtagingivales o subgingivales, el manejo de tejidos requiere un método estricto:</p>\n<ul><li>Técnica de doble hilo: inserta primero un hilo fino (calibre 000) en el fondo del surco para frenar el fluido crevicular y posibles sangrados. Coloca encima un segundo hilo (calibre 0 o 1) con o sin solución astringente de cloruro de aluminio para conseguir la separación lateral.</li><li>Momento del barrido: retira el segundo hilo justo antes de pasar el escáner y mantén el hilo 000 en el surco. La encía tarda entre 20 y 30 segundos en recolapsar sobre el diente tallado.</li></ul>\n<p>Un archivo STL tradicional solo almacena una malla geométrica monocroma. Con márgenes equigingivales, delimitar dónde acaba la preparación y dónde empieza el epitelio en una superficie gris homogénea resulta comprometido. Siempre que el sistema lo permita, exporta en formato PLY u OBJ. La textura en color real nos ayuda en el laboratorio a distinguir nítidamente el tono del epitelio del de la dentina tallada, marcando una clara diferencia respecto a la <a href=\"https://innovadental.net/es/blog/impresion-digital-vs-convencional-que-cambia-en-el-laboratorio\">impresión digital frente a la convencional</a>.</p>\n<h2>Cómo evitar errores de escaneo intraoral en arcada completa</h2>\n<p>El escáner no toma una instantánea única de la boca. Dispara decenas de tomas tridimensionales individuales por segundo y el software las va uniendo por coincidencia anatómica, en un proceso conocido como <em>stitching</em>.</p>\n<p>En preparaciones unitarias o cuadrantes, la precisión es excelente. La complicación técnica surge en arcadas completas. Al cruzar el sector anterior de canino a canino o al recorrer vanos edéntulos sin referencias morfológicas marcadas, los pequeños desajustes angulares de cada fotograma se acumulan. Esta deriva transversal (<em>full-arch drift</em>) deforma la distancia intermolar en el modelo virtual.</p>\n<p>Si el barrido se realiza saltando de un cuadrante a otro sin continuidad, la estructura no tendrá ajuste pasivo en boca, aunque el visor del escáner marque el modelo completo en verde. En nuestro laboratorio, cuando abordamos rehabilitaciones sobre más de cuatro implantes, enviamos el caso a un escáner industrial táctil para garantizar la pasividad micrométrica de la estructura.</p>\n<p>Para minimizar este error acumulativo en dentición natural, mantén una trayectoria de barrido continua: avanza por las caras oclusales desde el molar de inicio hasta el molar contralateral sin separar la punta, gira 45 grados hacia lingual o palatino en el regreso y remata por vestibular. En tramos edéntulos amplios, apóyate en las rugas palatinas como punto de anclaje geométrico.</p>\n<h2>Errores en el registro interoclusal y articulación digital</h2>\n<p>Una corona con un ajuste marginal perfecto fracasa si la relación intermaxilar digital está falseada. Los fallos más comunes al tomar el registro oclusal lateral son:</p>\n<p>La mordida con presión desmedida deforma la mandíbula por flexión fisiológica y comprime el ligamento periodontal. En la pantalla aparece menos espacio interoclusal del real, por lo que la corona diseñada con materiales como el <a href=\"https://innovadental.net/es/blog/disilicato-de-litio-para-coronas-dentales\">disilicato de litio</a> saldrá en sobreoclusión durante la masticación habitual del paciente.</p>\n<p>La interposición de tejidos blandos ocurre cuando la cámara captura mucosa del carrillo o del labio durante el registro vestibular. El algoritmo de alineación intenta hacer coincidir esa masa móvil en lugar de las facetas de esmalte, provocando una rotación artificial entre ambos modelos.</p>\n<p>El registro unilateral en arcada completa induce básculas en el plano de oclusión virtual. En cualquier rehabilitación posterior o de arcada completa, captura siempre ambos lados a la altura de premolares y molares.</p>\n<h2>Tabla de resolución de problemas en impresiones ópticas</h2>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Problema en boca</th><th>Causa en el escaneado</th><th>Solución clínica en gabinete</th></tr></thead><tbody><tr><td>Corona alta en oclusión</td><td>Saliva en fosas oclusales o mordida forzada</td><td>Secar caras oclusales y registrar oclusión en céntrica relajada</td></tr><tr><td>Escalón o falta de sellado marginal</td><td>Colapso gingival con interpolación de malla</td><td>Doble hilo (000 y 0), exponer 0,2 mm de diente y exportar en PLY</td></tr><tr><td>Báscula en puente de tramo largo</td><td>Deriva por stitching tras barrido desordenado</td><td>Seguir ruta continua oclusal-lingual-vestibular sin interrupciones</td></tr><tr><td>Puntos de contacto abiertos o sobreajustados</td><td>Tronera interproximal sombreada sin capturar</td><td>Inclinar la punta 45° a mesial y distal para cerrar la tronera vecina</td></tr><tr><td>Modelos virtuales desalineados</td><td>Carrillo o mucosa atrapada en el registro de mordida</td><td>Separar tejidos con espejo y registrar canino-premolar con nitidez</td></tr></tbody></table></div>\n<h2>Checklist de Innovadental antes de exportar el caso</h2>\n<ol><li>Desactivar el color en pantalla: inspecciona la preparación en malla gris para confirmar que el margen no presenta zonas difusas ni interpoladas.</li><li>Recortar tejidos móviles: elimina lengüetas de carrillo, lengua o guante antes de cerrar el archivo definitivo.</li><li>Verificar caras proximales vecinas: comprueba que las superficies de contacto adyacentes estén registradas por debajo del ecuador anatómico.</li><li>Revisar el mapa de espacio oclusal: confirma que la preparación cuenta con el espesor mínimo que exige el material restaurador prescrito.</li><li>Inspeccionar el engranaje desde la cara lingual: gira los modelos articulados para corroborar que las cúspides ocluyen tal como viste en boca.</li><li>Exportar con textura en color (PLY u OBJ): facilita al protésico la delimitación exacta entre esmalte, muñón y encía marginal.</li></ol>\n<p>Ayudándonos mutuamente, planificar es más fácil y el resultado, más predecible. Si tienes dudas técnicas con algún archivo o con la preparación de un caso, llámanos al 981 65 20 66 o <a href=\"https://innovadental.net/es/contacte-innovadental\">contacta con nosotros</a>.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Por qué el software del escáner dio por bueno el escaneo si luego el laboratorio avisa de que el margen no es válido?</h3><p>El mapa verde del escáner solo verifica que la malla geométrica esté cerrada sin agujeros, no que la superficie registrada sea diente sano. Si había saliva o encía montada sobre el tallado, el software interpola y cierra el volumen con una superficie inventada que en clínica se traduce en falta de ajuste.</p>\n<h3>¿Afecta la lámpara del sillón dental a la toma de impresión óptica?</h3><p>Sí. La iluminación directa con focos LED o halógenos de alta intensidad satura los sensores ópticos de la cámara intraoral. Provoca destellos y pérdida de seguimiento de la punta. Conviene apartar la luz directa del sillón mientras se realiza el barrido.</p>\n<h3>¿Es necesario escanear la arcada completa si la corona es unitaria?</h3><p>Técnicamente un cuadrante permite diseñar una unitaria, pero en el laboratorio pedimos la arcada completa. Tener la arcada entera aporta estabilidad al articular contra el antagonista y permite diseñar las guías anteriores y de desoclusión con referencias anatómicas reales.</p>"
+}

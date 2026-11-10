@@ -236,5 +236,39 @@
     "publicado": "2026-11-07",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "escaner-intraoral-errores-escaneado-protesis-fija",
+    "post_id": "511819812049",
+    "url": "https://innovadental.net/es/blog/escaner-intraoral-errores-escaneado-protesis-fija",
+    "titulo": "Errores de escaneo intraoral: causas en clínica y ajuste protésico",
+    "titulo_seo": "Errores de escaneo intraoral: causas y solución técnica",
+    "meta_description": "Conoce las causas de los errores de escaneo intraoral y cómo evitarlos en clínica: saliva, colapso de márgenes y distorsión transversal en arcadas.",
+    "keyword": "errores escaneo intraoral",
+    "cluster": "flujo-digital",
+    "intencion": "procedimiento",
+    "etapa": "descubrimiento",
+    "prioridad": 88,
+    "palabras": 1331,
+    "h2": 7,
+    "tablas": 1,
+    "faq": 3,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "A",
+      "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
+      "estrato": "innovadental:flujo-digital"
+    },
+    "foto": "lab-corona-molar-ajuste-contactos.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 10,
+      "seo": 10,
+      "experiencia": 10
+    },
+    "publicado": "2026-11-10",
+    "simulado": false,
+    "borrador": false
   }
 ]

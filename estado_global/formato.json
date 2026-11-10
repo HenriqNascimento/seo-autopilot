@@ -103,6 +103,24 @@
         "publicado": "2026-11-09",
         "url": "https://cresco.es/blog/pagina-web-sin-permanencia",
         "sitio": "cresco"
+      },
+      {
+        "slug": "pagina-web-para-fisioterapeutas",
+        "brazo": "A",
+        "estrato": "cresco:verticales",
+        "prioridad": 92,
+        "publicado": "2026-11-10",
+        "url": "https://cresco.es/blog/pagina-web-para-fisioterapeutas",
+        "sitio": "cresco"
+      },
+      {
+        "slug": "escaner-intraoral-errores-escaneado-protesis-fija",
+        "brazo": "A",
+        "estrato": "innovadental:flujo-digital",
+        "prioridad": 88,
+        "publicado": "2026-11-10",
+        "url": "https://innovadental.net/es/blog/escaner-intraoral-errores-escaneado-protesis-fija",
+        "sitio": "innovadental"
       }
     ]
   },
