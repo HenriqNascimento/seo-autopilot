@@ -52,3 +52,6 @@
 {"t": "2026-11-10T15:00:06", "sitio": "innovadental", "evento": "edicion", "slug": "escaner-intraoral-errores-escaneado-protesis-fija", "intento": 1, "nota_min": 10, "problemas": 0}
 {"t": "2026-11-10T15:00:10", "sitio": "innovadental", "evento": "publicado", "slug": "escaner-intraoral-errores-escaneado-protesis-fija", "url": "https://innovadental.net/es/blog/escaner-intraoral-errores-escaneado-protesis-fija", "palabras": 1331}
 {"t": "2026-11-10T15:00:10", "sitio": "innovadental", "evento": "coste", "usd": 0.1261, "modelo": "gemini-3.8-flash", "entrada": 26722, "salida": 28284, "busquedas": 7}
+{"t": "2026-11-12T15:02:16", "sitio": "innovadental", "evento": "edicion", "slug": "escaner-tactil-industrial-ajuste-pasivo-implantes-galicia", "intento": 1, "nota_min": 9, "problemas": 0}
+{"t": "2026-11-12T15:02:20", "sitio": "innovadental", "evento": "publicado", "slug": "escaner-tactil-industrial-ajuste-pasivo-implantes-galicia", "url": "https://innovadental.net/es/blog/escaner-tactil-industrial-ajuste-pasivo-implantes-galicia", "palabras": 1890}
+{"t": "2026-11-12T15:02:20", "sitio": "innovadental", "evento": "coste", "usd": 0.1073, "modelo": "gemini-3.8-flash", "entrada": 21356, "salida": 24347, "busquedas": 3}

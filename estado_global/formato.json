@@ -121,6 +121,24 @@
         "publicado": "2026-11-10",
         "url": "https://innovadental.net/es/blog/escaner-intraoral-errores-escaneado-protesis-fija",
         "sitio": "innovadental"
+      },
+      {
+        "slug": "como-conseguir-resenas-en-google-negocio-local",
+        "brazo": "B",
+        "estrato": "cresco:reputacion-local",
+        "prioridad": 89,
+        "publicado": "2026-11-12",
+        "url": "https://cresco.es/blog/como-conseguir-resenas-en-google-negocio-local",
+        "sitio": "cresco"
+      },
+      {
+        "slug": "escaner-tactil-industrial-ajuste-pasivo-implantes-galicia",
+        "brazo": "B",
+        "estrato": "innovadental:implantologia-avanzada",
+        "prioridad": 87,
+        "publicado": "2026-11-12",
+        "url": "https://innovadental.net/es/blog/escaner-tactil-industrial-ajuste-pasivo-implantes-galicia",
+        "sitio": "innovadental"
       }
     ]
   },

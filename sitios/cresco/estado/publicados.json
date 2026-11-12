@@ -168,5 +168,39 @@
     "publicado": "2026-11-10",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "como-conseguir-resenas-en-google-negocio-local",
+    "post_id": "como-conseguir-resenas-en-google-negocio-local",
+    "url": "https://cresco.es/blog/como-conseguir-resenas-en-google-negocio-local",
+    "titulo": "Cómo conseguir reseñas en Google para tu negocio local",
+    "titulo_seo": "Cómo conseguir reseñas en Google para tu negocio",
+    "meta_description": "Aprende cómo conseguir reseñas en Google de forma legal, el enlace directo para enviar por WhatsApp y las plantillas que funcionan sin molestar al cliente.",
+    "keyword": "como conseguir resenas en google",
+    "cluster": "reputacion-local",
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "prioridad": 89,
+    "palabras": 2209,
+    "h2": 7,
+    "tablas": 0,
+    "faq": 3,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "B",
+      "descripcion": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
+      "estrato": "cresco:reputacion-local"
+    },
+    "foto": "lapacar.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 10,
+      "seo": 10,
+      "experiencia": 10
+    },
+    "publicado": "2026-11-12",
+    "simulado": false,
+    "borrador": false
   }
 ]

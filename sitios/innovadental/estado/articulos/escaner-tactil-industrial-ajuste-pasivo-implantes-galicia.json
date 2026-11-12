@@ -1,0 +1,246 @@
+{
+  "articulo": {
+    "titulo": "Ajuste pasivo en prótesis sobre implantes: protocolo y metrología",
+    "titulo_seo": "Ajuste pasivo en prótesis sobre implantes: guía técnica",
+    "meta_description": "Aprende a dominar el ajuste pasivo en prótesis sobre implantes: umbral de 30 micras, fallo del escáner óptico, palpado táctil y test de Sheffield.",
+    "resumen": "Analizamos los criterios biomecánicos del ajuste pasivo en implantoprótesis, las limitaciones físicas del escaneado óptico en arcadas completas y el protocolo metrológico industrial para eliminar tensiones mecánicas y biológicas.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>El ajuste pasivo en prótesis sobre implantes es el estado biomecánico de contacto simultáneo y homogéneo entre las plataformas protésicas y los pilares sin precarga de tornillos ni deflexión ósea, con una discrepancia marginal inferior a 20-30 micras.</strong> Lograr este nivel de exactitud en rehabilitaciones múltiples no es cuestión de suerte al apretar, sino el resultado de controlar metrológicamente cada fuente de distorsión desde la toma de registros hasta el fresado final."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Qué es el ajuste pasivo en prótesis sobre implantes: el umbral de las 30 micras"
+      },
+      {
+        "tipo": "p",
+        "texto": "Cuando Per-Ingvar Brånemark y Torsten Jemt describieron el ajuste pasivo en implantología, lo definieron como una aposición que no induce tensiones estáticas en el sistema en ausencia de cargas funcionales externas. Por entonces, las técnicas de colado tradicional convivían con discrepancias medias de 100 a 150 micras, asumidas como un peaje inevitable por la contracción térmica de las aleaciones metálicas."
+      },
+      {
+        "tipo": "p",
+        "texto": "Hoy la metrología y el seguimiento clínico han cambiado ese criterio. El diente natural dispone del ligamento periodontal, una estructura viscoelástica que amortigua desplazamientos de 25 a 50 micras sin transferir sobrecargas lesivas a la cortical alveolar. El implante osteointegrado, anquilosado al hueso, apenas ofrece una resiliencia elástica de 3 a 5 micras en sentido vertical. Todo desajuste tridimensional que rebase ese margen biológico no se absorbe: se transmite directamente como tensión estática al hueso marginal y a los aditamentos."
+      },
+      {
+        "tipo": "p",
+        "texto": "Por eso, en prótesis fija múltiple situamos la tolerancia clínica entre 20 y 30 micras. Si una estructura supera esa cota, no apoya a la vez en todas las conexiones. Al apretar los tornillos cerramos la luz a base de fuerza mecánica, introduciendo una deformación permanente que pasa factura con el tiempo."
+      },
+      {
+        "tipo": "h2",
+        "texto": "El coste biológico y mecánico del desajuste en rehabilitaciones múltiples"
+      },
+      {
+        "tipo": "p",
+        "texto": "En puentes extensos o arcadas completas tipo <a href=\"https://innovadental.net/es/blog/all-on-4-vs-all-on-6-guia\">All-on-4 o All-on-6</a>, el desajuste actúa como un generador continuo de estrés mecánico. Cuando una estructura desalineada se asienta mediante el torque de los tornillos, la precarga de fijación se disipa venciendo la rigidez del metal y la elasticidad del hueso, en lugar de mantener unidas las superficies de contacto."
+      },
+      {
+        "tipo": "p",
+        "texto": "En clínica ocurre a veces un espejismo peligroso: la flexión ósea. Al aplicar un torque de 15 a 30 Ncm sobre una estructura rígida que deja un gap de 60 o 70 micras en un extremo, la separación desaparece a la vista y en la periapical. La prótesis parece asentada. Lo que ha sucedido en realidad es que el hueso mandibular o maxilar se ha deformado elásticamente para alcanzar la conexión. Esa flexión mantiene una tensión de tracción o cizallamiento constante, las 24 horas del día, antes de que el paciente mastique por primera vez."
+      },
+      {
+        "tipo": "p",
+        "texto": "Las consecuencias mecánicas de esa tensión residual las vemos a menudo en el laboratorio: aflojamientos recurrentes del tornillo por pérdida de precarga ante cargas cíclicas, fracturas por fatiga en tornillos o pilares intermedios, astillamiento (chipping) de la cerámica por flexión diferencial del armazón y deformación plástica en las espiras del implante."
+      },
+      {
+        "tipo": "p",
+        "texto": "En el plano biológico, un microgap superior a 30 micras facilita la microfiltración de fluidos orales y la colonización bacteriana subgingival en la chimenea del implante. Unido a los picos de tensión en la cresta ósea, el desajuste acelera la pérdida ósea marginal y complica el control de mucositis y periimplantitis."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Por qué el escáner óptico falla en arcadas completas: refracción y cosido de mallas"
+      },
+      {
+        "tipo": "p",
+        "texto": "El flujo digital ha aportado comodidad y rapidez. En coronas unitarias y puentes de tramo corto, el escáner intraoral ofrece una exactitud excelente. Sin embargo, confiar el ajuste pasivo de una arcada completa exclusivamente a una lectura óptica entraña un riesgo físico real derivado de la triangulación y la microscopía confocal."
+      },
+      {
+        "tipo": "p",
+        "texto": "El primer obstáculo es el cosido de imágenes (stitching). El escáner intraoral toma decenas de capturas por segundo que alinea superponiendo puntos comunes. En distancias de arco cruzado (frecuentemente de 45 a 60 milímetros), los errores angulares microscópicos de cada fotograma se encadenan. El archivo final puede arrastrar una distorsión acumulada de 50 a 80 micras en los sectores posteriores contralaterales, imperceptible en la pantalla pero determinante en boca."
+      },
+      {
+        "tipo": "p",
+        "texto": "El segundo factor es la dispersión y refracción lumínica en los scan bodies. La saliva residual, la translucidez de polímeros como el PEEK o el reflejo del titanio mecanizado desvían el haz de luz. El software traduce ese brillo como una cota geométrica inexistente. Una desviación de solo 0,4 grados en la inclinación virtual del scan body se convierte en un desplazamiento horizontal de decenas de micras en la base de la chimenea. Estos <a href=\"https://innovadental.net/es/blog/escaner-intraoral-errores-escaneado-protesis-fija\">errores habituales en el escaneo intraoral</a> explican por qué la vía óptica pura no basta para garantizar pasividad en arcadas completas sobre implantes."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Tecnología de palpado táctil industrial: precisión metrológica por contacto físico"
+      },
+      {
+        "tipo": "p",
+        "texto": "Para esquivar las limitaciones ópticas en grandes luces edéntulas, la metrología industrial recurre al contacto mecánico directo. En rehabilitaciones complejas sobre múltiples implantes, eliminamos la incertidumbre de la luz con sistemas de digitalizado táctil por contacto físico continuo, como los desarrollados por Renishaw."
+      },
+      {
+        "tipo": "p",
+        "texto": "En lugar de interpolar mallas poligonales a partir de fotos, una microsonda con punta esférica de rubí palpa las paredes internas, el asiento de apoyo y las angulaciones de cada conexión protésica. Aplica una fuerza constante muy baja mientras encoders ópticos lineales registran las coordenadas X, Y y Z con resolución submicrométrica."
+      },
+      {
+        "tipo": "ul",
+        "texto": "Inmunidad frente a reflejos, brillos del titanio, saliva o humedad en el modelo.\nResolución metrológica real por debajo de las 5 micras en arcos completos cruzados.\nLectura exacta de la profundidad y angulación de conos o hexágonos internos sin derivas de cosido.\nCálculo preciso de la distancia relativa entre implantes independientemente de la longitud de la arcada."
+      },
+      {
+        "tipo": "p",
+        "texto": "En Innovadental tenemos un criterio técnico claro: en trabajos de más de 4 implantes enviamos el caso a un escáner industrial táctil para más precisión. Con ello aseguramos que el archivo con el que diseñamos y fresamos refleje la posición espacial exacta de la boca, sin desviaciones de curvatura."
+      },
+      {
+        "tipo": "p",
+        "texto": "A la par de la metrología, la pasividad en arcadas completas exige habitualmente pilares transepiteliales Multi-Unit. Atornillar una estructura rígida directa a implantes con conexión cónica interna suele generar interferencias insalvables si existe la menor divergencia de ejes. Al interponer un pilar intermedio, trasladamos la plataforma a nivel yuxta o supragingival con un asiento plano o troncocónico amplio, facilitando una vía de inserción limpia y un reparto equilibrado de las fuerzas."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Fresado CNC en titanio y cromo-cobalto: del diseño CAD a la estructura monobloque"
+      },
+      {
+        "tipo": "p",
+        "texto": "Un diseño virtual impecable fracasa si el procesado del material altera las cotas. Durante décadas, el colado a la cera perdida obligó a convivir con la contracción de ceras y resinas, la expansión desigual de los revestimientos y la merma volumétrica de las aleaciones al solidificar (entre el 1,5 y el 2,5 %). En estructuras de arcada completa, el ajuste pasivo por colado era prácticamente inviable sin seccionar y soldar."
+      },
+      {
+        "tipo": "p",
+        "texto": "El sinterizado láser de cromo-cobalto supuso un avance notable, pero acumula tensiones internas por los ciclos térmicos de fusión focalizada. Requiere tratamientos de distensión en horno con atmósfera inerte y un refresado posterior de las conexiones para asegurar que no bascule."
+      },
+      {
+        "tipo": "p",
+        "texto": "La opción más estable frente a tensiones es el fresado CNC sustractivo de 5 ejes a partir de bloques macizos homogéneos. En el laboratorio fabricamos estructuras fresadas en Titanio Grado 5 (Ti-6Al-4V) y Cromo-Cobalto trabajando con centros de mecanizado de precisión como Createch Medical (Straumann), BTI y Avinent. El arranque de viruta en frío sobre un disco exento de tensiones residuales traslada las cotas del CAD al metal con discrepancias marginales inferiores a 15 micras en la interfaz."
+      },
+      {
+        "tipo": "p",
+        "texto": "Tanto en estructuras para prótesis híbridas como en <a href=\"https://innovadental.net/es/blog/sobredentadura-locator-vs-barra-fresada\">barras fresadas para sobredentaduras</a> (Toronto o Blender), calculamos la sección transversal del metal para evitar que una barra con poca masa flecte bajo cargas parafuncionales, comprometiendo la pasividad en función y sobrecargando los cuellos de los implantes."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Protocolo de verificación en clínica: Test de Sheffield y jigs de comprobación pasiva"
+      },
+      {
+        "tipo": "p",
+        "texto": "Incluso con un protocolo de laboratorio milimétrico, la comprobación en el gabinete antes del acabado definitivo es un paso obligado. Los métodos habituales no ofrecen la misma sensibilidad diagnóstica."
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Método de comprobación | Resolución diagnóstica | Limitaciones en clínica | Momento de aplicación indicado\nTest de Sheffield (apriete monotornillo) | 10 – 20 micras | Requiere acceso visual y palpatorio directo a las conexiones | Obligatorio en toda prueba de estructura metálica o barra\nRadiografía periapical paralela | 30 – 50 micras | Solo revela desajustes mesiodistales; oculta el gap vestíbulo-lingual | Comprobación de apoyo en zonas subgingivales\nJig ferulizado en resina seccionado | 10 – 15 micras | Muy sensible a la técnica si no se respetan los tiempos de polimerización | Registro maestro previo al escaneado o fresado definitivo\nPalpación con sonda exploradora | 40 – 60 micras | Depende de la agudeza táctil y del bisel de la conexión | Cribado preliminar rápido en conexiones visibles"
+      },
+      {
+        "tipo": "p",
+        "texto": "El test de Sheffield (o prueba de apriete con un solo tornillo) es el método clínico más directo y fiable para detectar tensiones antes de apretar el conjunto. La secuencia requiere rigor:"
+      },
+      {
+        "tipo": "ol",
+        "texto": "Colocar la estructura limpia sobre los pilares o implantes sin ejercer presión digital hacia apical.\nApretar únicamente un tornillo en el implante más distal de la arcada con un torque manual suave (de 5 a 10 Ncm).\nInspeccionar el extremo contralateral con magnificación, sonda fina y radiografía periapical paralela. Si la estructura se levanta, bascula o deja luz sobre el pilar opuesto, no hay ajuste pasivo.\nRetirar ese tornillo y repetir la operación apretando de forma individual el tornillo distal contrario para comprobar si la báscula se reproduce simétricamente."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si al apretar un lado el pilar opuesto se levanta 20 o 30 micras, apretar el resto de tornillos para forzar el cierre solo conseguirá flectar el hueso. La estructura debe corregirse antes de continuar."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para no encontrarse con este problema tras fresar una estructura definitiva, aconsejamos registrar la posición de los implantes con un jig de verificación ferulizado con resina de baja contracción (tipo Pattern Resin). Las chimeneas se unen en boca, se secciona el bloque con disco de diamante fino (0,2 mm) y se deja reposar 24 horas para liberar las tensiones de polimerización. Al día siguiente se reposiciona en boca y se resuelda con una cantidad mínima de resina. Este paso neutraliza la contracción del material y proporciona un modelo maestro fiable para la digitalización metrológica."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Criterio técnico para clínicas dentales de Galicia en Innovadental"
+      },
+      {
+        "tipo": "p",
+        "texto": "Trabajamos con clínicas dentales de toda Galicia desde nuestro laboratorio en O Burgo (Culleredo, A Coruña). En el día a día vemos que la diferencia entre una prótesis que afloja tornillos a los seis meses y una estructura estable a los diez años suele estar en cómo se plantea el caso desde el principio."
+      },
+      {
+        "tipo": "p",
+        "texto": "En rehabilitaciones de arcada completa sobre implantes nuestro criterio es claro: pilares Multi-Unit para regularizar ejes, jig rígido pasivado para asegurar el modelo maestro y digitalización táctil industrial para eliminar errores ópticos. Si durante la fase de planificación quirúrgica o protésica tienes dudas con aditamentos, angulaciones o software, llámanos al laboratorio."
+      },
+      {
+        "tipo": "cita",
+        "texto": "Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si quieres contrastar un caso de arcada completa o necesitas verificar la pasividad de tus próximas estructuras sobre implantes, llámanos al +34 981 65 20 66 o escríbenos a través de nuestro <a href=\"https://innovadental.net/es/contacte-innovadental\">formulario de contacto en Innovadental</a>."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué conviene hacer si el test de Sheffield falla en boca pero la estructura asentaba sin báscula en el modelo de yeso?",
+        "a": "Significa que el modelo maestro arrastra distorsión por la contracción de la silicona o la expansión del yeso tipo IV. No intentes forzar la estructura ni rebajar las conexiones protésicas. Lo indicado es tomar un nuevo registro en clínica mediante un jig ferulizado con resina seccionada y resoldada en boca, y transferir esa posición real para un nuevo escaneado."
+      },
+      {
+        "q": "¿Se deben sustituir los tornillos protésicos si una estructura desajustada se apretó previamente a torque completo?",
+        "a": "Sí. Cuando un tornillo se aprieta a 15–30 Ncm para forzar el cierre de una estructura con desajuste, absorbe tensiones de flexión asimétricas que provocan deformación plástica en sus primeras espiras. Aunque la estructura se rectifique después, reutilizar esos tornillos multiplica el riesgo de fractura por fatiga."
+      }
+    ],
+    "tags": [
+      "ajuste pasivo",
+      "prótesis sobre implantes",
+      "escáner táctil",
+      "implantoprótesis"
+    ],
+    "foto": "lab-barra-titanio-conexiones-implante.jpg",
+    "alt_foto": "Estructura de titanio fresada con chimeneas de acceso y conexiones protésicas pasivas para implantes dentales"
+  },
+  "brief": {
+    "intencion": "Informativa técnica y de decisión de proveedor B2B (clínicas dentales y cirujanos orales que buscan eliminar aflojamientos y tensiones protésicas en rehabilitaciones sobre implantes), con interés local derivado en centros de fresado y laboratorios de alta precisión en Galicia.",
+    "respuesta_directa": "El ajuste pasivo en prótesis sobre implantes es el estado biomecánico de contacto simultáneo y homogéneo entre las plataformas protésicas y los pilares sin precarga de tornillos ni deflexión ósea, con una discrepancia ideal inferior a 20-30 micras. En rehabilitaciones múltiples (All-on-4, All-on-6 o arcadas completas), la refracción lumínica de los escáneres ópticos introduce derivas de curvatura que generan tensiones estáticas lesivas para el hueso marginal. Para erradicar este error angular, el protocolo de palpado táctil industrial (como Renishaw) digitaliza por contacto físico submicrométrico la posición tridimensional de la conexión, permitiendo fresados CNC de titanio o cromo-cobalto con ajuste verdaderamente libre de tensiones.",
+    "que_cubren_los_top": [
+      "Definición teórica y biomecánica clásica del ajuste pasivo (Brånemark, Jemt).",
+      "Consecuencias clínicas del desajuste: aflojamiento recurrente de tornillos, fractura del tornillo protésico, periimplantitis y pérdida ósea marginal por tensión estática.",
+      "Métodos clínicos tradicionales de evaluación en gabinete: Test de Sheffield (apriete mono-tornillo), palpación digital, radiografía periapical paralela y reveladores de presión.",
+      "Causas habituales de error en la cadena protésica: contracción del material de impresión (polivinilsiloxanos/poliéteres), expansión del yeso tipo IV, contracción térmica del colado y distorsión de sinterización.",
+      "Evolución hacia el fresado CAD/CAM sustractivo monobloque frente a estructuras coladas o soldadas con láser."
+    ],
+    "huecos": [
+      "La trampa de la refracción lumínica en escaneado óptico: la costura de imágenes (stitching) y los brillos generan una distorsión acumulativa en arcos cruzados de más de 50-80 µm, invisible a simple vista.",
+      "Diferenciación matemática/metrológica entre escaneo óptico (triangulación/confocal) y palpado táctil continuo por contacto físico (precisión submicrónica independiente de la luz o el reflejo del titanio).",
+      "La elasticidad ósea como 'falso ajuste pasivo': el clínico aprieta a 15-30 Ncm pensando que asentó, pero en realidad está flectando la mandíbula o deformando la cresta maxilar (tensión residual permanente).",
+      "Protocolo clínico-laboratorio exacto para clínicas gallegas: ferulización rígida de scan bodies vs. jig de verificación en resina calcinable comprobado en boca antes de fresar.",
+      "El impacto del diseño de conexión directa al implante frente a interfases intermedias (pilares multi-unit/transepitelioles) en la distribución del gap marginal."
+    ],
+    "preguntas_reales": [
+      "¿Cuántas micras de desajuste son biológicamente aceptables en una prótesis sobre implantes?",
+      "¿Por qué se aflojan repetidamente los tornillos en una prótesis de arco completo si radiográficamente parece bien adaptada?",
+      "¿Qué ventaja aporta un escáner táctil frente a un escáner óptico de laboratorio en arcadas sobre implantes?",
+      "¿En qué consiste el test de Sheffield y cómo interpretarlo correctamente?",
+      "¿Por qué es indispensable el uso de pilares transepiteliales (Multi-Unit) para lograr pasividad en arcadas All-on-4 o All-on-6?",
+      "¿Se puede garantizar ajuste pasivo únicamente con escaneo intraoral en rehabilitaciones de arcada completa?"
+    ],
+    "estructura": [
+      "Qué es el ajuste pasivo en implantoprótesis: el umbral biomecánico de las 30 micras",
+      "El coste biológico y mecánico del desajuste en rehabilitaciones múltiples (≥ 4 implantes)",
+      "Por qué el escáner óptico falla en arcadas completas: la física de la refracción y el stitching",
+      "Tecnología de palpado táctil industrial: precisión metrológica por contacto físico",
+      "Fresado CNC en titanio y cromo-cobalto: del diseño CAD a la estructura monobloque",
+      "Protocolo de verificación en clínica: Test de Sheffield y jigs de comprobación pasiva",
+      "Criterio y fabricación de precisión para clínicas dentales de Galicia en Innovadental"
+    ],
+    "palabras_objetivo": 2150,
+    "entidades": [
+      "Ajuste pasivo",
+      "Test de Sheffield",
+      "Escáner táctil (Renishaw Incise / DS10)",
+      "Metrología industrial",
+      "Pilares Multi-Unit / Transepiteliales",
+      "Titanio Grado 5 (Ti-6Al-4V)",
+      "Fresado CNC sustractivo 5 ejes",
+      "Pérdida ósea marginal",
+      "Fatiga por precarga (preload)",
+      "Stitching (cosido de mallas tridimensionales)",
+      "Refracción lumínica en scan bodies",
+      "Jig de verificación (Pattern Resin / resina fotopolimerizable)",
+      "Innovadental O Burgo (Culleredo, A Coruña)"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://gacetadental.com/2011/10/ajuste-pasivo-en-protesis-sobre-implantes-24536/",
+        "dato": "Definición del ajuste pasivo como contacto circunferencial y simultáneo a lo largo de la ecuación de distorsión en toda la cadena protésica."
+      },
+      {
+        "url": "https://www.researchgate.net/publication/277065099_Ajuste_pasivo_en_implantologia_mito_o_realidad",
+        "dato": "Discrepancias tridimensionales y angulares históricas en colados y estructuras convencionales evaluadas entre 42 y 630 µm según estudios de Jemt y Lie."
+      },
+      {
+        "url": "https://www.dessdental.com/es/blog/post/ajuste-pasivo-protesis-implantes-como-evitar-desajustes",
+        "dato": "Mecanismo biomecánico en arcadas completas: falta de ligamento periodontal, absorción de tensión en el tornillo protésico, micro-movimientos y pérdida de estabilidad ósea marginal."
+      },
+      {
+        "url": "https://www.renishaw.com/es/sistemas-de-digitalizado-para-odontologia--6814",
+        "dato": "Especificaciones del sistema de escaneado táctil Renishaw con palpador 3D de baja fuerza continua y resolución submicrométrica por encoders ópticos lineales de alta precisión."
+      }
+    ]
+  },
+  "html": "<p><strong>El ajuste pasivo en prótesis sobre implantes es el estado biomecánico de contacto simultáneo y homogéneo entre las plataformas protésicas y los pilares sin precarga de tornillos ni deflexión ósea, con una discrepancia marginal inferior a 20-30 micras.</strong> Lograr este nivel de exactitud en rehabilitaciones múltiples no es cuestión de suerte al apretar, sino el resultado de controlar metrológicamente cada fuente de distorsión desde la toma de registros hasta el fresado final.</p>\n<h2>Qué es el ajuste pasivo en prótesis sobre implantes: el umbral de las 30 micras</h2>\n<p>Cuando Per-Ingvar Brånemark y Torsten Jemt describieron el ajuste pasivo en implantología, lo definieron como una aposición que no induce tensiones estáticas en el sistema en ausencia de cargas funcionales externas. Por entonces, las técnicas de colado tradicional convivían con discrepancias medias de 100 a 150 micras, asumidas como un peaje inevitable por la contracción térmica de las aleaciones metálicas.</p>\n<p>Hoy la metrología y el seguimiento clínico han cambiado ese criterio. El diente natural dispone del ligamento periodontal, una estructura viscoelástica que amortigua desplazamientos de 25 a 50 micras sin transferir sobrecargas lesivas a la cortical alveolar. El implante osteointegrado, anquilosado al hueso, apenas ofrece una resiliencia elástica de 3 a 5 micras en sentido vertical. Todo desajuste tridimensional que rebase ese margen biológico no se absorbe: se transmite directamente como tensión estática al hueso marginal y a los aditamentos.</p>\n<p>Por eso, en prótesis fija múltiple situamos la tolerancia clínica entre 20 y 30 micras. Si una estructura supera esa cota, no apoya a la vez en todas las conexiones. Al apretar los tornillos cerramos la luz a base de fuerza mecánica, introduciendo una deformación permanente que pasa factura con el tiempo.</p>\n<h2>El coste biológico y mecánico del desajuste en rehabilitaciones múltiples</h2>\n<p>En puentes extensos o arcadas completas tipo <a href=\"https://innovadental.net/es/blog/all-on-4-vs-all-on-6-guia\">All-on-4 o All-on-6</a>, el desajuste actúa como un generador continuo de estrés mecánico. Cuando una estructura desalineada se asienta mediante el torque de los tornillos, la precarga de fijación se disipa venciendo la rigidez del metal y la elasticidad del hueso, en lugar de mantener unidas las superficies de contacto.</p>\n<p>En clínica ocurre a veces un espejismo peligroso: la flexión ósea. Al aplicar un torque de 15 a 30 Ncm sobre una estructura rígida que deja un gap de 60 o 70 micras en un extremo, la separación desaparece a la vista y en la periapical. La prótesis parece asentada. Lo que ha sucedido en realidad es que el hueso mandibular o maxilar se ha deformado elásticamente para alcanzar la conexión. Esa flexión mantiene una tensión de tracción o cizallamiento constante, las 24 horas del día, antes de que el paciente mastique por primera vez.</p>\n<p>Las consecuencias mecánicas de esa tensión residual las vemos a menudo en el laboratorio: aflojamientos recurrentes del tornillo por pérdida de precarga ante cargas cíclicas, fracturas por fatiga en tornillos o pilares intermedios, astillamiento (chipping) de la cerámica por flexión diferencial del armazón y deformación plástica en las espiras del implante.</p>\n<p>En el plano biológico, un microgap superior a 30 micras facilita la microfiltración de fluidos orales y la colonización bacteriana subgingival en la chimenea del implante. Unido a los picos de tensión en la cresta ósea, el desajuste acelera la pérdida ósea marginal y complica el control de mucositis y periimplantitis.</p>\n<h2>Por qué el escáner óptico falla en arcadas completas: refracción y cosido de mallas</h2>\n<p>El flujo digital ha aportado comodidad y rapidez. En coronas unitarias y puentes de tramo corto, el escáner intraoral ofrece una exactitud excelente. Sin embargo, confiar el ajuste pasivo de una arcada completa exclusivamente a una lectura óptica entraña un riesgo físico real derivado de la triangulación y la microscopía confocal.</p>\n<p>El primer obstáculo es el cosido de imágenes (stitching). El escáner intraoral toma decenas de capturas por segundo que alinea superponiendo puntos comunes. En distancias de arco cruzado (frecuentemente de 45 a 60 milímetros), los errores angulares microscópicos de cada fotograma se encadenan. El archivo final puede arrastrar una distorsión acumulada de 50 a 80 micras en los sectores posteriores contralaterales, imperceptible en la pantalla pero determinante en boca.</p>\n<p>El segundo factor es la dispersión y refracción lumínica en los scan bodies. La saliva residual, la translucidez de polímeros como el PEEK o el reflejo del titanio mecanizado desvían el haz de luz. El software traduce ese brillo como una cota geométrica inexistente. Una desviación de solo 0,4 grados en la inclinación virtual del scan body se convierte en un desplazamiento horizontal de decenas de micras en la base de la chimenea. Estos <a href=\"https://innovadental.net/es/blog/escaner-intraoral-errores-escaneado-protesis-fija\">errores habituales en el escaneo intraoral</a> explican por qué la vía óptica pura no basta para garantizar pasividad en arcadas completas sobre implantes.</p>\n<h2>Tecnología de palpado táctil industrial: precisión metrológica por contacto físico</h2>\n<p>Para esquivar las limitaciones ópticas en grandes luces edéntulas, la metrología industrial recurre al contacto mecánico directo. En rehabilitaciones complejas sobre múltiples implantes, eliminamos la incertidumbre de la luz con sistemas de digitalizado táctil por contacto físico continuo, como los desarrollados por Renishaw.</p>\n<p>En lugar de interpolar mallas poligonales a partir de fotos, una microsonda con punta esférica de rubí palpa las paredes internas, el asiento de apoyo y las angulaciones de cada conexión protésica. Aplica una fuerza constante muy baja mientras encoders ópticos lineales registran las coordenadas X, Y y Z con resolución submicrométrica.</p>\n<ul><li>Inmunidad frente a reflejos, brillos del titanio, saliva o humedad en el modelo.</li><li>Resolución metrológica real por debajo de las 5 micras en arcos completos cruzados.</li><li>Lectura exacta de la profundidad y angulación de conos o hexágonos internos sin derivas de cosido.</li><li>Cálculo preciso de la distancia relativa entre implantes independientemente de la longitud de la arcada.</li></ul>\n<p>En Innovadental tenemos un criterio técnico claro: en trabajos de más de 4 implantes enviamos el caso a un escáner industrial táctil para más precisión. Con ello aseguramos que el archivo con el que diseñamos y fresamos refleje la posición espacial exacta de la boca, sin desviaciones de curvatura.</p>\n<p>A la par de la metrología, la pasividad en arcadas completas exige habitualmente pilares transepiteliales Multi-Unit. Atornillar una estructura rígida directa a implantes con conexión cónica interna suele generar interferencias insalvables si existe la menor divergencia de ejes. Al interponer un pilar intermedio, trasladamos la plataforma a nivel yuxta o supragingival con un asiento plano o troncocónico amplio, facilitando una vía de inserción limpia y un reparto equilibrado de las fuerzas.</p>\n<h2>Fresado CNC en titanio y cromo-cobalto: del diseño CAD a la estructura monobloque</h2>\n<p>Un diseño virtual impecable fracasa si el procesado del material altera las cotas. Durante décadas, el colado a la cera perdida obligó a convivir con la contracción de ceras y resinas, la expansión desigual de los revestimientos y la merma volumétrica de las aleaciones al solidificar (entre el 1,5 y el 2,5 %). En estructuras de arcada completa, el ajuste pasivo por colado era prácticamente inviable sin seccionar y soldar.</p>\n<p>El sinterizado láser de cromo-cobalto supuso un avance notable, pero acumula tensiones internas por los ciclos térmicos de fusión focalizada. Requiere tratamientos de distensión en horno con atmósfera inerte y un refresado posterior de las conexiones para asegurar que no bascule.</p>\n<p>La opción más estable frente a tensiones es el fresado CNC sustractivo de 5 ejes a partir de bloques macizos homogéneos. En el laboratorio fabricamos estructuras fresadas en Titanio Grado 5 (Ti-6Al-4V) y Cromo-Cobalto trabajando con centros de mecanizado de precisión como Createch Medical (Straumann), BTI y Avinent. El arranque de viruta en frío sobre un disco exento de tensiones residuales traslada las cotas del CAD al metal con discrepancias marginales inferiores a 15 micras en la interfaz.</p>\n<p>Tanto en estructuras para prótesis híbridas como en <a href=\"https://innovadental.net/es/blog/sobredentadura-locator-vs-barra-fresada\">barras fresadas para sobredentaduras</a> (Toronto o Blender), calculamos la sección transversal del metal para evitar que una barra con poca masa flecte bajo cargas parafuncionales, comprometiendo la pasividad en función y sobrecargando los cuellos de los implantes.</p>\n<h2>Protocolo de verificación en clínica: Test de Sheffield y jigs de comprobación pasiva</h2>\n<p>Incluso con un protocolo de laboratorio milimétrico, la comprobación en el gabinete antes del acabado definitivo es un paso obligado. Los métodos habituales no ofrecen la misma sensibilidad diagnóstica.</p>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Método de comprobación</th><th>Resolución diagnóstica</th><th>Limitaciones en clínica</th><th>Momento de aplicación indicado</th></tr></thead><tbody><tr><td>Test de Sheffield (apriete monotornillo)</td><td>10 – 20 micras</td><td>Requiere acceso visual y palpatorio directo a las conexiones</td><td>Obligatorio en toda prueba de estructura metálica o barra</td></tr><tr><td>Radiografía periapical paralela</td><td>30 – 50 micras</td><td>Solo revela desajustes mesiodistales; oculta el gap vestíbulo-lingual</td><td>Comprobación de apoyo en zonas subgingivales</td></tr><tr><td>Jig ferulizado en resina seccionado</td><td>10 – 15 micras</td><td>Muy sensible a la técnica si no se respetan los tiempos de polimerización</td><td>Registro maestro previo al escaneado o fresado definitivo</td></tr><tr><td>Palpación con sonda exploradora</td><td>40 – 60 micras</td><td>Depende de la agudeza táctil y del bisel de la conexión</td><td>Cribado preliminar rápido en conexiones visibles</td></tr></tbody></table></div>\n<p>El test de Sheffield (o prueba de apriete con un solo tornillo) es el método clínico más directo y fiable para detectar tensiones antes de apretar el conjunto. La secuencia requiere rigor:</p>\n<ol><li>Colocar la estructura limpia sobre los pilares o implantes sin ejercer presión digital hacia apical.</li><li>Apretar únicamente un tornillo en el implante más distal de la arcada con un torque manual suave (de 5 a 10 Ncm).</li><li>Inspeccionar el extremo contralateral con magnificación, sonda fina y radiografía periapical paralela. Si la estructura se levanta, bascula o deja luz sobre el pilar opuesto, no hay ajuste pasivo.</li><li>Retirar ese tornillo y repetir la operación apretando de forma individual el tornillo distal contrario para comprobar si la báscula se reproduce simétricamente.</li></ol>\n<p>Si al apretar un lado el pilar opuesto se levanta 20 o 30 micras, apretar el resto de tornillos para forzar el cierre solo conseguirá flectar el hueso. La estructura debe corregirse antes de continuar.</p>\n<p>Para no encontrarse con este problema tras fresar una estructura definitiva, aconsejamos registrar la posición de los implantes con un jig de verificación ferulizado con resina de baja contracción (tipo Pattern Resin). Las chimeneas se unen en boca, se secciona el bloque con disco de diamante fino (0,2 mm) y se deja reposar 24 horas para liberar las tensiones de polimerización. Al día siguiente se reposiciona en boca y se resuelda con una cantidad mínima de resina. Este paso neutraliza la contracción del material y proporciona un modelo maestro fiable para la digitalización metrológica.</p>\n<h2>Criterio técnico para clínicas dentales de Galicia en Innovadental</h2>\n<p>Trabajamos con clínicas dentales de toda Galicia desde nuestro laboratorio en O Burgo (Culleredo, A Coruña). En el día a día vemos que la diferencia entre una prótesis que afloja tornillos a los seis meses y una estructura estable a los diez años suele estar en cómo se plantea el caso desde el principio.</p>\n<p>En rehabilitaciones de arcada completa sobre implantes nuestro criterio es claro: pilares Multi-Unit para regularizar ejes, jig rígido pasivado para asegurar el modelo maestro y digitalización táctil industrial para eliminar errores ópticos. Si durante la fase de planificación quirúrgica o protésica tienes dudas con aditamentos, angulaciones o software, llámanos al laboratorio.</p>\n<blockquote>Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible.</blockquote>\n<p>Si quieres contrastar un caso de arcada completa o necesitas verificar la pasividad de tus próximas estructuras sobre implantes, llámanos al +34 981 65 20 66 o escríbenos a través de nuestro <a href=\"https://innovadental.net/es/contacte-innovadental\">formulario de contacto en Innovadental</a>.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Qué conviene hacer si el test de Sheffield falla en boca pero la estructura asentaba sin báscula en el modelo de yeso?</h3><p>Significa que el modelo maestro arrastra distorsión por la contracción de la silicona o la expansión del yeso tipo IV. No intentes forzar la estructura ni rebajar las conexiones protésicas. Lo indicado es tomar un nuevo registro en clínica mediante un jig ferulizado con resina seccionada y resoldada en boca, y transferir esa posición real para un nuevo escaneado.</p>\n<h3>¿Se deben sustituir los tornillos protésicos si una estructura desajustada se apretó previamente a torque completo?</h3><p>Sí. Cuando un tornillo se aprieta a 15–30 Ncm para forzar el cierre de una estructura con desajuste, absorbe tensiones de flexión asimétricas que provocan deformación plástica en sus primeras espiras. Aunque la estructura se rectifique después, reutilizar esos tornillos multiplica el riesgo de fractura por fatiga.</p>"
+}
