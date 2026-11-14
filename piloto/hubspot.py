@@ -2,6 +2,8 @@
 import json
 import mimetypes
 import os
+import re
+import unicodedata
 import uuid
 
 from .base import http, requerido, sitio
@@ -39,13 +41,26 @@ def posts_publicados(blog_id):
             return out
 
 
+def _clave_tag(nombre):
+    """Como el slug de HubSpot: «CAD/CAM dental» y «CAD-CAM dental» son la misma etiqueta."""
+    s = "".join(c for c in unicodedata.normalize("NFD", nombre.lower()) if not unicodedata.combining(c))
+    return re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+
+
 def tag_ids(nombres):
-    existentes = {t["name"].lower(): t["id"] for t in _get("/cms/v3/blogs/tags?limit=300").get("results", [])}
+    existentes = {_clave_tag(t["name"]): t["id"] for t in _get("/cms/v3/blogs/tags?limit=300").get("results", [])}
     ids = []
     for n in nombres:
-        if n.lower() not in existentes:
-            existentes[n.lower()] = http("POST", API + "/cms/v3/blogs/tags", {"name": n}, _h())["id"]
-        ids.append(existentes[n.lower()])
+        clave = _clave_tag(n)
+        if clave not in existentes:
+            try:
+                existentes[clave] = http("POST", API + "/cms/v3/blogs/tags", {"name": n}, _h())["id"]
+            except RuntimeError as e:  # 409 NONUNIQUE_SLUG: la etiqueta ya existe con otro nombre
+                m = re.search(r'"tagId":\s*\["(\d+)"', str(e))
+                if not m:
+                    raise
+                existentes[clave] = m.group(1)
+        ids.append(existentes[clave])
     return ids
 
 
