@@ -61,7 +61,7 @@ EDICION = {
 PROHIBIDAS = ["en el mundo de", "hoy en día", "en la actualidad", "cuando se trata de", "en conclusión", "en resumen",
               "en definitiva", "sin lugar a dudas", "cabe destacar", "es importante señalar", "es importante destacar",
               "juega un papel", "adentrarnos", "sumergirnos", "panorama", "un sinfín de", "en el ámbito de", "potenciar",
-              "desbloquear", "revolucion", "a la vanguardia", "crucial"]
+              "desbloquear tu", "desbloquear el potencial", "desbloquea tu", "revolucion", "a la vanguardia", "crucial"]
 
 
 # Palabras sin peso al comprobar si la keyword está en el primer párrafo

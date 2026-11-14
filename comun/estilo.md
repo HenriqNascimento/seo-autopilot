@@ -15,7 +15,7 @@ El lector es un profesional ocupado que busca resolver una duda concreta. Quiere
 ## Prohibido (delata IA)
 - Aperturas tipo "En el mundo de la odontología…", "En la actualidad…", "Hoy en día…", "Cuando se trata de…".
 - Cierres tipo "En conclusión", "En resumen", "En definitiva", "Recuerda que…" como muletilla final.
-- Palabras/expresiones: "crucial", "fundamental" (más de una vez), "clave" (más de dos), "sin lugar a dudas", "cabe destacar", "es importante señalar", "juega un papel", "adentrarnos", "sumergirnos", "panorama", "un sinfín de", "en el ámbito de", "potenciar", "desbloquear", "revolucionar", "a la vanguardia", "no solo… sino también" repetido, "Además," al inicio de párrafo más de una vez.
+- Palabras/expresiones: "crucial", "fundamental" (más de una vez), "clave" (más de dos), "sin lugar a dudas", "cabe destacar", "es importante señalar", "juega un papel", "adentrarnos", "sumergirnos", "panorama", "un sinfín de", "en el ámbito de", "potenciar", "desbloquear" en sentido figurado ("desbloquear tu potencial"; en sentido literal, como desbloquear una ficha suspendida, sí se puede), "revolucionar", "a la vanguardia", "no solo… sino también" repetido, "Además," al inicio de párrafo más de una vez.
 - Triadas de adjetivos ("preciso, estético y duradero") en serie. Preguntas retóricas en cada sección.
 - Raya (—) más de 3 veces en todo el texto. Negrita en frases enteras salvo la respuesta del primer párrafo.
 - Emojis, exclamaciones de marketing, promesas ("resultados garantizados").
