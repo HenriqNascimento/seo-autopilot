@@ -1,0 +1,185 @@
+{
+  "articulo": {
+    "titulo": "Encerado diagnóstico digital y mock-up: protocolo CAD y clínico",
+    "titulo_seo": "Encerado diagnóstico digital y mock-up: guía clínica",
+    "meta_description": "Protocolo de encerado diagnóstico digital y mock-up: registros clínicos, confección de llaves de silicona y tallado guiado para conservar esmalte dental.",
+    "resumen": "Cómo planificar rehabilitaciones estéticas anteriores con encerado digital y mock-up: criterios aditivos, llaves de silicona rosa y tallado guiado sobre resina.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>El encerado diagnóstico digital y el mock-up intraoral permiten previsualizar la rehabilitación estética y funcional en boca de forma reversible antes de desgastar tejido dental.</strong> El flujo de trabajo parte de los archivos STL de la arcada y fotografías de sonrisa; sobre ellos diseñamos la anatomía en CAD y producimos un modelo tridimensional impreso. A partir de este modelo confeccionamos una llave de silicona rígida para trasladar resina bisacrílica al paciente, lo que permite evaluar fonética, proporciones faciales y guías de desoclusión en la misma cita."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Encerado aditivo o sustractivo: cuándo realizar un mock-up directo"
+      },
+      {
+        "tipo": "p",
+        "texto": "Antes de programar al paciente para una prueba directa, conviene analizar la posición espacial de las piezas. El mock-up directo con llave de silicona solo es viable cuando el encerado es estrictamente aditivo: dientes lingualizados, bordes incisales desgastados, cierre de diastemas o casos con pérdida de dimensión vertical donde podemos aportar volumen hacia vestibular o incisal sin tocar estructura dental."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si el paciente presenta giroversiones marcadas o caninos muy vestibularizados, añadir resina sobre esa malposición derivaría en restauraciones sobrecontorneadas y perfiles de emergencia incompatibles con la salud gingival. En estas situaciones el encerado debe ser mixto o sustractivo. Para probarlo en boca existen dos caminos: hacer desgastes selectivos previos en esmalte guiados por calibradores, o recurrir a un mock-up tipo clip-on fresado o impreso en resina fina semirrígida, que permite al paciente valorar la longitud y curvatura asumiendo que el resalte vestibular se corregirá en el tallado definitivo."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Registros clínicos: escaneado intraoral y fotografías para DSD"
+      },
+      {
+        "tipo": "p",
+        "texto": "El software CAD no puede adivinar la relación del diente con el labio ni la orientación de la cabeza. Para el modelo virtual necesitamos un escaneado de arcada completa con un margen generoso de encía insertada y fondo vestibular. En el laboratorio vemos a menudo que la presencia de saliva o reflejos lumínicos genera artefactos: el escáner interpreta ese brillo como volumen sólido y falsea el perfil cervical. Es imprescindible secar bien la superficie antes de escanear. Tienes los fallos más habituales detallados en nuestra guía sobre <a href=\"https://innovadental.net/es/blog/escaner-intraoral-errores-escaneado-protesis-fija\">errores de escaneado intraoral</a>."
+      },
+      {
+        "tipo": "p",
+        "texto": "Junto al archivo STL o PLY de ambas arcadas en oclusión habitual, el diseño de sonrisa exige fotografías estandarizadas. La toma principal es una vista facial completa con sonrisa amplia, alineando con exactitud el plano bipupilar con el sensor de la cámara. Si la toma presenta una ligera inclinación respecto al horizonte, el diseño arrastrará un plano incisal cantado sin que el técnico pueda advertirlo en el modelo aislado. Añadimos una foto en reposo para calibrar la exposición incisal pasiva, una a 45 grados y tomas intraorales con contrastador negro, tal como explicamos en la guía sobre <a href=\"https://innovadental.net/es/blog/toma-de-color-dental-protocolo-fotografia-laboratorio\">protocolo fotográfico en clínica</a>."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Encerado diagnóstico digital en CAD y confección de llaves de silicona"
+      },
+      {
+        "tipo": "p",
+        "texto": "En el software CAD importamos las mallas y las alineamos con las fotografías faciales para posicionar la línea media y el plano incisal respecto a las referencias craneales. Como demostraron Simon y Magne en su trabajo sobre diagnóstico estético, correlacionar la morfología dental con la dinámica facial evita modelos que lucen proporcionados en el zócalo pero resultan discordantes con la mímica del paciente."
+      },
+      {
+        "tipo": "p",
+        "texto": "Aprobada la propuesta digital, imprimimos el modelo 3D y fabricamos la llave de transferencia. En Innovadental preparamos férulas de 1 a 8 piezas con silicona rosa de alta rigidez. El recorte de la matriz marca la diferencia en el sillón: recortamos el borde justo a nivel del cenit gingival y biselamos la vertiente palatina. Si la silicona invade la encía adherida, la presión al insertar en clínica aplasta el tejido y genera rebabas de resina que impiden el cierre oclusal completo."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Protocolo de prueba en clínica: estética, fonética y oclusión"
+      },
+      {
+        "tipo": "p",
+        "texto": "Antes de cargar la matriz, aplica una película fina de glicerina sobre restauraciones antiguas de composite para evitar que la resina bisacrílica se adhiera químicamente a ellas. Rellena la férula de silicona rosa con resina bisacrílica de distal a mesial, manteniendo la cánula sumergida en el material para no atrapar burbujas de aire. Lleva la llave a boca con una presión uniforme y pasiva, manteniéndola estable durante la fase elástica indicada por el fabricante."
+      },
+      {
+        "tipo": "p",
+        "texto": "Al retirar la llave con tracción vertical en el eje del diente, retira los excesos cervicales e interproximales con una hoja de bisturí del número 12 o una cureta periodontal bien afilada. Con el material pulido, la evaluación clínica debe seguir cuatro comprobaciones ordenadas:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Estética en reposo y sonrisa: el borde incisal del central superior debe asomar entre 1 y 3 mm con los labios entreabiertos en reposo. En sonrisa amplia, la curvatura incisal debe acompañar la concavidad del labio inferior sin colisionar con él.\nFonética labiodental con fonemas F y V: al pronunciar palabras como «foca» o «veinticinco», el borde incisal superior debe apoyarse con suavidad en la línea de transición húmedo-seca del labio inferior, sin atraparlo.\nFonética sibilante con la letra S: al decir números como «sesenta y seis», comprobamos el espacio libre fonético para verificar que los bordes incisales anteriores no choquen entre sí.\nOclusión estática y dinámica: revisamos que existan contactos céntricos bilaterales estables y que las guías canina y anterior generen una desoclusión inmediata y limpia del sector posterior en lateralidad y protrusión."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Tallado guiado a través del mock-up para preservar esmalte"
+      },
+      {
+        "tipo": "p",
+        "texto": "La aportación técnica más valiosa del mock-up consiste en servir como guía de tallado. Si desgastas el diente retirando previamente el material provisional, preparas a ciegas respecto al volumen final y corres el riesgo de sobretallar zonas lingualizadas, exponiendo dentina innecesariamente. El protocolo de tallado guiado utiliza fresas de profundidad calibrada (0,3 mm y 0,5 mm) actuando directamente sobre la resina bisacrílica del mock-up."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si el encerado proyectó un aumento de 0,3 mm hacia vestibular en un lateral lingualizado, una fresa de 0,5 mm pasada sobre el mock-up solo tocará 0,2 mm de tejido natural. Mantener la preparación dentro del esmalte garantiza una fuerza de unión micro-mecánica óptima al cementar <a href=\"https://innovadental.net/es/blog/carillas-feldespaticas-vs-disilicato-de-litio\">carillas feldespáticas o de disilicato de litio</a>. Al terminar los surcos y retirar el resto de la resina, escaneas las preparaciones. En el laboratorio superponemos ese archivo con el STL del encerado aprobado, logrando que las piezas cerámicas definitivas repliquen de forma exacta la anatomía validada en boca dentro del <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital</a>."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Errores habituales en clínica con el mock-up y cómo resolverlos"
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Problema en clínica | Causa técnica habitual | Solución práctica\nRebabas masivas en la encía | La silicona sobrepasa la encía adherida y se deforma al presionar | Recortar la matriz de transferencia exactamente en el cenit gingival\nAlteración oclusal o mordida levantada | Exceso de grosor palatino en la llave o falta de topes dentarios | Biselar palatino y dejar al menos un diente posterior sin tocar como tope\nBurbujas en bordes incisales | Punta mezcladora levantada del fondo durante la inyección | Inyectar con la cánula sumergida de distal a mesial sin interrupciones\nPlano incisal inclinado en el diseño | Fotografía DSD tomada con la cámara rotada respecto a los ojos | Alinear el sensor estrictamente paralelo al plano bipupilar del paciente\nFractura de la resina al desinsertar | Zonas retentivas interproximales o desinserción antes de tiempo | Respetar el tiempo elástico del fabricante y retirar con tracción vertical pura"
+      },
+      {
+        "tipo": "h2",
+        "texto": "Planificación de encerados y mock-up en Innovadental"
+      },
+      {
+        "tipo": "p",
+        "texto": "En nuestro laboratorio dental en O Burgo (Culleredo, A Coruña) diseñamos encerados diagnósticos digitales y preparamos férulas de transferencia en silicona rosa para clínicas de toda Galicia. Partiendo de tus archivos STL y fotografías faciales, modelamos la anatomía e imprimimos modelos 3D con matrices ajustadas que evitan pérdidas de tiempo retirando excesos en gabinete. Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si tienes dudas con el escaneado o quieres revisar el diseño de un caso estético, llámanos al +34 981 65 20 66 o escríbenos mediante nuestro <a href=\"https://innovadental.net/es/contacte-innovadental\">formulario de contacto</a>."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuánto tiempo puede llevar el paciente un mock-up directo en boca?",
+        "a": "El mock-up directo con resina bisacrílica está concebido para evaluarse en la propia cita clínica. Si se deja de 24 a 48 horas para que el paciente lo valore con su entorno familiar, debe advertírsele de no consumir alimentos duros ni pegajosos; al no estar grabado ni adherido químicamente, los bordes finos pueden fracturarse o desprenderse con el esfuerzo masticatorio."
+      },
+      {
+        "q": "¿Cómo retirar el mock-up si la resina bisacrílica se traba en zonas retentivas?",
+        "a": "Si la resina queda encajada en troneras interdentales o abrasiones cervicales, nunca debe hacerse palanca brusca sobre el diente. Lo indicado es realizar una hendidura vestibular superficial con una fresa de diamante de grano fino o disco de pulido y abrir suavemente la estructura con un botador plano o pinza mosquito."
+      }
+    ],
+    "tags": [
+      "Encerado diagnóstico",
+      "Mock-up dental",
+      "Diseño de sonrisa DSD",
+      "Odontología digital"
+    ],
+    "foto": "cat-encerado-1.png",
+    "alt_foto": "Modelo impreso 3D y encerado diagnóstico digital para mock-up en clínica"
+  },
+  "brief": {
+    "intencion": "Comercial e informativa técnica B2B: odontólogos y clínicas dentales que buscan comprender o contratar el servicio de encerado diagnóstico digital y mock-up, conociendo el flujo CAD/CAM, los registros requeridos (STL y fotografía DSD), los tipos de llaves de transferencia (férulas de silicona o acetato) y la validación funcional/estética en boca previa al tallado mínimamente invasivo.",
+    "respuesta_directa": "El encerado diagnóstico digital y el mock-up intraoral constituyen el protocolo de planificación estética y funcional reversible que permite previsualizar la rehabilitación en boca antes de tallar tejido sano. El flujo comienza con el envío al laboratorio de los archivos STL y el protocolo fotográfico de diseño de sonrisa (DSD); mediante software CAD (como exocad) se diseña la anatomía aditiva y se imprime el modelo 3D. A partir de este se confecciona una llave o férula de silicona rígida (o acetato transparente) para transferir resina bisacrílica a boca, validando dinámicas fonéticas, línea de sonrisa y guías oclusales.",
+    "que_cubren_los_top": [
+      "Definición básica de encerado diagnóstico digital frente al encerado convencional en cera sobre escayola.",
+      "El concepto de DSD (Digital Smile Design) integrando fotografías faciales con el escaneado intraoral.",
+      "Utilidad del mock-up con resina bisacrílica para aumentar la aceptación del presupuesto por parte del paciente.",
+      "Pasos clínicos elementales: colocación de la resina en la matriz de silicona y retirada de excesos.",
+      "Mención genérica a la odontología mínimamente invasiva (tallar sobre el mock-up)."
+    ],
+    "huecos": [
+      "Diferenciación protésica estricta entre encerado aditivo (permite mock-up directo sin anestesia ni tallado) frente a sustractivo o mixto (requiere desgaste previo o mock-up fresado/impreso clip-on).",
+      "Detalle constructivo de la férula de silicona en laboratorio: uso de silicona de adición pesada combinada con fluida de laboratorio (o silicona transparente para fotopolimerización), recorte exacto a nivel del cenit gingival y biselado palatino para evitar rebarbas interdentales y sobremordidas.",
+      "Protocolo fotográfico y de escaneado exacto que necesita el técnico: fotografía de rostro completo en reposo, sonrisa amplia con contrastador, plano bipupilar alineado con el sensor y escaneo en oclusión habitual con registro de mordida dinámico.",
+      "El mock-up como guía de preparación guiada: técnica de tallado a través del mock-up (fresas de profundidad calibrada de 0,3 mm y 0,5 mm) para conservar esmalte para la futura adhesión de carillas de disilicato o feldespáticas.",
+      "Pruebas funcionales y fonéticas obligatorias durante la sesión de mock-up: evaluación de fonemas labiodentales y sibilantes (F, V, S, 66) y verificación de desoclusión canina antes de aprobar el diseño definitivo.",
+      "Logística local en Galicia: tiempos de respuesta en el envío de archivos digitales, entrega de modelos impresos y férulas de silicona con calibración oclusal."
+    ],
+    "preguntas_reales": [
+      "¿Qué registros mínimos necesita el laboratorio para diseñar un encerado digital DSD?",
+      "¿Cuándo es necesario tallar antes de hacer el mock-up y cuándo puede ser puramente aditivo?",
+      "¿Qué tipo de silicona de laboratorio es mejor para la férula de mock-up: masilla con fluida o silicona transparente?",
+      "¿Cómo evitar que queden rebabas interproximales de resina bisacrílica que bloqueen la mordida o dañen la encía?",
+      "¿Se puede utilizar el mismo archivo STL del encerado para fabricar las carillas definitivas y los provisionales?"
+    ],
+    "estructura": [
+      "Encerado diagnóstico digital y mock-up: el estándar de predictibilidad estética y biomecánica",
+      "Registros clínicos necesarios: protocolo de escaneado intraoral (STL/PLY) y serie fotográfica facial DSD",
+      "Del software CAD a la clínica: diseño de sonrisa en exocad y confección de férulas de silicona de laboratorio",
+      "Encerado aditivo vs. sustractivo: cuándo es viable el mock-up directo sin tocar esmalte",
+      "Protocolo de prueba clínica paso a paso: resina bisacrílica, validación fonética, estética y funcional",
+      "Tallado mínimamente invasivo a través del mock-up y transferencia matemática a la restauración definitiva",
+      "Innovadental: soporte digital y protésico para clínicas dentales de Galicia"
+    ],
+    "palabras_objetivo": 2000,
+    "entidades": [
+      "Encerado diagnóstico digital",
+      "Mock-up directo",
+      "Mock-up clip-on",
+      "DSD (Digital Smile Design)",
+      "exocad DentalCAD",
+      "Resina bisacrílica",
+      "Silicona de adición (VPS / PVS)",
+      "Silicona transparente de laboratorio",
+      "Plano bipupilar",
+      "Línea media facial",
+      "Cenit gingival",
+      "Fresas de profundidad calibrada",
+      "Fonemas fricativos y sibilantes (F, V, S)",
+      "Guía canina y anterior",
+      "Disilicato de litio",
+      "Archivos STL / PLY / OBJ"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19227708/",
+        "dato": "Simon H, Magne P (2008): Demuestran la correlación obligatoria entre el encerado diagnóstico y la dinámica facial/labial para garantizar el éxito restaurador y biomecánico en estética dental."
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31411516/",
+        "dato": "Cattoni F et al. (2019): Comparativa de exactitud dimensional entre mock-ups digitales fresados/impresos y convencionales moldeados, demostrando desviaciones medias mínimas en flujos CAD/CAM (0,011 mm)."
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S002239131630134X",
+        "dato": "Güth JF et al. (The Journal of Prosthetic Dentistry): Protocolos de integración de archivos tridimensionales STL de escáneres intraorales con referencias faciales 2D/3D para restauraciones del sector anterior."
+      }
+    ]
+  },
+  "html": "<p><strong>El encerado diagnóstico digital y el mock-up intraoral permiten previsualizar la rehabilitación estética y funcional en boca de forma reversible antes de desgastar tejido dental.</strong> El flujo de trabajo parte de los archivos STL de la arcada y fotografías de sonrisa; sobre ellos diseñamos la anatomía en CAD y producimos un modelo tridimensional impreso. A partir de este modelo confeccionamos una llave de silicona rígida para trasladar resina bisacrílica al paciente, lo que permite evaluar fonética, proporciones faciales y guías de desoclusión en la misma cita.</p>\n<h2>Encerado aditivo o sustractivo: cuándo realizar un mock-up directo</h2>\n<p>Antes de programar al paciente para una prueba directa, conviene analizar la posición espacial de las piezas. El mock-up directo con llave de silicona solo es viable cuando el encerado es estrictamente aditivo: dientes lingualizados, bordes incisales desgastados, cierre de diastemas o casos con pérdida de dimensión vertical donde podemos aportar volumen hacia vestibular o incisal sin tocar estructura dental.</p>\n<p>Si el paciente presenta giroversiones marcadas o caninos muy vestibularizados, añadir resina sobre esa malposición derivaría en restauraciones sobrecontorneadas y perfiles de emergencia incompatibles con la salud gingival. En estas situaciones el encerado debe ser mixto o sustractivo. Para probarlo en boca existen dos caminos: hacer desgastes selectivos previos en esmalte guiados por calibradores, o recurrir a un mock-up tipo clip-on fresado o impreso en resina fina semirrígida, que permite al paciente valorar la longitud y curvatura asumiendo que el resalte vestibular se corregirá en el tallado definitivo.</p>\n<h2>Registros clínicos: escaneado intraoral y fotografías para DSD</h2>\n<p>El software CAD no puede adivinar la relación del diente con el labio ni la orientación de la cabeza. Para el modelo virtual necesitamos un escaneado de arcada completa con un margen generoso de encía insertada y fondo vestibular. En el laboratorio vemos a menudo que la presencia de saliva o reflejos lumínicos genera artefactos: el escáner interpreta ese brillo como volumen sólido y falsea el perfil cervical. Es imprescindible secar bien la superficie antes de escanear. Tienes los fallos más habituales detallados en nuestra guía sobre <a href=\"https://innovadental.net/es/blog/escaner-intraoral-errores-escaneado-protesis-fija\">errores de escaneado intraoral</a>.</p>\n<p>Junto al archivo STL o PLY de ambas arcadas en oclusión habitual, el diseño de sonrisa exige fotografías estandarizadas. La toma principal es una vista facial completa con sonrisa amplia, alineando con exactitud el plano bipupilar con el sensor de la cámara. Si la toma presenta una ligera inclinación respecto al horizonte, el diseño arrastrará un plano incisal cantado sin que el técnico pueda advertirlo en el modelo aislado. Añadimos una foto en reposo para calibrar la exposición incisal pasiva, una a 45 grados y tomas intraorales con contrastador negro, tal como explicamos en la guía sobre <a href=\"https://innovadental.net/es/blog/toma-de-color-dental-protocolo-fotografia-laboratorio\">protocolo fotográfico en clínica</a>.</p>\n<h2>Encerado diagnóstico digital en CAD y confección de llaves de silicona</h2>\n<p>En el software CAD importamos las mallas y las alineamos con las fotografías faciales para posicionar la línea media y el plano incisal respecto a las referencias craneales. Como demostraron Simon y Magne en su trabajo sobre diagnóstico estético, correlacionar la morfología dental con la dinámica facial evita modelos que lucen proporcionados en el zócalo pero resultan discordantes con la mímica del paciente.</p>\n<p>Aprobada la propuesta digital, imprimimos el modelo 3D y fabricamos la llave de transferencia. En Innovadental preparamos férulas de 1 a 8 piezas con silicona rosa de alta rigidez. El recorte de la matriz marca la diferencia en el sillón: recortamos el borde justo a nivel del cenit gingival y biselamos la vertiente palatina. Si la silicona invade la encía adherida, la presión al insertar en clínica aplasta el tejido y genera rebabas de resina que impiden el cierre oclusal completo.</p>\n<h2>Protocolo de prueba en clínica: estética, fonética y oclusión</h2>\n<p>Antes de cargar la matriz, aplica una película fina de glicerina sobre restauraciones antiguas de composite para evitar que la resina bisacrílica se adhiera químicamente a ellas. Rellena la férula de silicona rosa con resina bisacrílica de distal a mesial, manteniendo la cánula sumergida en el material para no atrapar burbujas de aire. Lleva la llave a boca con una presión uniforme y pasiva, manteniéndola estable durante la fase elástica indicada por el fabricante.</p>\n<p>Al retirar la llave con tracción vertical en el eje del diente, retira los excesos cervicales e interproximales con una hoja de bisturí del número 12 o una cureta periodontal bien afilada. Con el material pulido, la evaluación clínica debe seguir cuatro comprobaciones ordenadas:</p>\n<ul><li>Estética en reposo y sonrisa: el borde incisal del central superior debe asomar entre 1 y 3 mm con los labios entreabiertos en reposo. En sonrisa amplia, la curvatura incisal debe acompañar la concavidad del labio inferior sin colisionar con él.</li><li>Fonética labiodental con fonemas F y V: al pronunciar palabras como «foca» o «veinticinco», el borde incisal superior debe apoyarse con suavidad en la línea de transición húmedo-seca del labio inferior, sin atraparlo.</li><li>Fonética sibilante con la letra S: al decir números como «sesenta y seis», comprobamos el espacio libre fonético para verificar que los bordes incisales anteriores no choquen entre sí.</li><li>Oclusión estática y dinámica: revisamos que existan contactos céntricos bilaterales estables y que las guías canina y anterior generen una desoclusión inmediata y limpia del sector posterior en lateralidad y protrusión.</li></ul>\n<h2>Tallado guiado a través del mock-up para preservar esmalte</h2>\n<p>La aportación técnica más valiosa del mock-up consiste en servir como guía de tallado. Si desgastas el diente retirando previamente el material provisional, preparas a ciegas respecto al volumen final y corres el riesgo de sobretallar zonas lingualizadas, exponiendo dentina innecesariamente. El protocolo de tallado guiado utiliza fresas de profundidad calibrada (0,3 mm y 0,5 mm) actuando directamente sobre la resina bisacrílica del mock-up.</p>\n<p>Si el encerado proyectó un aumento de 0,3 mm hacia vestibular en un lateral lingualizado, una fresa de 0,5 mm pasada sobre el mock-up solo tocará 0,2 mm de tejido natural. Mantener la preparación dentro del esmalte garantiza una fuerza de unión micro-mecánica óptima al cementar <a href=\"https://innovadental.net/es/blog/carillas-feldespaticas-vs-disilicato-de-litio\">carillas feldespáticas o de disilicato de litio</a>. Al terminar los surcos y retirar el resto de la resina, escaneas las preparaciones. En el laboratorio superponemos ese archivo con el STL del encerado aprobado, logrando que las piezas cerámicas definitivas repliquen de forma exacta la anatomía validada en boca dentro del <a href=\"https://innovadental.net/es/blog/flujo-trabajo-digital-clinica-laboratorio-protesis\">flujo de trabajo digital</a>.</p>\n<h2>Errores habituales en clínica con el mock-up y cómo resolverlos</h2>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Problema en clínica</th><th>Causa técnica habitual</th><th>Solución práctica</th></tr></thead><tbody><tr><td>Rebabas masivas en la encía</td><td>La silicona sobrepasa la encía adherida y se deforma al presionar</td><td>Recortar la matriz de transferencia exactamente en el cenit gingival</td></tr><tr><td>Alteración oclusal o mordida levantada</td><td>Exceso de grosor palatino en la llave o falta de topes dentarios</td><td>Biselar palatino y dejar al menos un diente posterior sin tocar como tope</td></tr><tr><td>Burbujas en bordes incisales</td><td>Punta mezcladora levantada del fondo durante la inyección</td><td>Inyectar con la cánula sumergida de distal a mesial sin interrupciones</td></tr><tr><td>Plano incisal inclinado en el diseño</td><td>Fotografía DSD tomada con la cámara rotada respecto a los ojos</td><td>Alinear el sensor estrictamente paralelo al plano bipupilar del paciente</td></tr><tr><td>Fractura de la resina al desinsertar</td><td>Zonas retentivas interproximales o desinserción antes de tiempo</td><td>Respetar el tiempo elástico del fabricante y retirar con tracción vertical pura</td></tr></tbody></table></div>\n<h2>Planificación de encerados y mock-up en Innovadental</h2>\n<p>En nuestro laboratorio dental en O Burgo (Culleredo, A Coruña) diseñamos encerados diagnósticos digitales y preparamos férulas de transferencia en silicona rosa para clínicas de toda Galicia. Partiendo de tus archivos STL y fotografías faciales, modelamos la anatomía e imprimimos modelos 3D con matrices ajustadas que evitan pérdidas de tiempo retirando excesos en gabinete. Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible.</p>\n<p>Si tienes dudas con el escaneado o quieres revisar el diseño de un caso estético, llámanos al +34 981 65 20 66 o escríbenos mediante nuestro <a href=\"https://innovadental.net/es/contacte-innovadental\">formulario de contacto</a>.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Cuánto tiempo puede llevar el paciente un mock-up directo en boca?</h3><p>El mock-up directo con resina bisacrílica está concebido para evaluarse en la propia cita clínica. Si se deja de 24 a 48 horas para que el paciente lo valore con su entorno familiar, debe advertírsele de no consumir alimentos duros ni pegajosos; al no estar grabado ni adherido químicamente, los bordes finos pueden fracturarse o desprenderse con el esfuerzo masticatorio.</p>\n<h3>¿Cómo retirar el mock-up si la resina bisacrílica se traba en zonas retentivas?</h3><p>Si la resina queda encajada en troneras interdentales o abrasiones cervicales, nunca debe hacerse palanca brusca sobre el diente. Lo indicado es realizar una hendidura vestibular superficial con una fresa de diamante de grano fino o disco de pulido y abrir suavemente la estructura con un botador plano o pinza mosquito.</p>"
+}

@@ -1,39 +1,5 @@
 [
   {
-    "slug": "escaner-intraoral-errores-escaneado-protesis-fija",
-    "keyword": "errores escaneo intraoral",
-    "secundarias": [
-      "distorsion escaner intraoral",
-      "toma de impresion digital fallos",
-      "escaneo de margenes subgingivales",
-      "como enviar archivos stl al laboratorio"
-    ],
-    "intencion": "procedimiento",
-    "etapa": "descubrimiento",
-    "cluster": "flujo-digital",
-    "prioridad": 88,
-    "por_que": "Las consultas de 'laboratorio dental digital' e 'impresión digital' muestran tracción en GSC; los foros de odontólogos debaten frecuentemente por qué la corona baila o no sella en interproximal si el escáner marcaba verde.",
-    "enfoque": "Guía práctica con la experiencia de Luis en Innovadental: cómo los reflejos por saliva crean triángulos falsos de malla geométrica, la distorsión del stitching en arcada completa y claves clínicas para despejar márgenes subgingivales antes de enviar el STL.",
-    "estado": "publicado"
-  },
-  {
-    "slug": "escaner-tactil-industrial-ajuste-pasivo-implantes-galicia",
-    "keyword": "ajuste pasivo protesis implantes",
-    "secundarias": [
-      "escaner tactil laboratorio dental",
-      "tolerancia pasividad protesis sobre implantes",
-      "laboratorio implantes dentales galicia",
-      "fresado estructuras implantes coruña"
-    ],
-    "intencion": "comercial",
-    "etapa": "decision",
-    "cluster": "implantologia-avanzada",
-    "prioridad": 87,
-    "por_que": "GSC muestra cientos de impresiones en 'implantes coruña', 'laboratorio cad cam' y 'estructuras fresadas'; casi ningún laboratorio en Galicia visibiliza el escaneado táctil industrial por coordenadas (CMM) para rehabilitaciones completas, posicionando a Innovadental como referente de máxima precisión.",
-    "enfoque": "Explicación biomecánica de la tensión biológica en rehabilitaciones de más de 4 implantes y cómo el protocolo de palpado táctil industrial garantiza un ajuste pasivo micrométrico real sin depender de la refracción óptica.",
-    "estado": "publicado"
-  },
-  {
     "slug": "esqueletico-cromo-cobalto-cad-cam-vs-colado",
     "keyword": "esquelético cromo cobalto cad cam",
     "secundarias": [
@@ -80,22 +46,6 @@
     "prioridad": 85,
     "por_que": "Tras el buen posicionamiento del post de guías CBCT de implantes (pos. 4.4 en GSC), el público clínico busca expandir el flujo guiado a cirugías complejas de tejido blando, apicectomías guiadas y caninos retenidos, donde la oferta informativa de laboratorios es nula.",
     "enfoque": "Protocolo integral para confeccionar férulas guiadas en cirugías no implantológicas: fusionar CBCT con mallas de tejidos blandos para cortes milimétricos en apicectomías apicales, fenestraciones de caninos y recortes de rama mandibular.",
-    "estado": "pendiente"
-  },
-  {
-    "slug": "encerado-diagnostico-digital-mockup-clinico",
-    "keyword": "encerado diagnóstico digital mockup",
-    "secundarias": [
-      "diseño de sonrisa dsd laboratorio dental",
-      "férula mockup silicona laboratorio",
-      "comunicacion clinica laboratorio encerado funcional"
-    ],
-    "intencion": "procedimiento",
-    "etapa": "consideracion",
-    "cluster": "planificacion-estetica",
-    "prioridad": 84,
-    "por_que": "Muchos odontólogos estéticos buscan cómo transferir con precisión el diseño digital 3D a la boca del paciente sin perder información interproximal ni oclusal durante la prueba estética preliminar.",
-    "enfoque": "Flujo de trabajo paso a paso: recepción de STL y registros fotográficos, confección del prototipo impreso, férulas de 1 a 8 piezas con silicona rosa y validación clínica con el paciente antes de tocar tejido sano.",
     "estado": "pendiente"
   },
   {
@@ -481,6 +431,23 @@
     "estado": "publicado"
   },
   {
+    "slug": "escaner-intraoral-errores-escaneado-protesis-fija",
+    "keyword": "errores escaneo intraoral",
+    "secundarias": [
+      "distorsion escaner intraoral",
+      "toma de impresion digital fallos",
+      "escaneo de margenes subgingivales",
+      "como enviar archivos stl al laboratorio"
+    ],
+    "intencion": "procedimiento",
+    "etapa": "descubrimiento",
+    "cluster": "flujo-digital",
+    "prioridad": 88,
+    "por_que": "Las consultas de 'laboratorio dental digital' e 'impresión digital' muestran tracción en GSC; los foros de odontólogos debaten frecuentemente por qué la corona baila o no sella en interproximal si el escáner marcaba verde.",
+    "enfoque": "Guía práctica con la experiencia de Luis en Innovadental: cómo los reflejos por saliva crean triángulos falsos de malla geométrica, la distorsión del stitching en arcada completa y claves clínicas para despejar márgenes subgingivales antes de enviar el STL.",
+    "estado": "publicado"
+  },
+  {
     "slug": "carillas-feldespaticas-vs-disilicato-de-litio",
     "keyword": "carillas feldespáticas vs disilicato",
     "secundarias": [
@@ -494,6 +461,39 @@
     "prioridad": 88,
     "por_que": "La consulta de GSC sobre 'disilicato de litio' tiene volumen creciente pero el odontólogo estético duda entre la biomimética ultrafina de la feldespática pura (0.2-0.3 mm) y la resistencia mecánica del E-Max en casos sin tallado (Non-Prep).",
     "enfoque": "Comparativa desde la mesa de trabajo del técnico: grosor mínimo, transmisión lumínica, comportamiento adhesivo tras grabado fluorhídrico y cómo seleccionar una carilla Excellense según el sustrato del muñón subyacente.",
+    "estado": "publicado"
+  },
+  {
+    "slug": "escaner-tactil-industrial-ajuste-pasivo-implantes-galicia",
+    "keyword": "ajuste pasivo protesis implantes",
+    "secundarias": [
+      "escaner tactil laboratorio dental",
+      "tolerancia pasividad protesis sobre implantes",
+      "laboratorio implantes dentales galicia",
+      "fresado estructuras implantes coruña"
+    ],
+    "intencion": "comercial",
+    "etapa": "decision",
+    "cluster": "implantologia-avanzada",
+    "prioridad": 87,
+    "por_que": "GSC muestra cientos de impresiones en 'implantes coruña', 'laboratorio cad cam' y 'estructuras fresadas'; casi ningún laboratorio en Galicia visibiliza el escaneado táctil industrial por coordenadas (CMM) para rehabilitaciones completas, posicionando a Innovadental como referente de máxima precisión.",
+    "enfoque": "Explicación biomecánica de la tensión biológica en rehabilitaciones de más de 4 implantes y cómo el protocolo de palpado táctil industrial garantiza un ajuste pasivo micrométrico real sin depender de la refracción óptica.",
+    "estado": "publicado"
+  },
+  {
+    "slug": "encerado-diagnostico-digital-mockup-clinico",
+    "keyword": "encerado diagnóstico digital mockup",
+    "secundarias": [
+      "diseño de sonrisa dsd laboratorio dental",
+      "férula mockup silicona laboratorio",
+      "comunicacion clinica laboratorio encerado funcional"
+    ],
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "cluster": "planificacion-estetica",
+    "prioridad": 84,
+    "por_que": "Muchos odontólogos estéticos buscan cómo transferir con precisión el diseño digital 3D a la boca del paciente sin perder información interproximal ni oclusal durante la prueba estética preliminar.",
+    "enfoque": "Flujo de trabajo paso a paso: recepción de STL y registros fotográficos, confección del prototipo impreso, férulas de 1 a 8 piezas con silicona rosa y validación clínica con el paciente antes de tocar tejido sano.",
     "estado": "publicado"
   }
 ]

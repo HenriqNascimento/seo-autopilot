@@ -58,3 +58,9 @@
 {"t": "2026-11-14T13:11:34", "sitio": "innovadental", "evento": "edicion", "slug": "encerado-diagnostico-digital-mockup-clinico", "intento": 1, "nota_min": 9, "problemas": 1}
 {"t": "2026-11-14T13:11:35", "sitio": "innovadental", "evento": "error", "tipo": "RuntimeError", "motivo": "POST https://api.hubapi.com/cms/v3/blogs/tags -> 409: {\"correlationId\":\"01a1da2f-4e04-73e3-a02b-604a35d98676\",\"errorTokens\":{\"slug\":[\"cad-cam-dental\"],\"tagId\":[\"502546247923\"],\"tagName\":[\"CAD/CAM dental\"]},\"errorType\":\"NONUNIQUE_SLUG\",\"message\":\"Slug must be unique; slug 'cad-cam-dental' is already "}
 {"t": "2026-11-14T13:11:35", "sitio": "innovadental", "evento": "coste", "usd": 0.0979, "modelo": "gemini-3.8-flash", "entrada": 25879, "salida": 20926, "busquedas": 4}
+{"t": "2026-11-15T13:39:02", "sitio": "innovadental", "evento": "recuperacion", "motivo": "el último día de publicación falló; se publica hoy"}
+{"t": "2026-11-15T13:41:51", "sitio": "innovadental", "evento": "edicion", "slug": "encerado-diagnostico-digital-mockup-clinico", "intento": 1, "nota_min": 9, "problemas": 1}
+{"t": "2026-11-15T13:41:54", "sitio": "innovadental", "evento": "publicado", "slug": "encerado-diagnostico-digital-mockup-clinico", "url": "https://innovadental.net/es/blog/encerado-diagnostico-digital-mockup-clinico", "palabras": 1301}
+{"t": "2026-11-15T13:41:54", "sitio": "innovadental", "evento": "coste", "usd": 0.1239, "modelo": "gemini-3.8-flash", "entrada": 26970, "salida": 27643, "busquedas": 11}
+{"t": "2026-11-15T13:42:02", "sitio": "innovadental", "evento": "aprendizaje", "clusters": 8, "hipotesis": 0, "frecuencia_recomendada": 3}
+{"t": "2026-11-15T13:42:02", "sitio": "innovadental", "evento": "coste", "usd": 0.0057, "modelo": "gemini-3.8-flash", "entrada": 4260, "salida": 665, "busquedas": 0}

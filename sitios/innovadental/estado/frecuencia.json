@@ -1,7 +1,7 @@
 {
   "recomendacion": {
-    "fecha": "2026-11-08",
+    "fecha": "2026-11-15",
     "valor": 3,
-    "motivo": "Se registran solo 3 semanas de datos (menos del umbral mínimo de 8 semanas para evaluar estabilidad de indexación y saturación). Aunque hay señales tempranas positivas de impresiones y primeros clics en los dos artículos más antiguos, esto no constituye evidencia causal de tracción sostenida ni conversión. Se mantiene la frecuencia actual de 3 artículos/semana dentro del presupuesto asignado."
+    "motivo": "Se registran solo 4 semanas de evolución (menos de las 8 mínimas requeridas para evaluar tendencias consolidadas). Los artículos recientes se están indexando y las impresiones semanales crecen (de 0 a 519), pero no hay datos de conversión para establecer causalidad entre volumen y contactos. Se mantiene la frecuencia actual de 3 artículos/semana por prudencia metodológica y presupuesto."
   }
 }
