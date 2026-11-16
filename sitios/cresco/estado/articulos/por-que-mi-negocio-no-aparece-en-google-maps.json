@@ -1,0 +1,228 @@
+{
+  "articulo": {
+    "titulo": "Por qué mi negocio no aparece en Google Maps y cómo solucionarlo",
+    "titulo_seo": "Por qué mi negocio no aparece en Google Maps y qué hacer",
+    "meta_description": "¿Por qué mi negocio no aparece en Google Maps? Conoce las 5 causas principales (ficha, web o NAP) y cómo solucionarlo paso a paso para ganar clientes.",
+    "resumen": "Descubre los motivos técnicos y de posicionamiento por los que tu empresa no sale en Google Maps y los pasos concretos para volver a recibir llamadas.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>Si te preguntas por qué tu negocio no aparece en Google Maps, suele deberse a una ficha pendiente de verificar o suspendida, una categoría principal inadecuada o la falta de una web que respalde la relevancia de tus datos.</strong> Para entrar en los tres primeros puestos del mapa (el Local Pack), Google cruza la proximidad geográfica con la autoridad técnica de tu dominio y las opiniones de los clientes. Si descuidas esa base, el perfil queda invisible o enterrado en las últimas posiciones."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Por qué tu negocio no aparece en Google Maps: no existir frente a no posicionar"
+      },
+      {
+        "tipo": "p",
+        "texto": "Imagina esta escena: martes, 22:47, a un vecino se le rompe una tubería o le da un tirón en la espalda y busca desde el móvil «fisioterapeuta cerca de mí». Si tu negocio no figura entre los primeros resultados, para ese cliente no existes. Ahora bien, antes de tocar ningún ajuste en el ordenador, conviene separar dos problemas muy distintos."
+      },
+      {
+        "tipo": "p",
+        "texto": "El primero es no existir: buscas en Google Maps el nombre exacto de tu empresa junto al nombre de tu calle y el mapa responde que no hay resultados. Eso refleja un bloqueo administrativo, un error de verificación o una penalización. El segundo problema es no posicionar: tu ficha existe y sale cuando tecleas tu marca, pero desaparece cuando un vecino busca el servicio que prestas («taller mecánico», «clínica dental» o «academia de inglés»). En este segundo caso, tu ficha está activa, pero no compite."
+      },
+      {
+        "tipo": "p",
+        "texto": "En su <a href=\"https://support.google.com/business/answer/7091?hl=es\" target=\"_blank\" rel=\"noopener\">documentación oficial sobre clasificación local</a>, Google confirma que ordena los resultados según tres criterios: relevancia, distancia y prominencia. La distancia física depende de la ubicación del usuario y no la puedes alterar salvo que traslades tu local. En cambio, la relevancia de tus servicios y la prominencia de tu marca dependen directamente de la calidad de tus datos técnicos y de la autoridad que transmite tu negocio en internet."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Ficha pendiente de verificación, suspendida o duplicada"
+      },
+      {
+        "tipo": "p",
+        "texto": "Crear un Perfil de Empresa en Google no implica que esté publicado de inmediato. Muchos negocios rellenan los datos básicos y dan por sentado que ya son visibles, cuando en realidad la ficha permanece en un borrador privado. Hasta que no completas la verificación (habitualmente mediante un vídeo del local donde se aprecie el rótulo exterior y las herramientas de trabajo, o por código de seguridad), Google Maps mantiene oculto tu negocio."
+      },
+      {
+        "tipo": "p",
+        "texto": "Otro motivo habitual son las suspensiones repentinas. Suceden con frecuencia cuando se modifica el nombre comercial para añadir términos comerciales añadidos, como escribir «Pinturas Gómez - Pintores Económicos y Rápidos» en vez de «Pinturas Gómez». Google exige que el nombre en la ficha coincida con el rótulo de tu fachada y los documentos legales de la actividad. Si el sistema detecta términos promocionales añadidos artificialmente, suspende la ficha."
+      },
+      {
+        "tipo": "p",
+        "texto": "También influye la coincidencia de dirección. Si ejerces tu actividad en un centro de negocios, un coworking o una policlínica compartida con otros profesionales sin especificar despacho o puerta independiente, el algoritmo puede filtrar tu perfil al considerarlo un duplicado de otra empresa que ya operaba en ese mismo inmueble."
+      },
+      {
+        "tipo": "h2",
+        "texto": "El error de competir sin una página web conectada"
+      },
+      {
+        "tipo": "p",
+        "texto": "Existe la creencia de que basta con tener activa la ficha de Google Maps y publicar alguna foto de vez en cuando en redes sociales. La realidad técnica es muy distinta. La ficha de Maps no trabaja en el vacío: necesita una página web de referencia que confirme a los buscadores qué haces exactamente y en qué zona operas."
+      },
+      {
+        "tipo": "p",
+        "texto": "En el informe sectorial de <a href=\"https://whitespark.ca/local-search-ranking-factors/\" target=\"_blank\" rel=\"noopener\">Whitespark sobre factores de posicionamiento local</a>, los especialistas calculan que las señales del Perfil de Empresa suponen alrededor del 32% del peso en el Local Pack, seguidas por las opiniones (~20%) y las señales on-page de la web vinculada (~15%). Si tu ficha carece de una web propia, comienzas compitiendo con un 15% de desventaja respecto a cualquier competidor de tu calle que sí tenga su dominio bien estructurado."
+      },
+      {
+        "tipo": "p",
+        "texto": "La web aporta contexto temático indispensable. Si en la web de una clínica dental se detalla cada tratamiento con su propio apartado (implantología, ortodoncia invisible, periodoncia), Google asocia esos términos a la ficha de Maps. Sin una web que respalde esa información, el buscador solo dispone del breve texto descriptivo de la ficha para decidir si tu negocio encaja con lo que busca el usuario."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Categoría principal equivocada y secundarias sin definir"
+      },
+      {
+        "tipo": "p",
+        "texto": "La categoría principal de tu Perfil de Empresa es la etiqueta con mayor peso a la hora de determinar para qué búsquedas eres relevante. Un fallo habitual consiste en elegir una categoría genérica o desviada. Si un taller de chapa y pintura marca como categoría primaria «Taller de automóviles», tendrá más dificultades para aparecer cuando un conductor busque reparación de carrocería en su código postal."
+      },
+      {
+        "tipo": "p",
+        "texto": "Lo más sensato consiste en buscar en el mapa el servicio principal que deseas vender y observar qué categoría primaria tienen los tres negocios que encabezan los resultados en tu localidad. Tras seleccionar esa misma categoría exacta, conviene añadir entre dos y cuatro categorías secundarias que cubran tus otras especialidades reales, evitando ramas accesorias que puedan diluir la especialidad del negocio."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Incoherencias en los datos NAP y horarios desactualizados"
+      },
+      {
+        "tipo": "p",
+        "texto": "Las siglas <strong>NAP</strong> corresponden a Name, Address y Phone (Nombre, Dirección y Teléfono). Google rastrea directorios de empresas, colegios profesionales y páginas web para contrastar que los datos de un negocio son legítimos y estables en el tiempo."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si en tu web figura «Avenida de Finisterre 140, 1º A» con un teléfono móvil, pero en la ficha de Maps indicaste «Avda. Finisterre 140» con un número fijo, el sistema detecta una discrepancia. A nuestro juicio, ante datos contradictorios, el buscador tiende a desconfiar de la precisión de la ubicación y prefiere sugerir competidores cuyos datos coinciden en todas las plataformas."
+      },
+      {
+        "tipo": "p",
+        "texto": "El horario comercial también determina tu visibilidad en tiempo real. Si un usuario busca a las 19:30 y tu ficha indica que cerraste a las 19:00 (o no tienes el horario configurado), el mapa prioriza a los locales cercanos que marquen «Abierto ahora». Mantener los festivos y los horarios especiales al día evita que el sistema te esconda en momentos de decisión de compra."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Por qué un rival con menos reseñas puede aparecer por delante"
+      },
+      {
+        "tipo": "p",
+        "texto": "Resulta frustrante acumular cincuenta opiniones de cinco estrellas y ver cómo un competidor con doce reseñas se sitúa por encima en el mapa. Esta situación ocurre con frecuencia por tres motivos técnicos."
+      },
+      {
+        "tipo": "p",
+        "texto": "En primer lugar, por la cercanía física respecto al punto exacto de la búsqueda. En segundo lugar, por la antigüedad de las opiniones: cincuenta reseñas conseguidas hace dos años transmiten menos frescura al algoritmo que cinco valoraciones recibidas este último mes. Google valora el flujo continuo de opiniones reales. En tercer lugar, influye el texto de las reseñas: cuando los clientes mencionan de forma espontánea el servicio realizado («me cambiaron la batería al momento»), aportan datos temáticos directos a la ficha."
+      },
+      {
+        "tipo": "p",
+        "texto": "Responder a cada reseña, agradeciendo el comentario de forma personalizada, demuestra que el negocio mantiene un trato cercano y una gestión activa del establecimiento."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Qué buscan los motores de IA como ChatGPT y Gemini"
+      },
+      {
+        "tipo": "p",
+        "texto": "El comportamiento de los usuarios está cambiando. Cada semana más personas buscan recomendaciones directas en herramientas de inteligencia artificial como ChatGPT, Perplexity o Google Gemini, con preguntas del tipo: «¿Qué clínica dental de confianza me recomiendas en O Burgo?»."
+      },
+      {
+        "tipo": "p",
+        "texto": "Estos asistentes no se limitan a leer el mapa de Google. Necesitan validar la entidad del negocio cruzando fuentes independientes. A nuestro juicio, las IA buscan páginas web con datos estructurados Schema.org (específicamente con la tipología LocalBusiness) para corroborar horarios, ubicación y catálogo de servicios. Si un negocio local carece de web o sus datos no son legibles por estas herramientas, los modelos tienden a omitirlo en sus respuestas y recomiendan alternativas con presencia digital verificable."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Diagnóstico rápido según lo que ves en pantalla"
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Problema visible | Causa más probable | Qué conviene hacer\nNo sales ni buscando nombre exacto y calle | Ficha pendiente de verificar o suspendida | Accede a business.google.com con tu cuenta, revisa avisos en rojo y completa la verificación o apela.\nSales por tu marca pero no por tus servicios | Categoría primaria incorrecta o falta de web | Elige la categoría primaria exacta de los líderes de tu zona y vincula una web con páginas de servicios.\nHas caído de repente varios puestos | Incoherencia NAP o pérdida de frescura en reseñas | Unifica dirección y teléfono en todos tus perfiles y solicita valoraciones semanales a clientes recientes.\nTu competencia te supera con menos reseñas | Mayor proximidad, web más sólida o reseñas más recientes | Mantén un ritmo semanal constante de opiniones y mejora la estructura técnica de tu página web."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Cómo recuperar la visibilidad paso a paso"
+      },
+      {
+        "tipo": "ol",
+        "texto": "Comprueba el panel oficial: entra en business.google.com y confirma que tu perfil muestra la insignia de verificación sin avisos de sanción.\nAjusta el nombre oficial: elimina cualquier coletilla comercial agregada y mantén únicamente la denominación real de tu negocio.\nRevisa tus categorías: define una categoría principal específica para tu servicio más rentable y añade un máximo de cuatro secundarias.\nSincroniza tus datos NAP: copia la dirección exacta de Maps e intégrala con los mismos caracteres en el pie de tu página web y tus directorios locales.\nPide reseñas con método: envía un enlace directo a tus clientes por WhatsApp o correo al finalizar el trabajo para mantener un flujo regular de opiniones.\nVincula una web adaptada a móvil: enlaza tu ficha a una página rápida, con tus servicios detallados y con el marcado técnico que leen Google y los motores de IA."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si quieres conocer la situación técnica de tu negocio frente a los competidores de tu localidad, puedes utilizar nuestro <a href=\"https://cresco.es/diagnostico.html\">diagnóstico gratuito de presencia online</a>. En un par de minutos obtendrás una puntuación sobre el estado de tu ficha y de tu web."
+      },
+      {
+        "tipo": "p",
+        "texto": "En Cresco nos ocupamos del diseño y mantenimiento de páginas web para pequeños negocios por 69,90 €/mes + IVA, con optimización continua de Google Business Profile y posicionamiento local supervisado. Si quieres comprobar cómo trabajamos antes de decidirte, preparamos la portada de tu web gratis en 72 horas a través de <a href=\"https://cresco.es/#contacto\">nuestro formulario de contacto</a>."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuánto tiempo tarda en salir mi negocio en Google Maps tras verificar la ficha?",
+        "a": "Tras completar el proceso de verificación (por vídeo, SMS o correo postal), los datos suelen procesarse entre 24 y 72 horas. No obstante, la indexación completa en las búsquedas públicas del mapa puede tardar varios días adicionales mientras los servidores de Google sincronizan la información."
+      },
+      {
+        "q": "¿Cómo sé si mi ficha de Google Business Profile está suspendida?",
+        "a": "Al iniciar sesión en Google con la cuenta que administra el negocio y entrar en business.google.com, verás un aviso en rojo indicando el estado de «Suspendida» o «Inhabilitada». Desde ese mismo panel podrás solicitar una apelación adjuntando documentación acreditativa, como el modelo 036, un recibo de suministros o fotos del rótulo exterior del local."
+      },
+      {
+        "q": "¿Por qué Google Maps oculta mi negocio si comparto oficina con otra empresa?",
+        "a": "Cuando varias empresas operan en la misma dirección física y comparten categorías profesionales similares, el algoritmo puede interpretar que se trata de fichas duplicadas y filtra una de ellas en los resultados. Para evitarlo, es recomendable incluir un número de suite o despacho específico en la dirección y contar con señalización visible en el acceso al inmueble."
+      }
+    ],
+    "tags": [
+      "Google Maps",
+      "SEO Local",
+      "Google Business Profile"
+    ],
+    "foto": "innovadental.jpg",
+    "alt_foto": "Captura de la web de Innovadental desarrollada por Cresco para mejorar su presencia y posicionamiento local"
+  },
+  "brief": {
+    "intencion": "Informativa y transaccional con intención de diagnóstico técnico. El dueño de un negocio local busca desesperadamente resolver por qué su ficha no aparece en las búsquedas o en el mapa cuando busca sus servicios, pasando de la frustración técnica a buscar una solución operativa para salir en el Local Pack.",
+    "respuesta_directa": "Tu negocio no aparece en Google Maps principalmente por una ficha sin verificar o suspendida, una categoría primaria errónea o porque carece de una página web optimizada que respalde su relevancia y coherencia NAP. Para entrar en los 3 primeros puestos (Local Pack), Google cruza la cercanía con la autoridad de tu web y la frecuencia de tus reseñas locales.",
+    "que_cubren_los_top": [
+      "Problemas básicos de verificación de Google Business Profile (videollamada, SMS o carta postal).",
+      "Los tres pilares oficiales de Google: relevancia, distancia y prominencia.",
+      "Errores habituales al elegir la categoría principal y categorías secundarias.",
+      "Fichas duplicadas o marcadas como cerradas/suspendidas por infracción de directrices.",
+      "La importancia de conseguir reseñas y contestarlas regularmente.",
+      "El impacto del radio físico respecto al punto exacto donde busca el usuario."
+    ],
+    "huecos": [
+      "El papel crítico de la web: los competidores dicen 'añade una web si tienes', pero no explican que según estudios del sector (Whitespark) las señales on-page de una web conectada y los enlaces representan más del 20% del algoritmo del Local Pack.",
+      "El impacto en motores de IA (GEO): motores como Perplexity, Gemini o ChatGPT descartan negocios sin web con marcado semántico LocalBusiness porque no pueden verificar su entidad ni extraer servicios con fiabilidad.",
+      "El filtro de consistencia NAP (Nombre, Dirección, Teléfono): cómo una simple discrepancia entre la web, redes y directorios hace que Google desconfíe y hunda la ficha.",
+      "El factor 'Abierto ahora': el peso que ha ganado el horario de apertura actualizado en tiempo real en los rankings locales actuales.",
+      "Llamada a la acción orientada a resolver: la mayoría da listas interminables sin dar una herramienta de autoevaluación inmediata como el test gratuito de cresco.es/diagnostico.html."
+    ],
+    "preguntas_reales": [
+      "¿Por qué busco mi negocio en Google Maps y no aparece en mi propia calle?",
+      "¿Cuánto tiempo tarda en salir mi negocio en Google Maps después de verificar la ficha?",
+      "¿Puedo salir en los primeros puestos de Google Maps si no tengo página web?",
+      "¿Por qué mi competencia sale antes que yo en Google Maps si tiene menos reseñas?",
+      "¿Cómo arreglar una ficha de Google Business Profile suspendida o no pública?",
+      "¿Qué es la incoherencia NAP y cómo perjudica a mi negocio local?"
+    ],
+    "estructura": [
+      "¿Por qué no apareces en Google Maps? La diferencia entre no existir y no posicionar",
+      "Causa 1: La ficha no está verificada, está suspendida o duplicada",
+      "Causa 2: La ausencia de una web profesional conectada (y por qué te hunde frente a tus rivales)",
+      "Causa 3: Categoría principal equivocada y categorías secundarias vacías",
+      "Causa 4: Incoherencia en los datos NAP (Nombre, Dirección, Teléfono)",
+      "Causa 5: Falta de reseñas constantes y respuesta activa",
+      "Factores de posicionamiento local: Relevancia, distancia y prominencia",
+      "De Google Maps a la IA (GEO): lo que ChatGPT y Gemini buscan en tu negocio",
+      "Cómo solucionar tu visibilidad local paso a paso",
+      "Haz el test gratuito: comprueba la salud de tu presencia local en 2 minutos"
+    ],
+    "palabras_objetivo": 1650,
+    "entidades": [
+      "Google Business Profile",
+      "Local Pack",
+      "Google Maps",
+      "Consistencia NAP (Name, Address, Phone)",
+      "Relevancia, distancia y prominencia",
+      "Marcado Schema.org (LocalBusiness)",
+      "Categoría primaria y categorías secundarias",
+      "Reseñas en Google",
+      "Citas locales y directorios",
+      "SEO Local",
+      "GEO (Generative Engine Optimization)",
+      "Whitespark Local Search Ranking Factors"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://support.google.com/business/answer/7091?hl=es",
+        "dato": "Google documenta oficialmente que la clasificación de los resultados locales se fundamenta en tres criterios principales: relevancia, distancia y prominencia (o popularidad)."
+      },
+      {
+        "url": "https://whitespark.ca/local-search-ranking-factors/",
+        "dato": "En el estudio anual de factores de posicionamiento de Whitespark (Local Search Ranking Factors), las señales del Perfil de Empresa de Google suponen alrededor del 32% del peso en el Local Pack, seguidas por las señales de reseñas (~20%) y las señales on-page de la web asociada (~15%)."
+      }
+    ]
+  },
+  "html": "<p><strong>Si te preguntas por qué tu negocio no aparece en Google Maps, suele deberse a una ficha pendiente de verificar o suspendida, una categoría principal inadecuada o la falta de una web que respalde la relevancia de tus datos.</strong> Para entrar en los tres primeros puestos del mapa (el Local Pack), Google cruza la proximidad geográfica con la autoridad técnica de tu dominio y las opiniones de los clientes. Si descuidas esa base, el perfil queda invisible o enterrado en las últimas posiciones.</p>\n<h2>Por qué tu negocio no aparece en Google Maps: no existir frente a no posicionar</h2>\n<p>Imagina esta escena: martes, 22:47, a un vecino se le rompe una tubería o le da un tirón en la espalda y busca desde el móvil «fisioterapeuta cerca de mí». Si tu negocio no figura entre los primeros resultados, para ese cliente no existes. Ahora bien, antes de tocar ningún ajuste en el ordenador, conviene separar dos problemas muy distintos.</p>\n<p>El primero es no existir: buscas en Google Maps el nombre exacto de tu empresa junto al nombre de tu calle y el mapa responde que no hay resultados. Eso refleja un bloqueo administrativo, un error de verificación o una penalización. El segundo problema es no posicionar: tu ficha existe y sale cuando tecleas tu marca, pero desaparece cuando un vecino busca el servicio que prestas («taller mecánico», «clínica dental» o «academia de inglés»). En este segundo caso, tu ficha está activa, pero no compite.</p>\n<p>En su <a href=\"https://support.google.com/business/answer/7091?hl=es\" target=\"_blank\" rel=\"noopener\">documentación oficial sobre clasificación local</a>, Google confirma que ordena los resultados según tres criterios: relevancia, distancia y prominencia. La distancia física depende de la ubicación del usuario y no la puedes alterar salvo que traslades tu local. En cambio, la relevancia de tus servicios y la prominencia de tu marca dependen directamente de la calidad de tus datos técnicos y de la autoridad que transmite tu negocio en internet.</p>\n<h2>Ficha pendiente de verificación, suspendida o duplicada</h2>\n<p>Crear un Perfil de Empresa en Google no implica que esté publicado de inmediato. Muchos negocios rellenan los datos básicos y dan por sentado que ya son visibles, cuando en realidad la ficha permanece en un borrador privado. Hasta que no completas la verificación (habitualmente mediante un vídeo del local donde se aprecie el rótulo exterior y las herramientas de trabajo, o por código de seguridad), Google Maps mantiene oculto tu negocio.</p>\n<p>Otro motivo habitual son las suspensiones repentinas. Suceden con frecuencia cuando se modifica el nombre comercial para añadir términos comerciales añadidos, como escribir «Pinturas Gómez - Pintores Económicos y Rápidos» en vez de «Pinturas Gómez». Google exige que el nombre en la ficha coincida con el rótulo de tu fachada y los documentos legales de la actividad. Si el sistema detecta términos promocionales añadidos artificialmente, suspende la ficha.</p>\n<p>También influye la coincidencia de dirección. Si ejerces tu actividad en un centro de negocios, un coworking o una policlínica compartida con otros profesionales sin especificar despacho o puerta independiente, el algoritmo puede filtrar tu perfil al considerarlo un duplicado de otra empresa que ya operaba en ese mismo inmueble.</p>\n<h2>El error de competir sin una página web conectada</h2>\n<p>Existe la creencia de que basta con tener activa la ficha de Google Maps y publicar alguna foto de vez en cuando en redes sociales. La realidad técnica es muy distinta. La ficha de Maps no trabaja en el vacío: necesita una página web de referencia que confirme a los buscadores qué haces exactamente y en qué zona operas.</p>\n<p>En el informe sectorial de <a href=\"https://whitespark.ca/local-search-ranking-factors/\" target=\"_blank\" rel=\"noopener\">Whitespark sobre factores de posicionamiento local</a>, los especialistas calculan que las señales del Perfil de Empresa suponen alrededor del 32% del peso en el Local Pack, seguidas por las opiniones (~20%) y las señales on-page de la web vinculada (~15%). Si tu ficha carece de una web propia, comienzas compitiendo con un 15% de desventaja respecto a cualquier competidor de tu calle que sí tenga su dominio bien estructurado.</p>\n<p>La web aporta contexto temático indispensable. Si en la web de una clínica dental se detalla cada tratamiento con su propio apartado (implantología, ortodoncia invisible, periodoncia), Google asocia esos términos a la ficha de Maps. Sin una web que respalde esa información, el buscador solo dispone del breve texto descriptivo de la ficha para decidir si tu negocio encaja con lo que busca el usuario.</p>\n<h2>Categoría principal equivocada y secundarias sin definir</h2>\n<p>La categoría principal de tu Perfil de Empresa es la etiqueta con mayor peso a la hora de determinar para qué búsquedas eres relevante. Un fallo habitual consiste en elegir una categoría genérica o desviada. Si un taller de chapa y pintura marca como categoría primaria «Taller de automóviles», tendrá más dificultades para aparecer cuando un conductor busque reparación de carrocería en su código postal.</p>\n<p>Lo más sensato consiste en buscar en el mapa el servicio principal que deseas vender y observar qué categoría primaria tienen los tres negocios que encabezan los resultados en tu localidad. Tras seleccionar esa misma categoría exacta, conviene añadir entre dos y cuatro categorías secundarias que cubran tus otras especialidades reales, evitando ramas accesorias que puedan diluir la especialidad del negocio.</p>\n<h2>Incoherencias en los datos NAP y horarios desactualizados</h2>\n<p>Las siglas <strong>NAP</strong> corresponden a Name, Address y Phone (Nombre, Dirección y Teléfono). Google rastrea directorios de empresas, colegios profesionales y páginas web para contrastar que los datos de un negocio son legítimos y estables en el tiempo.</p>\n<p>Si en tu web figura «Avenida de Finisterre 140, 1º A» con un teléfono móvil, pero en la ficha de Maps indicaste «Avda. Finisterre 140» con un número fijo, el sistema detecta una discrepancia. A nuestro juicio, ante datos contradictorios, el buscador tiende a desconfiar de la precisión de la ubicación y prefiere sugerir competidores cuyos datos coinciden en todas las plataformas.</p>\n<p>El horario comercial también determina tu visibilidad en tiempo real. Si un usuario busca a las 19:30 y tu ficha indica que cerraste a las 19:00 (o no tienes el horario configurado), el mapa prioriza a los locales cercanos que marquen «Abierto ahora». Mantener los festivos y los horarios especiales al día evita que el sistema te esconda en momentos de decisión de compra.</p>\n<h2>Por qué un rival con menos reseñas puede aparecer por delante</h2>\n<p>Resulta frustrante acumular cincuenta opiniones de cinco estrellas y ver cómo un competidor con doce reseñas se sitúa por encima en el mapa. Esta situación ocurre con frecuencia por tres motivos técnicos.</p>\n<p>En primer lugar, por la cercanía física respecto al punto exacto de la búsqueda. En segundo lugar, por la antigüedad de las opiniones: cincuenta reseñas conseguidas hace dos años transmiten menos frescura al algoritmo que cinco valoraciones recibidas este último mes. Google valora el flujo continuo de opiniones reales. En tercer lugar, influye el texto de las reseñas: cuando los clientes mencionan de forma espontánea el servicio realizado («me cambiaron la batería al momento»), aportan datos temáticos directos a la ficha.</p>\n<p>Responder a cada reseña, agradeciendo el comentario de forma personalizada, demuestra que el negocio mantiene un trato cercano y una gestión activa del establecimiento.</p>\n<h2>Qué buscan los motores de IA como ChatGPT y Gemini</h2>\n<p>El comportamiento de los usuarios está cambiando. Cada semana más personas buscan recomendaciones directas en herramientas de inteligencia artificial como ChatGPT, Perplexity o Google Gemini, con preguntas del tipo: «¿Qué clínica dental de confianza me recomiendas en O Burgo?».</p>\n<p>Estos asistentes no se limitan a leer el mapa de Google. Necesitan validar la entidad del negocio cruzando fuentes independientes. A nuestro juicio, las IA buscan páginas web con datos estructurados Schema.org (específicamente con la tipología LocalBusiness) para corroborar horarios, ubicación y catálogo de servicios. Si un negocio local carece de web o sus datos no son legibles por estas herramientas, los modelos tienden a omitirlo en sus respuestas y recomiendan alternativas con presencia digital verificable.</p>\n<h2>Diagnóstico rápido según lo que ves en pantalla</h2>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Problema visible</th><th>Causa más probable</th><th>Qué conviene hacer</th></tr></thead><tbody><tr><td>No sales ni buscando nombre exacto y calle</td><td>Ficha pendiente de verificar o suspendida</td><td>Accede a business.google.com con tu cuenta, revisa avisos en rojo y completa la verificación o apela.</td></tr><tr><td>Sales por tu marca pero no por tus servicios</td><td>Categoría primaria incorrecta o falta de web</td><td>Elige la categoría primaria exacta de los líderes de tu zona y vincula una web con páginas de servicios.</td></tr><tr><td>Has caído de repente varios puestos</td><td>Incoherencia NAP o pérdida de frescura en reseñas</td><td>Unifica dirección y teléfono en todos tus perfiles y solicita valoraciones semanales a clientes recientes.</td></tr><tr><td>Tu competencia te supera con menos reseñas</td><td>Mayor proximidad, web más sólida o reseñas más recientes</td><td>Mantén un ritmo semanal constante de opiniones y mejora la estructura técnica de tu página web.</td></tr></tbody></table></div>\n<h2>Cómo recuperar la visibilidad paso a paso</h2>\n<ol><li>Comprueba el panel oficial: entra en business.google.com y confirma que tu perfil muestra la insignia de verificación sin avisos de sanción.</li><li>Ajusta el nombre oficial: elimina cualquier coletilla comercial agregada y mantén únicamente la denominación real de tu negocio.</li><li>Revisa tus categorías: define una categoría principal específica para tu servicio más rentable y añade un máximo de cuatro secundarias.</li><li>Sincroniza tus datos NAP: copia la dirección exacta de Maps e intégrala con los mismos caracteres en el pie de tu página web y tus directorios locales.</li><li>Pide reseñas con método: envía un enlace directo a tus clientes por WhatsApp o correo al finalizar el trabajo para mantener un flujo regular de opiniones.</li><li>Vincula una web adaptada a móvil: enlaza tu ficha a una página rápida, con tus servicios detallados y con el marcado técnico que leen Google y los motores de IA.</li></ol>\n<p>Si quieres conocer la situación técnica de tu negocio frente a los competidores de tu localidad, puedes utilizar nuestro <a href=\"https://cresco.es/diagnostico.html\">diagnóstico gratuito de presencia online</a>. En un par de minutos obtendrás una puntuación sobre el estado de tu ficha y de tu web.</p>\n<p>En Cresco nos ocupamos del diseño y mantenimiento de páginas web para pequeños negocios por 69,90 €/mes + IVA, con optimización continua de Google Business Profile y posicionamiento local supervisado. Si quieres comprobar cómo trabajamos antes de decidirte, preparamos la portada de tu web gratis en 72 horas a través de <a href=\"https://cresco.es/#contacto\">nuestro formulario de contacto</a>.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Cuánto tiempo tarda en salir mi negocio en Google Maps tras verificar la ficha?</h3><p>Tras completar el proceso de verificación (por vídeo, SMS o correo postal), los datos suelen procesarse entre 24 y 72 horas. No obstante, la indexación completa en las búsquedas públicas del mapa puede tardar varios días adicionales mientras los servidores de Google sincronizan la información.</p>\n<h3>¿Cómo sé si mi ficha de Google Business Profile está suspendida?</h3><p>Al iniciar sesión en Google con la cuenta que administra el negocio y entrar en business.google.com, verás un aviso en rojo indicando el estado de «Suspendida» o «Inhabilitada». Desde ese mismo panel podrás solicitar una apelación adjuntando documentación acreditativa, como el modelo 036, un recibo de suministros o fotos del rótulo exterior del local.</p>\n<h3>¿Por qué Google Maps oculta mi negocio si comparto oficina con otra empresa?</h3><p>Cuando varias empresas operan en la misma dirección física y comparten categorías profesionales similares, el algoritmo puede interpretar que se trata de fichas duplicadas y filtra una de ellas en los resultados. Para evitarlo, es recomendable incluir un número de suite o despacho específico en la dirección y contar con señalización visible en el acceso al inmueble.</p>"
+}

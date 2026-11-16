@@ -202,5 +202,39 @@
     "publicado": "2026-11-12",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "por-que-mi-negocio-no-aparece-en-google-maps",
+    "post_id": "por-que-mi-negocio-no-aparece-en-google-maps",
+    "url": "https://cresco.es/blog/por-que-mi-negocio-no-aparece-en-google-maps",
+    "titulo": "Por qué mi negocio no aparece en Google Maps y cómo solucionarlo",
+    "titulo_seo": "Por qué mi negocio no aparece en Google Maps y qué hacer",
+    "meta_description": "¿Por qué mi negocio no aparece en Google Maps? Conoce las 5 causas principales (ficha, web o NAP) y cómo solucionarlo paso a paso para ganar clientes.",
+    "keyword": "por que mi negocio no aparece en google maps",
+    "cluster": "seo-local",
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "prioridad": 93,
+    "palabras": 1698,
+    "h2": 9,
+    "tablas": 1,
+    "faq": 3,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "A",
+      "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
+      "estrato": "cresco:seo-local"
+    },
+    "foto": "innovadental.jpg",
+    "nota_editor": {
+      "utilidad": 9,
+      "rigor": 10,
+      "naturalidad": 9,
+      "seo": 10,
+      "experiencia": 9
+    },
+    "publicado": "2026-11-16",
+    "simulado": false,
+    "borrador": false
   }
 ]

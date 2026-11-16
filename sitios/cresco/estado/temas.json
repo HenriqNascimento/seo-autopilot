@@ -13,7 +13,8 @@
     "prioridad": 94,
     "por_que": "Tráfico altamente transaccional de pymes que evitan desembolsos iniciales de 2.000 €-3.000 € y buscan flexibilidad financiera sin ataduras.",
     "enfoque": "Comparación financiera transparente entre desembolso tradicional frente a suscripción con todo incluido (69,90 €/mes), explicando la transferencia de dominio y cancelación libre.",
-    "estado": "pendiente"
+    "estado": "repetido",
+    "motivo": "https://cresco.es/blog/pagina-web-sin-permanencia: El artículo existente aborda directamente el modelo de diseño web mediante suscripción/cuota mensual sin permanencia, explicando la propiedad del dominio, la cancelación libre y la comparación con contratos trampa o pagos tradicionales, canibalizand"
   },
   {
     "slug": "por-que-mi-negocio-no-aparece-en-google-maps",
@@ -29,7 +30,7 @@
     "prioridad": 93,
     "por_que": "Es la búsqueda de socorro más común de comercios y clínicas que crean su perfil de Google pero quedan enterrados en la página 3 o fuera del mapa de los 3 primeros resultados.",
     "enfoque": "Diagnóstico claro de las 5 causas principales: falta de web conectada, discordancia en datos NAP, ausencia de categorías clave y falta de reseñas. Invitar directamente al test gratuito en cresco.es/diagnostico.html.",
-    "estado": "pendiente"
+    "estado": "publicado"
   },
   {
     "slug": "mantenimiento-web-que-incluye-cuanto-cuesta",

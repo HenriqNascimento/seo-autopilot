@@ -56,3 +56,8 @@
 {"t": "2026-11-15T13:38:00", "sitio": "cresco", "evento": "aprendizaje", "clusters": 5, "hipotesis": 0, "frecuencia_recomendada": 3}
 {"t": "2026-11-15T13:39:02", "sitio": "cresco", "evento": "investigacion", "nuevos": 15, "en_cola": 24}
 {"t": "2026-11-15T13:39:02", "sitio": "cresco", "evento": "coste", "usd": 0.0194, "modelo": "gemini-3.8-flash", "entrada": 7074, "salida": 3769, "busquedas": 4}
+{"t": "2026-11-16T15:08:33", "sitio": "cresco", "evento": "tema_repetido", "slug": "pagina-web-por-suscripcion-o-pago-unico", "motivo": "https://cresco.es/blog/pagina-web-sin-permanencia: El artículo existente aborda directamente el modelo de diseño web mediante suscripción/cuota mensual sin permanencia, explicando la propiedad del dom"}
+{"t": "2026-11-16T15:12:30", "sitio": "cresco", "evento": "edicion", "slug": "por-que-mi-negocio-no-aparece-en-google-maps", "intento": 1, "nota_min": 9, "problemas": 2}
+{"t": "2026-11-16T15:12:32", "sitio": "cresco", "evento": "estatico_publicado", "slug": "por-que-mi-negocio-no-aparece-en-google-maps", "archivo": "public/blog/por-que-mi-negocio-no-aparece-en-google-maps.html"}
+{"t": "2026-11-16T15:12:32", "sitio": "cresco", "evento": "publicado", "slug": "por-que-mi-negocio-no-aparece-en-google-maps", "url": "https://cresco.es/blog/por-que-mi-negocio-no-aparece-en-google-maps", "palabras": 1698}
+{"t": "2026-11-16T15:12:32", "sitio": "cresco", "evento": "coste", "usd": 0.1483, "modelo": "gemini-3.8-flash", "entrada": 20939, "salida": 35360, "busquedas": 7}
