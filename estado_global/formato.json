@@ -157,6 +157,24 @@
         "publicado": "2026-11-16",
         "url": "https://cresco.es/blog/por-que-mi-negocio-no-aparece-en-google-maps",
         "sitio": "cresco"
+      },
+      {
+        "slug": "mantenimiento-web-que-incluye-cuanto-cuesta",
+        "brazo": "B",
+        "estrato": "cresco:precios-y-modelos",
+        "prioridad": 92,
+        "publicado": "2026-11-17",
+        "url": "https://cresco.es/blog/mantenimiento-web-que-incluye-cuanto-cuesta",
+        "sitio": "cresco"
+      },
+      {
+        "slug": "esqueletico-cromo-cobalto-cad-cam-vs-colado",
+        "brazo": "B",
+        "estrato": "innovadental:removible-metalica",
+        "prioridad": 86,
+        "publicado": "2026-11-17",
+        "url": "https://innovadental.net/es/blog/esqueletico-cromo-cobalto-cad-cam-vs-colado",
+        "sitio": "innovadental"
       }
     ]
   },

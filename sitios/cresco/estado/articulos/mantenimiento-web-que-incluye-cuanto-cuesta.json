@@ -1,0 +1,256 @@
+{
+  "articulo": {
+    "titulo": "Cuánto cuesta el mantenimiento de una web y qué debe incluir",
+    "titulo_seo": "Cuánto cuesta el mantenimiento de una web en España",
+    "meta_description": "Descubre cuánto cuesta el mantenimiento de una web en España: tarifas mensuales habituales, coste por hora técnica y qué debe incluir cada servicio.",
+    "resumen": "Precios reales de mantenimiento web en España: qué incluye una cuota mensual sensata, tarifas por horas ante averías y cómo evitar gastos imprevistos.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>Determinar cuánto cuesta el mantenimiento de una web en España depende de lo que incluya el servicio: una cuota mensual suele situarse entre 30 € y 150 € al mes (+ IVA), mientras que contratar soporte técnico puntual por horas oscila entre 40 € y 90 € por hora.</strong> La mayoría de tarifas económicas solo cubren copias de seguridad automáticas y parches de software, dejando fuera cualquier cambio de textos, fotos o nuevos servicios. Un mantenimiento integral que reúna servidor rápido, seguridad técnica, modificaciones periódicas y optimización para búsquedas locales evita averías imprevistas y sobrecostes en las facturas."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Tarifas de mantenimiento web en España: tabla comparativa"
+      },
+      {
+        "tipo": "p",
+        "texto": "En el sector del desarrollo web existe una dispersión de tarifas notable. Dos presupuestos que llevan la palabra «mantenimiento» en el concepto pueden no parecerse en nada: uno puede consistir en un script que actualiza extensiones de forma automática sin revisión visual, y otro en un servicio con soporte directo, cambios de contenido y ajustes de posicionamiento continuo."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para un negocio local (una clínica de fisioterapia, un taller de chapa y pintura, un restaurante o un despacho de asesoría), las opciones habituales en el mercado español se dividen en cuatro modalidades:"
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Tipo de mantenimiento | Coste mensual medio | Qué suele incluir | Qué suele quedar fuera\nBásico o preventivo | 20 € – 50 €/mes | Copias de seguridad automáticas, parches de plugins y CMS, cortafuegos | Cambios de texto, fotos, resolución de errores de código, rediseño\nEstándar para pymes | 50 € – 150 €/mes | Mantenimiento preventivo, pequeñas modificaciones mensuales de contenido, soporte por email | Nuevas secciones complejas, rediseño de identidad visual\nTiendas online (E-commerce) | 100 € – 350 €/mes | Pasarelas de pago, catálogo, seguridad prioritaria, optimización de base de datos | Fotografía de producto, redacción de fichas, campañas de publicidad\nSoporte por horas (sin cuota) | 40 € – 90 €/hora | Intervención puntual ante roturas de código o caídas del servidor | Prevención, copias de seguridad garantizadas, atención urgente"
+      },
+      {
+        "tipo": "p",
+        "texto": "A estos importes hay que sumar los gastos de infraestructura si el proveedor no los integra en la cuota: el registro y renovación del dominio (entre 10 € y 25 € al año) y el servidor de alojamiento o hosting (entre 80 € y 250 € al año para una web corporativa modesta). Conviene vigilar también ciertos conceptos inflados: autoridades abiertas como <a href=\"https://letsencrypt.org/about/\" target=\"_blank\" rel=\"noopener noreferrer\">Let's Encrypt</a> expiden certificados SSL/TLS estándar de forma gratuita para toda la red, por lo que cobrar un suplemento recurrente por una «licencia SSL básica» carece de justificación técnica."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Mantenimiento técnico preventivo frente al evolutivo"
+      },
+      {
+        "tipo": "p",
+        "texto": "Muchos autónomos pagan unos 35 € al mes creyendo que su página está atendida en todos los sentidos. Medio año después, necesitan actualizar el horario de verano, añadir un tratamiento nuevo a la lista de servicios o cambiar los precios de la carta. Al solicitarlo, llega la sorpresa: ese tipo de cambios no entra en la cuota y se factura aparte, normalmente a 60 € la hora."
+      },
+      {
+        "tipo": "p",
+        "texto": "El mantenimiento preventivo se limita a la maquinaria técnica. Comprueba que el gestor de contenidos (como WordPress) no tenga fallos de seguridad conocidos, aplica actualizaciones de componentes y guarda copias de respaldo. Es un proceso que en gran medida se realiza mediante herramientas automáticas."
+      },
+      {
+        "tipo": "p",
+        "texto": "El mantenimiento evolutivo, en cambio, se ocupa de la actividad comercial. Supone actualizar textos, renovar imágenes de trabajos realizados, publicar nuevos servicios, retocar botones de contacto y verificar que la web continúe recibiendo llamadas. Pagar solo por mantenimiento preventivo suele ser insuficiente: si nadie renueva la información que encuentran tus clientes potenciales, la web se queda obsoleta."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Pagar por horas sueltas o cuota fija: los números de un negocio local"
+      },
+      {
+        "tipo": "p",
+        "texto": "Una postura habitual cuando se abre un negocio es prescindir de cualquier cuota fija con la idea de llamar a un informático solo cuando algo falle."
+      },
+      {
+        "tipo": "p",
+        "texto": "Pongamos un ejemplo habitual: un martes a las diez de la noche, el servidor de una clínica veterinaria actualiza la versión de PHP. Esa actualización crea una incompatibilidad con el sistema de reservas y la web muestra una pantalla en blanco. Los clientes no pueden pedir cita y el responsable del negocio se da cuenta a la mañana siguiente porque el teléfono no suena."
+      },
+      {
+        "tipo": "p",
+        "texto": "Sin un contrato de soporte, toca buscar un programador de urgencia. Las tarifas de intervención puntual sin acuerdo previo se sitúan habitualmente entre 50 € y 85 € la hora. Detectar el conflicto, restaurar una copia de seguridad que funcione, limpiar tablas de la base de datos y comprobar que los correos vuelven a llegar suele requerir entre tres y cinco horas de trabajo. Esa sola avería cuesta entre 180 € y 400 € + IVA."
+      },
+      {
+        "tipo": "p",
+        "texto": "Dos averías de ese estilo en doce meses, sumadas a tres retoques básicos de contenido (actualizar el teléfono, subir fotos nuevas de las instalaciones o retocar las tarifas), superan con rapidez los 700 € al año. A ese dinero hay que sumar el estrés de negociar presupuestos con prisas y el tiempo con la web caída. En nuestra <a href=\"https://cresco.es/blog/cuanto-cuesta-pagina-web-negocio-local\">guía sobre cuánto cuesta una página web para un negocio local</a> explicamos por qué el modelo tradicional de agencia (pago inicial de 1.500 € a 3.000 € con hosting y mantenimiento aparte) termina resultando más gravoso que una cuota mensual fija sin gastos ocultos."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Qué pasa si dejas tu web sin mantenimiento durante meses"
+      },
+      {
+        "tipo": "p",
+        "texto": "Una página web no es un cartel estático colgado en una pared. Es un sistema de software conectado a internet que se comunica de forma continua con servidores, navegadores y motores de búsqueda."
+      },
+      {
+        "tipo": "p",
+        "texto": "El riesgo más directo es el de seguridad. Según el informe de <a href=\"https://patchstack.com/whitepaper/state-of-wordpress-security-in-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Patchstack</a> sobre la seguridad en gestores de contenido, el 91 % de las vulnerabilidades registradas corresponden a plugins y temas de terceros, y los ataques automatizados suelen explotarlas en pocas horas desde que se hacen públicas. Por su parte, el <a href=\"https://www.incibe.es/empresas/guias/gestion-crisis-ciberseguridad-empresas\" target=\"_blank\" rel=\"noopener noreferrer\">Instituto Nacional de Ciberseguridad (INCIBE)</a> constata que más del 60 % de los incidentes gestionados en España afectan a pequeñas empresas y autónomos, provocando paradas en la actividad y costes de recuperación notables."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si una web sufre una infección por malware o inyección de spam, navegadores como Google Chrome activan avisos de advertencia en pantalla completa. La pérdida de visitas es inmediata y limpiar la reputación del dominio ante los filtros de búsqueda puede demorarse semanas."
+      },
+      {
+        "tipo": "p",
+        "texto": "El fallo más costoso, sin embargo, es el silencioso: la web parece cargar con normalidad, pero el formulario de contacto o el enlace a WhatsApp dejan de enviar datos tras una actualización del servidor. El cliente potencial cree que envió su consulta, no recibe respuesta y recurre a la clínica o al taller de al lado. Una web con lentitud o caídas recurrentes tiende a perder visibilidad en las búsquedas locales, tal como analizamos en nuestro artículo sobre <a href=\"https://cresco.es/blog/por-que-mi-negocio-no-aparece-en-google-maps\">por qué un negocio no aparece en Google Maps</a>."
+      },
+      {
+        "tipo": "p",
+        "texto": "Una prueba que puedes hacer hoy mismo en dos minutos: entra en tu web desde el móvil en modo incógnito, rellena el formulario de contacto con un mensaje de prueba y pulsa el enlace a WhatsApp. Es la comprobación más rápida para verificar que el canal comercial de tu negocio sigue abierto."
+      },
+      {
+        "tipo": "h2",
+        "texto": "El mantenimiento web ante Google y los motores de IA"
+      },
+      {
+        "tipo": "p",
+        "texto": "El mantenimiento de una página ya no se limita a corregir errores técnicos en WordPress y vigilar el servidor. Los hábitos de búsqueda han cambiado."
+      },
+      {
+        "tipo": "p",
+        "texto": "Quien busca un profesional de confianza ya no acude únicamente a Google Maps. Con frecuencia, los usuarios recurren a herramientas de inteligencia artificial como ChatGPT, Perplexity o Gemini con preguntas detalladas: «¿Qué taller mecánico en A Coruña repara cajas de cambio automáticas?» o «Recomiéndame una clínica dental para implantes cerca de mí»."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para que estos sistemas entiendan la información de tu negocio, la web requiere optimización GEO (Generative Engine Optimization). Esto implica mantener al día los datos estructurados (etiquetas Schema.org que especifican tu actividad, dirección física y servicios), asegurar que los datos de contacto coincidan exactamente con tu ficha de Google Business Profile y vigilar la velocidad de carga para que las imágenes nuevas no penalicen la experiencia en dispositivos móviles."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Soporte por WhatsApp frente a plataformas de tickets"
+      },
+      {
+        "tipo": "p",
+        "texto": "La forma de solicitar cambios marca el día a día del servicio. En muchas agencias tradicionales, cualquier petición exige entrar en un gestor de tickets, rellenar formularios con categorías técnicas y esperar respuesta durante dos o tres días."
+      },
+      {
+        "tipo": "p",
+        "texto": "Un autónomo que atiende clientes, gestiona pedidos o trabaja en el taller no dispone de tiempo para tramitar incidencias en un portal informático. El mantenimiento de un negocio de proximidad necesita canales inmediatos: enviar un audio o una foto por WhatsApp diciendo «Henrique, cerramos el próximo puente, cambia el horario en la web» ahorra tiempo y ayuda a que la modificación se publique sin demoras innecesarias."
+      },
+      {
+        "tipo": "p",
+        "texto": "Esa misma agilidad es la que agradecen tus clientes al entrar en tu página. Por eso resulta práctico <a href=\"https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local\">integrar un botón de WhatsApp en la web</a>: facilita el contacto directo desde el móvil y reduce las dudas del usuario."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Cinco comprobaciones antes de contratar el mantenimiento web"
+      },
+      {
+        "tipo": "p",
+        "texto": "Antes de aceptar un presupuesto o autorizar un cargo bancario recurrente, conviene aclarar estos cinco puntos por escrito:"
+      },
+      {
+        "tipo": "ol",
+        "texto": "Titularidad del dominio: comprueba en un buscador whois que el registro figure a tu nombre y que puedas transferirlo sin coste si decides cambiar de proveedor.\nCambios de contenido incluidos: pregunta cuántas modificaciones de textos, fotos o nuevos servicios entran en la cuota mensual sin que te cobren horas extra.\nCopias de seguridad independientes: las copias de seguridad deben programarse de forma automática y guardarse en un servidor externo al del alojamiento principal.\nCanal de soporte y tiempo de respuesta: confirma por qué medio atenderán tus peticiones y cuál es el plazo máximo habitual para resolverlas.\nCompromiso de permanencia: descarta contratos que te exijan doce o veinticuatro meses obligatorios bajo penalización si el servicio no cumple lo acordado."
+      },
+      {
+        "tipo": "p",
+        "texto": "Este último detalle resulta determinante para tu tranquilidad. En nuestro artículo sobre <a href=\"https://cresco.es/blog/pagina-web-sin-permanencia\">diseño web sin permanencia</a> analizamos las condiciones contractuales más habituales y cómo evitar quedar atado a un proveedor que no responde."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Cuánto cuesta el mantenimiento de una web en Cresco: 69,90 € al mes todo incluido"
+      },
+      {
+        "tipo": "p",
+        "texto": "En Cresco planteamos una alternativa sencilla: que cualquier negocio local cuente con una web profesional y actualizada sin necesidad de realizar grandes desembolsos iniciales ni perder horas con gestiones técnicas."
+      },
+      {
+        "tipo": "p",
+        "texto": "Nuestro Plan Cresco Web cuesta 69,90 € al mes (+ IVA), sin permanencia: puedes darte de baja al terminar el mes en curso y el dominio es de tu propiedad, por lo que te lo transferimos sin costes añadidos. Incluye todo lo que tu negocio necesita para funcionar online:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Diseño a medida adaptado a teléfonos móviles y redacción de textos profesionales enfocados en conseguir clientes.\nAlojamiento en servidores rápidos, dominio propio y certificado SSL gestionado.\nFicha de Google Business Profile optimizada.\nCambios de contenido cada mes (textos, fotos, promociones o nuevos servicios).\nAgentes de IA supervisados por nuestro equipo que optimizan cada semana el SEO local, la visibilidad GEO (ChatGPT, Gemini, Perplexity) y la conversión de visitas.\nInforme mensual comprensible con los contactos y visitas registrados.\nSoporte por WhatsApp y correo electrónico."
+      },
+      {
+        "tipo": "p",
+        "texto": "Frente al modelo de agencia tradicional, donde el diseño inicial y el mantenimiento suelen rondar los 3.000 € durante el primer año, la inversión anual con Cresco es de 838,80 € (+ IVA), con la seguridad de que tu web evoluciona cada semana."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para que compruebes cómo trabajamos sin asumir riesgos, preparamos la portada de tu web gratis en 72 horas antes de pagar nada. Si la propuesta no te convence, no abonas nada. El proceso es directo: el primer día mantenemos una llamada de 30 minutos, en 72 horas tienes la portada gratis, entre los días 4 y 12 trabajamos el diseño y los textos, y a partir del día 14 tu web ya está publicada y mejorando. Limitamos las altas a 10 webs nuevas al mes."
+      },
+      {
+        "tipo": "p",
+        "texto": "Puedes revisar el estado de tu negocio con nuestro diagnóstico gratuito en <a href=\"https://cresco.es/diagnostico.html\">cresco.es/diagnostico.html</a> o solicitar la portada de tu web sin coste en <a href=\"https://cresco.es/#contacto\">nuestro formulario de contacto</a>."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Puedo encargarme yo mismo de actualizar mi web para ahorrar la cuota mensual?",
+        "a": "Es posible hacerlo si la web está desarrollada en un gestor como WordPress y dispones de tiempo para encargarte. La dificultad radica en que las actualizaciones de plugins a veces entran en conflicto con la versión de PHP del servidor o con la plantilla, provocando caídas de la página o errores en los formularios. Si decides gestionarlo por tu cuenta, programa siempre copias de seguridad completas antes de pulsar en actualizar y comprueba que los formularios envíen mensajes correctamente desde el móvil."
+      },
+      {
+        "q": "¿Qué ocurre con mi correo de empresa si la página web sufre una caída?",
+        "a": "Depende de cómo esté configurado el servicio. Si las cuentas de correo comparten el mismo servidor de alojamiento que la página web, una avería del servidor interrumpirá temporalmente la recepción de correos. En cambio, si el correo se gestiona a través de una plataforma externa como Google Workspace o Microsoft 365, el servicio de correo seguirá funcionando con normalidad aunque la web presente problemas técnicos."
+      }
+    ],
+    "tags": [
+      "Mantenimiento web",
+      "Precios diseño web",
+      "Negocios locales",
+      "SEO local"
+    ],
+    "foto": "lapacar.jpg",
+    "alt_foto": "Página web profesional para negocio local con mantenimiento continuo y soporte técnico"
+  },
+  "brief": {
+    "intencion": "Comercial e informativa: autónomos y dueños de pequeños negocios quieren saber los precios reales de mercado en España para mantener una web, qué entra exactamente en una cuota mensual y decidir si les compensa pagar por horas sueltas ante averías o contratar un plan mensual con soporte y mejoras continuas.",
+    "respuesta_directa": "En España, el mantenimiento de una web corporativa básica suele costar entre 30 € y 150 € al mes (+ IVA), mientras que pagar por soporte técnico imprevisto por horas oscila entre 40 € y 90 €/hora. La mayoría de tarifas baratas solo cubren copias de seguridad y parches técnicos, dejando fuera cambios de texto, mejoras de diseño y optimización de ventas. Un servicio integral 'todo incluido' alrededor de los 69,90 €/mes elimina los costes ocultos al combinar hosting, seguridad, cambios mensuales continuos y optimización para búsquedas locales y motores de inteligencia artificial.",
+    "que_cubren_los_top": [
+      "Rangos de precios habituales divididos en planes básicos (20-50 €/mes), estándar (50-150 €/mes) y tiendas online (100-300+ €/mes).",
+      "Diferenciación entre mantenimiento técnico preventivo (backups, actualización de plugins de WordPress, certificado SSL) y mantenimiento correctivo/evolutivo.",
+      "El coste por horas de intervención técnica puntual en agencias o freelancers (entre 40 € y 100 €/hora).",
+      "Costes fijos externos obligatorios que suelen ir aparte: renovación de dominio anual (9-20 €/año) y hosting (10-30 €/mes).",
+      "Riesgos de no mantener una web WordPress: hackeos, incompatibilidad de plugins, lentitud y webs caídas."
+    ],
+    "huecos": [
+      "Nadie aborda la trampa del 'mantenimiento técnico fantasma': pagar 30-40 €/mes para que un script actualice plugins, pero cuando el autónomo necesita cambiar el menú, un teléfono o un horario le cobran 60 € por hora aparte.",
+      "Falta de enfoque en la visibilidad moderna (GEO y motores de IA): las guías solo hablan de parches de seguridad para WordPress, omitiendo que hoy una clínica o taller necesita estar optimizado tanto para Google Maps como para ChatGPT, Perplexity y Gemini.",
+      "La fricción de los sistemas de tickets tradicionales frente a la agilidad del soporte directo por WhatsApp para autónomos que están atendiendo pacientes o clientes en el mostrador.",
+      "La falacia del 'pago único por hacer la web': hacer números de cuánto acaba costando en 3 años una web tradicional (desarrollo inicial alto + hosting + averías por horas) frente al modelo de cuota mensual fija todo incluido sin permanencia."
+    ],
+    "preguntas_reales": [
+      "¿Qué incluye exactamente el mantenimiento de una web y qué se cobra aparte?",
+      "¿Cuánto cuesta la hora de un técnico web si solo lo llamo cuando algo se rompe?",
+      "¿Puedo encargarme yo mismo de actualizar mi web para ahorrar la cuota mensual?",
+      "¿El mantenimiento mensual me cubre cambiar fotos, textos o añadir nuevos servicios en la página?",
+      "¿Qué ocurre si dejo mi página web sin mantenimiento durante varios meses?",
+      "¿Por qué unas agencias cobran 25 € al mes y otras piden más de 150 €/mes por lo mismo?",
+      "¿El mantenimiento web garantiza que mi negocio aparezca en Google y atraiga clientes?"
+    ],
+    "estructura": [
+      "Cuánto cuesta el mantenimiento web en España: tabla comparativa y rangos de precio en 2026",
+      "¿Qué incluye realmente el mantenimiento web (y qué suele quedarse fuera)?",
+      "Mantenimiento técnico preventivo vs. mantenimiento evolutivo: por qué tu negocio necesita ambos",
+      "Soporte por horas sueltas vs. cuota mensual fija: la comparativa real de números para autónomos",
+      "El coste invisible de no mantener tu web: ciberataques, caídas y pérdida de clientes locales",
+      "El nuevo mantenimiento en la era de la IA: visibilidad en Google (SEO) y motores generativos (GEO)",
+      "Por qué el soporte por WhatsApp y el 'todo incluido' por 69,90 €/mes es el modelo más rentable para tu negocio local"
+    ],
+    "palabras_objetivo": 1850,
+    "entidades": [
+      "WordPress",
+      "WooCommerce",
+      "Plugins y temas desactualizados",
+      "Certificado SSL (Let's Encrypt)",
+      "Copias de seguridad (Backups)",
+      "Hosting compartido y Cloud",
+      "Bolsa de horas de soporte",
+      "Mantenimiento preventivo vs evolutivo",
+      "Core Web Vitals y velocidad de carga",
+      "INCIBE (Instituto Nacional de Ciberseguridad)",
+      "SLA (Acuerdo de nivel de servicio)",
+      "SEO local y Google Business Profile",
+      "GEO (Generative Engine Optimization)",
+      "Soporte por WhatsApp",
+      "Kit Digital"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.incibe.es/empresas/guias/gestion-crisis-ciberseguridad-empresas",
+        "dato": "El Instituto Nacional de Ciberseguridad (INCIBE) constata que más del 60 % de los incidentes gestionados en España afectan a pequeñas empresas y autónomos, con costes de recuperación considerables e interrupción grave de la actividad comercial."
+      },
+      {
+        "url": "https://patchstack.com/state-of-wordpress-security-2026/",
+        "dato": "El 91 % de las vulnerabilidades registradas en páginas web basadas en gestores de contenido proceden del ecosistema de plugins y temas de terceros instalados, siendo explotadas en promedio dentro de las primeras horas tras hacerse públicas si no hay mantenimiento constante."
+      },
+      {
+        "url": "https://letsencrypt.org/about/",
+        "dato": "Los certificados de seguridad SSL/TLS estándar para cifrado web son emitidos gratuitamente por la autoridad abierta Let's Encrypt, por lo que cobrar un cargo periódico extra desglosado como 'licencia SSL básica' es una práctica injustificada salvo certificados OV/EV específicos."
+      }
+    ]
+  },
+  "html": "<p><strong>Determinar cuánto cuesta el mantenimiento de una web en España depende de lo que incluya el servicio: una cuota mensual suele situarse entre 30 € y 150 € al mes (+ IVA), mientras que contratar soporte técnico puntual por horas oscila entre 40 € y 90 € por hora.</strong> La mayoría de tarifas económicas solo cubren copias de seguridad automáticas y parches de software, dejando fuera cualquier cambio de textos, fotos o nuevos servicios. Un mantenimiento integral que reúna servidor rápido, seguridad técnica, modificaciones periódicas y optimización para búsquedas locales evita averías imprevistas y sobrecostes en las facturas.</p>\n<h2>Tarifas de mantenimiento web en España: tabla comparativa</h2>\n<p>En el sector del desarrollo web existe una dispersión de tarifas notable. Dos presupuestos que llevan la palabra «mantenimiento» en el concepto pueden no parecerse en nada: uno puede consistir en un script que actualiza extensiones de forma automática sin revisión visual, y otro en un servicio con soporte directo, cambios de contenido y ajustes de posicionamiento continuo.</p>\n<p>Para un negocio local (una clínica de fisioterapia, un taller de chapa y pintura, un restaurante o un despacho de asesoría), las opciones habituales en el mercado español se dividen en cuatro modalidades:</p>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Tipo de mantenimiento</th><th>Coste mensual medio</th><th>Qué suele incluir</th><th>Qué suele quedar fuera</th></tr></thead><tbody><tr><td>Básico o preventivo</td><td>20 € – 50 €/mes</td><td>Copias de seguridad automáticas, parches de plugins y CMS, cortafuegos</td><td>Cambios de texto, fotos, resolución de errores de código, rediseño</td></tr><tr><td>Estándar para pymes</td><td>50 € – 150 €/mes</td><td>Mantenimiento preventivo, pequeñas modificaciones mensuales de contenido, soporte por email</td><td>Nuevas secciones complejas, rediseño de identidad visual</td></tr><tr><td>Tiendas online (E-commerce)</td><td>100 € – 350 €/mes</td><td>Pasarelas de pago, catálogo, seguridad prioritaria, optimización de base de datos</td><td>Fotografía de producto, redacción de fichas, campañas de publicidad</td></tr><tr><td>Soporte por horas (sin cuota)</td><td>40 € – 90 €/hora</td><td>Intervención puntual ante roturas de código o caídas del servidor</td><td>Prevención, copias de seguridad garantizadas, atención urgente</td></tr></tbody></table></div>\n<p>A estos importes hay que sumar los gastos de infraestructura si el proveedor no los integra en la cuota: el registro y renovación del dominio (entre 10 € y 25 € al año) y el servidor de alojamiento o hosting (entre 80 € y 250 € al año para una web corporativa modesta). Conviene vigilar también ciertos conceptos inflados: autoridades abiertas como <a href=\"https://letsencrypt.org/about/\" target=\"_blank\" rel=\"noopener\">Let's Encrypt</a> expiden certificados SSL/TLS estándar de forma gratuita para toda la red, por lo que cobrar un suplemento recurrente por una «licencia SSL básica» carece de justificación técnica.</p>\n<h2>Mantenimiento técnico preventivo frente al evolutivo</h2>\n<p>Muchos autónomos pagan unos 35 € al mes creyendo que su página está atendida en todos los sentidos. Medio año después, necesitan actualizar el horario de verano, añadir un tratamiento nuevo a la lista de servicios o cambiar los precios de la carta. Al solicitarlo, llega la sorpresa: ese tipo de cambios no entra en la cuota y se factura aparte, normalmente a 60 € la hora.</p>\n<p>El mantenimiento preventivo se limita a la maquinaria técnica. Comprueba que el gestor de contenidos (como WordPress) no tenga fallos de seguridad conocidos, aplica actualizaciones de componentes y guarda copias de respaldo. Es un proceso que en gran medida se realiza mediante herramientas automáticas.</p>\n<p>El mantenimiento evolutivo, en cambio, se ocupa de la actividad comercial. Supone actualizar textos, renovar imágenes de trabajos realizados, publicar nuevos servicios, retocar botones de contacto y verificar que la web continúe recibiendo llamadas. Pagar solo por mantenimiento preventivo suele ser insuficiente: si nadie renueva la información que encuentran tus clientes potenciales, la web se queda obsoleta.</p>\n<h2>Pagar por horas sueltas o cuota fija: los números de un negocio local</h2>\n<p>Una postura habitual cuando se abre un negocio es prescindir de cualquier cuota fija con la idea de llamar a un informático solo cuando algo falle.</p>\n<p>Pongamos un ejemplo habitual: un martes a las diez de la noche, el servidor de una clínica veterinaria actualiza la versión de PHP. Esa actualización crea una incompatibilidad con el sistema de reservas y la web muestra una pantalla en blanco. Los clientes no pueden pedir cita y el responsable del negocio se da cuenta a la mañana siguiente porque el teléfono no suena.</p>\n<p>Sin un contrato de soporte, toca buscar un programador de urgencia. Las tarifas de intervención puntual sin acuerdo previo se sitúan habitualmente entre 50 € y 85 € la hora. Detectar el conflicto, restaurar una copia de seguridad que funcione, limpiar tablas de la base de datos y comprobar que los correos vuelven a llegar suele requerir entre tres y cinco horas de trabajo. Esa sola avería cuesta entre 180 € y 400 € + IVA.</p>\n<p>Dos averías de ese estilo en doce meses, sumadas a tres retoques básicos de contenido (actualizar el teléfono, subir fotos nuevas de las instalaciones o retocar las tarifas), superan con rapidez los 700 € al año. A ese dinero hay que sumar el estrés de negociar presupuestos con prisas y el tiempo con la web caída. En nuestra <a href=\"https://cresco.es/blog/cuanto-cuesta-pagina-web-negocio-local\">guía sobre cuánto cuesta una página web para un negocio local</a> explicamos por qué el modelo tradicional de agencia (pago inicial de 1.500 € a 3.000 € con hosting y mantenimiento aparte) termina resultando más gravoso que una cuota mensual fija sin gastos ocultos.</p>\n<h2>Qué pasa si dejas tu web sin mantenimiento durante meses</h2>\n<p>Una página web no es un cartel estático colgado en una pared. Es un sistema de software conectado a internet que se comunica de forma continua con servidores, navegadores y motores de búsqueda.</p>\n<p>El riesgo más directo es el de seguridad. Según el informe de <a href=\"https://patchstack.com/whitepaper/state-of-wordpress-security-in-2026/\" target=\"_blank\" rel=\"noopener\">Patchstack</a> sobre la seguridad en gestores de contenido, el 91 % de las vulnerabilidades registradas corresponden a plugins y temas de terceros, y los ataques automatizados suelen explotarlas en pocas horas desde que se hacen públicas. Por su parte, el <a href=\"https://www.incibe.es/empresas/guias/gestion-crisis-ciberseguridad-empresas\" target=\"_blank\" rel=\"noopener\">Instituto Nacional de Ciberseguridad (INCIBE)</a> constata que más del 60 % de los incidentes gestionados en España afectan a pequeñas empresas y autónomos, provocando paradas en la actividad y costes de recuperación notables.</p>\n<p>Si una web sufre una infección por malware o inyección de spam, navegadores como Google Chrome activan avisos de advertencia en pantalla completa. La pérdida de visitas es inmediata y limpiar la reputación del dominio ante los filtros de búsqueda puede demorarse semanas.</p>\n<p>El fallo más costoso, sin embargo, es el silencioso: la web parece cargar con normalidad, pero el formulario de contacto o el enlace a WhatsApp dejan de enviar datos tras una actualización del servidor. El cliente potencial cree que envió su consulta, no recibe respuesta y recurre a la clínica o al taller de al lado. Una web con lentitud o caídas recurrentes tiende a perder visibilidad en las búsquedas locales, tal como analizamos en nuestro artículo sobre <a href=\"https://cresco.es/blog/por-que-mi-negocio-no-aparece-en-google-maps\">por qué un negocio no aparece en Google Maps</a>.</p>\n<p>Una prueba que puedes hacer hoy mismo en dos minutos: entra en tu web desde el móvil en modo incógnito, rellena el formulario de contacto con un mensaje de prueba y pulsa el enlace a WhatsApp. Es la comprobación más rápida para verificar que el canal comercial de tu negocio sigue abierto.</p>\n<h2>El mantenimiento web ante Google y los motores de IA</h2>\n<p>El mantenimiento de una página ya no se limita a corregir errores técnicos en WordPress y vigilar el servidor. Los hábitos de búsqueda han cambiado.</p>\n<p>Quien busca un profesional de confianza ya no acude únicamente a Google Maps. Con frecuencia, los usuarios recurren a herramientas de inteligencia artificial como ChatGPT, Perplexity o Gemini con preguntas detalladas: «¿Qué taller mecánico en A Coruña repara cajas de cambio automáticas?» o «Recomiéndame una clínica dental para implantes cerca de mí».</p>\n<p>Para que estos sistemas entiendan la información de tu negocio, la web requiere optimización GEO (Generative Engine Optimization). Esto implica mantener al día los datos estructurados (etiquetas Schema.org que especifican tu actividad, dirección física y servicios), asegurar que los datos de contacto coincidan exactamente con tu ficha de Google Business Profile y vigilar la velocidad de carga para que las imágenes nuevas no penalicen la experiencia en dispositivos móviles.</p>\n<h2>Soporte por WhatsApp frente a plataformas de tickets</h2>\n<p>La forma de solicitar cambios marca el día a día del servicio. En muchas agencias tradicionales, cualquier petición exige entrar en un gestor de tickets, rellenar formularios con categorías técnicas y esperar respuesta durante dos o tres días.</p>\n<p>Un autónomo que atiende clientes, gestiona pedidos o trabaja en el taller no dispone de tiempo para tramitar incidencias en un portal informático. El mantenimiento de un negocio de proximidad necesita canales inmediatos: enviar un audio o una foto por WhatsApp diciendo «Henrique, cerramos el próximo puente, cambia el horario en la web» ahorra tiempo y ayuda a que la modificación se publique sin demoras innecesarias.</p>\n<p>Esa misma agilidad es la que agradecen tus clientes al entrar en tu página. Por eso resulta práctico <a href=\"https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local\">integrar un botón de WhatsApp en la web</a>: facilita el contacto directo desde el móvil y reduce las dudas del usuario.</p>\n<h2>Cinco comprobaciones antes de contratar el mantenimiento web</h2>\n<p>Antes de aceptar un presupuesto o autorizar un cargo bancario recurrente, conviene aclarar estos cinco puntos por escrito:</p>\n<ol><li>Titularidad del dominio: comprueba en un buscador whois que el registro figure a tu nombre y que puedas transferirlo sin coste si decides cambiar de proveedor.</li><li>Cambios de contenido incluidos: pregunta cuántas modificaciones de textos, fotos o nuevos servicios entran en la cuota mensual sin que te cobren horas extra.</li><li>Copias de seguridad independientes: las copias de seguridad deben programarse de forma automática y guardarse en un servidor externo al del alojamiento principal.</li><li>Canal de soporte y tiempo de respuesta: confirma por qué medio atenderán tus peticiones y cuál es el plazo máximo habitual para resolverlas.</li><li>Compromiso de permanencia: descarta contratos que te exijan doce o veinticuatro meses obligatorios bajo penalización si el servicio no cumple lo acordado.</li></ol>\n<p>Este último detalle resulta determinante para tu tranquilidad. En nuestro artículo sobre <a href=\"https://cresco.es/blog/pagina-web-sin-permanencia\">diseño web sin permanencia</a> analizamos las condiciones contractuales más habituales y cómo evitar quedar atado a un proveedor que no responde.</p>\n<h2>Cuánto cuesta el mantenimiento de una web en Cresco: 69,90 € al mes todo incluido</h2>\n<p>En Cresco planteamos una alternativa sencilla: que cualquier negocio local cuente con una web profesional y actualizada sin necesidad de realizar grandes desembolsos iniciales ni perder horas con gestiones técnicas.</p>\n<p>Nuestro Plan Cresco Web cuesta 69,90 € al mes (+ IVA), sin permanencia: puedes darte de baja al terminar el mes en curso y el dominio es de tu propiedad, por lo que te lo transferimos sin costes añadidos. Incluye todo lo que tu negocio necesita para funcionar online:</p>\n<ul><li>Diseño a medida adaptado a teléfonos móviles y redacción de textos profesionales enfocados en conseguir clientes.</li><li>Alojamiento en servidores rápidos, dominio propio y certificado SSL gestionado.</li><li>Ficha de Google Business Profile optimizada.</li><li>Cambios de contenido cada mes (textos, fotos, promociones o nuevos servicios).</li><li>Agentes de IA supervisados por nuestro equipo que optimizan cada semana el SEO local, la visibilidad GEO (ChatGPT, Gemini, Perplexity) y la conversión de visitas.</li><li>Informe mensual comprensible con los contactos y visitas registrados.</li><li>Soporte por WhatsApp y correo electrónico.</li></ul>\n<p>Frente al modelo de agencia tradicional, donde el diseño inicial y el mantenimiento suelen rondar los 3.000 € durante el primer año, la inversión anual con Cresco es de 838,80 € (+ IVA), con la seguridad de que tu web evoluciona cada semana.</p>\n<p>Para que compruebes cómo trabajamos sin asumir riesgos, preparamos la portada de tu web gratis en 72 horas antes de pagar nada. Si la propuesta no te convence, no abonas nada. El proceso es directo: el primer día mantenemos una llamada de 30 minutos, en 72 horas tienes la portada gratis, entre los días 4 y 12 trabajamos el diseño y los textos, y a partir del día 14 tu web ya está publicada y mejorando. Limitamos las altas a 10 webs nuevas al mes.</p>\n<p>Puedes revisar el estado de tu negocio con nuestro diagnóstico gratuito en <a href=\"https://cresco.es/diagnostico.html\">cresco.es/diagnostico.html</a> o solicitar la portada de tu web sin coste en <a href=\"https://cresco.es/#contacto\">nuestro formulario de contacto</a>.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Puedo encargarme yo mismo de actualizar mi web para ahorrar la cuota mensual?</h3><p>Es posible hacerlo si la web está desarrollada en un gestor como WordPress y dispones de tiempo para encargarte. La dificultad radica en que las actualizaciones de plugins a veces entran en conflicto con la versión de PHP del servidor o con la plantilla, provocando caídas de la página o errores en los formularios. Si decides gestionarlo por tu cuenta, programa siempre copias de seguridad completas antes de pulsar en actualizar y comprueba que los formularios envíen mensajes correctamente desde el móvil.</p>\n<h3>¿Qué ocurre con mi correo de empresa si la página web sufre una caída?</h3><p>Depende de cómo esté configurado el servicio. Si las cuentas de correo comparten el mismo servidor de alojamiento que la página web, una avería del servidor interrumpirá temporalmente la recepción de correos. En cambio, si el correo se gestiona a través de una plataforma externa como Google Workspace o Microsoft 365, el servicio de correo seguirá funcionando con normalidad aunque la web presente problemas técnicos.</p>"
+}

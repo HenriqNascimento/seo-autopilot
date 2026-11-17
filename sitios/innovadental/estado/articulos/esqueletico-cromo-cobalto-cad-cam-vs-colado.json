@@ -1,0 +1,217 @@
+{
+  "articulo": {
+    "titulo": "Esquelético de cromo-cobalto CAD/CAM: ajuste pasivo y técnica SLM",
+    "titulo_seo": "Esquelético cromo cobalto CAD/CAM: ajuste pasivo",
+    "meta_description": "Ventajas del esquelético de cromo-cobalto CAD/CAM y sinterizado SLM en el ajuste pasivo. Parámetros de diseño para reducir retoques y proteger los pilares.",
+    "resumen": "Análisis técnico sobre la confección de esqueléticos de cromo-cobalto mediante diseño digital y sinterizado láser SLM: control de socavados, eliminación de tensiones y reducción de retoques en clínica.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>El esquelético de cromo-cobalto fabricado mediante CAD/CAM y sinterizado selectivo por láser (SLM) sustituye las variaciones dimensionales del colado a la cera perdida por un desajuste medio inferior a 40 µm.</strong> Al planificar el paralelizado y el alivio de zonas retentivas en software digital, la estructura asienta de forma pasiva sobre los apoyos oclusales. Esto elimina vectores de fuerza ortodóncicos sobre los dientes pilares y reduce el tiempo de adaptación en el gabinete dental."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Biomecánica y ajuste pasivo en prótesis parcial removible"
+      },
+      {
+        "tipo": "p",
+        "texto": "Durante años se ha asumido en odontología que el concepto de ajuste pasivo pertenecía casi con exclusividad a la prótesis sobre implantes. En prótesis parcial removible (PPR), la tolerancia clínica al desajuste ha sido más permisiva por la resiliencia del ligamento periodontal. Sin embargo, un esquelético metálico que no asienta con pasividad actúa como un aparato de ortodoncia: aplica vectores de fuerza continuos, torsiones vestibulolinguales e intrusiones asimétricas."
+      },
+      {
+        "tipo": "p",
+        "texto": "El módulo de elasticidad del cromo-cobalto ronda los 200 a 220 GPa. Hablamos de una aleación muy rígida. Si un apoyo oclusal queda alto 60 micras o si un brazo recíproco entra en contacto con el diente antes de que el retenedor supere el ecuador protésico, el pilar sufre una palanca en cada ciclo de masticación. El paciente suele referir una presión molesta durante los primeros días; lo que sucede en realidad es una migración forzada del diente en su alveolo para amoldarse a la discrepancia del metal."
+      },
+      {
+        "tipo": "p",
+        "texto": "El diseño digital permite trazar los planos guía con un paralelismo exacto respecto al eje de inserción. Cuando el conector mayor, los apoyos y los brazos estabilizadores contactan de manera simultánea y sin rozamientos parásitos, las fuerzas se transmiten en la dirección del eje axial de la raíz, preservando el remanente óseo."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Colado tradicional a la cera perdida frente a sinterizado láser SLM"
+      },
+      {
+        "tipo": "p",
+        "texto": "El colado analógico suma desviaciones en cada paso técnico. El modelado sobre revestimiento refractario depende de ceras sensibles a los cambios térmicos de la sala. Más adelante, la expansión del revestimiento fosfático debe compensar la contracción de solidificación del cromo-cobalto, que oscila entre el 2 % y el 2,3 % en volumen. Lograr un equilibrio exacto entre la dilatación del cilindro y la retracción del metal colado por centrifugación resulta sumamente complejo."
+      },
+      {
+        "tipo": "p",
+        "texto": "La fusión selectiva por láser (Selective Laser Melting o SLM) prescinde del cilindro y de la cera. Un láser de fibra funde micropartículas de polvo esférico de cromo-cobalto (con una granulometría habitual de 15 a 45 µm) sobre una plataforma, construyendo la estructura capa a capa con espesores de 20 a 30 µm."
+      },
+      {
+        "tipo": "p",
+        "texto": "Un ensayo in vitro publicado en el <em>Journal of Prosthodontic Research</em> (<a href=\"https://pubmed.ncbi.nlm.nih.gov/34615841/\">PMID 34615841</a>) evaluó retenedores confeccionados por SLM frente al colado clásico: tras someterse a 7.200 ciclos mecánicos de inserción y desinserción (el equivalente a unos cinco años de uso), los retenedores fabricados por SLM mantuvieron una fuerza retentiva residual significativamente mayor y una fatiga inferior, manteniendo ambos grupos una precisión de ajuste basal similar."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Paralelizado virtual y control exacto de socavados"
+      },
+      {
+        "tipo": "p",
+        "texto": "En el diseño digital de esqueléticos se utilizan programas específicos como el módulo PartialCAD de exocad o 3Shape Removable Partial Design. La determinación de la trayectoria de inserción se realiza con un paralelómetro virtual. Frente a la mina de grafito analógica, el software proyecta un mapa cromático que mide en décimas de milímetro las áreas retentivas infraecuatoriales."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para un retenedor circunferencial tipo Ackers en cromo-cobalto, la retención idónea se sitúa en un socavado estricto de 0,25 mm. Rebasar los 0,35 mm en una aleación tan rígida provoca deformación plástica del gancho o tensiones excesivas en el diente al desinsertar. Si se requiere mayor flexibilidad, como en ganchos a barra o retenedores tipo Roach en premolares inferiores, el software calibra el adelgazamiento del vástago para trabajar a 0,50 mm con seguridad."
+      },
+      {
+        "tipo": "p",
+        "texto": "El bloqueo de socavados no deseados también gana en predictibilidad. En lugar de aplicar y recortar cera de bloqueo a mano, el software genera ángulos de escape controlados (de 0° a 2°) bajo los conectores menores y planos guía. La estructura entra limpia hasta su posición final sin desgastar el esmalte ni tropezar en el recorrido."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Metalurgia del cromo-cobalto sinterizado y tratamiento térmico"
+      },
+      {
+        "tipo": "p",
+        "texto": "Las estructuras coladas presentan en ocasiones defectos microscópicos: rechupes por enfriamiento dispar en zonas de mayor volumen, inclusiones de revestimiento o porosidades por gases. Estas anomalías reducen la resistencia a la tracción y explican por qué algunos ganchos quiebran cuando se intentan activar en el gabinete."
+      },
+      {
+        "tipo": "p",
+        "texto": "El cromo-cobalto obtenido por sinterizado láser ofrece una masa homogénea, sin huecos y con densidades relativas superiores al 99,5 %. Sin embargo, el proceso acumula tensiones internas considerables: cada impacto puntual del haz funde el metal a más de 1.400 °C, enfriándose con rapidez contra el lecho de polvo."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para neutralizar estas tensiones residuales es imprescindible realizar un ciclo térmico de distensión (stress-relief) a unos 1.000 °C en atmósfera inerte de argón antes de separar la pieza de la plataforma de construcción. Si este tratamiento se omite y la estructura se corta en frío, las tensiones se liberan de golpe y provocan alabeos asimétricos. Una barra lingual o un conector palatino sometido a esa deformación microscópica no asentará de manera pasiva."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Flujo clínico con escáner intraoral en extremos libres"
+      },
+      {
+        "tipo": "p",
+        "texto": "En desdentados parciales delimitados por dientes naturales (clases III y IV de Kennedy), el escáner intraoral proporciona un registro excelente. Captura con nitidez las caras coronales, los descansos oclusales tallados y la encía adherida firme."
+      },
+      {
+        "tipo": "p",
+        "texto": "El reto surge en brechas edéntulas con extremo libre posterior (clases I y II de Kennedy). La mucosa alveolar presenta resiliencia compresiva y la cámara intraoral registra los tejidos en reposo estático. Si se modela la base acrílica sobre ese escaneado en reposo, cuando el paciente mastique con los molares artificiales se producirá una basculación distal que actuará como palanca sobre los pilares."
+      },
+      {
+        "tipo": "p",
+        "texto": "En extremos libres amplios resulta conveniente recurrir a dos opciones contrastadas:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Técnica de modelo corregido (altered cast): adaptar una cubeta individual sobre el esquelético metálico sinterizado para registrar la fibromucosa bajo presión funcional.\nImpresión de arrastre en cubeta individual con silicona pesada y fluida, vaciado en escayola tipo IV y posterior digitalización con escáner de laboratorio."
+      },
+      {
+        "tipo": "p",
+        "texto": "Al escanear en clínica, conviene secar con cuidado toda la zona. La saliva produce reflejos de luz que el software del escáner puede interpretar erróneamente como volumen en los rebordes desdentados."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Impacto en gabinete: ajuste y reducción de retoques"
+      },
+      {
+        "tipo": "p",
+        "texto": "La prueba de metal de un esquelético tradicional colado suele exigir pasta detectora de presión (PIP) y fresas de carburo para desgastar los apoyos o los planos guía que frenan el descenso. Ese desgaste en clínica conlleva el riesgo de debilitar grosores mínimos o dejar los apoyos oclusales demasiado finos."
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Parámetro clínico | Esquelético colado tradicional | Esquelético CAD/CAM sinterizado (SLM)\nDesajuste medio | 80 a 150 µm (variable según colado) | <40 µm (reproducible y homogéneo)\nDefectos estructurales | Riesgo de poros, rechupes e inclusiones | Estructura densa (>99,5 %)\nTensión sobre pilares | Frecuente por contracciones asimétricas | Mínima gracias al asiento pasivo\nTiempo de retoque en clínica | 20 a 45 minutos habituales | Mínimo (inserción guiada directa)\nResistencia a la fatiga del gancho | Pérdida de retención o riesgo de fractura | Mayor retención tras miles de ciclos"
+      },
+      {
+        "tipo": "p",
+        "texto": "Con la estructura sinterizada por láser, la cita de prueba se convierte en una simple verificación táctil. El armazón entra suavemente a lo largo del eje planificado, asienta con firmeza y ofrece una retención definida desde el primer instante."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Criterio de laboratorio en esqueléticos CAD/CAM"
+      },
+      {
+        "tipo": "p",
+        "texto": "En Innovadental trabajamos con clínicas de toda Galicia en prótesis removible. En el esquelético cuidamos que el modelado de la zona rosa resulte natural en boca y retenga la menor cantidad posible de restos, prestando atención al sellado periférico y al perfil de emergencia de los retenedores."
+      },
+      {
+        "tipo": "cita",
+        "texto": "Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si dudas con algún aspecto del software o con la preparación de apoyos en un caso complejo, llámanos. Revisamos el archivo contigo antes de enviar la estructura a sinterizado para asegurar que el ajuste en sillón sea exacto."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué tipo de alicate se debe usar si hace falta activar un gancho sinterizado en clínica?",
+        "a": "Se recomienda emplear un alicate de tres puntas (tipo Aderer) y aplicar fuerza de forma gradual únicamente en el tercio final del brazo retentivo. Aunque el cromo-cobalto sinterizado tolera mejor las deformaciones leves por carecer de porosidades, no debe forzarse el tercio medio ni el hombro rígido del gancho."
+      },
+      {
+        "q": "¿Se puede rebasar un esquelético CAD/CAM igual que una prótesis colada tradicional?",
+        "a": "Sí. Las rejillas de retención mecánica para el acrílico y los topes tisulares se diseñan con la misma función que en el método analógico. Los rebases directos en clínica o las impresiones de arrastre para rebase en laboratorio se ejecutan siguiendo el protocolo habitual."
+      }
+    ],
+    "tags": [
+      "Prótesis Removible",
+      "CAD/CAM",
+      "Cromo Cobalto"
+    ],
+    "foto": "cat-ppr-completa-1.jpg",
+    "alt_foto": "Estructura de prótesis removible esquelética de cromo cobalto diseñada por CAD y fabricada mediante sinterizado láser"
+  },
+  "brief": {
+    "intencion": "Comercial / Informativa técnica transaccional. Clínicas dentales y odontólogos buscan conocer el salto cualitativo entre el esquelético tradicional y el esquelético de cromo-cobalto fabricado mediante CAD/CAM (sinterizado láser SLM/DMLS), comparando exactitud del ajuste pasivo, reducción de retoques en sillón y fiabilidad clínica.",
+    "respuesta_directa": "El esquelético de cromo-cobalto fabricado mediante CAD/CAM y sinterizado selectivo por láser (SLM/DMLS) sustituye los errores acumulativos de la cera perdida y el colado por una precisión micrométrica repetible (desajustes <40 µm). Al diseñar digitalmente sobre escaneo intraoral o modelo maestro con paralelómetro virtual, se controlan con exactitud los planos guía, los alivios de retención y el asentamiento pasivo de los apoyos oclusales, eliminando las fuerzas ortodóncicas lesivas sobre los dientes pilares y minimizando las citas de repaso en gabinete.",
+    "que_cubren_los_top": [
+      "Definición general de la tecnología de sinterizado láser (SLM/DMLS) aplicada a estructuras de cromo-cobalto.",
+      "Eliminación de pasos analógicos del laboratorio: sin encerado manual, revestimientos refractarios ni colado por centrifugación.",
+      "Ventajas mecánicas: aleaciones homogéneas sin porosidades, inclusiones ni rechupes.",
+      "Ahorro de tiempos en el flujo de trabajo protésico y entrega de la estructura."
+    ],
+    "huecos": [
+      "Falta de análisis biomecánico profundo sobre el verdadero 'ajuste pasivo' en prótesis parcial removible (PPR): por qué un mal ajuste colado ejerce fuerzas ortodóncicas no deseadas sobre los pilares y cómo el CAD evita tensiones residuales.",
+      "Detalles técnicos del paralelizado virtual en software (exocad / 3Shape RPD): control de socavados a 0,25 mm / 0,50 mm, bloqueo calibrado de zonas retentivas y diseño de retenedores circunferenciales o de Ackers con elasticidad uniforme.",
+      "Protocolo de tratamiento térmico post-sinterizado (alivio de tensiones a ~1000 °C) antes de separar los soportes de la plataforma, un paso crítico que muchos centros obvian y causa deformación.",
+      "Gestión clínica de la impresión digital (IOS) en mucosas edéntulas resilientes (Kennedy I y II) vs. modelos digitalizados: cuándo la impresión híbrida o funcional sigue siendo obligada.",
+      "Comparativa real de tiempo de sillón en clínica: horas de alivio con fresa de carburo y pasta detectora de presión (PIP) frente al 'click' de inserción directo del esquelético digital."
+    ],
+    "preguntas_reales": [
+      "¿Tiene el esquelético de cromo cobalto por sinterizado láser el mismo ajuste o retención que el colado?",
+      "¿Se puede escanear con escáner intraoral una boca desdentada para hacer un esquelético CAD/CAM?",
+      "¿Cómo evita el software CAD las tensiones en los dientes pilares durante la inserción?",
+      "¿Se pueden romper o doblar los ganchos sinterizados si necesito ajustarlos en gabinete con alicates?",
+      "¿Qué ventajas aporta el Cr-Co sinterizado frente a las resinas termoplásticas o el titanio mecanizado en PPR?"
+    ],
+    "estructura": [
+      "Biomecánica y ajuste pasivo en PPR: el problema de las tensiones en los dientes pilares",
+      "Colado tradicional a la cera perdida vs. Sinterizado láser (SLM): ¿dónde se pierde la precisión?",
+      "Diseño digital en software CAD: paralelizado virtual, socavados exactos y retenciones controladas",
+      "Metalurgia del Cr-Co aditivo: homogeneidad, ausencia de poros y tratamiento térmico de descompresión",
+      "Flujo clínico con escáner intraoral o modelo digitalizado: limitaciones en extremos libres (Clases I y II)",
+      "Impacto en gabinete dental: reducción de citas de retoque y prueba en clínica",
+      "Criterio Innovadental: el puente digital entre la clínica gallega y el laboratorio especializado"
+    ],
+    "palabras_objetivo": 1900,
+    "entidades": [
+      "Selective Laser Melting (SLM)",
+      "Direct Metal Laser Sintering (DMLS)",
+      "Cromo-Cobalto (Co-Cr)",
+      "Ajuste pasivo",
+      "Paralelizado virtual",
+      "Ecuador dentario",
+      "Apoyo oclusal / cingular",
+      "Retenedores circunferenciales / Ackers / Roach",
+      "Planos guía",
+      "exocad DentalCAD (módulo PartialCAD)",
+      "3Shape Removable Partial Design",
+      "Contracción térmica de colado",
+      "Tratamiento térmico de distensión (Stress Relief Heat Treatment)",
+      "Clasificación de Kennedy",
+      "Pasta detectora de presión (PIP)"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37628867/",
+        "dato": "Estudios comparativos in vitro entre SLM y colado tradicional demuestran que ambas técnicas logran una inexactitud media por debajo de 40 µm, pero las estructuras SLM mantienen significativamente mejor la fuerza retentiva y la resistencia a la fatiga tras 7.200 ciclos de inserción/remoción."
+      },
+      {
+        "url": "https://www.glidewelldental.com/education/chairside-dental-magazine/volume-20-issue-3/selective-laser-melting-precision-fit-partial-dentures",
+        "dato": "El flujo de trabajo SLM para prótesis parciales de cromo-cobalto elimina las variaciones volumétricas del revestimiento y encerado, reduciendo drásticamente las horas de ajuste con fresas y pasta de presión en clínica dental."
+      },
+      {
+        "url": "https://cadmill.de/es/procedimientos-de-produccion/fusion-laser-selectiva-slm/",
+        "dato": "La tecnología de fusión láser funde polvo certificado de Co-Cr capa por capa sin precalentamiento ni rechupes, requiriendo un protocolo térmico controlado para eliminar tensiones residuales antes de pulir la estructura protésica."
+      }
+    ]
+  },
+  "html": "<p><strong>El esquelético de cromo-cobalto fabricado mediante CAD/CAM y sinterizado selectivo por láser (SLM) sustituye las variaciones dimensionales del colado a la cera perdida por un desajuste medio inferior a 40 µm.</strong> Al planificar el paralelizado y el alivio de zonas retentivas en software digital, la estructura asienta de forma pasiva sobre los apoyos oclusales. Esto elimina vectores de fuerza ortodóncicos sobre los dientes pilares y reduce el tiempo de adaptación en el gabinete dental.</p>\n<h2>Biomecánica y ajuste pasivo en prótesis parcial removible</h2>\n<p>Durante años se ha asumido en odontología que el concepto de ajuste pasivo pertenecía casi con exclusividad a la prótesis sobre implantes. En prótesis parcial removible (PPR), la tolerancia clínica al desajuste ha sido más permisiva por la resiliencia del ligamento periodontal. Sin embargo, un esquelético metálico que no asienta con pasividad actúa como un aparato de ortodoncia: aplica vectores de fuerza continuos, torsiones vestibulolinguales e intrusiones asimétricas.</p>\n<p>El módulo de elasticidad del cromo-cobalto ronda los 200 a 220 GPa. Hablamos de una aleación muy rígida. Si un apoyo oclusal queda alto 60 micras o si un brazo recíproco entra en contacto con el diente antes de que el retenedor supere el ecuador protésico, el pilar sufre una palanca en cada ciclo de masticación. El paciente suele referir una presión molesta durante los primeros días; lo que sucede en realidad es una migración forzada del diente en su alveolo para amoldarse a la discrepancia del metal.</p>\n<p>El diseño digital permite trazar los planos guía con un paralelismo exacto respecto al eje de inserción. Cuando el conector mayor, los apoyos y los brazos estabilizadores contactan de manera simultánea y sin rozamientos parásitos, las fuerzas se transmiten en la dirección del eje axial de la raíz, preservando el remanente óseo.</p>\n<h2>Colado tradicional a la cera perdida frente a sinterizado láser SLM</h2>\n<p>El colado analógico suma desviaciones en cada paso técnico. El modelado sobre revestimiento refractario depende de ceras sensibles a los cambios térmicos de la sala. Más adelante, la expansión del revestimiento fosfático debe compensar la contracción de solidificación del cromo-cobalto, que oscila entre el 2 % y el 2,3 % en volumen. Lograr un equilibrio exacto entre la dilatación del cilindro y la retracción del metal colado por centrifugación resulta sumamente complejo.</p>\n<p>La fusión selectiva por láser (Selective Laser Melting o SLM) prescinde del cilindro y de la cera. Un láser de fibra funde micropartículas de polvo esférico de cromo-cobalto (con una granulometría habitual de 15 a 45 µm) sobre una plataforma, construyendo la estructura capa a capa con espesores de 20 a 30 µm.</p>\n<p>Un ensayo in vitro publicado en el <em>Journal of Prosthodontic Research</em> (<a href=\"https://pubmed.ncbi.nlm.nih.gov/34615841/\" target=\"_blank\" rel=\"noopener\">PMID 34615841</a>) evaluó retenedores confeccionados por SLM frente al colado clásico: tras someterse a 7.200 ciclos mecánicos de inserción y desinserción (el equivalente a unos cinco años de uso), los retenedores fabricados por SLM mantuvieron una fuerza retentiva residual significativamente mayor y una fatiga inferior, manteniendo ambos grupos una precisión de ajuste basal similar.</p>\n<h2>Paralelizado virtual y control exacto de socavados</h2>\n<p>En el diseño digital de esqueléticos se utilizan programas específicos como el módulo PartialCAD de exocad o 3Shape Removable Partial Design. La determinación de la trayectoria de inserción se realiza con un paralelómetro virtual. Frente a la mina de grafito analógica, el software proyecta un mapa cromático que mide en décimas de milímetro las áreas retentivas infraecuatoriales.</p>\n<p>Para un retenedor circunferencial tipo Ackers en cromo-cobalto, la retención idónea se sitúa en un socavado estricto de 0,25 mm. Rebasar los 0,35 mm en una aleación tan rígida provoca deformación plástica del gancho o tensiones excesivas en el diente al desinsertar. Si se requiere mayor flexibilidad, como en ganchos a barra o retenedores tipo Roach en premolares inferiores, el software calibra el adelgazamiento del vástago para trabajar a 0,50 mm con seguridad.</p>\n<p>El bloqueo de socavados no deseados también gana en predictibilidad. En lugar de aplicar y recortar cera de bloqueo a mano, el software genera ángulos de escape controlados (de 0° a 2°) bajo los conectores menores y planos guía. La estructura entra limpia hasta su posición final sin desgastar el esmalte ni tropezar en el recorrido.</p>\n<h2>Metalurgia del cromo-cobalto sinterizado y tratamiento térmico</h2>\n<p>Las estructuras coladas presentan en ocasiones defectos microscópicos: rechupes por enfriamiento dispar en zonas de mayor volumen, inclusiones de revestimiento o porosidades por gases. Estas anomalías reducen la resistencia a la tracción y explican por qué algunos ganchos quiebran cuando se intentan activar en el gabinete.</p>\n<p>El cromo-cobalto obtenido por sinterizado láser ofrece una masa homogénea, sin huecos y con densidades relativas superiores al 99,5 %. Sin embargo, el proceso acumula tensiones internas considerables: cada impacto puntual del haz funde el metal a más de 1.400 °C, enfriándose con rapidez contra el lecho de polvo.</p>\n<p>Para neutralizar estas tensiones residuales es imprescindible realizar un ciclo térmico de distensión (stress-relief) a unos 1.000 °C en atmósfera inerte de argón antes de separar la pieza de la plataforma de construcción. Si este tratamiento se omite y la estructura se corta en frío, las tensiones se liberan de golpe y provocan alabeos asimétricos. Una barra lingual o un conector palatino sometido a esa deformación microscópica no asentará de manera pasiva.</p>\n<h2>Flujo clínico con escáner intraoral en extremos libres</h2>\n<p>En desdentados parciales delimitados por dientes naturales (clases III y IV de Kennedy), el escáner intraoral proporciona un registro excelente. Captura con nitidez las caras coronales, los descansos oclusales tallados y la encía adherida firme.</p>\n<p>El reto surge en brechas edéntulas con extremo libre posterior (clases I y II de Kennedy). La mucosa alveolar presenta resiliencia compresiva y la cámara intraoral registra los tejidos en reposo estático. Si se modela la base acrílica sobre ese escaneado en reposo, cuando el paciente mastique con los molares artificiales se producirá una basculación distal que actuará como palanca sobre los pilares.</p>\n<p>En extremos libres amplios resulta conveniente recurrir a dos opciones contrastadas:</p>\n<ul><li>Técnica de modelo corregido (altered cast): adaptar una cubeta individual sobre el esquelético metálico sinterizado para registrar la fibromucosa bajo presión funcional.</li><li>Impresión de arrastre en cubeta individual con silicona pesada y fluida, vaciado en escayola tipo IV y posterior digitalización con escáner de laboratorio.</li></ul>\n<p>Al escanear en clínica, conviene secar con cuidado toda la zona. La saliva produce reflejos de luz que el software del escáner puede interpretar erróneamente como volumen en los rebordes desdentados.</p>\n<h2>Impacto en gabinete: ajuste y reducción de retoques</h2>\n<p>La prueba de metal de un esquelético tradicional colado suele exigir pasta detectora de presión (PIP) y fresas de carburo para desgastar los apoyos o los planos guía que frenan el descenso. Ese desgaste en clínica conlleva el riesgo de debilitar grosores mínimos o dejar los apoyos oclusales demasiado finos.</p>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Parámetro clínico</th><th>Esquelético colado tradicional</th><th>Esquelético CAD/CAM sinterizado (SLM)</th></tr></thead><tbody><tr><td>Desajuste medio</td><td>80 a 150 µm (variable según colado)</td><td>&lt;40 µm (reproducible y homogéneo)</td></tr><tr><td>Defectos estructurales</td><td>Riesgo de poros, rechupes e inclusiones</td><td>Estructura densa (&gt;99,5 %)</td></tr><tr><td>Tensión sobre pilares</td><td>Frecuente por contracciones asimétricas</td><td>Mínima gracias al asiento pasivo</td></tr><tr><td>Tiempo de retoque en clínica</td><td>20 a 45 minutos habituales</td><td>Mínimo (inserción guiada directa)</td></tr><tr><td>Resistencia a la fatiga del gancho</td><td>Pérdida de retención o riesgo de fractura</td><td>Mayor retención tras miles de ciclos</td></tr></tbody></table></div>\n<p>Con la estructura sinterizada por láser, la cita de prueba se convierte en una simple verificación táctil. El armazón entra suavemente a lo largo del eje planificado, asienta con firmeza y ofrece una retención definida desde el primer instante.</p>\n<h2>Criterio de laboratorio en esqueléticos CAD/CAM</h2>\n<p>En Innovadental trabajamos con clínicas de toda Galicia en prótesis removible. En el esquelético cuidamos que el modelado de la zona rosa resulte natural en boca y retenga la menor cantidad posible de restos, prestando atención al sellado periférico y al perfil de emergencia de los retenedores.</p>\n<blockquote>Ayudándonos mutuamente, planificar es más fácil — y el resultado, más predecible.</blockquote>\n<p>Si dudas con algún aspecto del software o con la preparación de apoyos en un caso complejo, llámanos. Revisamos el archivo contigo antes de enviar la estructura a sinterizado para asegurar que el ajuste en sillón sea exacto.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Qué tipo de alicate se debe usar si hace falta activar un gancho sinterizado en clínica?</h3><p>Se recomienda emplear un alicate de tres puntas (tipo Aderer) y aplicar fuerza de forma gradual únicamente en el tercio final del brazo retentivo. Aunque el cromo-cobalto sinterizado tolera mejor las deformaciones leves por carecer de porosidades, no debe forzarse el tercio medio ni el hombro rígido del gancho.</p>\n<h3>¿Se puede rebasar un esquelético CAD/CAM igual que una prótesis colada tradicional?</h3><p>Sí. Las rejillas de retención mecánica para el acrílico y los topes tisulares se diseñan con la misma función que en el método analógico. Los rebases directos en clínica o las impresiones de arrastre para rebase en laboratorio se ejecutan siguiendo el protocolo habitual.</p>"
+}

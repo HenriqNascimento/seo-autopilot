@@ -338,5 +338,39 @@
     "publicado": "2026-11-15",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "esqueletico-cromo-cobalto-cad-cam-vs-colado",
+    "post_id": "517623192808",
+    "url": "https://innovadental.net/es/blog/esqueletico-cromo-cobalto-cad-cam-vs-colado",
+    "titulo": "Esquelético de cromo-cobalto CAD/CAM: ajuste pasivo y técnica SLM",
+    "titulo_seo": "Esquelético cromo cobalto CAD/CAM: ajuste pasivo",
+    "meta_description": "Ventajas del esquelético de cromo-cobalto CAD/CAM y sinterizado SLM en el ajuste pasivo. Parámetros de diseño para reducir retoques y proteger los pilares.",
+    "keyword": "esquelético cromo cobalto cad cam",
+    "cluster": "removible-metalica",
+    "intencion": "comparativa",
+    "etapa": "consideracion",
+    "prioridad": 86,
+    "palabras": 1328,
+    "h2": 7,
+    "tablas": 1,
+    "faq": 2,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "B",
+      "descripcion": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
+      "estrato": "innovadental:removible-metalica"
+    },
+    "foto": "cat-ppr-completa-1.jpg",
+    "nota_editor": {
+      "utilidad": 9,
+      "rigor": 10,
+      "naturalidad": 9,
+      "seo": 10,
+      "experiencia": 9
+    },
+    "publicado": "2026-11-17",
+    "simulado": false,
+    "borrador": false
   }
 ]

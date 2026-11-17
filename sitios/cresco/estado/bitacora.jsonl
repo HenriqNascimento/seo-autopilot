@@ -61,3 +61,9 @@
 {"t": "2026-11-16T15:12:32", "sitio": "cresco", "evento": "estatico_publicado", "slug": "por-que-mi-negocio-no-aparece-en-google-maps", "archivo": "public/blog/por-que-mi-negocio-no-aparece-en-google-maps.html"}
 {"t": "2026-11-16T15:12:32", "sitio": "cresco", "evento": "publicado", "slug": "por-que-mi-negocio-no-aparece-en-google-maps", "url": "https://cresco.es/blog/por-que-mi-negocio-no-aparece-en-google-maps", "palabras": 1698}
 {"t": "2026-11-16T15:12:32", "sitio": "cresco", "evento": "coste", "usd": 0.1483, "modelo": "gemini-3.8-flash", "entrada": 20939, "salida": 35360, "busquedas": 7}
+{"t": "2026-11-17T15:43:22", "sitio": "cresco", "evento": "edicion", "slug": "mantenimiento-web-que-incluye-cuanto-cuesta", "intento": 1, "nota_min": 9, "problemas": 2}
+{"t": "2026-11-17T15:44:21", "sitio": "cresco", "evento": "edicion", "slug": "mantenimiento-web-que-incluye-cuanto-cuesta", "intento": 2, "nota_min": 9, "problemas": 1}
+{"t": "2026-11-17T15:46:13", "sitio": "cresco", "evento": "edicion", "slug": "mantenimiento-web-que-incluye-cuanto-cuesta", "intento": 3, "nota_min": 10, "problemas": 0}
+{"t": "2026-11-17T15:46:15", "sitio": "cresco", "evento": "estatico_publicado", "slug": "mantenimiento-web-que-incluye-cuanto-cuesta", "archivo": "public/blog/mantenimiento-web-que-incluye-cuanto-cuesta.html"}
+{"t": "2026-11-17T15:46:15", "sitio": "cresco", "evento": "publicado", "slug": "mantenimiento-web-que-incluye-cuanto-cuesta", "url": "https://cresco.es/blog/mantenimiento-web-que-incluye-cuanto-cuesta", "palabras": 2008}
+{"t": "2026-11-17T15:46:15", "sitio": "cresco", "evento": "coste", "usd": 0.2808, "modelo": "gemini-3.8-flash", "entrada": 57351, "salida": 63407, "busquedas": 27}
