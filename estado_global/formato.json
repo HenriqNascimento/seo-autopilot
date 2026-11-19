@@ -175,6 +175,24 @@
         "publicado": "2026-11-17",
         "url": "https://innovadental.net/es/blog/esqueletico-cromo-cobalto-cad-cam-vs-colado",
         "sitio": "innovadental"
+      },
+      {
+        "slug": "mi-web-no-recibe-visitas-que-hacer",
+        "brazo": "A",
+        "estrato": "cresco:diagnostico-web",
+        "prioridad": 92,
+        "publicado": "2026-11-19",
+        "url": "https://cresco.es/blog/mi-web-no-recibe-visitas-que-hacer",
+        "sitio": "cresco"
+      },
+      {
+        "slug": "guias-quirurgicas-apicectomia-gingivectomia-flujo-digital",
+        "brazo": "A",
+        "estrato": "innovadental:cirugia-guiada",
+        "prioridad": 85,
+        "publicado": "2026-11-19",
+        "url": "https://innovadental.net/es/blog/guias-quirurgicas-apicectomia-gingivectomia-flujo-digital",
+        "sitio": "innovadental"
       }
     ]
   },

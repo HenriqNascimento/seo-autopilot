@@ -1,0 +1,198 @@
+{
+  "articulo": {
+    "titulo": "Guías quirúrgicas en endodoncia y cirugía: diseño y protocolo 3D",
+    "titulo_seo": "Guías quirúrgicas en endodoncia y cirugía oral: flujo 3D",
+    "meta_description": "Guías quirúrgicas en endodoncia y cirugía oral: protocolo CAD/CAM para apicectomía TEMS, caninos incluidos y festoneado con ostectomía milimétrica.",
+    "resumen": "Cómo aplicar guías quirúrgicas CAD/CAM a microcirugía periapical, fenestración de caninos y alargamiento coronario con precisión submilimétrica.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>Las guías quirúrgicas en endodoncia y cirugía oral trasladan la exactitud del flujo digital a procedimientos no implantológicos con discrepancias medias inferiores a 0,8 mm.</strong> Mediante la fusión de tomografía CBCT y escaneado intraoral, permiten delimitar osteotomías apicales exactas, fenestraciones conservadoras en dientes retenidos y remodelados óseos respetando los 3 mm de espacio biológico."
+      },
+      {
+        "tipo": "p",
+        "texto": "Durante años, la cirugía guiada se ha asociado casi en exclusiva a la colocación de implantes. En el laboratorio, sin embargo, cada vez planificamos más casos donde el margen anatómico es mínimo: ápices calcificados próximos al nervio mentoniano, caninos incluidos en pleno paladar o asimetrías gingivales que exigen regularizar la cresta sin tocar cemento radicular sano. A mano alzada dependes del pulso y de la visión directa con el colgajo abierto; con la férula delimitas de antemano el punto de entrada, la angulación y el tope de profundidad."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Microcirugía apical guiada: protocolo para apicectomías sin bisel"
+      },
+      {
+        "tipo": "p",
+        "texto": "En la microcirugía endodóntica dirigida (TEMS), el abordaje tradicional a mano alzada suele requerir ventanas óseas amplias para orientar el espejo y el contraángulo, terminando con frecuencia en biseles acusados que exponen túbulos dentinarios y aumentan la filtración. La literatura científica (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31818450/\">Pinsky et al.</a>) reporta desviaciones medias de 2,27 ± 1,46 mm a mano alzada frente a 0,79 ± 0,33 mm con guías estáticas impresas en 3D."
+      },
+      {
+        "tipo": "p",
+        "texto": "El objetivo del diseño CAD es guiar una fresa trefina o un inserto piezoeléctrico para resecar exactamente 3 mm del ápice en un ángulo de 90° respecto al eje radicular. Cortar sin bisel es prioritario para eliminar ramificaciones y conductos accesorios. Al dirigir la trefina con la férula, el tamaño de la ostectomía en la cortical vestibular se reduce a unos 59 mm² de media, frente a los lechos irregulares del fresado libre. Con el ápice resecado, se retira la guía y se procede a la preparación retrógrada ultrasónica y al sellado con MTA o cementos biocerámicos bajo magnificación."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Cirugía periodontal y alargamiento coronario: doble guía y espacio biológico"
+      },
+      {
+        "tipo": "p",
+        "texto": "Tratar una erupción pasiva alterada o un alargamiento coronario en el sector anterior suele fallar si la ostectomía se hace por estimación visual tras cortar la encía. Si entre el nuevo margen gingival y la cresta alveolar no quedan exactamente los 3 mm del espacio biológico, el tejido blando se inflama o recidiva coronariamente."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para estos casos diseñamos férulas con doble referencia o dos componentes acoplables:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Festoneado gingival: el borde inferior sirve de plantilla para el bisturí, marcando la incisión festoneada definida en el encerado previo.\nTope de ostectomía: una ranura superior o una segunda ventana señala con exactitud dónde debe terminar la remodelación ósea respecto a la cresta, garantizando los 3 mm sin rayar el esmalte ni el cemento radicular.\nApoyo oclusal estable: la férula apoya sobre las caras oclusales y bordes incisales de los dientes contiguos, impidiendo cualquier basculación mientras se remodela el hueso con fresas de carburo o piezoeléctrico."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Fenestración de caninos incluidos: abordaje conservador"
+      },
+      {
+        "tipo": "p",
+        "texto": "Buscar un canino retenido por palatino o vestibular a mano alzada suele terminar en un colgajo amplio y una remoción ósea por tanteo, con riesgo directo para las raíces de los incisivos laterales o los premolares. Al fusionar el DICOM del CBCT con el modelo STL, segmentamos la corona del canino incluido y conocemos al milímetro su orientación tridimensional respecto a los dientes vecinos."
+      },
+      {
+        "tipo": "p",
+        "texto": "La guía delimita una ventana que expone únicamente el fragmento de esmalte necesario para grabar, colocar adhesivo y fijar el botón de tracción ortodóncica. No hace falta descubrir toda la corona ni retirar cortical sana alrededor de raíces adyacentes. La osteotomía se limita a lo estrictamente necesario y el postoperatorio es sensiblemente más benigno."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Recortes de rama mandibular y guías de osteotomía"
+      },
+      {
+        "tipo": "p",
+        "texto": "En cirugía oral y preparación preprotésica, diseñamos guías con ranuras de osteotomía tanto dentosoportadas como oseosoportadas (fijadas mediante microtornillos). Se emplean para regularizar rebordes alveolares severos antes de una rehabilitación completa o para delimitar tomas de injerto en rama mandibular."
+      },
+      {
+        "tipo": "p",
+        "texto": "La ranura se modela con el espesor exacto de la hoja de sierra reciprocante o del inserto piezoeléctrico, limitando la profundidad de penetración. Esto evita desviaciones accidentales hacia el conducto del nervio dentario inferior o las corticales linguales."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Criterios técnicos de diseño: irrigación, holguras y materiales"
+      },
+      {
+        "tipo": "p",
+        "texto": "A diferencia de una guía para implantes, donde la fresa entra y sale con irrigación externa abundante, en una apicectomía o en un recorte de rama el instrumental trabaja en espacios confinados y puede rozar las paredes de resina. Si el diseño no contempla la disipación térmica, existe riesgo de necrosis ósea por fricción."
+      },
+      {
+        "tipo": "p",
+        "texto": "En el laboratorio aplicamos tres medidas de control durante el modelado digital:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Hendiduras de irrigación activa: abrimos ventanas laterales para que el suero salino estéril penetre de forma continua hasta la cortical ósea mientras el instrumento rota o vibra.\nOffset de asentamiento: calibramos una holgura de 0,08 a 0,10 mm sobre las superficies dentarias para asegurar un asiento pasivo sin tensiones que impidan un calce completo.\nMateriales biocompatibles: preparamos el archivo para impresión 3D en resinas quirúrgicas biocompatibles Clase IIa, aptas para contacto transitorio con hueso y tejido conectivo, que admiten esterilización en autoclave a vapor sin deformarse."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Parámetros clínicos: técnica a mano alzada frente a guía quirúrgica"
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Parámetro clínico | Cirugía periapical a mano alzada | Cirugía periapical guiada (TEMS)\nDesviación media en osteotomía | 2,27 ± 1,46 mm | 0,79 ± 0,33 mm\nTamaño medio de ventana ósea | Variable (>100 mm²) | Acotado (~59 mm²)\nÁngulo de resección apical | Con bisel (30°-45°) | 90° estricto (sin bisel)\nLongitud de ápice resecado | Variable por falta de tope | 3 mm exactos\nRiesgo para estructuras anatómicas | Depende de la visión directa | Delimitado por casquillo y tope CAD"
+      },
+      {
+        "tipo": "h2",
+        "texto": "Flujo de trabajo digital: qué necesitamos recibir"
+      },
+      {
+        "tipo": "p",
+        "texto": "Para que podamos diseñar y producir cualquiera de estas férulas quirúrgicas con ajuste milimétrico, necesitamos dos archivos clínicos:"
+      },
+      {
+        "tipo": "p",
+        "texto": "Primero, el CBCT completo en formato DICOM nativo, tomado con un campo de visión (FOV) centrado en la zona de trabajo y un tamaño de vóxel fino (0,15–0,20 mm). El paciente debe permanecer inmóvil durante la exposición; cualquier movimiento genera artefactos de doble contorno que falsean la posición real de las corticales y los ápices."
+      },
+      {
+        "tipo": "p",
+        "texto": "Segundo, el escaneo intraoral de arcada completa en formato STL o PLY. Pedimos registrar siempre un margen generoso de mucosa vestibular y palatina, secando bien el campo: la saliva y los brillos generan reflejos que el escáner interpreta como falsa geometría. Si existen muñones oscuros o márgenes subgingivales en la zona de apoyo, conviene avisarnos para tenerlo en cuenta al definir la vía de inserción."
+      },
+      {
+        "tipo": "p",
+        "texto": "Con ambos archivos alineados, planificamos la intervención según tus indicaciones y te mostramos la propuesta virtual antes de la fabricación. Si tienes un caso de microcirugía periapical, un canino incluido o un alargamiento coronario complejo y dudas sobre el software o el enfoque de la guía, llámanos al +34 981 65 20 66 o al +34 683 102 272. En Innovadental revisamos contigo la anatomía para definir juntos el mejor abordaje."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Es viable una guía de microcirugía apical si la pieza tiene corona de metal-cerámica o zirconio?",
+        "a": "Sí, aunque los artefactos de dispersión metálica en el CBCT pueden dificultar la visualización del contorno coronal exacto. Para resolverlo, alineamos la tomografía con el escaneado intraoral apoyándonos en los dientes vecinos libres de metal, que deben registrarse con máxima nitidez en el STL."
+      },
+      {
+        "q": "¿Qué diámetro interno se diseña en la férula para la fresa trefina?",
+        "a": "Depende del diámetro exterior del instrumental elegido por la clínica (habitualmente trefinas de 3 a 5 mm). En el diseño CAD dejamos una holgura radial de entre 0,10 y 0,15 mm para que la fresa gire refrigerada sin rozar ni degradar las paredes de la resina."
+      }
+    ],
+    "tags": [
+      "Cirugía guiada",
+      "Endodoncia",
+      "CAD/CAM",
+      "Laboratorio dental"
+    ],
+    "foto": "cat-ferula-guiada-3d-1.jpg",
+    "alt_foto": "Guía quirúrgica 3D para cirugía y endodoncia en resina biocompatible"
+  },
+  "brief": {
+    "intencion": "Informativa y transaccional B2B orientada a cirujanos orales, endodoncistas, periodoncistas y odontólogos que buscan externalizar el diseño CAD/CAM e impresión 3D de férulas guiadas para procedimientos no implantológicos (apicectomías apicales, fenestraciones de caninos incluidos, gingivectomías con osteotomía y resecciones óseas mandibulares).",
+    "respuesta_directa": "Las guías quirúrgicas para endodoncia y cirugía oral aplican la precisión del flujo digital (fusión CBCT DICOM y escaneo intraoral STL/PLY) a procedimientos no implantológicos mediante ventanas y casquillos calibrados. Permiten ejecutar osteotomías apicales milimétricas conservando la cortical sana en apicectomías, acceder a caninos incluidos minimizando el daño periodontal, regularizar ramas mandibulares con cirugía piezoeléctrica y garantizar el espacio biológico de 3 mm en gingivectomías complejas. Su fabricación en resina biocompatible Clase IIa traslada la planificación virtual al sillón con discrepancias inferiores a 0,8 mm.",
+    "que_cubren_los_top": [
+      "Uso exclusivo en implantología básica (la inmensa mayoría de competidores solo habla de férulas para implantes).",
+      "Generalidades sobre el archivo DICOM del CBCT y el escaneo intraoral en Blue Sky Plan o Exoplan.",
+      "Pasos muy genéricos de impresión 3D en resina quirúrgica y esterilización en autoclave.",
+      "Mención superficial a la técnica de acceso endodóntico para conductos calcificados sin profundizar en microcirugía periapical ni guías de corte óseo."
+    ],
+    "huecos": [
+      "Protocolo CAD de microcirugía endodóntica (Targeted Endodontic Microsurgery - TEMS): diseño de ventanas para fresas trefina o piezoeléctrico orientadas a resecar exactamente los 3 mm apicales sin bisel y con conservación de la cortical vestibular.",
+      "Doble guía o ventana dual en cirugía periodontal/estética: calibración simultánea de la incisión de gingivectomía en festoneado gingival y del tope de ostectomía respetando los 3 mm biológicos desde la cresta hasta el nuevo margen.",
+      "Técnica de fenestración guiada para caninos y dientes retenidos palatinos/vestibulares: diseño de ventana ósea conservadora evitando tocar raíces de incisivos laterales.",
+      "Guías de corte y remodelado mandibular: adaptación de guías oclusomandibulares con ranuras de osteotomía para insertos piezoeléctricos o sierras reciprocantes en injertos en bloque o regularizaciones de rama.",
+      "Gestión de tolerancias y enfriamiento: necesidad de ventanas de irrigación salina directa para evitar osteonecrosis por fricción térmica del instrumental rotatorio o piezoeléctrico dentro de la férula."
+    ],
+    "preguntas_reales": [
+      "¿Qué margen de seguridad y desviación real tiene una guía para apicectomía frente al fresado a mano alzada?",
+      "¿Cómo se calibra la guía para realizar la ostectomía y la gingivectomía en el mismo acto quirúrgico?",
+      "¿Se puede utilizar instrumental piezoeléctrico a través de una guía impresa en 3D sin sobrecalentar el hueso?",
+      "¿Qué archivos clínicos debe enviar la clínica al laboratorio para planificar una microcirugía periapical?",
+      "¿Cómo se compensa el grosor del tejido blando cuando se diseña una guía con apoyo mucoso o mixto para cirugía resectiva ósea?"
+    ],
+    "estructura": [
+      "Más allá del implante: el cambio de paradigma de la cirugía guiada en endodoncia y periodoncia",
+      "Microcirugía apical guiada (TEMS): protocolo CBCT-STL para apicectomías milimétricas y ventanas de trefina",
+      "Guías CAD/CAM para gingivectomía y alargamiento coronario: control del festoneado y los 3 mm de espacio biológico",
+      "Fenestración guiada de caninos incluidos y dientes retenidos: abordaje mínimamente invasivo",
+      "Guías de osteotomía y corte óseo mandibular: precisión piezoeléctrica en injertos y regularizaciones",
+      "Parámetros de laboratorio: diseño de hendiduras, canales de irrigación activa y resinas biocompatibles Clase IIa",
+      "Flujo de trabajo con Innovadental: del archivo DICOM a la férula estéril en tu clínica dental"
+    ],
+    "palabras_objetivo": 2100,
+    "entidades": [
+      "Blue Sky Plan",
+      "Exoplan",
+      "DICOM",
+      "STL",
+      "PLY",
+      "Targeted Endodontic Microsurgery (TEMS)",
+      "Fresa trefina",
+      "Cirugía piezoeléctrica (Piezosurgery)",
+      "Espacio biológico (anchura biológica)",
+      "Línea amelocementaria (LAC)",
+      "Resina biocompatible Clase IIa (NextDent SG, SprintRay Surgical Guide)",
+      "MTA (Agregado de Trióxido Mineral)",
+      "Cemento biocerámico",
+      "Erupción Pasiva Alterada (EPA)",
+      "Segmentación ósea radicular"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31818450/",
+        "dato": "En apicectomías guiadas tridimensionales, la discrepancia media reportada con guías estáticas impresas en 3D es de 0,79 ± 0,33 mm frente a 2,27 ± 1,46 mm a mano alzada."
+      },
+      {
+        "url": "https://www.mdpi.com/2076-3417/13/17/9618",
+        "dato": "En microcirugía periapical moderna (TEMS), el objetivo crítico es resecar exactamente los 3 mm apicales en un ángulo de 90° (sin bisel) con trefina o fresa guiada para eliminar ramificaciones anatómicas complejas."
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11603522/",
+        "dato": "El protocolo de cirugía apical estática guiada con guías 3D y trefinas permite un tamaño medio de ventana de ostectomía de 59,17 mm², reduciendo notablemente la morbilidad y el tiempo quirúrgico."
+      }
+    ]
+  },
+  "html": "<p><strong>Las guías quirúrgicas en endodoncia y cirugía oral trasladan la exactitud del flujo digital a procedimientos no implantológicos con discrepancias medias inferiores a 0,8 mm.</strong> Mediante la fusión de tomografía CBCT y escaneado intraoral, permiten delimitar osteotomías apicales exactas, fenestraciones conservadoras en dientes retenidos y remodelados óseos respetando los 3 mm de espacio biológico.</p>\n<p>Durante años, la cirugía guiada se ha asociado casi en exclusiva a la colocación de implantes. En el laboratorio, sin embargo, cada vez planificamos más casos donde el margen anatómico es mínimo: ápices calcificados próximos al nervio mentoniano, caninos incluidos en pleno paladar o asimetrías gingivales que exigen regularizar la cresta sin tocar cemento radicular sano. A mano alzada dependes del pulso y de la visión directa con el colgajo abierto; con la férula delimitas de antemano el punto de entrada, la angulación y el tope de profundidad.</p>\n<h2>Microcirugía apical guiada: protocolo para apicectomías sin bisel</h2>\n<p>En la microcirugía endodóntica dirigida (TEMS), el abordaje tradicional a mano alzada suele requerir ventanas óseas amplias para orientar el espejo y el contraángulo, terminando con frecuencia en biseles acusados que exponen túbulos dentinarios y aumentan la filtración. La literatura científica (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31818450/\" target=\"_blank\" rel=\"noopener\">Pinsky et al.</a>) reporta desviaciones medias de 2,27 ± 1,46 mm a mano alzada frente a 0,79 ± 0,33 mm con guías estáticas impresas en 3D.</p>\n<p>El objetivo del diseño CAD es guiar una fresa trefina o un inserto piezoeléctrico para resecar exactamente 3 mm del ápice en un ángulo de 90° respecto al eje radicular. Cortar sin bisel es prioritario para eliminar ramificaciones y conductos accesorios. Al dirigir la trefina con la férula, el tamaño de la ostectomía en la cortical vestibular se reduce a unos 59 mm² de media, frente a los lechos irregulares del fresado libre. Con el ápice resecado, se retira la guía y se procede a la preparación retrógrada ultrasónica y al sellado con MTA o cementos biocerámicos bajo magnificación.</p>\n<h2>Cirugía periodontal y alargamiento coronario: doble guía y espacio biológico</h2>\n<p>Tratar una erupción pasiva alterada o un alargamiento coronario en el sector anterior suele fallar si la ostectomía se hace por estimación visual tras cortar la encía. Si entre el nuevo margen gingival y la cresta alveolar no quedan exactamente los 3 mm del espacio biológico, el tejido blando se inflama o recidiva coronariamente.</p>\n<p>Para estos casos diseñamos férulas con doble referencia o dos componentes acoplables:</p>\n<ul><li>Festoneado gingival: el borde inferior sirve de plantilla para el bisturí, marcando la incisión festoneada definida en el encerado previo.</li><li>Tope de ostectomía: una ranura superior o una segunda ventana señala con exactitud dónde debe terminar la remodelación ósea respecto a la cresta, garantizando los 3 mm sin rayar el esmalte ni el cemento radicular.</li><li>Apoyo oclusal estable: la férula apoya sobre las caras oclusales y bordes incisales de los dientes contiguos, impidiendo cualquier basculación mientras se remodela el hueso con fresas de carburo o piezoeléctrico.</li></ul>\n<h2>Fenestración de caninos incluidos: abordaje conservador</h2>\n<p>Buscar un canino retenido por palatino o vestibular a mano alzada suele terminar en un colgajo amplio y una remoción ósea por tanteo, con riesgo directo para las raíces de los incisivos laterales o los premolares. Al fusionar el DICOM del CBCT con el modelo STL, segmentamos la corona del canino incluido y conocemos al milímetro su orientación tridimensional respecto a los dientes vecinos.</p>\n<p>La guía delimita una ventana que expone únicamente el fragmento de esmalte necesario para grabar, colocar adhesivo y fijar el botón de tracción ortodóncica. No hace falta descubrir toda la corona ni retirar cortical sana alrededor de raíces adyacentes. La osteotomía se limita a lo estrictamente necesario y el postoperatorio es sensiblemente más benigno.</p>\n<h2>Recortes de rama mandibular y guías de osteotomía</h2>\n<p>En cirugía oral y preparación preprotésica, diseñamos guías con ranuras de osteotomía tanto dentosoportadas como oseosoportadas (fijadas mediante microtornillos). Se emplean para regularizar rebordes alveolares severos antes de una rehabilitación completa o para delimitar tomas de injerto en rama mandibular.</p>\n<p>La ranura se modela con el espesor exacto de la hoja de sierra reciprocante o del inserto piezoeléctrico, limitando la profundidad de penetración. Esto evita desviaciones accidentales hacia el conducto del nervio dentario inferior o las corticales linguales.</p>\n<h2>Criterios técnicos de diseño: irrigación, holguras y materiales</h2>\n<p>A diferencia de una guía para implantes, donde la fresa entra y sale con irrigación externa abundante, en una apicectomía o en un recorte de rama el instrumental trabaja en espacios confinados y puede rozar las paredes de resina. Si el diseño no contempla la disipación térmica, existe riesgo de necrosis ósea por fricción.</p>\n<p>En el laboratorio aplicamos tres medidas de control durante el modelado digital:</p>\n<ul><li>Hendiduras de irrigación activa: abrimos ventanas laterales para que el suero salino estéril penetre de forma continua hasta la cortical ósea mientras el instrumento rota o vibra.</li><li>Offset de asentamiento: calibramos una holgura de 0,08 a 0,10 mm sobre las superficies dentarias para asegurar un asiento pasivo sin tensiones que impidan un calce completo.</li><li>Materiales biocompatibles: preparamos el archivo para impresión 3D en resinas quirúrgicas biocompatibles Clase IIa, aptas para contacto transitorio con hueso y tejido conectivo, que admiten esterilización en autoclave a vapor sin deformarse.</li></ul>\n<h2>Parámetros clínicos: técnica a mano alzada frente a guía quirúrgica</h2>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Parámetro clínico</th><th>Cirugía periapical a mano alzada</th><th>Cirugía periapical guiada (TEMS)</th></tr></thead><tbody><tr><td>Desviación media en osteotomía</td><td>2,27 ± 1,46 mm</td><td>0,79 ± 0,33 mm</td></tr><tr><td>Tamaño medio de ventana ósea</td><td>Variable (&gt;100 mm²)</td><td>Acotado (~59 mm²)</td></tr><tr><td>Ángulo de resección apical</td><td>Con bisel (30°-45°)</td><td>90° estricto (sin bisel)</td></tr><tr><td>Longitud de ápice resecado</td><td>Variable por falta de tope</td><td>3 mm exactos</td></tr><tr><td>Riesgo para estructuras anatómicas</td><td>Depende de la visión directa</td><td>Delimitado por casquillo y tope CAD</td></tr></tbody></table></div>\n<h2>Flujo de trabajo digital: qué necesitamos recibir</h2>\n<p>Para que podamos diseñar y producir cualquiera de estas férulas quirúrgicas con ajuste milimétrico, necesitamos dos archivos clínicos:</p>\n<p>Primero, el CBCT completo en formato DICOM nativo, tomado con un campo de visión (FOV) centrado en la zona de trabajo y un tamaño de vóxel fino (0,15–0,20 mm). El paciente debe permanecer inmóvil durante la exposición; cualquier movimiento genera artefactos de doble contorno que falsean la posición real de las corticales y los ápices.</p>\n<p>Segundo, el escaneo intraoral de arcada completa en formato STL o PLY. Pedimos registrar siempre un margen generoso de mucosa vestibular y palatina, secando bien el campo: la saliva y los brillos generan reflejos que el escáner interpreta como falsa geometría. Si existen muñones oscuros o márgenes subgingivales en la zona de apoyo, conviene avisarnos para tenerlo en cuenta al definir la vía de inserción.</p>\n<p>Con ambos archivos alineados, planificamos la intervención según tus indicaciones y te mostramos la propuesta virtual antes de la fabricación. Si tienes un caso de microcirugía periapical, un canino incluido o un alargamiento coronario complejo y dudas sobre el software o el enfoque de la guía, llámanos al +34 981 65 20 66 o al +34 683 102 272. En Innovadental revisamos contigo la anatomía para definir juntos el mejor abordaje.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Es viable una guía de microcirugía apical si la pieza tiene corona de metal-cerámica o zirconio?</h3><p>Sí, aunque los artefactos de dispersión metálica en el CBCT pueden dificultar la visualización del contorno coronal exacto. Para resolverlo, alineamos la tomografía con el escaneado intraoral apoyándonos en los dientes vecinos libres de metal, que deben registrarse con máxima nitidez en el STL.</p>\n<h3>¿Qué diámetro interno se diseña en la férula para la fresa trefina?</h3><p>Depende del diámetro exterior del instrumental elegido por la clínica (habitualmente trefinas de 3 a 5 mm). En el diseño CAD dejamos una holgura radial de entre 0,10 y 0,15 mm para que la fresa gire refrigerada sin rozar ni degradar las paredes de la resina.</p>"
+}

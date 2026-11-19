@@ -270,5 +270,39 @@
     "publicado": "2026-11-17",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "mi-web-no-recibe-visitas-que-hacer",
+    "post_id": "mi-web-no-recibe-visitas-que-hacer",
+    "url": "https://cresco.es/blog/mi-web-no-recibe-visitas-que-hacer",
+    "titulo": "¿Por qué mi web no tiene visitas? 5 fallos y cómo corregirlos",
+    "titulo_seo": "Por qué mi web no tiene visitas: 5 causas y soluciones",
+    "meta_description": "Descubre por qué tu web no tiene visitas ni llamadas. Revisa estos 5 fallos de indexación y SEO local para conseguir clientes cerca de tu negocio.",
+    "keyword": "por que mi web no tiene visitas",
+    "cluster": "diagnostico-web",
+    "intencion": "informativa",
+    "etapa": "descubrimiento",
+    "prioridad": 92,
+    "palabras": 1378,
+    "h2": 9,
+    "tablas": 0,
+    "faq": 2,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "A",
+      "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
+      "estrato": "cresco:diagnostico-web"
+    },
+    "foto": "innovadental.jpg",
+    "nota_editor": {
+      "utilidad": 9,
+      "rigor": 10,
+      "naturalidad": 9,
+      "seo": 10,
+      "experiencia": 9
+    },
+    "publicado": "2026-11-19",
+    "simulado": false,
+    "borrador": false
   }
 ]

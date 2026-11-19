@@ -67,3 +67,10 @@
 {"t": "2026-11-17T15:49:45", "sitio": "innovadental", "evento": "edicion", "slug": "esqueletico-cromo-cobalto-cad-cam-vs-colado", "intento": 1, "nota_min": 9, "problemas": 1}
 {"t": "2026-11-17T15:49:49", "sitio": "innovadental", "evento": "publicado", "slug": "esqueletico-cromo-cobalto-cad-cam-vs-colado", "url": "https://innovadental.net/es/blog/esqueletico-cromo-cobalto-cad-cam-vs-colado", "palabras": 1328}
 {"t": "2026-11-17T15:49:49", "sitio": "innovadental", "evento": "coste", "usd": 0.1329, "modelo": "gemini-3.8-flash", "entrada": 28916, "salida": 29664, "busquedas": 7}
+{"t": "2026-11-19T15:41:47", "sitio": "innovadental", "evento": "edicion", "slug": "protesis-peek-removible-indicaciones-clinicas", "intento": 1, "nota_min": 10, "problemas": 1}
+{"t": "2026-11-19T15:43:04", "sitio": "innovadental", "evento": "edicion", "slug": "protesis-peek-removible-indicaciones-clinicas", "intento": 2, "nota_min": 9, "problemas": 1}
+{"t": "2026-11-19T15:44:24", "sitio": "innovadental", "evento": "edicion", "slug": "protesis-peek-removible-indicaciones-clinicas", "intento": 3, "nota_min": 10, "problemas": 1}
+{"t": "2026-11-19T15:44:24", "sitio": "innovadental", "evento": "descartado", "slug": "protesis-peek-removible-indicaciones-clinicas", "motivo": "Calidad insuficiente tras 3 ediciones: ['expresión prohibida: «revolucion»']"}
+{"t": "2026-11-19T15:50:33", "sitio": "innovadental", "evento": "edicion", "slug": "guias-quirurgicas-apicectomia-gingivectomia-flujo-digital", "intento": 1, "nota_min": 9, "problemas": 1}
+{"t": "2026-11-19T15:50:36", "sitio": "innovadental", "evento": "publicado", "slug": "guias-quirurgicas-apicectomia-gingivectomia-flujo-digital", "url": "https://innovadental.net/es/blog/guias-quirurgicas-apicectomia-gingivectomia-flujo-digital", "palabras": 1160}
+{"t": "2026-11-19T15:50:36", "sitio": "innovadental", "evento": "coste", "usd": 0.3091, "modelo": "gemini-3.8-flash", "entrada": 84222, "salida": 65578, "busquedas": 13}

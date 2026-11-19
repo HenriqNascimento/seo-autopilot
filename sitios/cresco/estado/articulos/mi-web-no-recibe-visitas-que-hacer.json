@@ -1,0 +1,220 @@
+{
+  "articulo": {
+    "titulo": "¿Por qué mi web no tiene visitas? 5 fallos y cómo corregirlos",
+    "titulo_seo": "Por qué mi web no tiene visitas: 5 causas y soluciones",
+    "meta_description": "Descubre por qué tu web no tiene visitas ni llamadas. Revisa estos 5 fallos de indexación y SEO local para conseguir clientes cerca de tu negocio.",
+    "resumen": "Si tu página web no recibe visitas ni llamadas, suele deberse a un bloqueo técnico de indexación o a la falta de enfoque local. Te explicamos cómo revisarlo paso a paso.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>Si tu web no tiene visitas, la causa suele ser que Google no la ha indexado por un bloqueo técnico, tu contenido no responde a búsquedas locales de tu ciudad o tu ficha de Google Business Profile no está conectada con la página.</strong> Para un negocio de proximidad, tener una web sin optimización local equivale a montar un escaparate impecable en medio de un descampado donde nadie pasa caminando."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Visitas de todo el mundo frente a clientes de tu calle"
+      },
+      {
+        "tipo": "p",
+        "texto": "Ponte en situación: martes, 22:47. A un vecino le da un tirón lumbar en el sofá, coge el móvil y busca un fisioterapeuta cerca de su casa. No necesita leer un tratado de biomecánica ni le interesa una clínica en otra comunidad autónoma; necesita saber si atiendes urgencias en su barrio y cómo pedir cita para mañana a primera hora."
+      },
+      {
+        "tipo": "p",
+        "texto": "Un restaurante en Gijón, una clínica dental en Valencia o un taller en A Coruña no necesitan miles de visitas de personas que viven a quinientos kilómetros. Necesitan doscientas visitas al mes de vecinos que puedan cruzar su puerta."
+      },
+      {
+        "tipo": "p",
+        "texto": "Muchos dueños de pequeños negocios se frustran al mirar analíticas vacías creyendo que compiten contra todo internet. Tu objetivo no es salir el primero en España para una palabra genérica como «fisioterapia», sino aparecer cuando alguien en tu zona busca «fisioterapeuta en [tu barrio]» o «tratamiento dolor de espalda cerca de mí»."
+      },
+      {
+        "tipo": "p",
+        "texto": "Hay otro matiz frecuente: negocios que creen que no tienen visitas cuando en realidad reciben cuarenta al mes, pero ninguna llamada. Si cuarenta personas entrasen a tu local cada mes y saliesen sin mediar palabra, el problema no sería la calle; sería lo que ven al cruzar la puerta o la dificultad para ser atendidos. En internet ocurre exactamente igual."
+      },
+      {
+        "tipo": "h2",
+        "texto": "El bloqueo de indexación que hace invisible tu página"
+      },
+      {
+        "tipo": "p",
+        "texto": "Ocurre con frecuencia cuando la web la diseña alguien descuidado. Al montar un sitio en WordPress, existe una opción en los ajustes de lectura llamada «Disuadir a los motores de búsqueda de indexar este sitio». Se utiliza para trabajar en el diseño sin que Google registre borradores inacabados."
+      },
+      {
+        "tipo": "p",
+        "texto": "El problema llega cuando la web se publica y nadie desmarca esa casilla. Esa opción inserta una etiqueta meta robots con el valor «noindex». Según la <a href=\"https://developers.google.com/search/docs/crawling-indexing/block-indexing?hl=es\" target=\"_blank\" rel=\"noopener noreferrer\">documentación oficial de Google Search Central</a>, esta directiva indica a los rastreadores que eliminen por completo la página de los resultados de búsqueda, incluso si otros sitios la enlazan."
+      },
+      {
+        "tipo": "p",
+        "texto": "Puedes comprobarlo en un segundo. Escribe en Google <code>site:tudominio.com</code> sustituyendo el texto por el nombre real de tu web. Si el buscador responde con cero resultados, tu página no está indexada. En ese caso, desmarca la casilla en los ajustes de tu gestor de contenidos o da de alta tu web en Google Search Console para solicitar que empiecen a rastrearla."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Hablar como una multinacional en vez de posicionar en tu ciudad"
+      },
+      {
+        "tipo": "p",
+        "texto": "Entra en la portada de tu web y lee el texto principal. Si tu titular dice «Soluciones integrales adaptadas a tus necesidades» o «Comprometidos con la excelencia y la innovación», acabas de descubrir por qué no te llega tráfico. Nadie con una avería en el coche teclea «soluciones integrales» en su teléfono."
+      },
+      {
+        "tipo": "p",
+        "texto": "Las personas buscan servicios concretos vinculados a un lugar: «taller mecánico en Mataró», «abogado laboralista en Vigo» o «arreglar persiana urgente». Si en tus textos, en el título de la página y en los encabezados no dejas claro qué haces y en qué municipio o barrio trabajas, los algoritmos de búsqueda no pueden asociar tu negocio con las consultas locales de tu entorno."
+      },
+      {
+        "tipo": "p",
+        "texto": "De acuerdo con los datos de <a href=\"https://www.thinkwithgoogle.com/consumer-insights/consumer-trends/mobile-search-trends-consumers-to-stores/\" target=\"_blank\" rel=\"noopener noreferrer\">Think with Google sobre búsqueda móvil</a>, el 76% de los usuarios que realizan una búsqueda local en su teléfono acuden a un negocio antes de 24 horas. Si tu web no especifica tu ubicación y tus servicios, ese cliente acude directamente a la empresa de la calle de al lado."
+      },
+      {
+        "tipo": "h2",
+        "texto": "La ficha de Google Business Profile desconectada de la web"
+      },
+      {
+        "tipo": "p",
+        "texto": "Para cualquier negocio físico o que atienda a domicilio en una zona determinada, la ficha de Google Maps es la mayor fuente de contactos. Sin embargo, muchas empresas la gestionan como si fuera un elemento ajeno a su página web."
+      },
+      {
+        "tipo": "p",
+        "texto": "El nombre comercial, la dirección física y el teléfono (los datos NAP) deben coincidir en tu web y en tu perfil de Google. Si en Maps tu negocio figura como «Clínica Dental Pérez» y en la web te presentas con la razón social «Pérez Odontología y Salud SL», el algoritmo detecta incoherencias y resta confianza a tu ficha."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si tu perfil en Maps no tiene visibilidad, tu web pierde clics directos. Si te encuentras en este caso, revisa nuestra guía sobre <a href=\"https://cresco.es/blog/por-que-mi-negocio-no-aparece-en-google-maps\">por qué tu negocio no aparece en Google Maps y cómo solucionarlo</a> para alinear ambos canales."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Velocidad en el móvil y la paciencia del cliente"
+      },
+      {
+        "tipo": "p",
+        "texto": "La inmensa mayoría de las búsquedas locales se realizan desde dispositivos móviles, muchas veces caminando por la calle o con conexiones de datos móviles inestables."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si tu web tarda cinco segundos en mostrarse porque tiene fotografías de varios megabytes sin comprimir, tipografías pesadas o un servidor compartido lento, el usuario pulsará el botón de volver atrás antes de leer la primera línea. Comprueba la velocidad de tu página con la herramienta oficial PageSpeed Insights de Google. Si la puntuación en móvil aparece en rojo, estás perdiendo visitas antes incluso de que lleguen a ver qué ofreces."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Tienes visitas pero nadie escribe ni llama"
+      },
+      {
+        "tipo": "p",
+        "texto": "Existe un escenario habitual en pequeños comercios y clínicas: mirar las estadísticas y comprobar que entran 80 personas al mes, pero el teléfono permanece en silencio. El problema en este punto no radica en la falta de visitas, sino en la fricción para contactar."
+      },
+      {
+        "tipo": "p",
+        "texto": "Si un cliente interesado tiene que buscar un formulario oculto en un menú secundario, rellenar seis casillas obligatorias y esperar una respuesta por correo electrónico, lo normal es que lo deje para luego y se olvide. Colocar un <a href=\"https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local\">botón de WhatsApp directo y visible</a> en la parte inferior de la pantalla simplifica el contacto y ayuda a que esa visita indecisa te haga una pregunta rápida."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Comprobaciones rápidas para revisar tu web hoy"
+      },
+      {
+        "tipo": "p",
+        "texto": "Antes de pensar en rehacer tu página por completo o gastar dinero en anuncios, haz estas cinco comprobaciones en diez minutos:"
+      },
+      {
+        "tipo": "ol",
+        "texto": "Comprueba la indexación buscando site:tudominio.com en Google para ver si tus páginas están en el índice.\nRevisa la casilla de lectura en WordPress para asegurarte de que no está marcado el bloqueo a motores de búsqueda.\nLee tus titulares de portada y confirma que mencionan tu oficio exacto y tu ciudad o barrio.\nVerifica en tu ficha de Google Business Profile que el botón de «Sitio web» enlaza a la dirección correcta.\nPasa tu URL por PageSpeed Insights de Google para comprobar los tiempos de carga en móvil."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Las búsquedas con inteligencia artificial y los datos claros"
+      },
+      {
+        "tipo": "p",
+        "texto": "La forma de buscar está evolucionando. Cada día más personas recurren a herramientas como ChatGPT, Gemini o Perplexity para pedir recomendaciones locales, con preguntas directas como «qué taller de chapa y pintura de confianza hay cerca de mí»."
+      },
+      {
+        "tipo": "p",
+        "texto": "Estos modelos de lenguaje no interpretan animaciones ni leen eslóganes vacíos; rastrean páginas con una estructura semántica clara, datos de contacto precisos y descripciones directas de servicios. A nuestro juicio, preparar una web con marcado estructurado y textos específicos no solo ayuda a Google, sino que permite que los nuevos motores de respuesta entiendan a qué te dedicas y puedan citarte como opción en tu zona."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Tener una presencia web que trabaje para tu negocio"
+      },
+      {
+        "tipo": "p",
+        "texto": "Tener presencia digital útil no exige presupuestos desmesurados ni aprender programación. Un negocio local necesita una base que responda bien en el teléfono móvil, textos claros orientados a sus clientes cercanos, una conexión limpia con Google Maps y mantenimiento continuo para no quedarse atrás."
+      },
+      {
+        "tipo": "p",
+        "texto": "En Cresco nos ocupamos de todo ello por 69,90 €/mes + IVA, sin permanencia. Diseñamos la web a medida, redactamos los textos y la optimizamos con agentes de IA supervisados por nuestro equipo para mejorar su visibilidad en Google y en asistentes de inteligencia artificial. Si quieres saber el estado actual de tu negocio, puedes pedir un <a href=\"https://cresco.es/diagnostico.html\">diagnóstico gratuito de tu presencia digital</a> o solicitar una <a href=\"https://cresco.es/#contacto\">portada gratis en 72 horas</a> para ver tu proyecto antes de pagar nada."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuánto tiempo tarda una web nueva en empezar a tener visitas en Google?",
+        "a": "Un sitio web recién publicado suele tardar varias semanas en ser rastreado e indexado por Google si no cuenta con enlaces externos. Dar de alta la página en Google Search Console y enlazarla desde tu ficha de Google Business Profile agiliza este proceso inicial."
+      },
+      {
+        "q": "¿Por qué mi web no aparece cuando busco el nombre exacto de mi empresa?",
+        "a": "Si al buscar tu nombre comercial exacto no apareces, lo habitual es que la web tenga activa la etiqueta técnica noindex, que el dominio sea tan reciente que Google aún no lo haya procesado o que el nombre en tu página no coincida con el de tu ficha en Google Maps."
+      }
+    ],
+    "tags": [
+      "SEO local",
+      "Diseño web",
+      "Google Business Profile"
+    ],
+    "foto": "innovadental.jpg",
+    "alt_foto": "Captura de la portada de la web de Innovadental, laboratorio dental en A Coruña, hecha por Cresco"
+  },
+  "brief": {
+    "intencion": "Informacional e investigativa con alta frustración comercial: dueños de pymes y negocios locales que invirtieron en una web y comprueban que no reciben tráfico ni llamadas de clientes.",
+    "respuesta_directa": "Si tu web no tiene visitas, la causa suele deberse a uno de tres fallos críticos: Google no sabe que existes o la tienes bloqueada técnicamente (etiqueta noindex activa), tu web no tiene optimización para búsquedas locales en tu ciudad, o tu ficha de Google Business Profile no está conectada con tu página. Para un negocio de proximidad, una web sin SEO local ni estructura móvil rápida equivale a poner un escaparate en medio de un descampado.",
+    "que_cubren_los_top": [
+      "Causas técnicas habituales: web nueva sin indexar, bloqueo de robots.txt, lentitud de carga.",
+      "Conceptos generales de SEO: palabras clave mal seleccionadas, títulos genéricos y falta de enlaces.",
+      "Recomendación estándar de crear contenido de blog o pagar publicidad en Google Ads y redes sociales."
+    ],
+    "huecos": [
+      "Diferenciación entre tráfico genérico vs. tráfico local: a un fisio, fontanero o restaurante no le sirven visitas globales, necesita tráfico de intención comercial local en su radio geográfico.",
+      "El error garrafal más repetido en WordPress: dejar marcada la casilla de 'Disuadir a los motores de búsqueda de indexar este sitio' tras el diseño.",
+      "La desconexión total entre la web y Google Business Profile (NAP inconsistente y falta de enlaces cruzados).",
+      "El problema de conversión invisible: negocios que creen que no tienen visitas, pero en realidad tienen 50 al mes y 0 contactos porque no tienen llamada a la acción clara ni botón directo de WhatsApp.",
+      "El nuevo escenario de búsqueda con agentes de Inteligencia Artificial (GEO / motores generativos como ChatGPT y Gemini) que extraen datos del negocio sólo si la web tiene estructura semántica clara."
+    ],
+    "preguntas_reales": [
+      "¿Por qué mi página web no aparece cuando busco mi negocio en Google?",
+      "¿Cuánto tiempo tarda una web nueva en empezar a tener visitas?",
+      "¿Cómo saber si Google ha indexado mi página web?",
+      "¿Qué es la casilla de noindex o disuadir motores de búsqueda en WordPress?",
+      "¿Por qué tengo visitas en la web pero nadie me llama ni pide cita?",
+      "¿Cómo influye la ficha de Google Maps en las visitas a mi web?"
+    ],
+    "estructura": [
+      "¿Por qué mi web no tiene visitas? La cruda realidad del negocio local",
+      "Paso 0: ¿Tienes un problema de visitas o un problema de clientes? (El matiz que cambia todo)",
+      "Checklist de 5 puntos críticos para diagnosticar tu web hoy mismo",
+      "Punto 1. Indexación técnica: ¿Le estás diciendo a Google en secreto que no te muestre?",
+      "Punto 2. SEO local y geolocalización: el error de hablar como una multinacional",
+      "Punto 3. Rendimiento móvil y velocidad: si tarda más de 3 segundos, se han ido a la competencia",
+      "Punto 4. Ficha de Google Business Profile: el gran puente roto de los negocios físicos",
+      "Punto 5. Propuesta de valor y fricción de contacto: por qué el poco tráfico que entra no te escribe",
+      "Cómo conseguir visitas en tu página web paso a paso sin gastar miles de euros",
+      "¿Tu web sigue a cero? Pide tu diagnóstico gratuito de presencia digital"
+    ],
+    "palabras_objetivo": 1800,
+    "entidades": [
+      "Google Search Console",
+      "Google Business Profile (Google My Business)",
+      "Meta robots noindex",
+      "Robots.txt",
+      "NAP (Name, Address, Phone)",
+      "PageSpeed Insights",
+      "Core Web Vitals",
+      "Intención de búsqueda local",
+      "GEO (Generative Engine Optimization)",
+      "Botón de WhatsApp web",
+      "Marcado Schema LocalBusiness"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://developers.google.com/search/docs/crawling-indexing/block-indexing?hl=es",
+        "dato": "La documentación oficial de Google Search Central confirma que la etiqueta <meta name=\"robots\" content=\"noindex\"> o la cabecera HTTP noindex elimina por completo la página de los resultados de búsqueda de Google, incluso si otros sitios la enlazan."
+      },
+      {
+        "url": "https://www.thinkwithgoogle.com/consumer-insights/consumer-trends/mobile-search-trends-consumers-to-stores/",
+        "dato": "Los estudios de Think with Google demuestran que el 76% de los usuarios que realizan una búsqueda local en su teléfono móvil visitan un negocio en menos de 24 horas, y el 28% de esas búsquedas termina en una compra directa."
+      }
+    ]
+  },
+  "html": "<p><strong>Si tu web no tiene visitas, la causa suele ser que Google no la ha indexado por un bloqueo técnico, tu contenido no responde a búsquedas locales de tu ciudad o tu ficha de Google Business Profile no está conectada con la página.</strong> Para un negocio de proximidad, tener una web sin optimización local equivale a montar un escaparate impecable en medio de un descampado donde nadie pasa caminando.</p>\n<h2>Visitas de todo el mundo frente a clientes de tu calle</h2>\n<p>Ponte en situación: martes, 22:47. A un vecino le da un tirón lumbar en el sofá, coge el móvil y busca un fisioterapeuta cerca de su casa. No necesita leer un tratado de biomecánica ni le interesa una clínica en otra comunidad autónoma; necesita saber si atiendes urgencias en su barrio y cómo pedir cita para mañana a primera hora.</p>\n<p>Un restaurante en Gijón, una clínica dental en Valencia o un taller en A Coruña no necesitan miles de visitas de personas que viven a quinientos kilómetros. Necesitan doscientas visitas al mes de vecinos que puedan cruzar su puerta.</p>\n<p>Muchos dueños de pequeños negocios se frustran al mirar analíticas vacías creyendo que compiten contra todo internet. Tu objetivo no es salir el primero en España para una palabra genérica como «fisioterapia», sino aparecer cuando alguien en tu zona busca «fisioterapeuta en [tu barrio]» o «tratamiento dolor de espalda cerca de mí».</p>\n<p>Hay otro matiz frecuente: negocios que creen que no tienen visitas cuando en realidad reciben cuarenta al mes, pero ninguna llamada. Si cuarenta personas entrasen a tu local cada mes y saliesen sin mediar palabra, el problema no sería la calle; sería lo que ven al cruzar la puerta o la dificultad para ser atendidos. En internet ocurre exactamente igual.</p>\n<h2>El bloqueo de indexación que hace invisible tu página</h2>\n<p>Ocurre con frecuencia cuando la web la diseña alguien descuidado. Al montar un sitio en WordPress, existe una opción en los ajustes de lectura llamada «Disuadir a los motores de búsqueda de indexar este sitio». Se utiliza para trabajar en el diseño sin que Google registre borradores inacabados.</p>\n<p>El problema llega cuando la web se publica y nadie desmarca esa casilla. Esa opción inserta una etiqueta meta robots con el valor «noindex». Según la <a href=\"https://developers.google.com/search/docs/crawling-indexing/block-indexing?hl=es\" target=\"_blank\" rel=\"noopener\">documentación oficial de Google Search Central</a>, esta directiva indica a los rastreadores que eliminen por completo la página de los resultados de búsqueda, incluso si otros sitios la enlazan.</p>\n<p>Puedes comprobarlo en un segundo. Escribe en Google site:tudominio.com sustituyendo el texto por el nombre real de tu web. Si el buscador responde con cero resultados, tu página no está indexada. En ese caso, desmarca la casilla en los ajustes de tu gestor de contenidos o da de alta tu web en Google Search Console para solicitar que empiecen a rastrearla.</p>\n<h2>Hablar como una multinacional en vez de posicionar en tu ciudad</h2>\n<p>Entra en la portada de tu web y lee el texto principal. Si tu titular dice «Soluciones integrales adaptadas a tus necesidades» o «Comprometidos con la excelencia y la innovación», acabas de descubrir por qué no te llega tráfico. Nadie con una avería en el coche teclea «soluciones integrales» en su teléfono.</p>\n<p>Las personas buscan servicios concretos vinculados a un lugar: «taller mecánico en Mataró», «abogado laboralista en Vigo» o «arreglar persiana urgente». Si en tus textos, en el título de la página y en los encabezados no dejas claro qué haces y en qué municipio o barrio trabajas, los algoritmos de búsqueda no pueden asociar tu negocio con las consultas locales de tu entorno.</p>\n<p>De acuerdo con los datos de <a href=\"https://www.thinkwithgoogle.com/consumer-insights/consumer-trends/mobile-search-trends-consumers-to-stores/\" target=\"_blank\" rel=\"noopener\">Think with Google sobre búsqueda móvil</a>, el 76% de los usuarios que realizan una búsqueda local en su teléfono acuden a un negocio antes de 24 horas. Si tu web no especifica tu ubicación y tus servicios, ese cliente acude directamente a la empresa de la calle de al lado.</p>\n<h2>La ficha de Google Business Profile desconectada de la web</h2>\n<p>Para cualquier negocio físico o que atienda a domicilio en una zona determinada, la ficha de Google Maps es la mayor fuente de contactos. Sin embargo, muchas empresas la gestionan como si fuera un elemento ajeno a su página web.</p>\n<p>El nombre comercial, la dirección física y el teléfono (los datos NAP) deben coincidir en tu web y en tu perfil de Google. Si en Maps tu negocio figura como «Clínica Dental Pérez» y en la web te presentas con la razón social «Pérez Odontología y Salud SL», el algoritmo detecta incoherencias y resta confianza a tu ficha.</p>\n<p>Si tu perfil en Maps no tiene visibilidad, tu web pierde clics directos. Si te encuentras en este caso, revisa nuestra guía sobre <a href=\"https://cresco.es/blog/por-que-mi-negocio-no-aparece-en-google-maps\">por qué tu negocio no aparece en Google Maps y cómo solucionarlo</a> para alinear ambos canales.</p>\n<h2>Velocidad en el móvil y la paciencia del cliente</h2>\n<p>La inmensa mayoría de las búsquedas locales se realizan desde dispositivos móviles, muchas veces caminando por la calle o con conexiones de datos móviles inestables.</p>\n<p>Si tu web tarda cinco segundos en mostrarse porque tiene fotografías de varios megabytes sin comprimir, tipografías pesadas o un servidor compartido lento, el usuario pulsará el botón de volver atrás antes de leer la primera línea. Comprueba la velocidad de tu página con la herramienta oficial PageSpeed Insights de Google. Si la puntuación en móvil aparece en rojo, estás perdiendo visitas antes incluso de que lleguen a ver qué ofreces.</p>\n<h2>Tienes visitas pero nadie escribe ni llama</h2>\n<p>Existe un escenario habitual en pequeños comercios y clínicas: mirar las estadísticas y comprobar que entran 80 personas al mes, pero el teléfono permanece en silencio. El problema en este punto no radica en la falta de visitas, sino en la fricción para contactar.</p>\n<p>Si un cliente interesado tiene que buscar un formulario oculto en un menú secundario, rellenar seis casillas obligatorias y esperar una respuesta por correo electrónico, lo normal es que lo deje para luego y se olvide. Colocar un <a href=\"https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local\">botón de WhatsApp directo y visible</a> en la parte inferior de la pantalla simplifica el contacto y ayuda a que esa visita indecisa te haga una pregunta rápida.</p>\n<h2>Comprobaciones rápidas para revisar tu web hoy</h2>\n<p>Antes de pensar en rehacer tu página por completo o gastar dinero en anuncios, haz estas cinco comprobaciones en diez minutos:</p>\n<ol><li>Comprueba la indexación buscando site:tudominio.com en Google para ver si tus páginas están en el índice.</li><li>Revisa la casilla de lectura en WordPress para asegurarte de que no está marcado el bloqueo a motores de búsqueda.</li><li>Lee tus titulares de portada y confirma que mencionan tu oficio exacto y tu ciudad o barrio.</li><li>Verifica en tu ficha de Google Business Profile que el botón de «Sitio web» enlaza a la dirección correcta.</li><li>Pasa tu URL por PageSpeed Insights de Google para comprobar los tiempos de carga en móvil.</li></ol>\n<h2>Las búsquedas con inteligencia artificial y los datos claros</h2>\n<p>La forma de buscar está evolucionando. Cada día más personas recurren a herramientas como ChatGPT, Gemini o Perplexity para pedir recomendaciones locales, con preguntas directas como «qué taller de chapa y pintura de confianza hay cerca de mí».</p>\n<p>Estos modelos de lenguaje no interpretan animaciones ni leen eslóganes vacíos; rastrean páginas con una estructura semántica clara, datos de contacto precisos y descripciones directas de servicios. A nuestro juicio, preparar una web con marcado estructurado y textos específicos no solo ayuda a Google, sino que permite que los nuevos motores de respuesta entiendan a qué te dedicas y puedan citarte como opción en tu zona.</p>\n<h2>Tener una presencia web que trabaje para tu negocio</h2>\n<p>Tener presencia digital útil no exige presupuestos desmesurados ni aprender programación. Un negocio local necesita una base que responda bien en el teléfono móvil, textos claros orientados a sus clientes cercanos, una conexión limpia con Google Maps y mantenimiento continuo para no quedarse atrás.</p>\n<p>En Cresco nos ocupamos de todo ello por 69,90 €/mes + IVA, sin permanencia. Diseñamos la web a medida, redactamos los textos y la optimizamos con agentes de IA supervisados por nuestro equipo para mejorar su visibilidad en Google y en asistentes de inteligencia artificial. Si quieres saber el estado actual de tu negocio, puedes pedir un <a href=\"https://cresco.es/diagnostico.html\">diagnóstico gratuito de tu presencia digital</a> o solicitar una <a href=\"https://cresco.es/#contacto\">portada gratis en 72 horas</a> para ver tu proyecto antes de pagar nada.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Cuánto tiempo tarda una web nueva en empezar a tener visitas en Google?</h3><p>Un sitio web recién publicado suele tardar varias semanas en ser rastreado e indexado por Google si no cuenta con enlaces externos. Dar de alta la página en Google Search Console y enlazarla desde tu ficha de Google Business Profile agiliza este proceso inicial.</p>\n<h3>¿Por qué mi web no aparece cuando busco el nombre exacto de mi empresa?</h3><p>Si al buscar tu nombre comercial exacto no apareces, lo habitual es que la web tenga activa la etiqueta técnica noindex, que el dominio sea tan reciente que Google aún no lo haya procesado o que el nombre en tu página no coincida con el de tu ficha en Google Maps.</p>"
+}

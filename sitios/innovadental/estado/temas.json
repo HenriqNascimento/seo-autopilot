@@ -29,7 +29,8 @@
     "prioridad": 85,
     "por_que": "GSC muestra múltiples impresiones para 'protesis peek' y 'protesis peek removible' en posiciones 8-9. Las clínicas y pacientes buscan alternativas ligeras y sin metal a los esqueléticos clásicos, pero hay dudas clínicas sobre rigidez y unión de dientes de acrílico.",
     "enfoque": "Revisión técnica de las propiedades del PEEK (módulo de elasticidad similar al hueso esponjoso, ligereza, biocompatibilidad en alérgicos a metales) y contraste honesto sobre sus limitaciones de adhesión mecánica frente a las resinas convencionales.",
-    "estado": "pendiente"
+    "estado": "descartado",
+    "motivo": "Calidad insuficiente tras 3 ediciones: ['expresión prohibida: «revolucion»']"
   },
   {
     "slug": "guias-quirurgicas-apicectomia-gingivectomia-flujo-digital",
@@ -46,7 +47,7 @@
     "prioridad": 85,
     "por_que": "Tras el buen posicionamiento del post de guías CBCT de implantes (pos. 4.4 en GSC), el público clínico busca expandir el flujo guiado a cirugías complejas de tejido blando, apicectomías guiadas y caninos retenidos, donde la oferta informativa de laboratorios es nula.",
     "enfoque": "Protocolo integral para confeccionar férulas guiadas en cirugías no implantológicas: fusionar CBCT con mallas de tejidos blandos para cortes milimétricos en apicectomías apicales, fenestraciones de caninos y recortes de rama mandibular.",
-    "estado": "pendiente"
+    "estado": "publicado"
   },
   {
     "slug": "resina-duraflex-protesis-removible-ventajas-diseno",
