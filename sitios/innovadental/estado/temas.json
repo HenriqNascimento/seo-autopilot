@@ -64,7 +64,8 @@
     "prioridad": 84,
     "por_que": "GSC acumula cientos de impresiones en 'lo último en prótesis dentales removibles', 'nuevas protesis' y 'prótesis removibles modernas' que caen en un post genérico con CTR bajo. En el sector hay saturación de hablar de valplast antiguo pero falta análisis del DuraFlex procesado por CAD-CAM.",
     "enfoque": "Análisis clínico-protésico de la resina DuraFlex procesada digitalmente: elasticidad controlada frente a la porosidad de resinas tradicionales, diseño de ganchos estéticos retentivos camuflados y protocolos de rebasado y pulido en laboratorio.",
-    "estado": "pendiente"
+    "estado": "descartado",
+    "motivo": "Calidad insuficiente tras 3 ediciones: ['expresión prohibida: «revolucion»']"
   },
   {
     "slug": "base-titanio-vs-aditamento-mecanizado-implantes",
@@ -80,7 +81,7 @@
     "prioridad": 83,
     "por_que": "En implantoprótesis existe debate sobre las interfaces de titanio (Ti-Base) frente a pilares directos de zirconio por riesgo de aflojamiento o fractura del hexágono. Enfoque técnico altamente buscado por implantólogos y rehabilitadores.",
     "enfoque": "Explicación biomecánica de por qué en Innovadental recomendamos siempre base de titanio con zirconio PRIME (Ivoclar): ajuste metal-metal con la plataforma del implante, preservación del sellado biológico y cementado extraoral libre de restos de composite en el surco.",
-    "estado": "pendiente"
+    "estado": "publicado"
   },
   {
     "slug": "carillas-non-prep-disilicato-emax-requisitos-clinicos",

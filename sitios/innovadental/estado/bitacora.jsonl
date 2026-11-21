@@ -74,3 +74,10 @@
 {"t": "2026-11-19T15:50:33", "sitio": "innovadental", "evento": "edicion", "slug": "guias-quirurgicas-apicectomia-gingivectomia-flujo-digital", "intento": 1, "nota_min": 9, "problemas": 1}
 {"t": "2026-11-19T15:50:36", "sitio": "innovadental", "evento": "publicado", "slug": "guias-quirurgicas-apicectomia-gingivectomia-flujo-digital", "url": "https://innovadental.net/es/blog/guias-quirurgicas-apicectomia-gingivectomia-flujo-digital", "palabras": 1160}
 {"t": "2026-11-19T15:50:36", "sitio": "innovadental", "evento": "coste", "usd": 0.3091, "modelo": "gemini-3.8-flash", "entrada": 84222, "salida": 65578, "busquedas": 13}
+{"t": "2026-11-21T14:26:52", "sitio": "innovadental", "evento": "edicion", "slug": "resina-duraflex-protesis-removible-ventajas-diseno", "intento": 1, "nota_min": 10, "problemas": 3}
+{"t": "2026-11-21T14:27:58", "sitio": "innovadental", "evento": "edicion", "slug": "resina-duraflex-protesis-removible-ventajas-diseno", "intento": 2, "nota_min": 10, "problemas": 1}
+{"t": "2026-11-21T14:29:49", "sitio": "innovadental", "evento": "edicion", "slug": "resina-duraflex-protesis-removible-ventajas-diseno", "intento": 3, "nota_min": 10, "problemas": 1}
+{"t": "2026-11-21T14:29:49", "sitio": "innovadental", "evento": "descartado", "slug": "resina-duraflex-protesis-removible-ventajas-diseno", "motivo": "Calidad insuficiente tras 3 ediciones: ['expresión prohibida: «revolucion»']"}
+{"t": "2026-11-21T14:33:04", "sitio": "innovadental", "evento": "edicion", "slug": "base-titanio-vs-aditamento-mecanizado-implantes", "intento": 1, "nota_min": 9, "problemas": 1}
+{"t": "2026-11-21T14:33:06", "sitio": "innovadental", "evento": "publicado", "slug": "base-titanio-vs-aditamento-mecanizado-implantes", "url": "https://innovadental.net/es/blog/base-titanio-vs-aditamento-mecanizado-implantes", "palabras": 1950}
+{"t": "2026-11-21T14:33:06", "sitio": "innovadental", "evento": "coste", "usd": 0.4137, "modelo": "gemini-3.8-flash", "entrada": 98119, "salida": 90705, "busquedas": 15}
