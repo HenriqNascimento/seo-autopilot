@@ -215,6 +215,11 @@
       "nombre": "titulo",
       "A": "Título SEO en forma de afirmación con beneficio concreto.",
       "B": "Título SEO en forma de pregunta tal como la buscaría el lector."
+    },
+    {
+      "nombre": "enfoque_cta_b2b",
+      "A": "Llamada a la acción estándar de blog al final del artículo orientada a consulta general.",
+      "B": "Bloque CTA específico con propuesta de valor B2B (protocolo de envío de archivos STL/prueba clínica para clínicas dentales de Galicia)."
     }
   ],
   "historial": []

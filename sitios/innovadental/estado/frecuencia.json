@@ -1,7 +1,7 @@
 {
   "recomendacion": {
-    "fecha": "2026-11-15",
+    "fecha": "2026-11-22",
     "valor": 3,
-    "motivo": "Se registran solo 4 semanas de evolución (menos de las 8 mínimas requeridas para evaluar tendencias consolidadas). Los artículos recientes se están indexando y las impresiones semanales crecen (de 0 a 519), pero no hay datos de conversión para establecer causalidad entre volumen y contactos. Se mantiene la frecuencia actual de 3 artículos/semana por prudencia metodológica y presupuesto."
+    "motivo": "Se mantiene en 3 artículos/semana porque solo disponemos de 5 semanas de histórico (<8 semanas requeridas para cambios causales). El ritmo actual permite ganar indexación e impresiones sostenidas sin sobrecargar el presupuesto de IA ni canibalizar contenidos."
   }
 }

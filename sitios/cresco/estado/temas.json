@@ -1,70 +1,5 @@
 [
   {
-    "slug": "pagina-web-por-suscripcion-o-pago-unico",
-    "keyword": "pagina web por suscripcion",
-    "secundarias": [
-      "web mensualidad sin permanencia",
-      "alquiler de web vs compra",
-      "precio web por suscripcion espana"
-    ],
-    "intencion": "comparativa",
-    "etapa": "decision",
-    "cluster": "modelos-de-contratacion",
-    "prioridad": 94,
-    "por_que": "Tráfico altamente transaccional de pymes que evitan desembolsos iniciales de 2.000 €-3.000 € y buscan flexibilidad financiera sin ataduras.",
-    "enfoque": "Comparación financiera transparente entre desembolso tradicional frente a suscripción con todo incluido (69,90 €/mes), explicando la transferencia de dominio y cancelación libre.",
-    "estado": "repetido",
-    "motivo": "https://cresco.es/blog/pagina-web-sin-permanencia: El artículo existente aborda directamente el modelo de diseño web mediante suscripción/cuota mensual sin permanencia, explicando la propiedad del dominio, la cancelación libre y la comparación con contratos trampa o pagos tradicionales, canibalizand"
-  },
-  {
-    "slug": "por-que-mi-negocio-no-aparece-en-google-maps",
-    "keyword": "por que mi negocio no aparece en google maps",
-    "secundarias": [
-      "aparecer en los primeros puestos de google maps",
-      "como optimizar la ficha de google business profile",
-      "factores de posicionamiento seo local"
-    ],
-    "intencion": "procedimiento",
-    "etapa": "consideracion",
-    "cluster": "seo-local",
-    "prioridad": 93,
-    "por_que": "Es la búsqueda de socorro más común de comercios y clínicas que crean su perfil de Google pero quedan enterrados en la página 3 o fuera del mapa de los 3 primeros resultados.",
-    "enfoque": "Diagnóstico claro de las 5 causas principales: falta de web conectada, discordancia en datos NAP, ausencia de categorías clave y falta de reseñas. Invitar directamente al test gratuito en cresco.es/diagnostico.html.",
-    "estado": "publicado"
-  },
-  {
-    "slug": "mantenimiento-web-que-incluye-cuanto-cuesta",
-    "keyword": "cuanto cuesta el mantenimiento de una web",
-    "secundarias": [
-      "que incluye el mantenimiento web",
-      "precio mantenimiento web pyme espana",
-      "mantenimiento web autonomos"
-    ],
-    "intencion": "comparativa",
-    "etapa": "consideracion",
-    "cluster": "precios-y-modelos",
-    "prioridad": 92,
-    "por_que": "Negocios que ya pagaron 1.500 € por una web en WordPress descubren con sorpresa que se les rompen plugins, sufren hackeos o les cobran 60 € por cambiar un número de teléfono.",
-    "enfoque": "Comparativa entre pagar por horas de soporte técnico imprevisto versus una cuota fija que incluya diseño continuo, cambios de textos mensuales, optimización SEO supervisada por agentes IA y soporte por WhatsApp.",
-    "estado": "publicado"
-  },
-  {
-    "slug": "mi-web-no-recibe-visitas-que-hacer",
-    "keyword": "por que mi web no tiene visitas",
-    "secundarias": [
-      "mi web no tiene visitas que hago",
-      "pagina web sin visitas negocio local",
-      "como conseguir visitas en mi pagina web"
-    ],
-    "intencion": "informativa",
-    "etapa": "descubrimiento",
-    "cluster": "diagnostico-web",
-    "prioridad": 92,
-    "por_que": "Búsqueda recurrente de dueños de negocios frustrados tras pagar miles de euros o un Kit Digital por una web inerte; SERP dominada por posts teóricos de agencias generales que no aterrizan el SEO local ni la conversión directa.",
-    "enfoque": "Checklist accionable de 5 puntos críticos (indexación, SEO local, móvil, propuesta de valor y Google Business); puente natural al Diagnóstico Gratuito de Cresco.",
-    "estado": "publicado"
-  },
-  {
     "slug": "pagina-web-para-restaurantes-sin-comisiones",
     "keyword": "pagina web para restaurante",
     "secundarias": [
@@ -417,6 +352,23 @@
     "estado": "publicado"
   },
   {
+    "slug": "pagina-web-por-suscripcion-o-pago-unico",
+    "keyword": "pagina web por suscripcion",
+    "secundarias": [
+      "web mensualidad sin permanencia",
+      "alquiler de web vs compra",
+      "precio web por suscripcion espana"
+    ],
+    "intencion": "comparativa",
+    "etapa": "decision",
+    "cluster": "modelos-de-contratacion",
+    "prioridad": 94,
+    "por_que": "Tráfico altamente transaccional de pymes que evitan desembolsos iniciales de 2.000 €-3.000 € y buscan flexibilidad financiera sin ataduras.",
+    "enfoque": "Comparación financiera transparente entre desembolso tradicional frente a suscripción con todo incluido (69,90 €/mes), explicando la transferencia de dominio y cancelación libre.",
+    "estado": "repetido",
+    "motivo": "https://cresco.es/blog/pagina-web-sin-permanencia: El artículo existente aborda directamente el modelo de diseño web mediante suscripción/cuota mensual sin permanencia, explicando la propiedad del dominio, la cancelación libre y la comparación con contratos trampa o pagos tradicionales, canibalizand"
+  },
+  {
     "slug": "necesito-pagina-web-si-tengo-instagram",
     "keyword": "necesito pagina web si tengo instagram",
     "secundarias": [
@@ -430,6 +382,54 @@
     "prioridad": 94,
     "por_que": "Duda recurrente de dueños de peluquerías, clínicas y comercios que creen que las redes bastan. En Google rankean posts teóricos de agencias sin aterrizar el problema del SEO local ni cómo Instagram no posiciona en Google Maps ni resuelve consultas transaccionales.",
     "enfoque": "Explicar con números la diferencia entre alcance efímero de redes y tráfico con intención de compra en Google. Introducir el concepto de 'web propia como centro de operaciones' conectada a WhatsApp y ofrecer la portada gratis en 72 h para comprobarlo sin riesgo.",
+    "estado": "publicado"
+  },
+  {
+    "slug": "por-que-mi-negocio-no-aparece-en-google-maps",
+    "keyword": "por que mi negocio no aparece en google maps",
+    "secundarias": [
+      "aparecer en los primeros puestos de google maps",
+      "como optimizar la ficha de google business profile",
+      "factores de posicionamiento seo local"
+    ],
+    "intencion": "procedimiento",
+    "etapa": "consideracion",
+    "cluster": "seo-local",
+    "prioridad": 93,
+    "por_que": "Es la búsqueda de socorro más común de comercios y clínicas que crean su perfil de Google pero quedan enterrados en la página 3 o fuera del mapa de los 3 primeros resultados.",
+    "enfoque": "Diagnóstico claro de las 5 causas principales: falta de web conectada, discordancia en datos NAP, ausencia de categorías clave y falta de reseñas. Invitar directamente al test gratuito en cresco.es/diagnostico.html.",
+    "estado": "publicado"
+  },
+  {
+    "slug": "mantenimiento-web-que-incluye-cuanto-cuesta",
+    "keyword": "cuanto cuesta el mantenimiento de una web",
+    "secundarias": [
+      "que incluye el mantenimiento web",
+      "precio mantenimiento web pyme espana",
+      "mantenimiento web autonomos"
+    ],
+    "intencion": "comparativa",
+    "etapa": "consideracion",
+    "cluster": "precios-y-modelos",
+    "prioridad": 92,
+    "por_que": "Negocios que ya pagaron 1.500 € por una web en WordPress descubren con sorpresa que se les rompen plugins, sufren hackeos o les cobran 60 € por cambiar un número de teléfono.",
+    "enfoque": "Comparativa entre pagar por horas de soporte técnico imprevisto versus una cuota fija que incluya diseño continuo, cambios de textos mensuales, optimización SEO supervisada por agentes IA y soporte por WhatsApp.",
+    "estado": "publicado"
+  },
+  {
+    "slug": "mi-web-no-recibe-visitas-que-hacer",
+    "keyword": "por que mi web no tiene visitas",
+    "secundarias": [
+      "mi web no tiene visitas que hago",
+      "pagina web sin visitas negocio local",
+      "como conseguir visitas en mi pagina web"
+    ],
+    "intencion": "informativa",
+    "etapa": "descubrimiento",
+    "cluster": "diagnostico-web",
+    "prioridad": 92,
+    "por_que": "Búsqueda recurrente de dueños de negocios frustrados tras pagar miles de euros o un Kit Digital por una web inerte; SERP dominada por posts teóricos de agencias generales que no aterrizan el SEO local ni la conversión directa.",
+    "enfoque": "Checklist accionable de 5 puntos críticos (indexación, SEO local, móvil, propuesta de valor y Google Business); puente natural al Diagnóstico Gratuito de Cresco.",
     "estado": "publicado"
   },
   {

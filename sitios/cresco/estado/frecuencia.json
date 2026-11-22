@@ -1,7 +1,7 @@
 {
   "recomendacion": {
-    "fecha": "2026-11-15",
+    "fecha": "2026-11-22",
     "valor": 3,
-    "motivo": "Solo hay 3 semanas registradas en el histórico (<8 semanas mínimas) y los artículos tienen entre 3 y 13 días de vida, por lo que aún no hay datos de Search Console sobre indexación o impresiones. Esta recomendación es de mantenimiento operativo y no constituye un experimento causal."
+    "motivo": "Se registran solo 4 semanas de seguimiento y los artículos tienen menos de 30 días en línea (sin datos de indexación o impresiones aún). Al contar con menos de 8 semanas de datos no es metodológicamente válido modificar el ritmo de publicación ni atribuir causalidad al rendimiento actual."
   }
 }
