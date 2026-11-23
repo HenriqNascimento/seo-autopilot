@@ -1,0 +1,289 @@
+{
+  "articulo": {
+    "titulo": "Página web para restaurante: reservas directas y sin comisiones",
+    "titulo_seo": "Página web para restaurante: cómo captar reservas directas",
+    "meta_description": "Qué necesita la página web para restaurante: carta en HTML, reservas directas sin comisiones y sincronización con Google Maps y motores de búsqueda de IA.",
+    "resumen": "Guía práctica para hosteleros que quieren una web que atraiga comensales, elimine cartas en PDF ilegibles y consiga reservas directas sin pagar comisiones por cubierto.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "<strong>Una página web para restaurante debe responder en menos de tres segundos a tres preguntas desde el teléfono móvil: qué se come, cuánto cuesta y cómo reservar mesa o llegar al local.</strong> Si tu web obliga a descargar un archivo pesado, oculta los precios o deriva a plataformas externas que se quedan con comisiones por comensal, estás perdiendo clientes cada noche frente a los locales de tu misma calle."
+      },
+      {
+        "tipo": "p",
+        "texto": "Viernes, 21:15. Una pareja sale de trabajar, camina por el centro y busca en el móvil un sitio para cenar. Encuentran tu local en Google, pulsan en el enlace y se topan con una pantalla en blanco que tarda seis segundos en cargar, seguida de un botón que descarga un PDF de 14 megabytes. Para leer los platos tienen que ampliar con dos dedos, desplazarse a ciegas entre fotos borrosas y adivinar si los precios siguen vigentes. Cierran la pestaña y entran en el local de al lado."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Por qué la carta en PDF te cuesta mesas cada fin de semana"
+      },
+      {
+        "tipo": "p",
+        "texto": "Durante años, subir un archivo PDF a la web o enlazarlo a un código QR sobre la mesa pareció una solución rápida y barata. La realidad técnica es que el PDF se diseñó para enviar documentos a imprenta, nunca para leerse en pantallas verticales de cinco pulgadas con cobertura irregular."
+      },
+      {
+        "tipo": "p",
+        "texto": "El PDF no nació para el móvil. Nació para el papel."
+      },
+      {
+        "tipo": "p",
+        "texto": "El primer problema es la fricción. Obliga a descargar un archivo en la memoria del teléfono, consume datos del cliente y exige pellizcar la pantalla para descifrar ingredientes o precios. Si alguien está en la acera decidiendo dónde cenar, cada segundo de espera extra arruina la decisión."
+      },
+      {
+        "tipo": "p",
+        "texto": "El segundo problema afecta directamente a la visibilidad en buscadores. Aunque Google puede extraer texto de algunos archivos PDF, no puede estructurar la información de tus platos con la misma claridad que en una página escrita en código HTML limpio. Si alguien busca en tu barrio «restaurante con tarta de queso casera» o «dónde comer pulpo á feira», el buscador tiende a priorizar los locales que tienen esos platos redactados en el propio texto de su web."
+      },
+      {
+        "tipo": "p",
+        "texto": "A esto se suma la gestión diaria. Cuando sube el coste de la materia prima, cambias de proveedor o introduces un menú de temporada, modificar un PDF exige volver al programa de diseño, exportar el archivo, renombrarlo y subirlo de nuevo. En una web bien planteada en HTML, cambiar un precio o añadir una sugerencia del día toma un minuto desde cualquier navegador."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Carta en HTML y datos estructurados para que Google y las IA entiendan tu menú"
+      },
+      {
+        "tipo": "p",
+        "texto": "Tener la carta maquetada en texto web transforma tu menú en una fuente de datos abierta tanto para buscadores convencionales como para motores de respuesta como ChatGPT, Perplexity o Gemini. Esto último es lo que en el sector se conoce como GEO (Generative Engine Optimization)."
+      },
+      {
+        "tipo": "p",
+        "texto": "Cuando alguien le pregunta a un asistente de inteligencia artificial «recomiéndame un restaurante italiano cerca del puerto con pasta fresca sin gluten», la herramienta no abre folletos escaneados ni fotos de pizarras. Rastrea textos limpios e indexables que confirmen de forma clara qué platos ofreces y qué ingredientes llevan."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para que los motores interpreten tu propuesta sin confusiones, conviene implementar el estándar técnico de <a href=\"https://schema.org/Restaurant\" target=\"_blank\" rel=\"noopener noreferrer\">Schema.org/Restaurant</a>. Siguiendo las recomendaciones de <a href=\"https://developers.google.com/search/docs/appearance/structured-data/restaurant?hl=es\" target=\"_blank\" rel=\"noopener noreferrer\">Google Search Central para restaurantes</a>, este marcado invisible en el código ayuda a especificar el tipo de cocina, el rango de precios, los platos individuales mediante la etiqueta menuItem y si aceptas reservas directas."
+      },
+      {
+        "tipo": "p",
+        "texto": "Con esta estructura, el buscador puede llegar a mostrar datos enriquecidos en los resultados locales, como fragmentos del menú o rangos de precios. No hay fórmulas mágicas para garantizar los primeros puestos, pero sí formas de evitar que las máquinas tengan que adivinar qué sirves."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Alérgenos en la carta digital y normativa obligatoria en España"
+      },
+      {
+        "tipo": "p",
+        "texto": "Detallar los ingredientes no es un simple detalle con las personas con intolerancias; es una exigencia legal en España y en la Unión Europea. La regulación parte del Reglamento (UE) 1169/2011 sobre información alimentaria y, en la normativa española, del <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2015-2200\" target=\"_blank\" rel=\"noopener noreferrer\">Real Decreto 126/2015, de 27 de febrero</a>."
+      },
+      {
+        "tipo": "p",
+        "texto": "La norma obliga a cualquier negocio que venda alimentos sin envasar a informar sobre la presencia de los 14 alérgenos de declaración obligatoria: gluten, crustáceos, huevos, pescado, cacahuetes, soja, leche, frutos de cáscara, apio, mostaza, sésamo, sulfitos, altramuces y moluscos. En una carta digital, accesible por enlace o QR, esta información debe estar disponible de forma clara antes de que el cliente ordene o consuma."
+      },
+      {
+        "tipo": "p",
+        "texto": "En un PDF, cumplir esto suele traducirse en tablas microscópicas con iconos difíciles de interpretar. En una web bien diseñada, cada plato lleva sus indicaciones visibles o filtros que permiten seleccionar «sin gluten» o «sin lactosa» para ver al instante las opciones disponibles. Eso ahorra dudas continuas al personal de sala en pleno servicio y aporta tranquilidad al comensal."
+      },
+      {
+        "tipo": "p",
+        "texto": "Conviene recordar también el artículo 10 de la Ley de Servicios de la Sociedad de la Información (LSSI-CE). Toda web comercial en España debe incluir un aviso legal accesible con el nombre fiscal del titular o autónomo, NIF, dirección física, teléfono de contacto y datos registrales en caso de sociedad mercantil."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Reservas directas frente a comisiones de plataformas intermediarias"
+      },
+      {
+        "tipo": "p",
+        "texto": "Muchas plataformas de reservas y agregadores prometen llenar comedores a cambio de cuotas fijas y comisiones que suelen rondar entre 1,50 € y 3 € por cada comensal sentado. En un turno concurrido con varias decenas de clientes procedentes de esos portales, una parte apreciable del margen se queda en manos de un intermediario que solo procesó una solicitud digital."
+      },
+      {
+        "tipo": "p",
+        "texto": "El comensal que reserva a través de un agregador suele ser cliente de la aplicación, no de tu casa."
+      },
+      {
+        "tipo": "p",
+        "texto": "Cuando una persona reserva mediante un tercero, los datos de contacto y sus hábitos quedan en esa plataforma. La próxima vez que busque mesa, la aplicación le mostrará locales similares con ofertas de la competencia."
+      },
+      {
+        "tipo": "p",
+        "texto": "Contar con tu propio canal de reserva devuelve el control sobre la relación con el comensal. Para restaurantes gastronómicos con varios turnos y asignación compleja de mesas existen motores con cuota plana que se integran en la propia web. Para bares de tapas, casas de comidas y restaurantes familiares de barrio, la vía más práctica y sin peajes suele ser todavía más directa."
+      },
+      {
+        "tipo": "h2",
+        "texto": "El atajo de WhatsApp para reservar mesa sin fricción"
+      },
+      {
+        "tipo": "p",
+        "texto": "En España, la gran mayoría de clientes utiliza WhatsApp a diario. Obligar a alguien a crearse una cuenta, validar un correo electrónico o dejar una tarjeta bancaria para pedir una mesa un jueves al mediodía provoca abandonos antes de terminar el proceso."
+      },
+      {
+        "tipo": "p",
+        "texto": "Instalar un <a href=\"https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local\">botón de WhatsApp en la web de tu negocio local</a> permite solicitar mesa en dos toques. El funcionamiento de este enlace está en programar un mensaje predefinido que se abre en la aplicación del cliente listo para rellenar:"
+      },
+      {
+        "tipo": "cita",
+        "texto": "«Hola, me gustaría reservar mesa. Nombre: [Tu nombre] | Día: [Fecha] | Hora: [Hora] | Comensales: [Nº personas] | Observaciones o intolerancias: [Opcional]»"
+      },
+      {
+        "tipo": "p",
+        "texto": "Quien atiende el teléfono en el restaurante solo tiene que revisar la libreta o el libro de reservas y responder confirmando la mesa o proponiendo otro turno. Sin comisiones por cubierto y con un canal abierto para avisar de cualquier imprevisto."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Cómo conectar la web con tu Perfil de Empresa en Google Maps"
+      },
+      {
+        "tipo": "p",
+        "texto": "La ficha de Google Business Profile y la página web forman un conjunto que debe complementarse. Si te preguntas <a href=\"https://cresco.es/blog/por-que-mi-negocio-no-aparece-en-google-maps\">por qué tu negocio no aparece en Google Maps</a> en posiciones destacadas, la ausencia de una web vinculada o con datos discordantes suele influir negativamente."
+      },
+      {
+        "tipo": "p",
+        "texto": "Google contrasta que los datos de tu ficha coincidan con los de tu página: nombre comercial, dirección exacta con código postal, teléfono local y horarios. Mantener esa coherencia ayuda al algoritmo a verificar la autenticidad del negocio en las búsquedas de proximidad."
+      },
+      {
+        "tipo": "p",
+        "texto": "Dentro de la configuración de la ficha existen campos específicos para la URL de menú y la URL de reservas. El error típico consiste en enlazar a un agregador comisionista o a un archivo en Google Drive. Lo recomendable es apuntar a secciones limpias de tu propio dominio: tudominio.es/carta y tudominio.es/reservas. Así, quien pulse desde Google Maps llega directo a tu propuesta gastronómica sin desvíos."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Velocidad en el móvil para clientes que deciden sobre la marcha"
+      },
+      {
+        "tipo": "p",
+        "texto": "El comensal consulta la web de un restaurante casi siempre desde el móvil. Suele hacerlo por la calle, con prisas o mientras espera a sus acompañantes."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para no perder esa visita, la página debe responder de forma ágil. Conviene comprimir las fotografías en formatos modernos como WebP, prescindir de vídeos pesados de fondo y evitar animaciones que demoren la navegación."
+      },
+      {
+        "tipo": "p",
+        "texto": "En pantalla deben aparecer de inmediato los datos que definen la elección: tipo de cocina, botón para ver la carta con precios, horario del día y botón para llamar o escribir por WhatsApp. La ubicación y las opciones de aparcamiento tienen que estar a mano, sin obligar al usuario a rebuscar entre párrafos decorativos."
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Elemento | Web desactualizada | Web optimizada para restaurante\nFormato de carta | Archivo PDF descargable o fotos | Texto HTML limpio con precios y alérgenos\nReservas online | Formulario complejo o peaje a terceros | Botón directo a WhatsApp o motor propio\nTiempos de carga | Lenta por fotos pesadas y código sobrecargado | Ligera y adaptada a conexiones móviles\nLectura por IA | Texto inaccesible para ChatGPT o Gemini | Datos estructurados legibles por motores de IA\nGestión de precios | Exige maquetar y subir un nuevo archivo | Edición rápida de platos y tarifas"
+      },
+      {
+        "tipo": "h2",
+        "texto": "Qué debe incluir la página web para restaurante para convertir visitas en mesas"
+      },
+      {
+        "tipo": "p",
+        "texto": "La presencia digital de un establecimiento hostelero no requiere decenas de secciones complejas. La claridad en los datos prácticos es lo que inclina la balanza:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Carta en HTML con precios finales (IVA incluido) y alérgenos indicados de forma visible.\nHorarios actualizados, distinguiendo turnos de cocina y días de cierre.\nDirección exacta vinculada a la aplicación de mapas del teléfono para calcular la ruta en un toque.\nBotón visible de llamada y enlace directo a WhatsApp para reservas o dudas de grupos.\nCuatro o cinco fotografías reales y bien iluminadas del comedor, la terraza y los platos principales."
+      },
+      {
+        "tipo": "p",
+        "texto": "Un apunte sobre las imágenes: las fotos de banco de imágenes restan credibilidad. Pocas cosas frustran más a un comensal que ver en la web una hamburguesa de estudio publicitario y recibir en la mesa algo completamente distinto. Imágenes naturales tomadas en el propio local generan una expectativa honesta que fideliza mejor."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Errores habituales en las páginas de bares y restaurantes"
+      },
+      {
+        "tipo": "p",
+        "texto": "En el sector hostelero se repiten con frecuencia ciertos planteamientos que frenan la captación de reservas:"
+      },
+      {
+        "tipo": "ol",
+        "texto": "Ocultar los precios de los platos por recelo a la competencia, lo que suele provocar desconfianza y abandono de la página.\nPantallas intermedias con logotipos animados que obligan a pulsar «Entrar» para ver la información básica.\nMúsica que se reproduce sola al cargar la web, incómoda para quien navega en público o en el trabajo.\nOmitir información práctica relevante: si hay terraza acondicionada, si se permiten perros o si el acceso está adaptado."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Cuánto cuesta una web de restaurante y cómo mantenerla al día"
+      },
+      {
+        "tipo": "p",
+        "texto": "Al plantearse este proyecto, el hostelero suele toparse con dos caminos poco convincentes. Por un lado, las agencias tradicionales con presupuestos de entrada elevados y cuotas añadidas cada vez que se requiere actualizar la carta. En nuestro artículo sobre <a href=\"https://cresco.es/blog/cuanto-cuesta-pagina-web-negocio-local\">cuánto cuesta una página web para un negocio local en España</a> desglosamos esas opciones con detalle."
+      },
+      {
+        "tipo": "p",
+        "texto": "Por otro lado están las plataformas de creación automática. Sobre el papel parecen económicas, pero exigen que el propio hostelero, tras una jornada de servicio y mercado, dedique sus horas de descanso a configurar dominios, ajustar textos en móvil y pelear con avisos legales."
+      },
+      {
+        "tipo": "p",
+        "texto": "En Cresco ofrecemos una alternativa pensada para pequeños negocios. Con nuestro Plan Cresco Web nos encargamos de todo por 69,90 €/mes + IVA, con un modelo de <a href=\"https://cresco.es/blog/pagina-web-sin-permanencia\">diseño web sin permanencia</a> que se puede cancelar al final del mes en curso si no encaja. El dominio es tuyo y se transfiere a tu nombre si decides marcharte."
+      },
+      {
+        "tipo": "p",
+        "texto": "El servicio incluye diseño a medida adaptado a móviles, redacción de textos, dominio, hosting, certificado SSL, optimización de la ficha de Google Business Profile y soporte continuo por WhatsApp y correo electrónico. Además, contamos con agentes de IA supervisados por nuestro equipo que revisan la web semanalmente: el agente SEO optimiza las búsquedas locales, el agente GEO ajusta datos y estructura para motores como ChatGPT o Perplexity, y el agente CRO analiza llamadas a la acción y orden de contenidos para facilitar los contactos."
+      },
+      {
+        "tipo": "p",
+        "texto": "Cuando cambies un plato, renueves precios o prepares unas jornadas gastronómicas, nos pasas los datos por WhatsApp y aplicamos los cambios de contenido mensuales incluidos en el plan, sin que pierdas tiempo técnico."
+      },
+      {
+        "tipo": "p",
+        "texto": "Para que valores el resultado antes de asumir ningún gasto, diseñamos la portada de tu restaurante gratis en 72 horas. Si te convence, seguimos adelante; si no, no pagas nada."
+      }
+    ],
+    "faq": [],
+    "tags": [
+      "Diseño web",
+      "Negocios locales",
+      "Hostelería"
+    ],
+    "foto": "lapacar.jpg",
+    "alt_foto": "Diseño de página web profesional para negocio local realizado por Cresco"
+  },
+  "brief": {
+    "intencion": "Comercial e informativa: dueños de bares, restaurantes y cafeterías que quieren saber qué debe incluir la web de su restaurante para conseguir comensales y reservas directas, cuánto cuesta y cómo librarse de comisiones de intermediarios y de cartas ilegibles en PDF.",
+    "respuesta_directa": "Una web para restaurante debe responder en menos de tres segundos a tres preguntas desde el móvil: qué se come (carta en HTML, no en PDF), cuánto cuesta y cómo reservar o llegar. Prescindir de comisiones por comensal y posicionar en Google Maps y motores de IA exige una carta en texto indexable con datos estructurados de Schema.org, botón de reserva directa por WhatsApp o motor propio, y sincronización estricta con el Perfil de Empresa de Google.",
+    "que_cubren_los_top": [
+      "La necesidad urgente de abandonar las cartas en PDF porque no cargan bien en móviles, consumen datos y son pésimas para el SEO.",
+      "Sistemas de reserva online (motores propios frente a plataformas de terceros tipo TheFork o CoverManager para evitar comisiones).",
+      "Listas de elementos imprescindibles: carta con precios y fotos, horarios sincronizados, mapa de ubicación, botón de llamada directa.",
+      "Cumplimiento normativo básico en España: indicación de alérgenos (Reglamento UE 1169/2011 y RD 126/2015) y datos fiscales exigidos por la LSSI.",
+      "El peso de las imágenes y la velocidad de carga móvil en redes 4G/5G en momentos de decisión inmediata."
+    ],
+    "huecos": [
+      "Nadie explica el impacto directo en GEO (Generative Engine Optimization): si la carta está en un PDF o en una foto, ChatGPT, Perplexity o Gemini no pueden responder a preguntas como 'restaurante con opciones sin gluten cerca de mí' o recomendar un plato concreto.",
+      "No abordan la sobrecarga técnica y de costes: las agencias tradicionales cobran entre 1.500 € y 3.000 € por webs estáticas que luego el hostelero no sabe actualizar cuando cambia el precio de la caña o los platos de temporada.",
+      "Ignoran la barrera de fricción del comensal español: obligar a registrarse en un software complejo para reservar una mesa de 4 genera abandono; un botón directo a WhatsApp con plantilla de mensaje prediseñada suele duplicar la conversión en hostelería de barrio y media gama.",
+      "Falta de integración bidireccional real con Google Maps: no solo poner un mapa de Google embebido, sino optimizar las URLs de 'Menú' y 'Reservas' dentro de la ficha de Google Business Profile hacia la web.",
+      "El modelo de pago transparente: frente a desembolsos de miles de euros o software con comisiones por cubierto (1,50 € a 3 € por comensal en intermediarios), la alternativa de servicio 'todo incluido' por 69,90 €/mes sin permanencia."
+    ],
+    "preguntas_reales": [
+      "¿Por qué no debo subir la carta de mi restaurante en formato PDF a la web?",
+      "¿Cómo puedo recibir reservas de mesas en la web sin pagar comisiones por comensal?",
+      "¿Es obligatorio indicar los 14 alérgenos alimentarios en la carta digital según la ley española?",
+      "¿Qué datos estructurados de Google necesita la página de un restaurante para aparecer en búsquedas locales?",
+      "¿Cómo vinculo la carta web de mi restaurante con mi ficha de Google Maps?",
+      "¿Cuánto cuesta crear y mantener una web profesional para un restaurante?"
+    ],
+    "estructura": [
+      "El fallo número uno de la hostelería: por qué la carta en PDF te está costando mesas",
+      "Carta digital en HTML: el secreto para que Google y las IA (ChatGPT y Gemini) te recomienden",
+      "Alérgenos y normativa en España: qué exige la ley en la carta de tu web",
+      "Reservas directas vs. comisiones: cómo llenar la sala sin pagar peaje por cada cubierto",
+      "El canal rápido: botón de reserva y contacto directo por WhatsApp para hostelería",
+      "Conexión estratégica entre tu web y el Perfil de Empresa en Google Maps",
+      "Velocidad de carga y experiencia móvil: el cliente decide en 30 segundos un viernes noche",
+      "Web para tu restaurante por 69,90 €/mes: sin desembolso inicial, sin permanencia y siempre actualizada"
+    ],
+    "palabras_objetivo": 1750,
+    "entidades": [
+      "Schema.org/Restaurant",
+      "FoodEstablishment",
+      "menuItem",
+      "Reglamento (UE) 1169/2011",
+      "Real Decreto 126/2015",
+      "LSSI-CE (Artículo 10)",
+      "Google Business Profile",
+      "Google Maps Local Pack",
+      "CoverManager",
+      "TheFork",
+      "GEO (Generative Engine Optimization)",
+      "WhatsApp Business API",
+      "QR dinámico"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2200",
+        "dato": "Real Decreto 126/2015, de 27 de febrero, por el que se aprueba la norma general relativa a la información alimentaria de los alimentos que se presenten sin envasar para la venta al consumidor final y en colectividades (obligación de información sobre los 14 alérgenos en hostelería)."
+      },
+      {
+        "url": "https://schema.org/Restaurant",
+        "dato": "Documentación oficial del estándar Schema.org para 'Restaurant' y propiedades específicas como 'hasMenu', 'servesCuisine' y 'acceptsReservations' para el marcado de datos estructurados leídos por buscadores."
+      },
+      {
+        "url": "https://developers.google.com/search/docs/appearance/structured-data/restaurant?hl=es",
+        "dato": "Guía oficial de Google Search Central sobre la implementación de datos estructurados para restaurantes y carruseles de menús en los resultados de búsqueda."
+      }
+    ]
+  },
+  "html": "<p><strong>Una página web para restaurante debe responder en menos de tres segundos a tres preguntas desde el teléfono móvil: qué se come, cuánto cuesta y cómo reservar mesa o llegar al local.</strong> Si tu web obliga a descargar un archivo pesado, oculta los precios o deriva a plataformas externas que se quedan con comisiones por comensal, estás perdiendo clientes cada noche frente a los locales de tu misma calle.</p>\n<p>Viernes, 21:15. Una pareja sale de trabajar, camina por el centro y busca en el móvil un sitio para cenar. Encuentran tu local en Google, pulsan en el enlace y se topan con una pantalla en blanco que tarda seis segundos en cargar, seguida de un botón que descarga un PDF de 14 megabytes. Para leer los platos tienen que ampliar con dos dedos, desplazarse a ciegas entre fotos borrosas y adivinar si los precios siguen vigentes. Cierran la pestaña y entran en el local de al lado.</p>\n<h2>Por qué la carta en PDF te cuesta mesas cada fin de semana</h2>\n<p>Durante años, subir un archivo PDF a la web o enlazarlo a un código QR sobre la mesa pareció una solución rápida y barata. La realidad técnica es que el PDF se diseñó para enviar documentos a imprenta, nunca para leerse en pantallas verticales de cinco pulgadas con cobertura irregular.</p>\n<p>El PDF no nació para el móvil. Nació para el papel.</p>\n<p>El primer problema es la fricción. Obliga a descargar un archivo en la memoria del teléfono, consume datos del cliente y exige pellizcar la pantalla para descifrar ingredientes o precios. Si alguien está en la acera decidiendo dónde cenar, cada segundo de espera extra arruina la decisión.</p>\n<p>El segundo problema afecta directamente a la visibilidad en buscadores. Aunque Google puede extraer texto de algunos archivos PDF, no puede estructurar la información de tus platos con la misma claridad que en una página escrita en código HTML limpio. Si alguien busca en tu barrio «restaurante con tarta de queso casera» o «dónde comer pulpo á feira», el buscador tiende a priorizar los locales que tienen esos platos redactados en el propio texto de su web.</p>\n<p>A esto se suma la gestión diaria. Cuando sube el coste de la materia prima, cambias de proveedor o introduces un menú de temporada, modificar un PDF exige volver al programa de diseño, exportar el archivo, renombrarlo y subirlo de nuevo. En una web bien planteada en HTML, cambiar un precio o añadir una sugerencia del día toma un minuto desde cualquier navegador.</p>\n<h2>Carta en HTML y datos estructurados para que Google y las IA entiendan tu menú</h2>\n<p>Tener la carta maquetada en texto web transforma tu menú en una fuente de datos abierta tanto para buscadores convencionales como para motores de respuesta como ChatGPT, Perplexity o Gemini. Esto último es lo que en el sector se conoce como GEO (Generative Engine Optimization).</p>\n<p>Cuando alguien le pregunta a un asistente de inteligencia artificial «recomiéndame un restaurante italiano cerca del puerto con pasta fresca sin gluten», la herramienta no abre folletos escaneados ni fotos de pizarras. Rastrea textos limpios e indexables que confirmen de forma clara qué platos ofreces y qué ingredientes llevan.</p>\n<p>Para que los motores interpreten tu propuesta sin confusiones, conviene implementar el estándar técnico de <a href=\"https://schema.org/Restaurant\" target=\"_blank\" rel=\"noopener\">Schema.org/Restaurant</a>. Siguiendo las recomendaciones de <a href=\"https://developers.google.com/search/docs/appearance/structured-data/restaurant?hl=es\" target=\"_blank\" rel=\"noopener\">Google Search Central para restaurantes</a>, este marcado invisible en el código ayuda a especificar el tipo de cocina, el rango de precios, los platos individuales mediante la etiqueta menuItem y si aceptas reservas directas.</p>\n<p>Con esta estructura, el buscador puede llegar a mostrar datos enriquecidos en los resultados locales, como fragmentos del menú o rangos de precios. No hay fórmulas mágicas para garantizar los primeros puestos, pero sí formas de evitar que las máquinas tengan que adivinar qué sirves.</p>\n<h2>Alérgenos en la carta digital y normativa obligatoria en España</h2>\n<p>Detallar los ingredientes no es un simple detalle con las personas con intolerancias; es una exigencia legal en España y en la Unión Europea. La regulación parte del Reglamento (UE) 1169/2011 sobre información alimentaria y, en la normativa española, del <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2015-2200\" target=\"_blank\" rel=\"noopener\">Real Decreto 126/2015, de 27 de febrero</a>.</p>\n<p>La norma obliga a cualquier negocio que venda alimentos sin envasar a informar sobre la presencia de los 14 alérgenos de declaración obligatoria: gluten, crustáceos, huevos, pescado, cacahuetes, soja, leche, frutos de cáscara, apio, mostaza, sésamo, sulfitos, altramuces y moluscos. En una carta digital, accesible por enlace o QR, esta información debe estar disponible de forma clara antes de que el cliente ordene o consuma.</p>\n<p>En un PDF, cumplir esto suele traducirse en tablas microscópicas con iconos difíciles de interpretar. En una web bien diseñada, cada plato lleva sus indicaciones visibles o filtros que permiten seleccionar «sin gluten» o «sin lactosa» para ver al instante las opciones disponibles. Eso ahorra dudas continuas al personal de sala en pleno servicio y aporta tranquilidad al comensal.</p>\n<p>Conviene recordar también el artículo 10 de la Ley de Servicios de la Sociedad de la Información (LSSI-CE). Toda web comercial en España debe incluir un aviso legal accesible con el nombre fiscal del titular o autónomo, NIF, dirección física, teléfono de contacto y datos registrales en caso de sociedad mercantil.</p>\n<h2>Reservas directas frente a comisiones de plataformas intermediarias</h2>\n<p>Muchas plataformas de reservas y agregadores prometen llenar comedores a cambio de cuotas fijas y comisiones que suelen rondar entre 1,50 € y 3 € por cada comensal sentado. En un turno concurrido con varias decenas de clientes procedentes de esos portales, una parte apreciable del margen se queda en manos de un intermediario que solo procesó una solicitud digital.</p>\n<p>El comensal que reserva a través de un agregador suele ser cliente de la aplicación, no de tu casa.</p>\n<p>Cuando una persona reserva mediante un tercero, los datos de contacto y sus hábitos quedan en esa plataforma. La próxima vez que busque mesa, la aplicación le mostrará locales similares con ofertas de la competencia.</p>\n<p>Contar con tu propio canal de reserva devuelve el control sobre la relación con el comensal. Para restaurantes gastronómicos con varios turnos y asignación compleja de mesas existen motores con cuota plana que se integran en la propia web. Para bares de tapas, casas de comidas y restaurantes familiares de barrio, la vía más práctica y sin peajes suele ser todavía más directa.</p>\n<h2>El atajo de WhatsApp para reservar mesa sin fricción</h2>\n<p>En España, la gran mayoría de clientes utiliza WhatsApp a diario. Obligar a alguien a crearse una cuenta, validar un correo electrónico o dejar una tarjeta bancaria para pedir una mesa un jueves al mediodía provoca abandonos antes de terminar el proceso.</p>\n<p>Instalar un <a href=\"https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local\">botón de WhatsApp en la web de tu negocio local</a> permite solicitar mesa en dos toques. El funcionamiento de este enlace está en programar un mensaje predefinido que se abre en la aplicación del cliente listo para rellenar:</p>\n<blockquote>«Hola, me gustaría reservar mesa. Nombre: [Tu nombre] | Día: [Fecha] | Hora: [Hora] | Comensales: [Nº personas] | Observaciones o intolerancias: [Opcional]»</blockquote>\n<p>Quien atiende el teléfono en el restaurante solo tiene que revisar la libreta o el libro de reservas y responder confirmando la mesa o proponiendo otro turno. Sin comisiones por cubierto y con un canal abierto para avisar de cualquier imprevisto.</p>\n<h2>Cómo conectar la web con tu Perfil de Empresa en Google Maps</h2>\n<p>La ficha de Google Business Profile y la página web forman un conjunto que debe complementarse. Si te preguntas <a href=\"https://cresco.es/blog/por-que-mi-negocio-no-aparece-en-google-maps\">por qué tu negocio no aparece en Google Maps</a> en posiciones destacadas, la ausencia de una web vinculada o con datos discordantes suele influir negativamente.</p>\n<p>Google contrasta que los datos de tu ficha coincidan con los de tu página: nombre comercial, dirección exacta con código postal, teléfono local y horarios. Mantener esa coherencia ayuda al algoritmo a verificar la autenticidad del negocio en las búsquedas de proximidad.</p>\n<p>Dentro de la configuración de la ficha existen campos específicos para la URL de menú y la URL de reservas. El error típico consiste en enlazar a un agregador comisionista o a un archivo en Google Drive. Lo recomendable es apuntar a secciones limpias de tu propio dominio: tudominio.es/carta y tudominio.es/reservas. Así, quien pulse desde Google Maps llega directo a tu propuesta gastronómica sin desvíos.</p>\n<h2>Velocidad en el móvil para clientes que deciden sobre la marcha</h2>\n<p>El comensal consulta la web de un restaurante casi siempre desde el móvil. Suele hacerlo por la calle, con prisas o mientras espera a sus acompañantes.</p>\n<p>Para no perder esa visita, la página debe responder de forma ágil. Conviene comprimir las fotografías en formatos modernos como WebP, prescindir de vídeos pesados de fondo y evitar animaciones que demoren la navegación.</p>\n<p>En pantalla deben aparecer de inmediato los datos que definen la elección: tipo de cocina, botón para ver la carta con precios, horario del día y botón para llamar o escribir por WhatsApp. La ubicación y las opciones de aparcamiento tienen que estar a mano, sin obligar al usuario a rebuscar entre párrafos decorativos.</p>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Elemento</th><th>Web desactualizada</th><th>Web optimizada para restaurante</th></tr></thead><tbody><tr><td>Formato de carta</td><td>Archivo PDF descargable o fotos</td><td>Texto HTML limpio con precios y alérgenos</td></tr><tr><td>Reservas online</td><td>Formulario complejo o peaje a terceros</td><td>Botón directo a WhatsApp o motor propio</td></tr><tr><td>Tiempos de carga</td><td>Lenta por fotos pesadas y código sobrecargado</td><td>Ligera y adaptada a conexiones móviles</td></tr><tr><td>Lectura por IA</td><td>Texto inaccesible para ChatGPT o Gemini</td><td>Datos estructurados legibles por motores de IA</td></tr><tr><td>Gestión de precios</td><td>Exige maquetar y subir un nuevo archivo</td><td>Edición rápida de platos y tarifas</td></tr></tbody></table></div>\n<h2>Qué debe incluir la página web para restaurante para convertir visitas en mesas</h2>\n<p>La presencia digital de un establecimiento hostelero no requiere decenas de secciones complejas. La claridad en los datos prácticos es lo que inclina la balanza:</p>\n<ul><li>Carta en HTML con precios finales (IVA incluido) y alérgenos indicados de forma visible.</li><li>Horarios actualizados, distinguiendo turnos de cocina y días de cierre.</li><li>Dirección exacta vinculada a la aplicación de mapas del teléfono para calcular la ruta en un toque.</li><li>Botón visible de llamada y enlace directo a WhatsApp para reservas o dudas de grupos.</li><li>Cuatro o cinco fotografías reales y bien iluminadas del comedor, la terraza y los platos principales.</li></ul>\n<p>Un apunte sobre las imágenes: las fotos de banco de imágenes restan credibilidad. Pocas cosas frustran más a un comensal que ver en la web una hamburguesa de estudio publicitario y recibir en la mesa algo completamente distinto. Imágenes naturales tomadas en el propio local generan una expectativa honesta que fideliza mejor.</p>\n<h2>Errores habituales en las páginas de bares y restaurantes</h2>\n<p>En el sector hostelero se repiten con frecuencia ciertos planteamientos que frenan la captación de reservas:</p>\n<ol><li>Ocultar los precios de los platos por recelo a la competencia, lo que suele provocar desconfianza y abandono de la página.</li><li>Pantallas intermedias con logotipos animados que obligan a pulsar «Entrar» para ver la información básica.</li><li>Música que se reproduce sola al cargar la web, incómoda para quien navega en público o en el trabajo.</li><li>Omitir información práctica relevante: si hay terraza acondicionada, si se permiten perros o si el acceso está adaptado.</li></ol>\n<h2>Cuánto cuesta una web de restaurante y cómo mantenerla al día</h2>\n<p>Al plantearse este proyecto, el hostelero suele toparse con dos caminos poco convincentes. Por un lado, las agencias tradicionales con presupuestos de entrada elevados y cuotas añadidas cada vez que se requiere actualizar la carta. En nuestro artículo sobre <a href=\"https://cresco.es/blog/cuanto-cuesta-pagina-web-negocio-local\">cuánto cuesta una página web para un negocio local en España</a> desglosamos esas opciones con detalle.</p>\n<p>Por otro lado están las plataformas de creación automática. Sobre el papel parecen económicas, pero exigen que el propio hostelero, tras una jornada de servicio y mercado, dedique sus horas de descanso a configurar dominios, ajustar textos en móvil y pelear con avisos legales.</p>\n<p>En Cresco ofrecemos una alternativa pensada para pequeños negocios. Con nuestro Plan Cresco Web nos encargamos de todo por 69,90 €/mes + IVA, con un modelo de <a href=\"https://cresco.es/blog/pagina-web-sin-permanencia\">diseño web sin permanencia</a> que se puede cancelar al final del mes en curso si no encaja. El dominio es tuyo y se transfiere a tu nombre si decides marcharte.</p>\n<p>El servicio incluye diseño a medida adaptado a móviles, redacción de textos, dominio, hosting, certificado SSL, optimización de la ficha de Google Business Profile y soporte continuo por WhatsApp y correo electrónico. Además, contamos con agentes de IA supervisados por nuestro equipo que revisan la web semanalmente: el agente SEO optimiza las búsquedas locales, el agente GEO ajusta datos y estructura para motores como ChatGPT o Perplexity, y el agente CRO analiza llamadas a la acción y orden de contenidos para facilitar los contactos.</p>\n<p>Cuando cambies un plato, renueves precios o prepares unas jornadas gastronómicas, nos pasas los datos por WhatsApp y aplicamos los cambios de contenido mensuales incluidos en el plan, sin que pierdas tiempo técnico.</p>\n<p>Para que valores el resultado antes de asumir ningún gasto, diseñamos la portada de tu restaurante gratis en 72 horas. Si te convence, seguimos adelante; si no, no pagas nada.</p>"
+}

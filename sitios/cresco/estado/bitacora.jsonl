@@ -73,3 +73,7 @@
 {"t": "2026-11-19T15:27:49", "sitio": "cresco", "evento": "coste", "usd": 0.103, "modelo": "gemini-3.8-flash", "entrada": 20559, "salida": 23363, "busquedas": 8}
 {"t": "2026-11-22T14:15:06", "sitio": "cresco", "evento": "aprendizaje", "clusters": 7, "hipotesis": 0, "frecuencia_recomendada": 3}
 {"t": "2026-11-22T14:15:06", "sitio": "cresco", "evento": "coste", "usd": 0.0049, "modelo": "gemini-3.8-flash", "entrada": 3668, "salida": 578, "busquedas": 0}
+{"t": "2026-11-23T17:40:47", "sitio": "cresco", "evento": "edicion", "slug": "pagina-web-para-restaurantes-sin-comisiones", "intento": 1, "nota_min": 9, "problemas": 2}
+{"t": "2026-11-23T17:40:50", "sitio": "cresco", "evento": "estatico_publicado", "slug": "pagina-web-para-restaurantes-sin-comisiones", "archivo": "public/blog/pagina-web-para-restaurantes-sin-comisiones.html"}
+{"t": "2026-11-23T17:40:50", "sitio": "cresco", "evento": "publicado", "slug": "pagina-web-para-restaurantes-sin-comisiones", "url": "https://cresco.es/blog/pagina-web-para-restaurantes-sin-comisiones", "palabras": 2160}
+{"t": "2026-11-23T17:40:50", "sitio": "cresco", "evento": "coste", "usd": 0.1209, "modelo": "gemini-3.8-flash", "entrada": 25752, "salida": 27078, "busquedas": 8}

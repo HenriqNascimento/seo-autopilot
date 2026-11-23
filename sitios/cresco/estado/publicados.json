@@ -304,5 +304,39 @@
     "publicado": "2026-11-19",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "pagina-web-para-restaurantes-sin-comisiones",
+    "post_id": "pagina-web-para-restaurantes-sin-comisiones",
+    "url": "https://cresco.es/blog/pagina-web-para-restaurantes-sin-comisiones",
+    "titulo": "Página web para restaurante: reservas directas y sin comisiones",
+    "titulo_seo": "Página web para restaurante: cómo captar reservas directas",
+    "meta_description": "Qué necesita la página web para restaurante: carta en HTML, reservas directas sin comisiones y sincronización con Google Maps y motores de búsqueda de IA.",
+    "keyword": "pagina web para restaurante",
+    "cluster": "verticales",
+    "intencion": "local",
+    "etapa": "decision",
+    "prioridad": 91,
+    "palabras": 2160,
+    "h2": 10,
+    "tablas": 1,
+    "faq": 0,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "B",
+      "descripcion": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
+      "estrato": "cresco:verticales"
+    },
+    "foto": "lapacar.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 10,
+      "seo": 10,
+      "experiencia": 9
+    },
+    "publicado": "2026-11-23",
+    "simulado": false,
+    "borrador": false
   }
 ]

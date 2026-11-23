@@ -202,6 +202,15 @@
         "publicado": "2026-11-21",
         "url": "https://innovadental.net/es/blog/base-titanio-vs-aditamento-mecanizado-implantes",
         "sitio": "innovadental"
+      },
+      {
+        "slug": "pagina-web-para-restaurantes-sin-comisiones",
+        "brazo": "B",
+        "estrato": "cresco:verticales",
+        "prioridad": 91,
+        "publicado": "2026-11-23",
+        "url": "https://cresco.es/blog/pagina-web-para-restaurantes-sin-comisiones",
+        "sitio": "cresco"
       }
     ]
   },
