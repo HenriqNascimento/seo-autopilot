@@ -1,0 +1,182 @@
+{
+  "articulo": {
+    "titulo": "Qué debe tener la página de inicio de una web de negocio local",
+    "titulo_seo": "Qué debe tener la página de inicio de una web local",
+    "meta_description": "Descubre qué debe tener la página de inicio de una web local para conseguir llamadas en tu ciudad en vez de visitas que se marchan a los tres segundos.",
+    "resumen": "Estructura paso a paso, elementos indispensables y errores comunes al organizar la portada de una web pensada para captar clientes en tu ciudad.",
+    "bloques": [
+      {
+        "tipo": "p",
+        "texto": "Para tener claro <strong>qué debe tener la página de inicio de una web de negocio local</strong>, la regla de oro es responder en menos de cinco segundos a qué haces, para quién y en qué ciudad trabajas. Para transformar visitas en llamadas, la portada necesita una cabecera con teléfono clicable y propuesta de valor directa, un resumen de tres o cuatro servicios, opiniones reales verificables y los datos de contacto visibles sin necesidad de buscar."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Por qué la portada de un negocio local no es un catálogo corporativo"
+      },
+      {
+        "tipo": "p",
+        "texto": "Pensemos en una situación cotidiana. Un martes a las 21:40, a alguien se le rompe una tubería debajo del fregadero o nota un dolor punzante en la espalda tras una mala postura. Abre el móvil y busca un fontanero de urgencia o una clínica de fisioterapia cercana. Entra en una web y encuentra un párrafo de bienvenida de ocho líneas que dice: «Somos una entidad comprometida con la excelencia y la cercanía, ofreciendo soluciones a la medida de nuestros usuarios». No hay teléfono visible, no queda claro en qué barrio están y el botón principal dice «Saber más»."
+      },
+      {
+        "tipo": "p",
+        "texto": "Esa persona cierra la pestaña y llama al siguiente resultado en Google. En un negocio de proximidad, la página de inicio no compite por ganar premios de diseño abstracto ni debe parecer la memoria anual de una multinacional. Si notas que <a href=\"https://cresco.es/blog/mi-web-no-recibe-visitas-que-hacer\">tu web no recibe contactos útiles</a>, el motivo suele ser que la portada actúa como un folleto decorativo en vez de como un mostrador ágil."
+      },
+      {
+        "tipo": "h2",
+        "texto": "La prueba de los cinco segundos: qué debe verse antes de hacer scroll"
+      },
+      {
+        "tipo": "p",
+        "texto": "El primer pantallazo que aparece en el móvil, conocido técnicamente como <em>above the fold</em>, decide si el visitante se queda o vuelve atrás. Quien entra desde el teléfono no quiere leer reflexiones filosóficas; busca resolver una necesidad con dos toques de pulgar."
+      },
+      {
+        "tipo": "p",
+        "texto": "A nuestro juicio, esta primera pantalla debe concentrar cuatro piezas concretas sin obligar al usuario a deslizar:"
+      },
+      {
+        "tipo": "ul",
+        "texto": "Titular con propuesta de valor: explica en una frase qué servicio ofreces y tu ubicación exacta (por ejemplo, «Fisioterapia y rehabilitación deportiva en Chamberí, Madrid»).\nLlamada a la acción inmediata: un botón visible de llamada telefónica con enlace directo (tel:) o un <a href=\"https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local\">botón de WhatsApp</a> para pedir cita o presupuesto.\nFotografía real de contexto: una imagen del local, del equipo o del trabajo terminado, evitando bancos de imágenes con modelos ficticios.\nDetalle de disponibilidad o confianza: una mención corta y comprobable, como «Cita previa en 24 horas laborables» o «Presupuesto cerrado sin compromiso»."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Anatomía de una página de inicio que genera llamadas"
+      },
+      {
+        "tipo": "p",
+        "texto": "Cuando el cliente decide deslizar hacia abajo, la información debe mantener un orden que despeje sus dudas antes de que las formule. Para una clínica, un taller, un restaurante o un despacho profesional, esta estructura suele funcionar bien:"
+      },
+      {
+        "tipo": "tabla",
+        "texto": "Sección | Contenido específico | Objetivo principal\nCabecera principal | Titular, ciudad, llamada a la acción y foto real | Claridad inmediata en menos de cinco segundos\nServicios destacados | De 3 a 4 tarjetas con descripción corta y precio orientativo | Guiar hacia la solución que busca el cliente\nPrueba social | Reseñas reales con nombre y enlace a Google Maps | Aportar tranquilidad y credibilidad\nQuiénes somos | Foto del equipo o del local y breve trayectoria local | Humanizar el negocio y generar cercanía\nUbicación y contacto | Dirección exacta, horario, mapa interactivo y teléfono directo | Facilitar la visita física o la llamada inmediata"
+      },
+      {
+        "tipo": "p",
+        "texto": "En la sección de servicios, el error típico consiste en volcar un listado interminable de veinte tratamientos o reparaciones. Suele ser mucho más eficaz agrupar la oferta en tres o cuatro bloques claros y dejar que quien lo desee profundice. Si tienes un taller mecánico o un laboratorio dental, destaca las dos o tres demandas más habituales de tus clientes habituales."
+      },
+      {
+        "tipo": "p",
+        "texto": "Respecto a las opiniones de clientes, mostrar valoraciones reales marca una diferencia notable frente a testimonios genéricos entre comillas. Explicamos en detalle <a href=\"https://cresco.es/blog/como-conseguir-resenas-en-google-negocio-local\">cómo conseguir reseñas en Google</a> de forma constante; mostrarlas en la portada con el nombre de quien opina y su enlace a Google Maps aporta una tranquilidad que ningún eslogan publicitario puede igualar."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Cuatro errores en la portada que frenan las conversiones"
+      },
+      {
+        "tipo": "p",
+        "texto": "En muchas páginas de pequeños negocios se repiten ciertos vicios de diseño que complican la vida al visitante:"
+      },
+      {
+        "tipo": "ol",
+        "texto": "Carruseles de imágenes automáticos: ralentizan la carga inicial de la página, perjudican la métrica Largest Contentful Paint (LCP) y la mayoría de usuarios no espera a ver la segunda diapositiva.\nFormularios con demasiados campos: pedir nombre, apellidos, correo, teléfono, código postal y motivo de consulta en una pantalla de móvil añade fricción innecesaria. Suele bastar un teléfono directo o un formulario de dos campos.\nOcultar el teléfono en una subpágina: obligar al cliente a abrir el menú, buscar la sección de contacto y hacer scroll para ver un número fijo multiplica las posibilidades de abandono.\nTextos vacíos de contenido: expresiones como «soluciones integrales» o «compromiso con la calidad» ocupan espacio sin explicar qué problema resuelves ni por qué deberían elegirte."
+      },
+      {
+        "tipo": "h2",
+        "texto": "La parte invisible: qué debe tener la página de inicio para Google y las IA"
+      },
+      {
+        "tipo": "p",
+        "texto": "Lo que ven las personas en la pantalla importa tanto como lo que leen los rastreadores en el código fuente. Si quieres que Google Maps, ChatGPT, Gemini o Perplexity recomienden tu empresa a alguien que busca servicios en tu zona, la página de inicio debe incorporar datos estructurados bajo el estándar Schema.org."
+      },
+      {
+        "tipo": "p",
+        "texto": "Tal como indica la <a href=\"https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=es\" target=\"_blank\" rel=\"noopener\">documentación técnica de Google Search Central sobre LocalBusiness</a>, este marcado permite que los motores identifiquen con precisión tu nombre comercial, dirección física, teléfono, horarios y coordenadas geográficas. Estos datos deben coincidir exactamente con los de tu ficha de Google Business Profile. Cuando esta información técnica está ordenada, los asistentes de inteligencia artificial pueden citar tu dirección o tus horarios con exactitud al responder consultas locales."
+      },
+      {
+        "tipo": "h2",
+        "texto": "Cómo revisar la portada de tu negocio hoy mismo"
+      },
+      {
+        "tipo": "p",
+        "texto": "Puedes hacer una comprobación sencilla ahora mismo desde tu teléfono: entra en tu web con conexión móvil normal. ¿Tarda más de tres segundos en mostrar el contenido principal? ¿El botón de llamada o WhatsApp está visible sin necesidad de mover la pantalla? ¿Se entiende en qué calle o barrio trabajas antes de deslizar el dedo?"
+      },
+      {
+        "tipo": "p",
+        "texto": "En Cresco creamos y mantenemos webs profesionales para pequeños negocios locales por 69,90 €/mes + IVA, con dominio incluido, soporte y optimización continua tanto para buscadores tradicionales como para motores de IA, sin permanencia. Si quieres ver cómo organizamos la portada de tu empresa antes de pagar nada, te preparamos una portada gratis en 72 horas para que decidas con el diseño delante."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Conviene poner precios o tarifas directamente en la página de inicio?",
+        "a": "Si tienes tarifas cerradas para servicios habituales (como una revisión básica o un menú), poner un precio desde una cifra orientativa filtra dudas innecesarias y genera confianza. Si cada trabajo requiere presupuesto a medida, es mejor indicar qué incluye el servicio y ofrecer una vía rápida para pedir presupuesto."
+      },
+      {
+        "q": "¿Qué pongo en la portada si solo ofrezco un servicio concreto?",
+        "a": "Si tu negocio gira en torno a una sola especialidad, no intentes inventar secciones de relleno. Centra la portada en explicar el problema que resuelves, los pasos de tu método, fotos reales de trabajos anteriores y un botón directo para pedir cita o solicitar presupuesto."
+      },
+      {
+        "q": "¿Es mejor poner un formulario de contacto o un botón de WhatsApp directo?",
+        "a": "En negocios locales de proximidad (fisioterapeutas, talleres, fontaneros), el botón de llamada directa y WhatsApp suele generar más consultas que un formulario, ya que el usuario móvil busca una respuesta rápida. El formulario es útil como alternativa secundaria para quien busca información fuera de horario comercial."
+      }
+    ],
+    "tags": [
+      "Diseño web",
+      "Negocios locales",
+      "SEO local"
+    ],
+    "foto": "innovadental.jpg",
+    "alt_foto": "Portada de la web de Innovadental, laboratorio dental en O Burgo (A Coruña), diseñada por Cresco"
+  },
+  "brief": {
+    "intencion": "Informativa con clara intención transaccional secundaria: el usuario busca saber qué secciones y contenidos son obligatorios en la portada de su sitio web para que no sea solo un escaparate estético, sino una herramienta funcional que genere ventas y llamadas.",
+    "respuesta_directa": "La página de inicio de un negocio local debe responder en menos de 5 segundos a tres preguntas: qué haces, para quién y en qué ciudad. Para convertir visitas en llamadas o reservas, debe estructurarse con una cabecera con teléfono clicable y propuesta de valor clara (above the fold), un resumen de 3 o 4 servicios principales, prueba social real (reseñas verificadas de Google) y datos de contacto locales inequívocos con llamada a la acción directa.",
+    "que_cubren_los_top": [
+      "Listados genéricos de elementos básicos: logotipo visible, barra de menú sencilla, imagen hero o carrusel y pie de página con enlaces legales.",
+      "Importancia de la propuesta única de valor (UVP) y llamadas a la acción (CTA) repetidas a lo largo de la página.",
+      "Explicación de secciones estándar: quiénes somos/acerca de, resumen de servicios o productos y opiniones de clientes.",
+      "Recomendaciones técnicas habituales: diseño responsive (adaptado a móviles) y velocidad de carga."
+    ],
+    "huecos": [
+      "Diferenciación crucial entre web corporativa abstracta/SaaS y web de negocio local: en un negocio de proximidad nadie quiere leer 'misión, visión y valores', sino saber si atiendes en su código postal, si hay cita hoy y cómo llamar con un clic.",
+      "Desmontar el mito del slider/carrusel de imágenes: ralentiza la carga (LCP), nadie pasa de la primera diapositiva y distrae de la conversión en móvil.",
+      "El valor del dato de contacto en el 'above the fold' móvil: botón directo a llamada (tel:), botón flotante a WhatsApp y dirección física para activar la intención de compra inmediata.",
+      "La integración técnica de SEO local y GEO: marcado Schema.org LocalBusiness (NAP idéntico al perfil de Google Business Profile) para que Google y las IA (ChatGPT, Perplexity) recomienden el negocio.",
+      "Errores típicos de pymes locales: poner formularios largos de 6 campos en vez de llamadas/WhatsApp, o esconder el teléfono dentro de una página secundaria de 'Contacto'."
+    ],
+    "preguntas_reales": [
+      "¿Qué información básica debe tener la página de inicio de un negocio?",
+      "¿Qué poner en la portada si solo ofrezco 1 o 2 servicios?",
+      "¿Es mejor poner un formulario de contacto o directamente el botón de WhatsApp y llamada?",
+      "¿Cuántas secciones debe tener la home para no aburrir al cliente?",
+      "¿Cómo organizar la página de inicio para salir en Google Maps y búsquedas locales?",
+      "¿Conviene poner precios o tarifas directamente en la portada de la web?"
+    ],
+    "estructura": [
+      "H2: Por qué la portada de un negocio local no debe ser un folleto estético, sino un mostrador de ventas",
+      "H2: La prueba de los 5 segundos: qué debe ver el cliente antes de hacer scroll (Above the fold)",
+      "H2: Anatomía paso a paso de una página de inicio que genera clientes locales",
+      "H2: 4 errores comunes en la portada que hacen huir a tus clientes (y que comete el 80% de pymes)",
+      "H2: El papel invisible de la home: cómo estructurarla para gustar a Google y a los motores de IA",
+      "H2: ¿Tu web actual no te trae ni una llamada al mes? Prueba Cresco gratis"
+    ],
+    "palabras_objetivo": 1400,
+    "entidades": [
+      "Propuesta de valor",
+      "Above the fold",
+      "Call to Action (CTA)",
+      "NAP (Name, Address, Phone)",
+      "Marcado Schema LocalBusiness",
+      "Prueba social (Social Proof)",
+      "Google Business Profile",
+      "Core Web Vitals (LCP)",
+      "Diseño responsive mobile-first",
+      "Enlace clicable tel:",
+      "WhatsApp Business flotante",
+      "GEO (Generative Engine Optimization)"
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=es",
+        "dato": "Documentación técnica oficial de Google sobre la implementación del marcado Schema.org LocalBusiness para que los motores identifiquen dirección, teléfono, horario y ubicación exacta en la portada."
+      },
+      {
+        "url": "https://www.nngroup.com/articles/mobile-first-mindset/",
+        "dato": "Estudio de Nielsen Norman Group sobre el comportamiento del usuario en dispositivos móviles: la necesidad de priorizar acciones inmediatas (llamar, reservar) en el primer pantallazo sin requerir scroll excesivo."
+      },
+      {
+        "url": "https://web.dev/explore/fast",
+        "dato": "Guía técnica de Google Web.dev sobre el Largest Contentful Paint (LCP) y cómo los sliders/carruseles pesados en la home degradan la experiencia y la retención del visitante."
+      }
+    ]
+  },
+  "html": "<p>Para tener claro <strong>qué debe tener la página de inicio de una web de negocio local</strong>, la regla de oro es responder en menos de cinco segundos a qué haces, para quién y en qué ciudad trabajas. Para transformar visitas en llamadas, la portada necesita una cabecera con teléfono clicable y propuesta de valor directa, un resumen de tres o cuatro servicios, opiniones reales verificables y los datos de contacto visibles sin necesidad de buscar.</p>\n<h2>Por qué la portada de un negocio local no es un catálogo corporativo</h2>\n<p>Pensemos en una situación cotidiana. Un martes a las 21:40, a alguien se le rompe una tubería debajo del fregadero o nota un dolor punzante en la espalda tras una mala postura. Abre el móvil y busca un fontanero de urgencia o una clínica de fisioterapia cercana. Entra en una web y encuentra un párrafo de bienvenida de ocho líneas que dice: «Somos una entidad comprometida con la excelencia y la cercanía, ofreciendo soluciones a la medida de nuestros usuarios». No hay teléfono visible, no queda claro en qué barrio están y el botón principal dice «Saber más».</p>\n<p>Esa persona cierra la pestaña y llama al siguiente resultado en Google. En un negocio de proximidad, la página de inicio no compite por ganar premios de diseño abstracto ni debe parecer la memoria anual de una multinacional. Si notas que <a href=\"https://cresco.es/blog/mi-web-no-recibe-visitas-que-hacer\">tu web no recibe contactos útiles</a>, el motivo suele ser que la portada actúa como un folleto decorativo en vez de como un mostrador ágil.</p>\n<h2>La prueba de los cinco segundos: qué debe verse antes de hacer scroll</h2>\n<p>El primer pantallazo que aparece en el móvil, conocido técnicamente como <em>above the fold</em>, decide si el visitante se queda o vuelve atrás. Quien entra desde el teléfono no quiere leer reflexiones filosóficas; busca resolver una necesidad con dos toques de pulgar.</p>\n<p>A nuestro juicio, esta primera pantalla debe concentrar cuatro piezas concretas sin obligar al usuario a deslizar:</p>\n<ul><li>Titular con propuesta de valor: explica en una frase qué servicio ofreces y tu ubicación exacta (por ejemplo, «Fisioterapia y rehabilitación deportiva en Chamberí, Madrid»).</li><li>Llamada a la acción inmediata: un botón visible de llamada telefónica con enlace directo (tel:) o un <a href=\"https://cresco.es/blog/boton-whatsapp-pagina-web-negocio-local\">botón de WhatsApp</a> para pedir cita o presupuesto.</li><li>Fotografía real de contexto: una imagen del local, del equipo o del trabajo terminado, evitando bancos de imágenes con modelos ficticios.</li><li>Detalle de disponibilidad o confianza: una mención corta y comprobable, como «Cita previa en 24 horas laborables» o «Presupuesto cerrado sin compromiso».</li></ul>\n<h2>Anatomía de una página de inicio que genera llamadas</h2>\n<p>Cuando el cliente decide deslizar hacia abajo, la información debe mantener un orden que despeje sus dudas antes de que las formule. Para una clínica, un taller, un restaurante o un despacho profesional, esta estructura suele funcionar bien:</p>\n<div style=\"overflow-x:auto\"><table><thead><tr><th>Sección</th><th>Contenido específico</th><th>Objetivo principal</th></tr></thead><tbody><tr><td>Cabecera principal</td><td>Titular, ciudad, llamada a la acción y foto real</td><td>Claridad inmediata en menos de cinco segundos</td></tr><tr><td>Servicios destacados</td><td>De 3 a 4 tarjetas con descripción corta y precio orientativo</td><td>Guiar hacia la solución que busca el cliente</td></tr><tr><td>Prueba social</td><td>Reseñas reales con nombre y enlace a Google Maps</td><td>Aportar tranquilidad y credibilidad</td></tr><tr><td>Quiénes somos</td><td>Foto del equipo o del local y breve trayectoria local</td><td>Humanizar el negocio y generar cercanía</td></tr><tr><td>Ubicación y contacto</td><td>Dirección exacta, horario, mapa interactivo y teléfono directo</td><td>Facilitar la visita física o la llamada inmediata</td></tr></tbody></table></div>\n<p>En la sección de servicios, el error típico consiste en volcar un listado interminable de veinte tratamientos o reparaciones. Suele ser mucho más eficaz agrupar la oferta en tres o cuatro bloques claros y dejar que quien lo desee profundice. Si tienes un taller mecánico o un laboratorio dental, destaca las dos o tres demandas más habituales de tus clientes habituales.</p>\n<p>Respecto a las opiniones de clientes, mostrar valoraciones reales marca una diferencia notable frente a testimonios genéricos entre comillas. Explicamos en detalle <a href=\"https://cresco.es/blog/como-conseguir-resenas-en-google-negocio-local\">cómo conseguir reseñas en Google</a> de forma constante; mostrarlas en la portada con el nombre de quien opina y su enlace a Google Maps aporta una tranquilidad que ningún eslogan publicitario puede igualar.</p>\n<h2>Cuatro errores en la portada que frenan las conversiones</h2>\n<p>En muchas páginas de pequeños negocios se repiten ciertos vicios de diseño que complican la vida al visitante:</p>\n<ol><li>Carruseles de imágenes automáticos: ralentizan la carga inicial de la página, perjudican la métrica Largest Contentful Paint (LCP) y la mayoría de usuarios no espera a ver la segunda diapositiva.</li><li>Formularios con demasiados campos: pedir nombre, apellidos, correo, teléfono, código postal y motivo de consulta en una pantalla de móvil añade fricción innecesaria. Suele bastar un teléfono directo o un formulario de dos campos.</li><li>Ocultar el teléfono en una subpágina: obligar al cliente a abrir el menú, buscar la sección de contacto y hacer scroll para ver un número fijo multiplica las posibilidades de abandono.</li><li>Textos vacíos de contenido: expresiones como «soluciones integrales» o «compromiso con la calidad» ocupan espacio sin explicar qué problema resuelves ni por qué deberían elegirte.</li></ol>\n<h2>La parte invisible: qué debe tener la página de inicio para Google y las IA</h2>\n<p>Lo que ven las personas en la pantalla importa tanto como lo que leen los rastreadores en el código fuente. Si quieres que Google Maps, ChatGPT, Gemini o Perplexity recomienden tu empresa a alguien que busca servicios en tu zona, la página de inicio debe incorporar datos estructurados bajo el estándar Schema.org.</p>\n<p>Tal como indica la <a href=\"https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=es\" target=\"_blank\" rel=\"noopener\">documentación técnica de Google Search Central sobre LocalBusiness</a>, este marcado permite que los motores identifiquen con precisión tu nombre comercial, dirección física, teléfono, horarios y coordenadas geográficas. Estos datos deben coincidir exactamente con los de tu ficha de Google Business Profile. Cuando esta información técnica está ordenada, los asistentes de inteligencia artificial pueden citar tu dirección o tus horarios con exactitud al responder consultas locales.</p>\n<h2>Cómo revisar la portada de tu negocio hoy mismo</h2>\n<p>Puedes hacer una comprobación sencilla ahora mismo desde tu teléfono: entra en tu web con conexión móvil normal. ¿Tarda más de tres segundos en mostrar el contenido principal? ¿El botón de llamada o WhatsApp está visible sin necesidad de mover la pantalla? ¿Se entiende en qué calle o barrio trabajas antes de deslizar el dedo?</p>\n<p>En Cresco creamos y mantenemos webs profesionales para pequeños negocios locales por 69,90 €/mes + IVA, con dominio incluido, soporte y optimización continua tanto para buscadores tradicionales como para motores de IA, sin permanencia. Si quieres ver cómo organizamos la portada de tu empresa antes de pagar nada, te preparamos una portada gratis en 72 horas para que decidas con el diseño delante.</p>\n<h2>Preguntas frecuentes</h2>\n<h3>¿Conviene poner precios o tarifas directamente en la página de inicio?</h3><p>Si tienes tarifas cerradas para servicios habituales (como una revisión básica o un menú), poner un precio desde una cifra orientativa filtra dudas innecesarias y genera confianza. Si cada trabajo requiere presupuesto a medida, es mejor indicar qué incluye el servicio y ofrecer una vía rápida para pedir presupuesto.</p>\n<h3>¿Qué pongo en la portada si solo ofrezco un servicio concreto?</h3><p>Si tu negocio gira en torno a una sola especialidad, no intentes inventar secciones de relleno. Centra la portada en explicar el problema que resuelves, los pasos de tu método, fotos reales de trabajos anteriores y un botón directo para pedir cita o solicitar presupuesto.</p>\n<h3>¿Es mejor poner un formulario de contacto o un botón de WhatsApp directo?</h3><p>En negocios locales de proximidad (fisioterapeutas, talleres, fontaneros), el botón de llamada directa y WhatsApp suele generar más consultas que un formulario, ya que el usuario móvil busca una respuesta rápida. El formulario es útil como alternativa secundaria para quien busca información fuera de horario comercial.</p>"
+}

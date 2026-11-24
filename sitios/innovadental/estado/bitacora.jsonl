@@ -83,3 +83,6 @@
 {"t": "2026-11-21T14:33:06", "sitio": "innovadental", "evento": "coste", "usd": 0.4137, "modelo": "gemini-3.8-flash", "entrada": 98119, "salida": 90705, "busquedas": 15}
 {"t": "2026-11-22T14:15:14", "sitio": "innovadental", "evento": "aprendizaje", "clusters": 11, "hipotesis": 1, "frecuencia_recomendada": 3}
 {"t": "2026-11-22T14:15:14", "sitio": "innovadental", "evento": "coste", "usd": 0.0071, "modelo": "gemini-3.8-flash", "entrada": 5435, "salida": 797, "busquedas": 0}
+{"t": "2026-11-24T17:12:54", "sitio": "innovadental", "evento": "edicion", "slug": "carillas-non-prep-disilicato-emax-requisitos-clinicos", "intento": 1, "nota_min": 10, "problemas": 0}
+{"t": "2026-11-24T17:12:56", "sitio": "innovadental", "evento": "publicado", "slug": "carillas-non-prep-disilicato-emax-requisitos-clinicos", "url": "https://innovadental.net/es/blog/carillas-non-prep-disilicato-emax-requisitos-clinicos", "palabras": 1389}
+{"t": "2026-11-24T17:12:56", "sitio": "innovadental", "evento": "coste", "usd": 0.1034, "modelo": "gemini-3.8-flash", "entrada": 28290, "salida": 21927, "busquedas": 6}

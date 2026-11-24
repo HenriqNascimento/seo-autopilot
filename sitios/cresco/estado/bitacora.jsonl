@@ -77,3 +77,7 @@
 {"t": "2026-11-23T17:40:50", "sitio": "cresco", "evento": "estatico_publicado", "slug": "pagina-web-para-restaurantes-sin-comisiones", "archivo": "public/blog/pagina-web-para-restaurantes-sin-comisiones.html"}
 {"t": "2026-11-23T17:40:50", "sitio": "cresco", "evento": "publicado", "slug": "pagina-web-para-restaurantes-sin-comisiones", "url": "https://cresco.es/blog/pagina-web-para-restaurantes-sin-comisiones", "palabras": 2160}
 {"t": "2026-11-23T17:40:50", "sitio": "cresco", "evento": "coste", "usd": 0.1209, "modelo": "gemini-3.8-flash", "entrada": 25752, "salida": 27078, "busquedas": 8}
+{"t": "2026-11-24T17:10:28", "sitio": "cresco", "evento": "edicion", "slug": "que-debe-tener-la-portada-de-una-web-local", "intento": 1, "nota_min": 10, "problemas": 0}
+{"t": "2026-11-24T17:10:29", "sitio": "cresco", "evento": "estatico_publicado", "slug": "que-debe-tener-la-portada-de-una-web-local", "archivo": "public/blog/que-debe-tener-la-portada-de-una-web-local.html"}
+{"t": "2026-11-24T17:10:29", "sitio": "cresco", "evento": "publicado", "slug": "que-debe-tener-la-portada-de-una-web-local", "url": "https://cresco.es/blog/que-debe-tener-la-portada-de-una-web-local", "palabras": 1102}
+{"t": "2026-11-24T17:10:29", "sitio": "cresco", "evento": "coste", "usd": 0.0799, "modelo": "gemini-3.8-flash", "entrada": 19969, "salida": 17307, "busquedas": 5}

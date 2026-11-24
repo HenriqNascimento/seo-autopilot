@@ -211,6 +211,24 @@
         "publicado": "2026-11-23",
         "url": "https://cresco.es/blog/pagina-web-para-restaurantes-sin-comisiones",
         "sitio": "cresco"
+      },
+      {
+        "slug": "que-debe-tener-la-portada-de-una-web-local",
+        "brazo": "A",
+        "estrato": "cresco:diseno-y-cro",
+        "prioridad": 91,
+        "publicado": "2026-11-24",
+        "url": "https://cresco.es/blog/que-debe-tener-la-portada-de-una-web-local",
+        "sitio": "cresco"
+      },
+      {
+        "slug": "carillas-non-prep-disilicato-emax-requisitos-clinicos",
+        "brazo": "A",
+        "estrato": "innovadental:estetica-adhesiva",
+        "prioridad": 91,
+        "publicado": "2026-11-24",
+        "url": "https://innovadental.net/es/blog/carillas-non-prep-disilicato-emax-requisitos-clinicos",
+        "sitio": "innovadental"
       }
     ]
   },

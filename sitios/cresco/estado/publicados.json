@@ -338,5 +338,39 @@
     "publicado": "2026-11-23",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "que-debe-tener-la-portada-de-una-web-local",
+    "post_id": "que-debe-tener-la-portada-de-una-web-local",
+    "url": "https://cresco.es/blog/que-debe-tener-la-portada-de-una-web-local",
+    "titulo": "Qué debe tener la página de inicio de una web de negocio local",
+    "titulo_seo": "Qué debe tener la página de inicio de una web local",
+    "meta_description": "Descubre qué debe tener la página de inicio de una web local para conseguir llamadas en tu ciudad en vez de visitas que se marchan a los tres segundos.",
+    "keyword": "que debe tener la pagina de inicio de una web",
+    "cluster": "diseno-y-cro",
+    "intencion": "informativa",
+    "etapa": "consideracion",
+    "prioridad": 91,
+    "palabras": 1102,
+    "h2": 6,
+    "tablas": 1,
+    "faq": 3,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "A",
+      "descripcion": "Extensión 1000-1300 palabras, directo al grano.",
+      "estrato": "cresco:diseno-y-cro"
+    },
+    "foto": "innovadental.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 10,
+      "seo": 10,
+      "experiencia": 10
+    },
+    "publicado": "2026-11-24",
+    "simulado": false,
+    "borrador": false
   }
 ]
