@@ -474,5 +474,39 @@
     "publicado": "2026-11-24",
     "simulado": false,
     "borrador": false
+  },
+  {
+    "slug": "materiales-hibridos-cad-cam-enamic-lava-cera-smart",
+    "post_id": "525363396799",
+    "url": "https://innovadental.net/es/blog/materiales-hibridos-cad-cam-enamic-lava-cera-smart",
+    "titulo": "Bloques híbridos de cerámica y composite CAD/CAM: guía clínica",
+    "titulo_seo": "Bloques híbridos cerámica y composite CAD/CAM: guía",
+    "meta_description": "Guía sobre bloques híbridos de cerámica y composite CAD/CAM: diferencias PICN y RNC, protocolo adhesivo y criterios de selección frente al disilicato.",
+    "keyword": "bloques hibridos ceramica composite cad cam",
+    "cluster": "protesis-fija-ceramica",
+    "intencion": "comparativa",
+    "etapa": "descubrimiento",
+    "prioridad": 81,
+    "palabras": 1562,
+    "h2": 7,
+    "tablas": 1,
+    "faq": 0,
+    "variante": {
+      "experimento": "longitud",
+      "brazo": "B",
+      "descripcion": "Extensión 1900-2400 palabras, cobertura exhaustiva del tema.",
+      "estrato": "innovadental:protesis-fija-ceramica"
+    },
+    "foto": "lab-corona-molar-sobre-modelo.jpg",
+    "nota_editor": {
+      "utilidad": 10,
+      "rigor": 10,
+      "naturalidad": 9,
+      "seo": 10,
+      "experiencia": 10
+    },
+    "publicado": "2026-11-26",
+    "simulado": false,
+    "borrador": false
   }
 ]

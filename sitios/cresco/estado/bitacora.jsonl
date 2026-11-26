@@ -81,3 +81,7 @@
 {"t": "2026-11-24T17:10:29", "sitio": "cresco", "evento": "estatico_publicado", "slug": "que-debe-tener-la-portada-de-una-web-local", "archivo": "public/blog/que-debe-tener-la-portada-de-una-web-local.html"}
 {"t": "2026-11-24T17:10:29", "sitio": "cresco", "evento": "publicado", "slug": "que-debe-tener-la-portada-de-una-web-local", "url": "https://cresco.es/blog/que-debe-tener-la-portada-de-una-web-local", "palabras": 1102}
 {"t": "2026-11-24T17:10:29", "sitio": "cresco", "evento": "coste", "usd": 0.0799, "modelo": "gemini-3.8-flash", "entrada": 19969, "salida": 17307, "busquedas": 5}
+{"t": "2026-11-26T16:37:10", "sitio": "cresco", "evento": "edicion", "slug": "pagina-web-para-clinica-dental", "intento": 1, "nota_min": 9, "problemas": 0}
+{"t": "2026-11-26T16:37:11", "sitio": "cresco", "evento": "estatico_publicado", "slug": "pagina-web-para-clinica-dental", "archivo": "public/blog/pagina-web-para-clinica-dental.html"}
+{"t": "2026-11-26T16:37:11", "sitio": "cresco", "evento": "publicado", "slug": "pagina-web-para-clinica-dental", "url": "https://cresco.es/blog/pagina-web-para-clinica-dental", "palabras": 1958}
+{"t": "2026-11-26T16:37:11", "sitio": "cresco", "evento": "coste", "usd": 0.1056, "modelo": "gemini-3.8-flash", "entrada": 24372, "salida": 23285, "busquedas": 5}

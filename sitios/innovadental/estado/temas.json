@@ -31,7 +31,8 @@
     "prioridad": 86,
     "por_que": "El mock-up es la principal herramienta de venta de tratamientos estéticos para los dentistas; en Google solo rankean definiciones elementales para pacientes ('qué es el mock up'), ignorando la disyuntiva del clínico: llave tradicional de silicona versus férula rígida impresa 3D seccionada.",
     "enfoque": "Técnica comparada entre la férula de transferencia impresa 3D (para 1 a 8 piezas con inserción pasiva) frente a matrices de silicona de laboratorio con encía rosa para evaluar proporciones antes del tallado definitivo.",
-    "estado": "pendiente"
+    "estado": "repetido",
+    "motivo": "https://innovadental.net/es/blog/encerado-diagnostico-digital-mockup-clinico: El artículo existente sobre 'Encerado diagnóstico digital y mock-up: protocolo CAD y clínico' ya cubre la transferencia clínica y diseño del mock-up a partir del flujo digital, canibalizando la intención de búsqueda de téc"
   },
   {
     "slug": "escaner-tactil-industrial-grandes-estructuras-implantes",
@@ -47,7 +48,8 @@
     "prioridad": 82,
     "por_que": "El ajuste pasivo en rehabilitaciones de arcada completa (más de 4 implantes) es el mayor quebradero de cabeza para evitar fracturas de tornillos o pérdida ósea marginal. Prácticamente ningún laboratorio de Galicia comunica su control metrológico con escáner táctil.",
     "enfoque": "Artículo técnico diferencial: cómo el escaneo táctil industrial por contacto microniza los errores angulares del escaneo óptico en arcadas completas sobre titanio y CrCo, garantizando un ajuste pasivo micrométrico verificado.",
-    "estado": "pendiente"
+    "estado": "repetido",
+    "motivo": "https://innovadental.net/es/blog/escaner-tactil-industrial-ajuste-pasivo-implantes-galicia: Existe una canibalización directa de la intención de búsqueda. La URL existente ya aborda el uso del escáner táctil industrial y la metrología para lograr el ajuste pasivo en prótesis sobre implantes, cubrien"
   },
   {
     "slug": "materiales-hibridos-cad-cam-enamic-lava-cera-smart",
@@ -64,7 +66,7 @@
     "prioridad": 81,
     "por_que": "Las clínicas con escáner e impresoras/fresadoras dudan constantemente entre cerámica pura y matrices duales híbridas (polímeros infiltrados con cerámica); los artículos actuales son fichas técnicas de fabricantes en PDF sin comparativa clínica de desgaste frente al antagonista.",
     "enfoque": "Comparativa biomecánica de materiales híbridos disponibles en el laboratorio (Enamic, Cera Smart, Lava Ultimate, Tetric CAD): módulo de elasticidad similar a la dentina, absorción de fuerzas de masticación en pacientes bruxómanos y su idoneidad para técnicas mínimamente invasivas.",
-    "estado": "pendiente"
+    "estado": "publicado"
   },
   {
     "slug": "provisionales-pmma-fresado-carga-inmediata-emergencia",

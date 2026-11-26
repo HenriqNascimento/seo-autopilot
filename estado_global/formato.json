@@ -229,6 +229,24 @@
         "publicado": "2026-11-24",
         "url": "https://innovadental.net/es/blog/carillas-non-prep-disilicato-emax-requisitos-clinicos",
         "sitio": "innovadental"
+      },
+      {
+        "slug": "pagina-web-para-clinica-dental",
+        "brazo": "B",
+        "estrato": "cresco:verticales",
+        "prioridad": 90,
+        "publicado": "2026-11-26",
+        "url": "https://cresco.es/blog/pagina-web-para-clinica-dental",
+        "sitio": "cresco"
+      },
+      {
+        "slug": "materiales-hibridos-cad-cam-enamic-lava-cera-smart",
+        "brazo": "B",
+        "estrato": "innovadental:protesis-fija-ceramica",
+        "prioridad": 81,
+        "publicado": "2026-11-26",
+        "url": "https://innovadental.net/es/blog/materiales-hibridos-cad-cam-enamic-lava-cera-smart",
+        "sitio": "innovadental"
       }
     ]
   },
